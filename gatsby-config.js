@@ -10,13 +10,6 @@
 module.exports = {
   siteMetadata: {
     title: `The Association for Computers and the Humanities`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    social: {
-      twitter: `kylemathews`,
-    },
     description: `The Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.`,
     siteUrl: `https://ach.org/`
   },
