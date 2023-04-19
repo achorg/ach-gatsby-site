@@ -18,6 +18,7 @@ const GenericPageTemplate = ({
       <section
         dangerouslySetInnerHTML={{ __html: post.html }}
         itemProp="articleBody"
+        className="prose"
       />
     </Layout>
   )
