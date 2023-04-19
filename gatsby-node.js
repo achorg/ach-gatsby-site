@@ -9,6 +9,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
+const genericPage = path.resolve(`./src/templates/generic-page.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -19,7 +20,23 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Get all markdown blog posts sorted by date
   const result = await graphql(`
     {
-      allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+      blogPosts: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/\/blog\//" } },
+        sort: { frontmatter: { date: ASC } },
+        limit: 1000
+      ) {
+        nodes {
+          id
+          fields {
+            slug
+          }
+        }
+      },
+      genericPages: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/\/pages\//" } },
+        sort: { frontmatter: { date: ASC } },
+        limit: 1000
+      ) {
         nodes {
           id
           fields {
@@ -38,7 +55,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const posts = result.data.blogPosts.nodes
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -50,12 +67,26 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
       createPage({
-        path: post.fields.slug,
+        path: `/blog${post.fields.slug}`,
         component: blogPost,
         context: {
           id: post.id,
           previousPostId,
           nextPostId,
+        },
+      })
+    })
+  }
+  
+  const pages = result.data.genericPages.nodes
+  
+  if (pages.length > 0) {
+    pages.forEach(page => {
+      createPage({
+        path: page.fields.slug,
+        component: genericPage,
+        context: {
+          id: page.id
         },
       })
     })
@@ -94,6 +125,18 @@ exports.createSchemaCustomization = ({ actions }) => {
   createTypes(`
     type SiteSiteMetadata {
       siteUrl: String
+      menuLinks: [MenuLinks]!
+    }
+    
+    type MenuLinks {
+      name: String!
+      link: String!
+      subMenu: [SubMenu]
+    }
+    
+    type SubMenu {
+      name: String
+      link: String
     }
 
     type MarkdownRemark implements Node {
