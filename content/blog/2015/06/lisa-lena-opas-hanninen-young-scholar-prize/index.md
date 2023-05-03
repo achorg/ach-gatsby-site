@@ -1,0 +1,11 @@
+---
+title: 'Lisa Lena Opas-Hänninen Young Scholar Prize'
+date: '2015-06-03'
+author: 'Stéfan Sinclair'
+---
+[![2015 Lisa Lena](../../../../../../uploads/2015/06/IMG_5318.jpg)](http://ach.org/wp-content/uploads/2015/06/IMG_5318.jpg)The Association for Computers and the Humanities ([ACH](http://ach.org/)) and the Canadian Society for DH ([CSDH](/)) are very pleased to announce the 2015 winners of the prestigious [Lisa Lena Opas-Hänninen Young Scholar Prize](http://adho.org/awards/lisa-lena-opas-h%C3%A4nninen-young-scholar-prize). This prize, sponsored by the Alliance of Digital Humanities Organizations ([ADHO](http://adho.org)), is intended to recognize a young scholar who has contributed in a significant way to scholarship at a humanities conference using digital technology. The winners were selected unanimously by a joint awards and program committee comprised of representatives from CSDH and ACH.
+
+- ACH recipient: **Micki Kaufman** “Everything on Paper Will Be Used Against Me: Quantifying Kissinger”
+- CSDH recipient: **Lai-Tze Fan** “On the Value of Narratives in a Reflexive Digital Humanities”
+
+Congratulations!
