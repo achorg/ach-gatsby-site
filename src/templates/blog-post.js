@@ -42,7 +42,7 @@ const BlogPostTemplate = ({
         >
           {previous && (
             <li>
-              <Link to={previous.fields.slug} rel="prev">
+              <Link to={`/blog${previous.fields.slug}`} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             </li>
