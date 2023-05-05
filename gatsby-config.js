@@ -11,6 +11,74 @@ module.exports = {
   siteMetadata: {
     title: `The Association for Computers and the Humanities`,
     description: `The Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.`,
+    menuLinks: [
+      {
+        "name": "About",
+        "link": "/about",
+        "subMenu": [
+          {
+            "name": "Constitution & Bylaws",
+            "link": "/about/constitution/"
+          },
+          {
+            "name": "Elections",
+            "link": "/about/elections"
+          },
+          {
+            "name": "History",
+            "link": "/about/history"
+          },
+          {
+            "name": "Standing Committees",
+            "link": "/about/standing-committees"
+          },
+          {
+            "name": "Officers and Council Members",
+            "link": "/about/officers"
+          }
+        ]
+      },
+      {
+        "name": "Activities",
+        "link": "/activities",
+        "subMenu": [
+          {
+            "name": "Advocacy",
+            "link": "/activities/advocacy"
+          },
+          {
+            "name": "Grants and Awards",
+            "link": "/activities/grants-and-awards"
+          },
+          {
+            "name": "Mentoring",
+            "link": "/activities/mentoring"
+          }
+        ]
+      },
+      {
+        "name": "Conferences",
+        "link": "/conferences",
+        "subMenu": [
+          {
+            "name": "Modern Language Association",
+            "link": "/conferences/mla-pages"
+          },
+          {
+            "name": "Past Conferences",
+            "link": "/conferences/past-conferences"
+          }
+        ]
+      },
+      {
+        "name": "Publications",
+        "link": "/publications"
+      },
+      {
+        "name": "Join ACH",
+        "link": "https://members.ach.org/"
+      }
+    ],
     siteUrl: `https://ach.org/`
   },
   plugins: [
