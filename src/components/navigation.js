@@ -31,12 +31,18 @@ const Navigation = () => {
         <li
           key={link.name}
         >
-          <Link
-            to={link.link}
-            activeClassName="active"
-          >
-            {link.name}
-          </Link>
+          {
+            !link.link.startsWith("http") ?
+            <Link
+              to={link.link}
+              activeClassName="active"
+            >
+              {link.name}
+            </Link> :
+            <a href={link.link}>
+              {link.name}
+            </a>
+          }
           {link.subMenu && renderNavLevel(link.subMenu)}
         </li>
       ))}
