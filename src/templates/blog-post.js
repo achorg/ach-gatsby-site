@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { FaArrowLeft, FaArrowRight } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -17,40 +18,40 @@ const BlogPostTemplate = ({
         itemScope
         itemType="http://schema.org/Article"
       >
-        <header>
+        <header className="page-header">
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p className="post-metadata">
+            <span>{post.frontmatter.author && `by ${post.frontmatter.author}`}</span>
+            <span>{post.frontmatter.date}</span>
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
           className="prose"
         />
-        <hr />
-        <footer>
-        </footer>
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
+      <nav className="related-posts">
+        <ul>
           {previous && (
-            <li>
+            <li className="previous-post">
               <Link to={`/blog${previous.fields.slug}`} rel="prev">
-                ← {previous.frontmatter.title}
+                <small className="post-date">{previous.frontmatter.date}</small>
+                <span className="post-title">
+                  <FaArrowLeft className="icon" aria-hidden="true" />
+                  {previous.frontmatter.title}
+                </span>
               </Link>
             </li>
           )}
           {next && (
-            <li>
+            <li className="next-post">
               <Link to={`/blog${next.fields.slug}`} rel="next">
-                {next.frontmatter.title} →
+                <small className="post-date">{next.frontmatter.date}</small>
+                <span className="post-title">
+                  <FaArrowRight className="icon" aria-hidden="true" />
+                  {next.frontmatter.title}
+                </span>
               </Link>
             </li>
           )}
@@ -90,6 +91,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -98,6 +100,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        date(formatString: "MMMM DD, YYYY")
       }
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
@@ -106,6 +109,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        date(formatString: "MMMM DD, YYYY")
       }
     }
   }

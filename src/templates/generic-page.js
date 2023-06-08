@@ -12,7 +12,7 @@ const GenericPageTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <header>
+      <header className="page-header">
         <h1 itemProp="headline">{post.frontmatter.title}</h1>
       </header>
       <section

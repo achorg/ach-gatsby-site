@@ -1,5 +1,6 @@
 import React, { useState } from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
+import { FaBars, FaTimes } from "react-icons/fa"
 
 const Navigation = () => {
   const [ opened, setOpened ] = useState(false);
@@ -55,9 +56,16 @@ const Navigation = () => {
     <nav className={opened ? "primary-nav menu-open" : "primary-nav"}>
       <button
         className="menu-toggle"
+        aria-label="Toggle menu"
         aria-expanded={opened}
         onClick={handleMenuToggle}
-      >Toggle</button>
+      >
+        {
+          !opened ?
+          <FaBars className="icon" aria-hidden="true" /> :
+          <FaTimes className="icon" aria-hidden="true" />
+        }
+      </button>
       {renderNavLevel(menuLinks)}
     </nav>
   );

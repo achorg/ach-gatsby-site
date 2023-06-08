@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
+const Index = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -22,7 +22,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <ol style={{ listStyle: `none` }}>
+      <ol className="post-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
@@ -58,7 +58,7 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default Index
 
 /**
  * Head export to define metadata for the page
@@ -77,6 +77,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/\/blog\//" } },
       sort: { frontmatter: { date: DESC } }
+      limit: 6
     ) {
       nodes {
         excerpt

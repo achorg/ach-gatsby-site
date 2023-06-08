@@ -2,3 +2,240 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    @apply tracking-wide;
+}
+
+.global-wrapper {
+    @apply p-6;
+}
+
+p {
+    @apply text-zinc-700;
+}
+
+header.page-header {
+    @apply mb-12;
+    
+    h1 {
+        @apply text-4xl md:text-5xl;
+        @apply leading-tight;
+        @apply font-black;
+        @apply mb-6;
+    }
+    
+    p {
+        @apply text-2xl;
+        @apply font-thin;
+        @apply italic;
+        @apply my-2;
+    }
+    
+    .post-metadata {
+        & > span + span {
+            @apply before:content-['•'];
+            @apply before:mx-3;
+            @apply before:opacity-50;
+        }
+    }
+}
+
+.prose {
+    @apply prose-zinc;
+    @apply prose-strong:font-medium;
+    @apply max-w-none;
+    @apply mx-auto;
+}
+
+.boxed-regular,
+.global-header,
+footer {
+    @apply max-w-3xl;
+    @apply mx-auto;
+}
+
+.global-header {
+    @apply flex;
+    @apply relative;
+    @apply items-center justify-between;
+    @apply gap-6;
+    @apply mb-5;
+    @apply py-6;
+    
+    h1 img {
+        @apply w-[200px];
+    }
+}
+
+footer {
+    @apply pt-12 pb-10;
+    
+    .license-icons {
+        @apply mb-3;
+        
+        .icon {
+            @apply inline-block;
+            @apply text-2xl;
+            @apply opacity-75;
+            @apply mr-1;
+        }
+    }
+}
+
+nav.primary-nav {
+    @apply z-[1] isolate;
+    
+    .menu-toggle {
+        @apply block;
+        @apply md:hidden;
+        @apply p-1;
+    }
+    
+    &.menu-open {
+        & > ul {
+            @apply flex;
+        }
+    }
+    
+    & > ul {
+        @apply hidden;
+        @apply flex-col;
+        @apply absolute md:static;
+        @apply top-24 left-0 right-0;
+        @apply bg-zinc-900;
+        @apply text-lg;
+        @apply text-zinc-100;
+        @apply py-8 px-5;
+        
+        @apply flex-wrap;
+        @apply md:static;
+        @apply md:flex;
+        @apply md:flex-row;
+        @apply md:bg-transparent;
+        @apply md:text-base;
+        @apply md:text-zinc-900;
+        @apply md:p-0;
+        
+        a {
+            @apply px-3 py-2;
+            @apply whitespace-nowrap;
+            
+            @apply opacity-60;
+            @apply transition-opacity ease-in-out;
+            
+            &:hover,
+            &:focus,
+            &.active {
+                @apply opacity-100;
+            }
+        }
+        
+        & > li {
+            @apply relative m-0;
+            
+            & > ul {
+                @apply mt-2 mb-1 ml-3;
+                
+                @apply md:absolute;
+                @apply md:flex;
+                @apply md:flex-col;
+                @apply md:gap-1.5;
+                @apply md:invisible;
+                @apply md:opacity-0;
+                @apply md:mt-3 md:m-0;
+                @apply md:px-4 md:py-5;
+                @apply md:transition-all ease-in-out;
+                @apply bg-zinc-900;
+                
+                a {
+                    @apply md:text-zinc-100;
+                    @apply md:opacity-75;
+                    @apply before:content-['—'] md:before:content-none;
+                    @apply before:mr-2 md:before:mr-0;
+                    @apply before:opacity-50;
+                }
+            }
+            
+            & > a:hover + ul,
+            & > a:focus + ul,
+            & > ul:hover,
+            & > ul:focus-within {
+                @apply visible;
+                @apply opacity-100;
+            }
+        }
+    }
+}
+
+.post-list {
+    @apply grid grid-cols-2;
+    @apply gap-6;
+    
+    .post-list-item {
+        h2 {
+            @apply font-medium;
+        }
+        
+        small {
+            @apply opacity-60;
+        }
+    }
+}
+
+.related-posts {
+    @apply mt-16 pt-16;
+    @apply mb-14;
+    @apply border-t-2 border-zinc-200;
+    
+    ul {
+        @apply grid sm:grid-cols-2 auto-rows-fr;
+        @apply gap-6;
+    }
+    
+    li {
+        @apply bg-zinc-800 text-zinc-100;
+        @apply opacity-90 hover:opacity-100;
+        @apply transition-opacity ease-in-out;
+        
+        & > a {
+            @apply block;
+            @apply h-full;
+            @apply py-7 px-6;
+            
+            .post-title {
+                @apply flex gap-3;
+                @apply justify-between items-center;
+            }
+            
+            .post-date {
+                @apply block;
+                @apply font-light;
+                @apply opacity-70;
+                @apply mb-2;
+            }
+            
+            .icon {
+                @apply inline-block;
+                @apply shrink-0;
+            }
+        }
+    }
+    
+    li.previous-post {
+        @apply text-right;
+        
+        .icon {
+            @apply float-left;
+        }
+    }
+    
+    li.next-post {
+        .post-title {
+            @apply flex-row-reverse;
+        }
+        
+        .icon {
+            @apply float-right;
+        }
+    }
+}

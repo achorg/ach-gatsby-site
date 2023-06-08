@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import Navigation from "./navigation"
+import { FaCreativeCommons, FaCreativeCommonsBy, FaCreativeCommonsSa } from "react-icons/fa"
 
 const Layout = ({ title, children }) => {
   return (
@@ -13,9 +14,14 @@ const Layout = ({ title, children }) => {
         </h1>
         <Navigation />
       </header>
-      <main>{children}</main>
+      <main className="boxed-regular">{children}</main>
       <footer>
-        Content licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noreferrer">CC BY-SA 3.0</a>.
+        <div className="license-icons" aria-hidden="true">
+          <FaCreativeCommons className="icon" />
+          <FaCreativeCommonsBy className="icon" />
+          <FaCreativeCommonsSa className="icon" />
+        </div>
+        <p>Content licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noreferrer">CC BY-SA 3.0</a>.</p>
       </footer>
     </div>
   )
