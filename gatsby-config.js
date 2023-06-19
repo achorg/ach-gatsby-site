@@ -83,6 +83,12 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+    {
+      resolve: 'gatsby-plugin-react-svg',
+      options: {
+        include: `${__dirname}/src/images`,
+      }
+    },
     `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-source-filesystem`,

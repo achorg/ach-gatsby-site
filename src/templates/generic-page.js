@@ -12,13 +12,13 @@ const GenericPageTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <header className="page-header">
+      <header className="page-header boxed-regular">
         <h1 itemProp="headline">{post.frontmatter.title}</h1>
       </header>
       <section
         dangerouslySetInnerHTML={{ __html: post.html }}
         itemProp="articleBody"
-        className="prose"
+        className="prose boxed-regular"
       />
     </Layout>
   )

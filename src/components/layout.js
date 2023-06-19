@@ -3,19 +3,21 @@ import { Link } from "gatsby"
 import Navigation from "./navigation"
 import { FaCreativeCommons, FaCreativeCommonsBy, FaCreativeCommonsSa } from "react-icons/fa"
 
-const Layout = ({ title, children }) => {
+const Layout = ({ title, children, usingHero }) => {
   return (
     <div className="global-wrapper">
-      <header className="global-header">
-        <h1 className="main-heading">
-          <Link to="/">
-            <img src="/images/logo.png" alt={title} />
-          </Link>
-        </h1>
-        <Navigation />
+      <header className={usingHero ? "global-header header-with-hero" : "global-header"}>
+        <div className="header-inner boxed-regular">
+          <h1 className="main-heading">
+            <Link to="/">
+              <img src="/images/logo.png" alt={title} />
+            </Link>
+          </h1>
+          <Navigation />
+        </div>
       </header>
-      <main className="boxed-regular">{children}</main>
-      <footer>
+      <main>{children}</main>
+      <footer className="boxed-regular">
         <div className="license-icons" aria-hidden="true">
           <FaCreativeCommons className="icon" />
           <FaCreativeCommonsBy className="icon" />

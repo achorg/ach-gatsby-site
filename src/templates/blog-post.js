@@ -14,7 +14,7 @@ const BlogPostTemplate = ({
   return (
     <Layout location={location} title={siteTitle}>
       <article
-        className="blog-post"
+        className="blog-post boxed-regular"
         itemScope
         itemType="http://schema.org/Article"
       >
@@ -31,7 +31,7 @@ const BlogPostTemplate = ({
           className="prose"
         />
       </article>
-      <nav className="related-posts">
+      <nav className="related-posts boxed-regular">
         <ul>
           {previous && (
             <li className="previous-post">

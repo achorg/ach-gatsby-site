@@ -25,6 +25,9 @@ module.exports = {
         teal: '#5ebfa4',
         green: '#b0d973',
         yellow: '#f2d888'
+      },
+      screens: {
+        xs: '480px'
       }
     },
   },

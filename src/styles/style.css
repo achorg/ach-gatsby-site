@@ -6,10 +6,6 @@ body {
     @apply tracking-wide;
 }
 
-.global-wrapper {
-    @apply p-6;
-}
-
 p {
     @apply text-zinc-700;
 }
@@ -40,6 +36,12 @@ header.page-header {
     }
 }
 
+.section-title {
+    @apply text-2xl;
+    @apply font-bold;
+    @apply mb-6;
+}
+
 .prose {
     @apply prose-zinc;
     @apply prose-strong:font-medium;
@@ -47,23 +49,50 @@ header.page-header {
     @apply mx-auto;
 }
 
-.boxed-regular,
-.global-header,
-footer {
+.boxed-regular {
     @apply max-w-3xl;
     @apply mx-auto;
+    @apply px-6;
 }
 
 .global-header {
-    @apply flex;
-    @apply relative;
-    @apply items-center justify-between;
-    @apply gap-6;
-    @apply mb-5;
-    @apply py-6;
+    &.header-with-hero {
+        @apply bg-black;
+        @apply text-white;
+        
+        h1 img {
+            filter: invert(1);
+        }
+        
+        nav.primary-nav > ul {
+            @apply text-zinc-100;
+        }
+        
+        & > .header-inner {
+            @apply border-b-2 border-zinc-800;
+        }
+    }
     
-    h1 img {
-        @apply w-[200px];
+    & > .header-inner {
+        @apply flex;
+        @apply relative;
+        @apply items-center justify-between;
+        @apply gap-6;
+        @apply py-6;
+        
+        h1 img {
+            @apply w-[200px];
+        }
+    }
+}
+
+main {
+    & > :first-child:not(.boxed-fullwidth) {
+        @apply pt-5;
+    }
+    
+    section + section {
+        @apply mt-12;
     }
 }
 
@@ -183,13 +212,13 @@ nav.primary-nav {
 }
 
 .related-posts {
-    @apply mt-16 pt-16;
-    @apply mb-14;
-    @apply border-t-2 border-zinc-200;
+    @apply mt-16 mb-14;
     
     ul {
         @apply grid sm:grid-cols-2 auto-rows-fr;
         @apply gap-6;
+        @apply pt-16;
+        @apply border-t-2 border-zinc-200;
     }
     
     li {
@@ -237,5 +266,40 @@ nav.primary-nav {
         .icon {
             @apply float-right;
         }
+    }
+}
+
+.hero-section {
+    @apply bg-black;
+    @apply text-white;
+    @apply py-14;
+    @apply relative overflow-hidden;
+    
+    .hero-body {
+        h1 {
+            @apply text-4xl leading-tight;
+            @apply font-black;
+            @apply mb-4;
+        }
+        
+        p {
+            @apply leading-relaxed;
+            @apply text-inherit;
+            @apply opacity-75;
+        }
+    }
+    
+    .hero-body {
+        @apply max-w-sm;
+    }
+    
+    .hero-icons {
+        width: clamp(250px, 500px - 25%, 325px);
+        @apply relative;
+        @apply h-0;
+        @apply float-right;
+        @apply right-[-100px] md:right-0;
+        @apply invisible xs:visible;
+        @apply opacity-50;
     }
 }
