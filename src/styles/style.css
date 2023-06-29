@@ -15,6 +15,10 @@ p {
     @apply text-zinc-700 dark:text-zinc-300;
 }
 
+a {
+    @apply underline-offset-4;
+}
+
 header.page-header {
     @apply mb-12;
     
