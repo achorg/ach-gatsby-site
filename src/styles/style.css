@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 html {
+    font-size: 18px;
     color-scheme: light dark;
 }
 
@@ -160,7 +161,7 @@ nav.primary-nav {
         @apply md:p-0;
         
         a {
-            @apply px-3 py-2;
+            @apply px-2 py-2;
             @apply whitespace-nowrap;
             
             @apply opacity-60;
@@ -308,11 +309,11 @@ nav.primary-nav {
     }
     
     .hero-icons {
-        width: clamp(250px, 500px - 25%, 325px);
+        width: clamp(15rem, 31rem - 25%, 20rem);
         @apply relative;
         @apply h-0;
         @apply float-right;
-        @apply right-[-100px] md:right-0;
+        @apply right-[-6rem] md:right-0;
         @apply invisible xs:visible;
         @apply text-purple-200;
         @apply opacity-30;
