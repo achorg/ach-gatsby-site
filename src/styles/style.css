@@ -2,12 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    color-scheme: light dark;
+}
+
 body {
     @apply tracking-wide;
 }
 
 p {
-    @apply text-zinc-700;
+    @apply text-zinc-700 dark:text-zinc-300;
 }
 
 header.page-header {
@@ -28,6 +32,8 @@ header.page-header {
     }
     
     .post-metadata {
+        @apply dark:text-opacity-80;
+        
         & > span + span {
             @apply before:content-['•'];
             @apply before:mx-3;
@@ -43,10 +49,12 @@ header.page-header {
 }
 
 .prose {
-    @apply prose-zinc;
+    @apply prose-zinc dark:prose-invert;
     @apply prose-strong:font-medium;
     @apply max-w-none;
     @apply mx-auto;
+    
+    @apply prose-a:text-purple-500 dark:prose-a:text-purple-200;
 }
 
 .boxed-regular {
@@ -57,19 +65,19 @@ header.page-header {
 
 .global-header {
     &.header-with-hero {
-        @apply bg-black;
+        @apply bg-purple-800 dark:bg-purple-900;
         @apply text-white;
         
         h1 img {
-            filter: invert(1);
+            @apply invert;
         }
         
         nav.primary-nav > ul {
-            @apply text-zinc-100;
+            @apply text-purple-100 text-opacity-80;
         }
         
         & > .header-inner {
-            @apply border-b-2 border-zinc-800;
+            @apply border-b-2 border-purple-100/10;
         }
     }
     
@@ -82,6 +90,7 @@ header.page-header {
         
         h1 img {
             @apply w-[200px];
+            @apply dark:invert;
         }
     }
 }
@@ -98,6 +107,7 @@ main {
 
 footer {
     @apply pt-12 pb-10;
+    @apply text-zinc-600 dark:text-zinc-400;
     
     .license-icons {
         @apply mb-3;
@@ -105,9 +115,13 @@ footer {
         .icon {
             @apply inline-block;
             @apply text-2xl;
-            @apply opacity-75;
+            @apply opacity-95;
             @apply mr-1;
         }
+    }
+    
+    p {
+        @apply text-inherit;
     }
 }
 
@@ -142,7 +156,7 @@ nav.primary-nav {
         @apply md:flex-row;
         @apply md:bg-transparent;
         @apply md:text-base;
-        @apply md:text-zinc-900;
+        @apply md:text-zinc-900 md:dark:text-zinc-100;
         @apply md:p-0;
         
         a {
@@ -206,7 +220,7 @@ nav.primary-nav {
         }
         
         small {
-            @apply opacity-60;
+            @apply text-zinc-500 dark:text-zinc-400;
         }
     }
 }
@@ -218,11 +232,11 @@ nav.primary-nav {
         @apply grid sm:grid-cols-2 auto-rows-fr;
         @apply gap-6;
         @apply pt-16;
-        @apply border-t-2 border-zinc-200;
+        @apply border-t-2 border-zinc-200 dark:border-zinc-800;
     }
     
     li {
-        @apply bg-zinc-800 text-zinc-100;
+        @apply bg-purple-900 text-purple-100 dark:text-purple-200;
         @apply opacity-90 hover:opacity-100;
         @apply transition-opacity ease-in-out;
         
@@ -270,14 +284,15 @@ nav.primary-nav {
 }
 
 .hero-section {
-    @apply bg-black;
-    @apply text-white;
+    @apply bg-purple-800 dark:bg-purple-900;
     @apply py-14;
+    @apply text-purple-100 text-opacity-75;
     @apply relative overflow-hidden;
     
     .hero-body {
         h1 {
             @apply text-4xl leading-tight;
+            @apply text-white;
             @apply font-black;
             @apply mb-4;
         }
@@ -285,7 +300,6 @@ nav.primary-nav {
         p {
             @apply leading-relaxed;
             @apply text-inherit;
-            @apply opacity-75;
         }
     }
     
@@ -300,6 +314,7 @@ nav.primary-nav {
         @apply float-right;
         @apply right-[-100px] md:right-0;
         @apply invisible xs:visible;
-        @apply opacity-50;
+        @apply text-purple-200;
+        @apply opacity-30;
     }
 }

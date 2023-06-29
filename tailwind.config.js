@@ -20,7 +20,14 @@ module.exports = {
         black: '900'
       },
       colors: {
-        purple: '#5450bf',
+        purple: {
+          100: '#dddbfb',
+          200: '#a8aaff',
+          400: '#5450bf',
+          500: '#3c3783',
+          800: '#232048',
+          900: '#1c1832'
+        },
         cyan: '#4ba8b3',
         teal: '#5ebfa4',
         green: '#b0d973',
