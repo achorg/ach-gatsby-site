@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 
-const RecentPosts = ({ maxPosts }) => {
+const RecentPosts = ({ layoutStyle, maxPosts }) => {
   const query = useStaticQuery(
     graphql`
       {
@@ -32,14 +32,14 @@ const RecentPosts = ({ maxPosts }) => {
   }
   
   return (
-    <ol className="post-list">
+    <ol className={`recent-posts recent-posts-${layoutStyle ?? 'grid'}`}>
       {posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
   
         return (
           <li key={post.fields.slug}>
             <article
-              className="post-list-item"
+              className="recent-posts-item"
               itemScope
               itemType="http://schema.org/Article"
             >

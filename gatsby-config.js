@@ -71,6 +71,10 @@ module.exports = {
         ]
       },
       {
+        "name": "News",
+        "link": "/news"
+      },
+      {
         "name": "Publications",
         "link": "/publications"
       },
