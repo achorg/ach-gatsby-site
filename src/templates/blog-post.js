@@ -21,7 +21,7 @@ const BlogPostTemplate = ({
         <header className="page-header">
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p className="post-metadata">
-            <span>{post.frontmatter.author && `by ${post.frontmatter.author}`}</span>
+            {post.frontmatter.author && <span>by {post.frontmatter.author}</span>}
             <span>{post.frontmatter.date}</span>
           </p>
         </header>
