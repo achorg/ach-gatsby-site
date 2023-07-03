@@ -19,6 +19,16 @@ a {
     @apply underline-offset-4;
 }
 
+.button-pill {
+    @apply inline-block;
+    @apply px-7 py-2;
+    @apply bg-purple-500 text-purple-100;
+    @apply rounded-full;
+    @apply font-medium;
+    @apply opacity-90 hover:opacity-100;
+    @apply transition-opacity ease-in-out;
+}
+
 header.page-header {
     @apply mb-12;
     
@@ -332,5 +342,37 @@ nav.primary-nav {
         @apply invisible xs:visible;
         @apply text-purple-200;
         @apply opacity-30;
+    }
+}
+
+.call-to-action {
+    @apply relative;
+    @apply overflow-hidden isolate;
+    @apply text-white;
+    
+    .call-to-action-overlay {
+        @apply relative z-10;
+        @apply bg-zinc-900/50;
+    }
+    
+    .call-to-action-content {
+        @apply text-center;
+        @apply py-12;
+        @apply max-w-xl mx-auto;
+        
+        h2 {
+            @apply text-2xl font-bold;
+        }
+        
+        p {
+            @apply text-zinc-100;
+            @apply opacity-90;
+            @apply py-4;
+        }
+    }
+    
+    .call-to-action-image {
+        @apply absolute inset-0;
+        @apply flex items-center;
     }
 }

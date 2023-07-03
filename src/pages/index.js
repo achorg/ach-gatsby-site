@@ -1,10 +1,12 @@
 import * as React from "react"
+import { StaticImage } from "gatsby-plugin-image"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Hero from "../components/hero"
 import RecentPosts from "../components/recent-posts"
+import CallToAction from "../components/call-to-action"
 
 const Index = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -20,6 +22,23 @@ const Index = ({ data, location }) => {
       <section className="boxed-regular">
         <h2 className="section-title">The latest from ACH</h2>
         <RecentPosts layoutStyle="grid" maxPosts={6} />
+      </section>
+      <section className="boxed-fullwidth">
+        <CallToAction
+          title="Solidarity with BLM"
+          body="The Association for Computers and the Humanities stands in solidarity with the Black Lives Matter protest movement. See our statement on Black Lives Matter, Structural Racism, and Our Organization."
+          image={
+            <StaticImage
+              src="../images/black-lives-matter.jpg"
+              alt="Hands holding up various Black Lives Matter protest signs"
+            />
+          }
+          link={
+            <a href="/blog/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill">
+              Read More
+            </a>
+          }
+        />
       </section>
     </Layout>
   )
