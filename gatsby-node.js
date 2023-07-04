@@ -7,8 +7,8 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// Define the template for blog post
-const blogPost = path.resolve(`./src/templates/blog-post.js`)
+// Define the template for news post
+const newsPost = path.resolve(`./src/templates/news-post.js`)
 const genericPage = path.resolve(`./src/templates/generic-page.js`)
 
 /**
@@ -17,11 +17,11 @@ const genericPage = path.resolve(`./src/templates/generic-page.js`)
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
-  // Get all markdown blog posts sorted by date
+  // Get all markdown news posts sorted by date
   const result = await graphql(`
     {
-      blogPosts: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/\/blog\//" } },
+      newsPosts: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/\/news\//" } },
         sort: { frontmatter: { date: ASC } },
         limit: 1000
       ) {
@@ -49,16 +49,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (result.errors) {
     reporter.panicOnBuild(
-      `There was an error loading your blog posts`,
+      `There was an error loading your news posts`,
       result.errors
     )
     return
   }
 
-  const posts = result.data.blogPosts.nodes
+  const posts = result.data.newsPosts.nodes
 
-  // Create blog posts pages
-  // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
+  // Create news posts pages
+  // But only if there's at least one markdown file found at "content/news" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
 
   if (posts.length > 0) {
@@ -67,8 +67,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
       createPage({
-        path: `/blog${post.fields.slug}`,
-        component: blogPost,
+        path: `/news${post.fields.slug}`,
+        component: newsPost,
         context: {
           id: post.id,
           previousPostId,
@@ -121,7 +121,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 
   // Also explicitly define the Markdown frontmatter
   // This way the "MarkdownRemark" queries will return `null` even when no
-  // blog posts are stored inside "content/blog" instead of returning an error
+  // news posts are stored inside "content/news" instead of returning an error
   createTypes(`
     type SiteSiteMetadata {
       siteUrl: String

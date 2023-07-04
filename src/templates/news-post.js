@@ -5,7 +5,7 @@ import { FaArrowLeft, FaArrowRight } from "react-icons/fa"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogPostTemplate = ({
+const NewsPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
@@ -14,7 +14,7 @@ const BlogPostTemplate = ({
   return (
     <Layout location={location} title={siteTitle}>
       <article
-        className="blog-post boxed-regular"
+        className="news-post boxed-regular"
         itemScope
         itemType="http://schema.org/Article"
       >
@@ -35,7 +35,7 @@ const BlogPostTemplate = ({
         <ul>
           {previous && (
             <li className="previous-post">
-              <Link to={`/blog${previous.fields.slug}`} rel="prev">
+              <Link to={`/news${previous.fields.slug}`} rel="prev">
                 <small className="post-date">{previous.frontmatter.date}</small>
                 <span className="post-title">
                   <FaArrowLeft className="icon" aria-hidden="true" />
@@ -46,7 +46,7 @@ const BlogPostTemplate = ({
           )}
           {next && (
             <li className="next-post">
-              <Link to={`/blog${next.fields.slug}`} rel="next">
+              <Link to={`/news${next.fields.slug}`} rel="next">
                 <small className="post-date">{next.frontmatter.date}</small>
                 <span className="post-title">
                   <FaArrowRight className="icon" aria-hidden="true" />
@@ -70,10 +70,10 @@ export const Head = ({ data: { markdownRemark: post } }) => {
   )
 }
 
-export default BlogPostTemplate
+export default NewsPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
+  query NewsPostBySlug(
     $id: String!
     $previousPostId: String
     $nextPostId: String

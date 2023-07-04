@@ -6,7 +6,7 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
     graphql`
       {
         allMarkdownRemark(
-          filter: { fileAbsolutePath: { regex: "/\/blog\//" } },
+          filter: { fileAbsolutePath: { regex: "/\/news\//" } },
           sort: { frontmatter: { date: DESC } }
         ) {
           nodes {
@@ -45,7 +45,7 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
             >
               <header>
                 <h2>
-                  <Link to={`/blog${post.fields.slug}`} itemProp="url">
+                  <Link to={`/news${post.fields.slug}`} itemProp="url">
                     <span itemProp="headline">{title}</span>
                   </Link>
                 </h2>

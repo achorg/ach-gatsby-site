@@ -34,7 +34,7 @@ const Index = ({ data, location }) => {
             />
           }
           link={
-            <a href="/blog/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill">
+            <a href="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill">
               Read More
             </a>
           }
