@@ -57,6 +57,23 @@ header.page-header {
     }
 }
 
+.breadcrumbs {
+    @apply mt-1 mb-6;
+    
+    & > ol {
+        @apply flex items-center gap-1.5;
+    }
+    
+    a {
+        @apply font-medium;
+    }
+    
+    .icon {
+        @apply inline-block;
+        @apply pb-1 pt-0.5;
+    }
+}
+
 .section-title {
     @apply text-2xl;
     @apply font-bold;

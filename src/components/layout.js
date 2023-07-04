@@ -1,9 +1,13 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import Navigation from "./navigation"
+import Breadcrumbs from "./breadcrumbs"
 import { FaCreativeCommons, FaCreativeCommonsBy, FaCreativeCommonsSa } from "react-icons/fa"
 
-const Layout = ({ title, children, usingHero }) => {
+const Layout = ({ location, title, children, usingHero }) => {
+  const isNestedPage = location.pathname
+    .split('/').filter(component => component).length > 1;
+  
   return (
     <div className="global-wrapper">
       <header className={usingHero ? "global-header header-with-hero" : "global-header"}>
@@ -16,7 +20,12 @@ const Layout = ({ title, children, usingHero }) => {
           <Navigation />
         </div>
       </header>
-      <main>{children}</main>
+      <main>
+        { isNestedPage && <section className="boxed-regular">
+          <Breadcrumbs location={location} />
+        </section> }
+        {children}
+      </main>
       <footer className="boxed-regular">
         <div className="license-icons" aria-hidden="true">
           <FaCreativeCommons className="icon" />

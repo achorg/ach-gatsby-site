@@ -14,7 +14,7 @@ module.exports = {
     menuLinks: [
       {
         "name": "About",
-        "link": "/about",
+        "link": "/about/",
         "subMenu": [
           {
             "name": "Constitution & Bylaws",
@@ -22,19 +22,19 @@ module.exports = {
           },
           {
             "name": "Elections",
-            "link": "/about/elections"
+            "link": "/about/elections/"
           },
           {
             "name": "History",
-            "link": "/about/history"
+            "link": "/about/history/"
           },
           {
             "name": "Standing Committees",
-            "link": "/about/standing-committees"
+            "link": "/about/standing-committees/"
           },
           {
             "name": "Officers and Council Members",
-            "link": "/about/officers"
+            "link": "/about/officers/"
           }
         ]
       },
@@ -44,15 +44,15 @@ module.exports = {
         "subMenu": [
           {
             "name": "Advocacy",
-            "link": "/activities/advocacy"
+            "link": "/activities/advocacy/"
           },
           {
             "name": "Grants and Awards",
-            "link": "/activities/grants-and-awards"
+            "link": "/activities/grants-and-awards/"
           },
           {
             "name": "Mentoring",
-            "link": "/activities/mentoring"
+            "link": "/activities/mentoring/"
           }
         ]
       },
@@ -62,21 +62,21 @@ module.exports = {
         "subMenu": [
           {
             "name": "Modern Language Association",
-            "link": "/conferences/mla-pages"
+            "link": "/conferences/mla-pages/"
           },
           {
             "name": "Past Conferences",
-            "link": "/conferences/past-conferences"
+            "link": "/conferences/past-conferences/"
           }
         ]
       },
       {
         "name": "News",
-        "link": "/news"
+        "link": "/news/"
       },
       {
         "name": "Publications",
-        "link": "/publications"
+        "link": "/publications/"
       },
       {
         "name": "Join ACH",
