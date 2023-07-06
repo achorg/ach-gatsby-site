@@ -18,11 +18,11 @@ Program arranged by the Discussion Group on Southern Literature and the Associat
 
 Presiding: Vincent J. Brewton, Univ. of North Alabama
 
-1. "[Documenting the American South](#Smith)," Natalia Smith, Univ. of North Carolina, Chapel Hill
+1. "Documenting the American South," Natalia Smith, Univ. of North Carolina, Chapel Hill
 
 <strike>2. "Space, Place, and Image: Mapping Farm Securities Administration (FSA) Photographs and the Photogrammar Project," Lauren Tilton, Yale Univ.</strike>
 
-3. "[Southern Spaces: The Development of a Digital Southern Studies Journal,](#Abbot)" Frances Abbott, Emory Univ.
+3. "Southern Spaces: The Development of a Digital Southern Studies Journal," Frances Abbott, Emory Univ.
 
 <strike>4. "Mapping a New Deal for New Orleans Artists," Michael Mizell-Nelson, Univ. of New Orleans</strike>
 
@@ -34,7 +34,7 @@ Presiding: Vincent J. Brewton, Univ. of North Alabama
 Saturday, 7 January, 8:30–9:45 a.m., 608, WSCC  
 Presiding: Susan Schreibman, Trinity Coll., Dublin
 
-Speakers: [Alison Booth](#Booth), Univ. of Virginia; [Mark Stephen Byron](#Bryon), Univ. of Sydney; [Øyvind Eide](#Eide), Univ. of Oslo; [Alexander Gil](#Gill), Univ. of Virginia; Rita [Raley](#Raley), Univ. of California, Santa Barbara
+Speakers: Alison Booth, Univ. of Virginia; Mark Stephen Byron, Univ. of Sydney; Øyvind Eide, Univ. of Oslo; Alexander Gil, Univ. of Virginia; Rita [Raley](#Raley), Univ. of California, Santa Barbara
 
 Session Description:
 
@@ -46,52 +46,7 @@ Abstracts
 Digital South, Digital Futures
 -------------------------------
 
-### <style type="text/css">
-<!--
-/* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-{mso-style-unhide:no;
-mso-style-qformat:yes;
-mso-style-parent:"";
-margin:0cm;
-margin-bottom:.0001pt;
-mso-pagination:widow-orphan;
-font-size:12.0pt;
-mso-bidi-font-size:10.0pt;
-font-family:"Times New Roman";
-mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";
-mso-ansi-language:EN-US;}
-a:link, span.MsoHyperlink
-{mso-style-unhide:no;
-mso-style-parent:"";
-color:blue;
-text-decoration:underline;
-text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-{mso-style-noshow:yes;
-mso-style-priority:99;
-color:purple;
-mso-themecolor:followedhyperlink;
-text-decoration:underline;
-text-underline:single;}
-.MsoChpDefault
-{mso-style-type:export-only;
-mso-default-props:yes;
-font-size:10.0pt;
-mso-ansi-font-size:10.0pt;
-mso-bidi-font-size:10.0pt;}
-@page WordSection1
-{size:612.0pt 792.0pt;
-margin:72.0pt 90.0pt 72.0pt 90.0pt;
-mso-header-margin:36.0pt;
-mso-footer-margin:36.0pt;
-mso-paper-source:0;}
-div.WordSection1
-{page:WordSection1;}
--->	</style>
-
-###  <a name="Smith">Documenting the American South</a> **<http://docsouth.unc.edu/>** 
+### Documenting the American South **<http://docsouth.unc.edu/>** 
 
 Natasha Smith, Carolina Digital Library and Archives (Digital Publishing Group and *Documenting the American South*)
 
@@ -99,7 +54,7 @@ When the University of North Carolina at Chapel Hill’s Library debuted *Docume
 
 *Documenting the American South* is a digital library laboratory that creates, develops, and maintains online digital collections by using open source technology and protocols. Librarians and scholars join forces in using digital technologies in a variety of innovative ways. This close partnership between librarians and faculty forges its path in the frontier of digital humanities. Moreover, the collaboration permits us to expand on traditional “analog” research practices while taking advantage of current technology and best practices in digital humanities. With each digital collection, we explore ways to create an online scholarly resource that would offer a treasure trove of resources for both research and pedagogical purposes.
 
-###  <a name="Abbot">*Southern Spaces*: The Development of a Digital Southern Studies Journal</a>
+### *Southern Spaces*: The Development of a Digital Southern Studies Journal
 
 Frances Abbott, Emory University
 
@@ -114,19 +69,19 @@ The journal faces also several important challenges related to southern studies 
 Reconfiguring the Literary: Narratives, Methods, Theories
 ----------------------------------------------------------
 
-###  <a name="Booth">Call It a Global Strategic Formalism:New Literary Histories and Narrative Theories through Digital Humanities</a>
+### Call It a Global Strategic Formalism:New Literary Histories and Narrative Theories through Digital Humanities
 
 Alison Booth, University of Virginia, Scholars’ Lab (Bethany Nowviskie, Joe Gilbert), and IATH (Worthy Martin, Daniel Pitti)
 
 Collective Biographies of Women (CBW) [http://womensbios.lib.virginia.edu](http://womensbios.lib.virginia.edu/) reaches beyond the boundaries of “literature” 1900-1980, with its small canon of authors of fiction, poetry or drama. CBW instead focuses on a nonfiction genre that ignores authorship and portrays intersecting social types: prosopography, or *personae-writing*, the representation of lives in groups. Based on an international bibliography of more than 1200 collections of women’s biographies published since 1830, CBW differs from digital editions as well as recent large-scale mining across the print era. New as well as old interpretive methods—distant, close, ideological or symptomatic, and surface reading—are required for this corpus of life narratives, in which crowd-sourced social networking blurs authorship and definitive text while it registers social types and affiliations documented and quantifiable in our database. Biographical Elements and Structure Schema (BESS), a stand-off XML schema, analyzes TEI texts representing types of collection and persona (at this point, reformers or adventuresses). BESS guides the editors with controlled vocabularies for *stage of life* (the “plot” of biography), *events* and *agents*, *narration*, and *persona description*. BESS analyses of 20 versions of Sister Dora’s life, for example, compare with those of the 120 women in “one degree of separation” from her (in the same books) and with analyses of a different cohort of persona types. The BESS tool and approach will influence other digital studies of narrative, just as we will adapt others’ tools (word frequency, interactive timelines). We aim at a morphology of nonfiction narrative that benefits from advances in post-classical narratology as well as digital literary studies.
 
-###  <a name="Bryon">The Recursive Archive: Samuel Beckett’s novel *Watt*</a>
+### The Recursive Archive: Samuel Beckett’s novel *Watt*
 
 Mark Byron, University of Sydney
 
 This presentation will report on the digital transcription of Samuel Beckett’s *Watt*, a novel composed in exile during the Second World War and first published in 1953. The full digital transcription and facing representation of the six manuscript notebooks comprises an important early instalment of the Samuel Beckett Digital Manuscripts Project, directed by Dirk van Hulle and Mark Nixon. It also comprises the representation of an extraordinarily complex and unruly manuscript that bears a range of direct, indirect, submerged and otherwise inscrutable relations to the published narrative: its text surface is replete with narrative games, extended permutative episodes, fragments, and various metanarrative levels that fold back into each other. The pronounced complexity of the manuscript archive material, added to the already fragmented surface of the published text, might suggest a transcription project to be limited to specific philological interest. However, as I will demonstrate by way of selected examples, a coherent, searchable transcription reveals much of hermeneutic significance about the published text that would otherwise remain obscure or submerged: the relation of Addenda fragments to larger narrative concerns; the fissures and fragments in the published text that are vestiges of larger narrative episodes; and the processes of narrative reticulation between manuscript and text that completely rearrange concepts of narrative composition. Further, careful study of the transcription indicates that Beckett radically challenged the conceptual limits of text structure, particularly the teleological assumptions of progression from draft to published text. The text-archive manifold presents a dynamic rethinking of text, and of the evolution of literary material at all stages of its production, brought about in a double process of aesthetic creativity and the force of historical circumstance.
 
-###  <a name="Eide">Can We Say it as a Map? Re-presenting Textual Language Descriptions as Maps</a>
+### Can We Say it as a Map? Re-presenting Textual Language Descriptions as Maps
 
 Øyvinde Eide, University of Oslo
 
@@ -140,7 +95,7 @@ The model is used to investigate how information taken from the text can be expr
 
 In the struggle every text creator go through, the restrictions of the media being used is there, to be obeyed or to be questioned. I will show how geographical maps and verbal texts are different media, and how these differences have consequences not only for how things are said, but also for what can be said at all using these two media.
 
-###  <a name="Gill">The algorithmic core of criticism</a>
+### The algorithmic core of criticism
 
 Alex Gill, University of Virginia
 
@@ -151,7 +106,7 @@ themselves their results do not demonstrate anything. There are others who sugge
 
 from a symbiotic relationship with these approaches, arguing the machines can open up new vistas for our critical inquiry. At the heart of the question is the very boundary between us and our computer overlords. In this presentation my answer will be "no, but it can represent interpretation." Inspired by the rise of critical code studies and the insights of contemporary argument theory, I will suggest that we can use code and algorithms as an expressive language that could help us map the methodological structures of existing literary criticism as it historically engages with author, world and text. To argue my case I will adventure a reading of Derrida's reading of Joyce's Ulysses (which doubles as his tongue-in-cheek critique of formal logic) by using precisely the language of the machines. If at all feasible, this approach could help us describe the history of criticism as a set of related procedures, or what I would call an algorithmic phenomenology of interpretation. Computer scientist and literary scholar, Michael Fox, will provide a counterpoint to my argument, arguing that it is radically impossible to arrive at such a procedural phenomenology.
 
-###  <a name="Raley">Transient Interfaces</a>
+### Transient Interfaces
 
 Rita Raley, Univ. of California, Santa Barbara
 

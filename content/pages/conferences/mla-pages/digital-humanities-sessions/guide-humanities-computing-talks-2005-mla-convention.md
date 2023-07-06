@@ -12,35 +12,35 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
-<div>### Wednesday, 28 December 2005
+### Wednesday, 28 December 2005
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [127: Twenty-First-Century Galician Studies: New Spaces, New Voices](#session127)
 
-</div><div>#### 10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [149: The Poetic Line in the Age of New Media](#session149)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [178: Marxism and Globalization](#session178)
 - [191: Teaching Indigenous and Foreign Languages](#session191)
 
-</div><div>#### 1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [224: Outside in the Archival Machine: Graduate Student Scholarship and the Archive](#session224)
 - [232: New Media and Literary Criticism](#session232)
 
-</div><div>#### 3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [262: The Language of Soundscape: “Rhythm Science” and Reading Electronic Music](#session262)
 - [269: What Video Games Teach Us about Literature](#session269)
 
-</div><div>#### 7:15–8:30 p.m.
+#### 7:15–8:30 p.m.
 
 - [318: Ethnicity and Technicity: Race and Technoculture Studies](#session318)
 - [319: East Asian Canon in a Multimedia World](#session319)
@@ -48,64 +48,64 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [336: Literary Texts from a Linguistic Perspective: Case Studies](#session336)
 - [344: Globalizing the Humanities](#session344)
 
-</div></div><div>### Thursday, 29 December 2005
+### Thursday, 29 December 2005
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [351: Electronic Journals 2005](#session351)
 - [374: Negotiation as Theory, Theorizing Negotiation](#session374)
 - [381: Computer-Mediated Foreign Language Study](#session381)
 - [383: The World Wide Web as Metamedium](#session383)
 
-</div><div>#### 10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [400: Editing Whitman](#session400)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [443: New Technologies of Literary Investigation: Digital Demonstrations](#session443)
 - [447: Pop Culture and the War on Terror](#session447)
 
-</div><div>#### 1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [466: The Ethics of Cyberpedagogy: Intellectual Property](#session466)
 - [470: Electronic Media in Nineteenth-Century American Studies](#session470)
 - [493: Digital Scholarly Publishing: Beyond the Crisis](#session493)
 - [496: Literary Theory and the Electronic Text](#session496)
 
-</div><div>#### 3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [511: Editing New Media](#session511)
 - [516: Taking It Digital: Teaching Literature in the Twenty-First Century](#session516)
 - [519: Scale and Scholarship in the Digital Humanities](#session519)
 
-</div><div>#### 7:15–8:30 p.m.
+#### 7:15–8:30 p.m.
 
 - [569: Making Texts Available: Translations, Editions, and Electronic Media](#session569)
 - [597: Teaching Advanced Courses in Technical Communication](#session597)
 - [599: Writing Program Administration and (Multi)Media](#session599)
 - [600: The State of American Writing: Perspectives Popular and Professional](#session600)
 
-</div></div><div><div>### Friday, 30 December 2005
+### Friday, 30 December 2005
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [665: Textual Analysis: What’s Data Got to Do with It?](#session665)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [719: Professional Communication II: Looking into the Future](#session719)
 - [736: Computer Literacy: Assessing the Impact of IT on English Literature Teaching and Research](#session736)
 
-</div><div>#### 1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [757: Morris and Modern Theories](#session757)
 - [785: Archival and Electronic Irish Studies](#session785)
 - [793: Technical Communication Research beyond the Classroom: Methods for Making Knowledge in the World](#session793)
 
-</div></div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session127">127</a>: Twenty-First-Century Galician Studies: New Spaces, New Voices
+<a name="session127">127</a>: Twenty-First-Century Galician Studies: New Spaces, New Voices
 -------------------------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 8:30–9:45 a.m., Chevy Chase, Washington Hilton.
@@ -122,9 +122,9 @@ Respondent: Kirsty J. Hooper.
 
 For copies of abstracts, visit [pcwww.liv.ac.uk/~chomik](http://pcwww.liv.ac.uk/~chomik).
 
-</div></div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session149">149</a>: The Poetic Line in the Age of New Media
+<a name="session149">149</a>: The Poetic Line in the Age of New Media
 ---------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 10:15–11:30 a.m., Maryland Suite A, Marriott.
@@ -140,9 +140,9 @@ Presiding: Dorothy J. Wang, Northwestern University.
 
 Respondent: Patrick F. Durgin, College of Saint Catherine
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session178">178</a>: Marxism and Globalization
+<a name="session178">178</a>: Marxism and Globalization
 -------------------------------------------------------
 
 Wednesday, 28 December 2005, 12:00 noon–1:15 p.m., Park Tower Suite 8216, Marriott.
@@ -157,7 +157,7 @@ Presiding: Amrohini Sahay, State University of New York, Stony Brook.
 
 Respondent: Stephen C. Tumino, University of Pittsburgh, Pittsburgh.
 
-</div><div><a name="session191">191</a>: Teaching Indigenous and Foreign Languages
+<a name="session191">191</a>: Teaching Indigenous and Foreign Languages
 -----------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 12:00 noon–1:15 p.m., Dupont, Washington Hilton.
@@ -169,9 +169,9 @@ Presiding: Deborah Jean Gill, Penn State University, DuBois.
 - “Public and Private: Attitudes toward the Teaching of Foreign Languages,” Mary C. Dever, Western Connecticut State University; Aileen Dever, Quinnipiac University
 - “From Face-to-Face to Cyberspace: Interweaving Technology into Foreign Languages,” Deborah Jean Gill
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session224">224</a>: Outside in the Archival Machine: Graduate Student Scholarship and the Archive
+<a name="session224">224</a>: Outside in the Archival Machine: Graduate Student Scholarship and the Archive
 -----------------------------------------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 1:45–3:00 p.m., Delaware Suite A, Marriott.
@@ -184,7 +184,7 @@ Presiding: Steven Blevins, University of California, Davis.
 - “Page Not Found: Archiving Hypertext at the End of History,” Annie McClanahan, University of California, Berkeley
 - “Hyper-materiality and Counter-archives,” Steven Blevins
 
-</div><div><a name="session232">232</a>: New Media and Literary Criticism
+<a name="session232">232</a>: New Media and Literary Criticism
 --------------------------------------------------------------
 
 Wednesday, 28 December 2005, 1:45–3:00 p.m., Military, Washington Hilton.
@@ -197,9 +197,9 @@ Presiding: N. Katherine Hayles, University of California, Los Angeles.
 - “Reading Spaces,” Rita M. Raley, University of California, Santa Barbara
 - “New Media and the Forensic Imagination,” Matthew Gary Kirschenbaum, University of Maryland, College Park
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session262">262</a>: The Language of Soundscape: “Rhythm Science” and Reading Electronic Music
+<a name="session262">262</a>: The Language of Soundscape: “Rhythm Science” and Reading Electronic Music
 -------------------------------------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 3:30–4:45 p.m., Nathan Hale, Marriott.
@@ -213,7 +213,7 @@ Presiding: Arielle Saiber, Bowdoin College.
 - “Sampling Science: Hip-Hop as Parallel Distributed Processing,” Ryan Snyder Ananat, University of Michigan, Ann Arbor
 - “Compositional Dwelling in Experimental Fiction and Software Sound Synthesis,” Martin E. Boyden, University of Rochester
 
-</div><div><a name="session269">269</a>: What Video Games Teach Us about Literature
+<a name="session269">269</a>: What Video Games Teach Us about Literature
 ------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 3:30–4:45 p.m., Caucus, Washington Hilton.
@@ -228,9 +228,9 @@ Presiding: Edward M. Wesp, Western New England College.
 
 Respondent: Eric R. J. Hayot, University of Arizona.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session318">318</a>: Ethnicity and Technicity: Race and Technoculture Studies
+<a name="session318">318</a>: Ethnicity and Technicity: Race and Technoculture Studies
 --------------------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 7:15–8:30 p.m., Delaware Suite A, Marriott.
@@ -243,7 +243,7 @@ Presiding: Eva Cherniavsky, University of Washington, Seattle.
 - “‘Innocent by Contamination’: Queer World Making, Technological Mediation, and New Ethnicities in Samuel R. Delany’s <cite>Stars in My Pocket like Grains of Sand</cite>,” Thomas Foster, University of Washington, Seattle
 - “Race, Digitality, and Difference: Semiotics for the New Media,” Lisa Nakamura, University of Wisconsin, Madison
 
-</div><div><a name="session319">319</a>: East Asian Canon in a Multimedia World
+<a name="session319">319</a>: East Asian Canon in a Multimedia World
 --------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 7:15–8:30 p.m., Map, Washington Hilton.
@@ -257,7 +257,7 @@ Presiding: Lynne Kimiko Miyake, Pomona College.
 - “Kobayashi Issa, Japanese Haiku, and the Internet,” David G. Lanoue, Xavier University, Louisiana
 - “Pretty Boys, Burnished Chestnuts, Buck-Toothed ‘Nasties’: The Heroes of Manga Tales of Genjis,” Lynne Kimiko Miyake
 
-</div><div><a name="session328">328</a>: Teaching Bibliography in a Digital Age
+<a name="session328">328</a>: Teaching Bibliography in a Digital Age
 --------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 7:15–8:30 p.m., Military, Washington Hilton.
@@ -268,7 +268,7 @@ Presiding: William Baker, Northern Illinois University.
 
 Speakers: Candace R. Benefiel, Texas A&amp;M University, College Station; Maura Carey Ives, Texas A&amp;M University, College Station; Katherine Diane Harris, San Jose State University; Harold Henry Hellwig, Idaho State University; Kenneth Womack, Penn State University, Altoona; David J. Gorman, Northern Illinois University.
 
-</div><div><a name="session336">336</a>: Literary Texts from a Linguistic Perspective: Case Studies
+<a name="session336">336</a>: Literary Texts from a Linguistic Perspective: Case Studies
 ----------------------------------------------------------------------------------------
 
 Wednesday, 28 December 2005, 7:15–8:30 p.m., Kalorama, Washington Hilton.
@@ -281,7 +281,7 @@ Presiding: Anna Klobucka, University of Massachusetts, North Dartmouth.
 - “Attributes of the Best Knight in the World: A Computer-Assisted Analysis of the Use of Superlatives in the ‘Baladro del sabio Merlín’,” Tracy Van Bishop, New York University
 - “Written Spanish-English Code Switching: Artificial or Authentic?” Laura Callahan, City College, City University of New York
 
-</div><div><a name="session344">344</a>: Globalizing the Humanities
+<a name="session344">344</a>: Globalizing the Humanities
 --------------------------------------------------------
 
 Wednesday, 28 December 2005, 7:15–8:30 p.m., Park Tower Suite 8216, Marriott.
@@ -295,9 +295,9 @@ Presiding: Douglas J. Eisner, Fullerton College.
 
 Respondent: George Louis Scheper, Community College of Baltimore County, Maryland.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session351">351</a>: Electronic Journals 2005
+<a name="session351">351</a>: Electronic Journals 2005
 ------------------------------------------------------
 
 Thursday, 29 December 2005, 8:30–9:45 a.m., Delaware Suite A, Marriott.
@@ -313,7 +313,7 @@ Presiding: Irene Thompson, George Washington University.
 - “<cite>Heritage Language Journal</cite>,” Kathleen Dillon, University of California, Davis
 - “‘Do As I Do … and Say’: Scholarly Journals as Communities of Practice and the Case of the Digital Medievalist,” Dorothy Porter, University of Kentucky
 
-</div><div><a name="session374">374</a>: Negotiation as Theory, Theorizing Negotiation
+<a name="session374">374</a>: Negotiation as Theory, Theorizing Negotiation
 ---------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 8:30–9:45 a.m., Kennedy, Marriott.
@@ -330,7 +330,7 @@ Respondent: Paula Rabinowitz.
 
 For copies of papers, visit [www.voices.cla.umn.edu/vg](http://www.voices.cla.umn.edu/vg).
 
-</div><div><a name="session381">381</a>: Computer-Mediated Foreign Language Study
+<a name="session381">381</a>: Computer-Mediated Foreign Language Study
 ----------------------------------------------------------------------
 
 Thursday, 29 December 2005, 8:30–9:45 a.m., Edison, Washington Hilton.
@@ -343,7 +343,7 @@ Presiding: Judith Elaine Liskin-Gasparro, University of Iowa.
 - “Comparing Two Internet-Based-CALL Contexts for Writing in a Beginner, Postsecondary French as a Second Language Program: Achievement and Learner Perceptions,” Kimberly MacDonald, University of Toronto
 - “Learning Activities and Corrective Feedback via Instant Messenger in NS (Native Speaker)–NNS (Nonnative Speaker) and NNS-NNS Dyads,” Susana M. Sotillo, Montclair State University
 
-</div><div><a name="session383">383</a>: The World Wide Web as Metamedium
+<a name="session383">383</a>: The World Wide Web as Metamedium
 --------------------------------------------------------------
 
 Thursday, 29 December 2005, 8:30–9:45 a.m., Maryland Suite C, Marriott.
@@ -356,9 +356,9 @@ Presiding: Susan Schreibman, University of Maryland, College Park.
 - “Technological Insufficiency and the Blake Model,” Adam Komisaruk, West Virginia University, Morgantown
 - “Web Noise,” Joseph A. Milutis, University of South Carolina, Columbia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session400">400</a>: Editing Whitman
+<a name="session400">400</a>: Editing Whitman
 ---------------------------------------------
 
 Thursday, 29 December 2005, 10:15–11:30 a.m., Hoover, Marriott.
@@ -369,9 +369,9 @@ Presiding: Joel Myerson, University of South Carolina, Columbia.
 
 Speakers: Ed Folsom, University of Iowa; Kenneth M. Price, University of Nebraska, Lincoln; Susan M. Belasco, University of Nebraska, Lincoln; Ted Genoways, University of Virginia; Matt Cohen, Duke University.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session443">443</a>: New Technologies of Literary Investigation: Digital Demonstrations
+<a name="session443">443</a>: New Technologies of Literary Investigation: Digital Demonstrations
 ------------------------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 12:00 noon–1:15 p.m., Delaware Suite A, Marriott.
@@ -388,7 +388,7 @@ Presiding: Michael Groden, University of Western Ontario.
 - “Tamarind: Scholarly Text Analysis,” Stephen J. Ramsay, University of Georgia
 - “TAPoR (Text Analysis Portal for Research),” Geoffrey Rockwell, McMaster University
 
-</div><div><a name="session447">447</a>: Pop Culture and the War on Terror
+<a name="session447">447</a>: Pop Culture and the War on Terror
 ---------------------------------------------------------------
 
 Thursday, 29 December 2005, 12:00 noon–1:15 p.m., Coolidge, Marriott.
@@ -402,9 +402,9 @@ Presiding: Cynthia J. Fuchs, George Mason University.
 - “Virtual(ly) Torture: Video Games, Artificial Intelligence, and the War on Terror,” Mark L. Sample, George Mason University
 - “A Very Disturbed Place: Terror, Trauma, and TV,” Cynthia J. Fuchs
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session466">466</a>: The Ethics of Cyberpedagogy: Intellectual Property
+<a name="session466">466</a>: The Ethics of Cyberpedagogy: Intellectual Property
 --------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 1:45–3:00 p.m., Harding, Marriott.
@@ -417,7 +417,7 @@ Presiding: Lisa Justine Hernandez, Saint Edward’s University.
 - “Can Antiplagiarism Databases Be Compatible with Student Intellectual Property Rights?” Cory Lock, Saint Edward’s University
 - “Is There a Review Board for This Web Site? The Ethical Use of Human Subjects,” Jeanne Marie Rose, Penn State University, Berks
 
-</div><div><a name="session470">470</a>: Electronic Media in Nineteenth-Century American Studies
+<a name="session470">470</a>: Electronic Media in Nineteenth-Century American Studies
 -------------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 1:45–3:00 p.m., Roosevelt, Marriott.
@@ -430,7 +430,7 @@ Presiding: Sharon M. Harris, University of Connecticut, Storrs.
 - “Real Life Experiences with Virtual Publishing: Publishing Henry James’s Correspondence Online,” Pierre A. Walker, Salem State College
 - “The Collective: Electronic Scholarship on Early and Antebellum Women Writers,” Sharon M. Harris
 
-</div><div><a name="session493">493</a>: Digital Scholarly Publishing: Beyond the Crisis
+<a name="session493">493</a>: Digital Scholarly Publishing: Beyond the Crisis
 -----------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 1:45–3:00 p.m., Maryland Suite C, Marriott.
@@ -445,7 +445,7 @@ Presiding: Kristine Blair, Bowling Green State University.
 
 Respondent: Kristine Blair.
 
-</div><div><a name="session496">496</a>: Literary Theory and the Electronic Text
+<a name="session496">496</a>: Literary Theory and the Electronic Text
 ---------------------------------------------------------------------
 
 Thursday, 29 December 2005, 1:45–3:00 p.m., Caucus, Washington Hilton.
@@ -458,9 +458,9 @@ Presiding: Susan Schreibman, University of Maryland, College Park.
 - “The End of the Irrelevant Text: Electronic Texts, Linguistics, and Literary Theory,” David L. Hoover, New York University
 - “Open-Ended: Critical Theory and the New Textuality,” Jon A. Saklofske, Acadia University; Struan Sinclair, University of Manitoba
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session511">511</a>: Editing New Media
+<a name="session511">511</a>: Editing New Media
 -----------------------------------------------
 
 Thursday, 29 December 2005, 3:30–4:45 p.m., Maryland Suite C, Marriott.
@@ -473,7 +473,7 @@ Presiding: Neil Fraistat, University of Maryland, College Park.
 - “Film and Textual Scholarship,” Stephen Mamber, University of California, Los Angeles
 - “Video Games and Textual Studies,” Steven E. Jones, Loyola University, Chicago
 
-</div><div><a name="session516">516</a>: Taking It Digital: Teaching Literature in the Twenty-First Century
+<a name="session516">516</a>: Taking It Digital: Teaching Literature in the Twenty-First Century
 ------------------------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 3:30–4:45 p.m., Caucus, Washington Hilton.
@@ -488,7 +488,7 @@ Presiding: Anne Frances Wysocki, Michigan Technological University.
 
 For copies of abstracts, visit [www2.mcdaniel.edu/English/mlaproposal.htm](http://www2.mcdaniel.edu/English/mlaproposal.htm).
 
-</div><div><a name="session519">519</a>: Scale and Scholarship in the Digital Humanities
+<a name="session519">519</a>: Scale and Scholarship in the Digital Humanities
 -----------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 3:30–4:45 p.m., Eisenhower, Marriott.
@@ -504,9 +504,9 @@ Presiding: Andrea Laue, University of Virginia.
 
 For copies of abstracts, visit [www.ach.org/mla/mla05/](http://www.ach.org/mla/mla05/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session569">569</a>: Making Texts Available: Translations, Editions, and Electronic Media
+<a name="session569">569</a>: Making Texts Available: Translations, Editions, and Electronic Media
 --------------------------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 7:15–8:30 p.m., Thoroughbred, Washington Hilton.
@@ -517,7 +517,7 @@ Presiding: Jeanette Mary Scott Beer, Purdue University, West Lafayette.
 
 Speakers: Christopher C. Baswell, University of California, Los Angeles; Albrecht Classen, University of Arizona; Hoyt N. Duggan, University of Virginia; Robert M. Stein, State University of New York, Purchase.
 
-</div><div><a name="session597">597</a>: Teaching Advanced Courses in Technical Communication
+<a name="session597">597</a>: Teaching Advanced Courses in Technical Communication
 ----------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 7:15–8:30 p.m., Eisenhower, Marriott.
@@ -532,7 +532,7 @@ Presiding: Sam A. Dragga, Jr., Texas Tech University.
 
 For copies of abstracts, write to denise.tillery@ccmail.nevada.edu.
 
-</div><div><a name="session599">599</a>: Writing Program Administration and (Multi)Media
+<a name="session599">599</a>: Writing Program Administration and (Multi)Media
 -----------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 7:15–8:30 p.m., Hoover, Marriott.
@@ -546,7 +546,7 @@ Presiding: Shirley Rose, Purdue University, West Lafayette.
 - “Coming Soon to a Writing Program near You,” Todd W. Taylor, University of North Carolina, Chapel Hill
 - “Multimedia Archives and the Documentation of the WPA’s Intellectual Work,” Shirley Rose
 
-</div><div><a name="session600">600</a>: The State of American Writing: Perspectives Popular and Professional
+<a name="session600">600</a>: The State of American Writing: Perspectives Popular and Professional
 --------------------------------------------------------------------------------------------------
 
 Thursday, 29 December 2005, 7:15–8:30 p.m., Kennedy, Marriott.
@@ -559,9 +559,9 @@ Presiding: Douglas Dean Hesse, Illinois State University.
 - “Well Beyond the Basics: The Rise of the Writing Major,” Susan H. McLeod, University of California, Santa Barbara
 - “‘… to Create, Analyze, and Transform Information and to Interact Effectively with Others’: Digital Compositions and/against Expectations of the Twenty-First-Century Worker,” Anne Frances Wysocki, Michigan Technological University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session665">665</a>: Textual Analysis: What’s Data Got to Do with It?
+<a name="session665">665</a>: Textual Analysis: What’s Data Got to Do with It?
 ------------------------------------------------------------------------------
 
 Friday, 30 December 2005, 8:30–9:45 a.m., Roosevelt, Marriott.
@@ -576,9 +576,9 @@ Presiding: Maureen Jameson, State University of New York, Buffalo.
 
 For copies of abstracts, visit [rll.buffalo.edu/rll/MLA2005/](http://rll.buffalo.edu/rll/MLA2005/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session719">719</a>: Professional Communication II: Looking into the Future
+<a name="session719">719</a>: Professional Communication II: Looking into the Future
 ------------------------------------------------------------------------------------
 
 Friday, 30 December 2005, 12:00 noon–1:15 p.m., Roosevelt, Marriott.
@@ -594,7 +594,7 @@ Presiding: Katherine V. Wills, Indiana University–Purdue University, Columbus.
 
 For copies of abstracts, visit [www.businesscommunication.org](http://www.businesscommunication.org).
 
-</div><div><a name="session736">736</a>: Computer Literacy: Assessing the Impact of IT on English Literature Teaching and Research
+<a name="session736">736</a>: Computer Literacy: Assessing the Impact of IT on English Literature Teaching and Research
 -----------------------------------------------------------------------------------------------------------------------
 
 Friday, 30 December 2005, 12:00 noon–1:15 p.m., Park Tower Suite 8209, Marriott.
@@ -609,9 +609,9 @@ Presiding: Paul Vetch, King’s College London.
 
 For copies of abstracts, visit [www.ach.org/mla/mla05/](http://www.ach.org/mla/mla05/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session757">757</a>: Morris and Modern Theories
+<a name="session757">757</a>: Morris and Modern Theories
 --------------------------------------------------------
 
 Friday, 30 December 2005, 1:45–3:00 p.m., Eisenhower, Marriott.
@@ -626,7 +626,7 @@ Presiding: Florence S. Boos, University of Iowa.
 
 For copies of abstracts, write florence-boos@uiowa.edu.
 
-</div><div><a name="session785">785</a>: Archival and Electronic Irish Studies
+<a name="session785">785</a>: Archival and Electronic Irish Studies
 -------------------------------------------------------------------
 
 Friday, 30 December 2005, 1:45–3:00 p.m., Hoover, Marriott.
@@ -639,7 +639,7 @@ Presiding: Margaret Kelleher, National University of Ireland, Maynooth.
 - “Exploring the Edith Oenone Somerville Archive at Drishane,” Claire Denelle Cowart, Southeastern Louisiana University
 - “Off the Record with Louis Stewart: Panning the ‘net for <cite>Serious Gold</cite>,” Thomas O’Grady, University of Massachusetts, Boston
 
-</div><div><a name="session793">793</a>: Technical Communication Research beyond the Classroom: Methods for Making Knowledge in the World
+<a name="session793">793</a>: Technical Communication Research beyond the Classroom: Methods for Making Knowledge in the World
 ------------------------------------------------------------------------------------------------------------------------------
 
 Friday, 30 December 2005, 1:45–3:00 p.m., Park Tower Suite 8209, Marriott.
@@ -655,4 +655,3 @@ Presiding: Stephen Bernhardt, University of Delaware, Newark.
 
 For copies of abstracts, write to denise.tillery@ccmail.nevada.edu.
 
-</div></div>

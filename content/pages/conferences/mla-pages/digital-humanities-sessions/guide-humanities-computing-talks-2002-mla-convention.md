@@ -12,41 +12,41 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
-<div>### Friday, 27 December 2002
+### Friday, 27 December 2002
 
-<div>#### 7:00 to 8:15 p.m.
+#### 7:00 to 8:15 p.m.
 
 - [58: Foreign Language Distance Learning at Different Levels](#session58)
 - [59: Looking Back on the Future History of the “Book”](#session59)
 
-</div><div>#### 8:45 to 10:00 p.m.
+#### 8:45 to 10:00 p.m.
 
 - [61: Reading Models in Twentieth-Century France](#session61)
 - [70: New Media Art and Textuality](#session70)
 
-</div></div><div>### Saturday, 28 December 2002
+### Saturday, 28 December 2002
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [113: Electronic Textual Editing I](#session113)
 
-</div><div>#### 10:15 to 11:30 a.m.
+#### 10:15 to 11:30 a.m.
 
 - [138: “Stabbed, Vandalized, and Threatened”: Responses to the Digital Art of Alma Lopez and Other Chicana Intellectual Work](#session138)
 - [151: Electronic Textual Editing II](#session151)
 - [160: Globalization and the Image I: Imagining the Global](#session160)
 
-</div><div>#### Noon to 1:15 p.m.
+#### Noon to 1:15 p.m.
 
 - [196: The Future of Manuscript Studies: Digitization and Issues of Access](#session196)
 - [198: New Scenarios in Latin American Theater](#session198)
 - [200: Digital Narrativity](#session200)
 - [203: Turn-of-the-Century Catalunya: 1900 and 2000 I](#session203)
 
-</div><div>#### 1:45 to 3:00 p.m.
+#### 1:45 to 3:00 p.m.
 
 - [204: Copyright and Fair Use in the Electronic Environment](#session204)
 - [209: Cultural Memory and Gender in Twentieth-Century East Asian Literature](#session209)
@@ -55,32 +55,32 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [240: Rhetorics of the New](#session240)
 - [244: History of the Book and the Legacy of D. F. McKenzie](#session244)
 
-</div><div>#### 3:30 to 4:45 p.m.
+#### 3:30 to 4:45 p.m.
 
 - [256: Innovative Pedagogies for Teaching Colonial Latin American Literature](#session256)
 - [277: The Challenges and Conflicts of Contemporary Bibliography](#session277)
 - [283: Practice, Theory, and Profession: English Studies and New Technologies](#session283)
 - [285: Standards in the Documentary Editing Community](#session285)
 
-</div><div>#### 7:15 to 8:30 p.m.
+#### 7:15 to 8:30 p.m.
 
 - [320: Teaching Multiethnic Literature and Electronic Media: Syllabi and Instructional Aids](#session320)
 - [334: Mining Digital Resources: Sites, Tools, Results](#session334)
 
-</div></div><div>### Sunday, 29 December 2002
+### Sunday, 29 December 2002
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [370: Children’s Periodicals](#session370)
 - [373: Mission civilisatrice et guerres de libération](#session373)
 
-</div><div>#### Noon to 1:15 p.m.
+#### Noon to 1:15 p.m.
 
 - [451: How I Teach French Renaissance Literature to Modern American Students](#session451)
 - [472: Designing Media Studies as a Liberal Arts Major](#session472)
 - [489: Digital Futures: Competing Paradigms for Computing in the Humanities](#session489)
 
-</div><div>#### 1:45 to 3:00 p.m.
+#### 1:45 to 3:00 p.m.
 
 - [499: Writing the History of the Book](#session499)
 - [506: Commercial Lexicography in the Twenty-First Century](#session506)
@@ -88,41 +88,41 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [518: Performance, Spectacle, and Dramatic Writing in Mexico](#session518)
 - [522: Privileging Less Commonly Taught Languages and Authentic Texts: Issues, Challenges, and Solutions for Digital Representation](#session522)
 
-</div><div>#### 3:30 to 4:45 p.m.
+#### 3:30 to 4:45 p.m.
 
 - [544: Poetry—Architecture—Poetics](#session544)
 
-</div><div>#### 9:00 to 10:15 p.m.
+#### 9:00 to 10:15 p.m.
 
 - [647: Literary Studies in Cyberspace: Texts, Contexts, and Criticism](#session647)
 
-</div></div><div>### Monday, 30 December 2002
+### Monday, 30 December 2002
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [687: La Virgen de Guadalupe: Icon, Identity, Text](#session687)
 
-</div><div>#### 10:15 to 11:30 a.m.
+#### 10:15 to 11:30 a.m.
 
 - [711: Blake Scholarship and the New Technology](#session711)
 
-</div><div>#### Noon to 1:15 p.m.
+#### Noon to 1:15 p.m.
 
 - [747: Professional Communication in the Twenty-First Century II: The Future of Technology and the Literacy Industry](#session747)
 - [754: When Students Write about “the Other”: Research in Actual and Virtual Fields](#session754)
 - [770: Teaching Early Hispanic Literature](#session770)
 
-</div><div>#### 1:45 to 3:00 p.m.
+#### 1:45 to 3:00 p.m.
 
 - [777: Constructing Indigenous Consciousness in Colonizing Languages](#session777)
 - [793: Teaching beyond the Page](#session793)
 - [795: The New Apprenticeship: Navigating Collaboration in Digital Studies](#session795)
 
-</div></div><div>### [Other events and activities](#other)
+### [Other events and activities](#other)
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session58">58</a>: Foreign Language Distance Learning at Different Levels
+<a name="session58">58</a>: Foreign Language Distance Learning at Different Levels
 ----------------------------------------------------------------------------------
 
 Friday, 27 December 2002, 7:00 to 8:15 p.m., Conference E, Sheraton New York
@@ -133,7 +133,7 @@ Program arranged by the Association of Departments of Foreign Languages. Presidi
 - “The Best of Both: Upper-Level Hybrid Courses,” Annette Kym, Hunter College, City University of New York
 - “Online Professional Development: An MA in Curriculum and Instruction,” Joan Keck Campbell, German Online Distance Education Network
 
-</div><div><a name="session59">59</a>: Looking Back on the Future History of the “Book”
+<a name="session59">59</a>: Looking Back on the Future History of the “Book”
 ----------------------------------------------------------------------------
 
 Friday, 27 December 2002, 7:00 to 8:15 p.m., Concourse B, Hilton New York
@@ -146,9 +146,9 @@ Program arranged by the Council of Editors of Learned Journals. Presiding: Micha
 
 Respondent: Jana L. Argersinger, Washington State University, Pullman
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session61">61</a>: Reading Models in Twentieth-Century France
+<a name="session61">61</a>: Reading Models in Twentieth-Century France
 ----------------------------------------------------------------------
 
 Friday, 27 December 2002, 8:45 to 10:00 p.m., Carnegie 2, Sheraton New York
@@ -161,7 +161,7 @@ Program arranged by the Division on Twentieth-Century French Literature. Presidi
 
 Respondent: Stamos Metzidakis, Washington University
 
-</div><div><a name="session70">70</a>: New Media Art and Textuality
+<a name="session70">70</a>: New Media Art and Textuality
 --------------------------------------------------------
 
 Friday, 27 December 2002, 8:45 to 10:00 p.m., Concourse B, Hilton New York
@@ -174,9 +174,9 @@ A special session; session leader: Mark B. N. Hansen, Princeton University
 
 Respondent: N. Katherine Hayles, University of California, Los Angeles
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session113">113</a>: Electronic Textual Editing I
+<a name="session113">113</a>: Electronic Textual Editing I
 ----------------------------------------------------------
 
 Saturday, 28 December 2002, 8:30 to 9:45 a.m., Concourse B, Hilton New York
@@ -187,9 +187,9 @@ Program arranged by the MLA Committee on Scholarly Editions. Presiding: Morris E
 - “Electronic Editions: Prose Fiction,” Peter L. Shillingsburg, University of North Texas
 - “Electronic Editions: Drama,” David Lee Gants, University of Georgia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session138">138</a>: “Stabbed, Vandalized, and Threatened”: Responses to the Digital Art of Alma Lopez and Other Chicana Intellectual Work
+<a name="session138">138</a>: “Stabbed, Vandalized, and Threatened”: Responses to the Digital Art of Alma Lopez and Other Chicana Intellectual Work
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 10:15 to 11:30 a.m., Conference D, Sheraton New York
@@ -198,7 +198,7 @@ Program arranged by the Division on Chicana and Chicano Literature. Presiding: M
 
 Speakers: Alma Lopez, Los Angeles, CA; Chéla Sandoval, University of California, Santa Barbara; Mary Patricia Brady, Cornell University; Luz Calvo, Ohio State University, Columbus; Theresa Delgadillo, University of Notre Dame; Naomi Quiñonez, California State University, Fullerton
 
-</div><div><a name="session151">151</a>: Electronic Textual Editing II
+<a name="session151">151</a>: Electronic Textual Editing II
 -----------------------------------------------------------
 
 Saturday, 28 December 2002, 10:15 to 11:30 a.m., Concourse B, Hilton New York
@@ -209,7 +209,7 @@ Program arranged by the MLA Committee on Scholarly Editions. Presiding: Morris E
 - “Electronic Editions: Using Digital Facsimiles,” Kevin S. Kiernan, University of Kentucky
 - “The New MLA-CSE Guidelines for Scholarly Editions,” John Merritt Unsworth, University of Virginia; Katherine O’Brien O’Keeffe, University of Notre Dame
 
-</div><div><a name="session160">160</a>: Globalization and the Image I: Imagining the Global
+<a name="session160">160</a>: Globalization and the Image I: Imagining the Global
 ---------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 10:15 to 11:30 a.m., Conference K, Sheraton New York
@@ -223,9 +223,9 @@ Program arranged by the Society for Critical Exchange. Presiding: Martha A. Wood
 
 Papers will be available by 1 December 2002 on the SCE Web site (<http://www.cwru.edu/affil/sce>).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session196">196</a>: The Future of Manuscript Studies: Digitization and Issues of Access
+<a name="session196">196</a>: The Future of Manuscript Studies: Digitization and Issues of Access
 -------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, noon to 1:15 p.m., Conference K, Sheraton New York
@@ -234,7 +234,7 @@ Program arranged by the Division on Comparative Studies in Medieval Literature. 
 
 Speakers: Jonathan Alexander, New York University; Consuelo W. Dutschke, Columbia University; Richard Kenneth Emmerson, Medieval Academy; Joel W. Fredell, Southern Louisiana University; Roger S. Wieck, Morgan Library
 
-</div><div><a name="session198">198</a>: New Scenarios in Latin American Theater
+<a name="session198">198</a>: New Scenarios in Latin American Theater
 ---------------------------------------------------------------------
 
 Saturday, 28 December 2002, noon to 1:15 p.m., Conference D, Sheraton New York
@@ -245,7 +245,7 @@ Program arranged by the Division on Twentieth-Century Latin American Literature.
 - “Divergent Acts: Performance Art and Politics in Latin America,” Diana Taylor, New York University
 - “Theater, Multimedia, and Globalization,” Claudia Villegas-Silva, University of Hawai‘i, Manoa
 
-</div><div><a name="session200">200</a>: Digital Narrativity
+<a name="session200">200</a>: Digital Narrativity
 -------------------------------------------------
 
 Saturday, 28 December 2002, noon to 1:15 p.m., Nassau A and B, Hilton New York
@@ -256,7 +256,7 @@ Program arranged by the Discussion Group on Media and Literature. Presiding: Eck
 - “Birds, Games, Boxes, and Bricolage: Interactivity in Electronic Narratives,” Marjorie Luesebrink, Irvine Valley College, CA
 - “Death of the Author? Death of the Reader!” Roberto Simanowski, University of Washington, Seattle
 
-</div><div><a name="session203">203</a>: Turn-of-the-Century Catalunya: 1900 and 2000 I
+<a name="session203">203</a>: Turn-of-the-Century Catalunya: 1900 and 2000 I
 ----------------------------------------------------------------------------
 
 Saturday, 28 December 2002, noon to 1:15 p.m., Conference H, Sheraton New York
@@ -268,9 +268,9 @@ Program arranged by the North American Catalan Society. Presiding: Mary Ann Newm
 - “Visions of Paris in *La Vanguardia*, 1890–1900,” Elena Cueto, Bowdoin College; David R. George, Bates College
 - “Transatlantic Returns: The Habanera in Catalonia, 1898–2002,” Galina Bakhtiarova, University of Southern California
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session204">204</a>: Copyright and Fair Use in the Electronic Environment
+<a name="session204">204</a>: Copyright and Fair Use in the Electronic Environment
 ----------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:30 p.m., Nassau A and B, Hilton New York
@@ -279,7 +279,7 @@ A forum arranged by the Committee on Information Technology. Presiding: Bette G.
 
 Speakers: Marybeth Peters, United States Register of Copyrights; Bonnie Beacher, McGraw-Hill Education; Duane E. Webster, Association of Research Libraries; Robert P. Kolker, Georgia Institute of Technology
 
-</div><div><a name="session209">209</a>: Cultural Memory and Gender in Twentieth-Century East Asian Literature
+<a name="session209">209</a>: Cultural Memory and Gender in Twentieth-Century East Asian Literature
 ---------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:00 p.m., Conference H, Sheraton New York
@@ -292,7 +292,7 @@ Program arranged by the Division on East Asian Languages and Literatures after 1
 - “Gender and the Avant-Garde in Postwar Japan,” Cathy P. Steblyk, Penn State University, University Park
 - “‘She Is Grotesque’: The Culture of the Grotesque in Contemporary Korea,” Jungsoo Kim, New York University
 
-</div><div><a name="session225">225</a>: Teaching American Realism: Cultures and Contexts
+<a name="session225">225</a>: Teaching American Realism: Cultures and Contexts
 ------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:00 p.m., Concourse C, Hilton New York
@@ -304,7 +304,7 @@ A special session; session leader: Jeffrey W. Miller, University of Tennessee, M
 - “Stereoscopic Images and the Teaching of American Realism,” Robert D. Sturr, Kent State University, Stark Campus
 - “Consuming Literature: American Memory, Advertisements, and Realism,” Jeffrey W. Miller
 
-</div><div><a name="session231">231</a>: E-Teaching: Emerging Foreign Language Methodologies Using Online Course Management Systems
+<a name="session231">231</a>: E-Teaching: Emerging Foreign Language Methodologies Using Online Course Management Systems
 ------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:00 p.m., Conference D, Sheraton New York
@@ -316,7 +316,7 @@ A special session; session leader: Sylvie L. F. Richards, Brooklyn College, City
 - “Online Teaching of French and Spanish with WebCT,” Sylvie Rockmore, Carnegie Mellon University
 - “Online Pedagogy: Managing French Language Courses with Web-Based Technologies,” Barbara A. Szlanic, Columbia University
 
-</div><div><a name="session240">240</a>: Rhetorics of the New
+<a name="session240">240</a>: Rhetorics of the New
 --------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:00 p.m., Concourse B, Hilton New York
@@ -327,7 +327,7 @@ Program arranged by the MLA Publications Committee. Presiding: Patricia Bizzell,
 - “Novelty into Knowledge: New Academic Media and the Future of English Studies,” Jessica Beth Yood, Lehman College, City University of New York
 - “Making All the Right Moves: Foucault, Journals, and the Authorization of Discourse,” Richard R. McNabb, Long Island University, C. W. Post Campus
 
-</div><div><a name="session244">244</a>: History of the Book and the Legacy of D. F. McKenzie
+<a name="session244">244</a>: History of the Book and the Legacy of D. F. McKenzie
 ----------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 1:45 to 3:00 p.m., Concourse H, Hilton New York
@@ -338,9 +338,9 @@ Program arranged by the Society for the History of Authorship, Reading, and Publ
 - “Readers, Texts, and the Sociology of Libraries,” Christine J. Pawley, University of Iowa
 - “D. F. McKenzie’s Sociology of Text and Hypertext Editorial Theory,” Chris Koenig-Woodyard, Wilfrid Laurier University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session256">256</a>: Innovative Pedagogies for Teaching Colonial Latin American Literature
+<a name="session256">256</a>: Innovative Pedagogies for Teaching Colonial Latin American Literature
 ---------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 3:30 to 4:45 p.m., Conference H, Sheraton New York
@@ -352,7 +352,7 @@ Program arranged by the Division on Colonial Latin American Literatures. Presidi
 - “Memory in the Age of Digital Reproduction: Reflections on an NEH Teaching with Technology Project about Colonial Encounters in the Mississippi Valley,” Luis Fernando Restrepo, University of Arkansas, Fayetteville
 - “Sor Juana avant la Lettre: Teaching the Court Poetry of Juana Ramírez,” Kimberly Ann Nance, Illinois State University
 
-</div><div><a name="session277">277</a>: The Challenges and Conflicts of Contemporary Bibliography
+<a name="session277">277</a>: The Challenges and Conflicts of Contemporary Bibliography
 ---------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 3:30 to 4:45 p.m., Liberty 4, Sheraton New York
@@ -363,7 +363,7 @@ Program arranged by the Advisory Committee on the *MLA International Bibliograph
 - “Improprieties of the Electronic Age: Attribution, Citation, and Plagiarism,” Thomas C. Spear, Lehman College, City University of New York
 - “Practical Bibliographic Research Issues in the Electronic Age,” John M. Jeep, Millikin University
 
-</div><div><a name="session283">283</a>: Practice, Theory, and Profession: English Studies and New Technologies
+<a name="session283">283</a>: Practice, Theory, and Profession: English Studies and New Technologies
 ----------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 3:30 to 4:45 p.m., Gibson, Hilton New York
@@ -376,7 +376,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 
 See <http://www.ach.org/mla02> for further details.
 
-</div><div><a name="session285">285</a>: Standards in the Documentary Editing Community
+<a name="session285">285</a>: Standards in the Documentary Editing Community
 ----------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 3:30 to 4:45 p.m., Concourse B, Hilton New York
@@ -387,9 +387,9 @@ Program arranged by the Association for Documentary Editing. Presiding: Ezra Gre
 - “Implementing Standards for Primary Documents,” David R. Chesnutt, University of South Carolina, Columbia
 - “Integrating the Standards for Primary Documents,” Elizabeth H. Dow, Louisiana State University, Baton Rouge
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session320">320</a>: Teaching Multiethnic Literature and Electronic Media: Syllabi and Instructional Aids
+<a name="session320">320</a>: Teaching Multiethnic Literature and Electronic Media: Syllabi and Instructional Aids
 ------------------------------------------------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 7:15 to 8:30 p.m., Conference H, Sheraton New York
@@ -398,7 +398,7 @@ Program arranged by the Division on Ethnic Studies in Language and Literature. P
 
 Speakers: Christopher Lawrence Schedler, University of California, Santa Barbara; Gwendolyn Deloris Pough, University of Minnesota, Twin Cities; Patricia Keefe Durso, Montclair State University; Lori E. Amy, Georgia Southern University
 
-</div><div><a name="session334">334</a>: Mining Digital Resources: Sites, Tools, Results
+<a name="session334">334</a>: Mining Digital Resources: Sites, Tools, Results
 -----------------------------------------------------------------------------
 
 Saturday, 28 December 2002, 7:15 to 8:30 p.m., Concourse B, Hilton New York
@@ -412,9 +412,9 @@ Program arranged by the Discussion Group on Computer Studies in Language and Lit
 
 Respondent: Peter Robinson, De Montfort University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session370">370</a>: Children’s Periodicals
+<a name="session370">370</a>: Children’s Periodicals
 ----------------------------------------------------
 
 Sunday, 29 December 2002, 8:30 to 9:45 a.m., Concourse G, Hilton New York
@@ -425,7 +425,7 @@ Program arranged by the Division on Children’s Literature. Presiding: Kenneth 
 - “*The Brownies’ Book* and Jessie Fauset’s Work for *The Crisis*,” Jayne E. Marek, Franklin College of Indiana
 - “Tapping into Grrrl Power: Redefining ‘Girls’ on the Web in the Twenty-First Century,” Stephanie Ann Smith, University of Florida
 
-</div><div><a name="session373">373</a>: Mission civilisatrice et guerres de libération
+<a name="session373">373</a>: Mission civilisatrice et guerres de libération
 ----------------------------------------------------------------------------
 
 Sunday, 29 December 2002, 8:30 to 9:45 a.m., Liberty 5, Sheraton New York
@@ -438,9 +438,9 @@ Program arranged by the Division on Francophone Literatures and Cultures. Presid
 
 Respondent: Clarisse Zimra
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session451">451</a>: How I Teach French Renaissance Literature to Modern American Students
+<a name="session451">451</a>: How I Teach French Renaissance Literature to Modern American Students
 ---------------------------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, noon to 1:15 p.m., Versailles Terrace, Sheraton New York
@@ -451,7 +451,7 @@ Program arranged by the Division on Sixteenth-Century French Literature. Presidi
 - “Rare Books, Web Sites, Great Books, and Other Voices,” Mary B. McKinley, University of Virginia
 - “Sex and Violence? Whatever . . . ,” Ullrich G. Langer, University of Wisconsin, Madison
 
-</div><div><a name="session472">472</a>: Designing Media Studies as a Liberal Arts Major
+<a name="session472">472</a>: Designing Media Studies as a Liberal Arts Major
 -----------------------------------------------------------------------------
 
 Sunday, 29 December 2002, noon to 1:15 p.m., Conference D, Sheraton New York
@@ -463,7 +463,7 @@ A special session; session leader: Lisa Gitelman, Catholic University of America
 - “Babies and Bathwater: The Space of Cinema in New Media Studies,” Paul D. Young, University of Missouri, Columbia
 - “Plugging In: Film Studies, the Small College, and the Flexible Technologies of Discipline,” Jonathan Kahana, Bryn Mawr College
 
-</div><div><a name="session489">489</a>: Digital Futures: Competing Paradigms for Computing in the Humanities
+<a name="session489">489</a>: Digital Futures: Competing Paradigms for Computing in the Humanities
 --------------------------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, noon to 1:15 p.m., Concourse G, Hilton New York
@@ -475,9 +475,9 @@ A special session; session leader: Steven E. Jones, Loyola University, Chicago
 - “After the Looking Glass: Humanities Computing and Human-Computer Interaction,” Matthew Gary Kirschenbaum, University of Maryland, College Park
 - “The Art of Extraction: Toward a Cultural History and Aesthetics of XML and Database-Driven Web Sites,” Alan Liu, University of California, Santa Barbara
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session499">499</a>: Writing the History of the Book
+<a name="session499">499</a>: Writing the History of the Book
 -------------------------------------------------------------
 
 Sunday, 29 December 2002, 1:45 to 3:00 p.m., East, Hilton New York
@@ -488,7 +488,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Pam
 - “Technologies of Nostalgia: New Media and Their Genres,” Miranda Jane Burgess, University of British Columbia
 - “Does Theory Have a Place in the History of Books?” Matthew P. Brown, University of Iowa
 
-</div><div><a name="session506">506</a>: Commercial Lexicography in the Twenty-First Century
+<a name="session506">506</a>: Commercial Lexicography in the Twenty-First Century
 ---------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, 1:45 to 3:00 p.m., Hudson, Hilton New York
@@ -499,7 +499,7 @@ Program arranged by the Discussion Group on Lexicography. Presiding: Michael P. 
 - “The Place of Smaller, Specialized Dictionaries of English in the World of Lexicography,” Anne L. Curzan, University of Michigan, Ann Arbor
 - “From the Inkwell to the Internet: Jobs of and for Lexicographers,” John M. Morse, Merriam-Webster
 
-</div><div><a name="session509">509</a>: Copyright and the Public Sphere
+<a name="session509">509</a>: Copyright and the Public Sphere
 -------------------------------------------------------------
 
 Sunday, 29 December 2002, 1:45 to 3:00 p.m., Sutton South, Hilton New York
@@ -512,7 +512,7 @@ A special session; session leader: Colleen Glenney Boggs, Dartmouth College
 
 Respondent: Meredith L. McGill, Rutgers University, New Brunswick
 
-</div><div><a name="session518">518</a>: Performance, Spectacle, and Dramatic Writing in Mexico
+<a name="session518">518</a>: Performance, Spectacle, and Dramatic Writing in Mexico
 ------------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, 1:45 to 3:00 p.m., Conference L, Sheraton New York
@@ -525,7 +525,7 @@ A special session; session leader: Leilani García-Turull, Ursinus College
 
 Respondent: José Esteban Muñoz, New York University
 
-</div><div><a name="session522">522</a>: Privileging Less Commonly Taught Languages and Authentic Texts: Issues, Challenges, and Solutions for Digital Representation
+<a name="session522">522</a>: Privileging Less Commonly Taught Languages and Authentic Texts: Issues, Challenges, and Solutions for Digital Representation
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, 1:45 to 3:00 p.m., Concourse G, Hilton New York
@@ -536,9 +536,9 @@ Program arranged by the MLA Committee on Information Technology. Presiding: Mary
 - “Supporting the Learning of Less Commonly Taught Languages through System-Wide Collaborative Teaching Approaches: The California State University Virtual Language Laboratory,” Mary Ann Lyman-Hager; Ryu Kitajima, San Diego State University
 - “Making Less Commonly Taught Languages Accessible through New Technologies: Case Studies in East Asian and Middle Eastern Languages,” David Hiple, University of Hawai‘i, Manoa
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session544">544</a>: Poetry—Architecture—Poetics
+<a name="session544">544</a>: Poetry—Architecture—Poetics
 ---------------------------------------------------------
 
 Sunday, 29 December 2002, 3:30 to 4:45 p.m., Concourse G, Hilton New York
@@ -549,9 +549,9 @@ Program arranged by the Division on Poetry. Presiding: Stephen McCaffery, York U
 - “Topological Folding: Baroque Architecture and Its Spatial Morphology in the *Cantos* of Ezra Pound,” Ming-Qian Ma, State University of New York, Buffalo
 - “All Your Base Belong to Us: Potlatch, Paranoia, and the Ethics of Online Architecture,” Darren Wershler-Henry, York University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session647">647</a>: Literary Studies in Cyberspace: Texts, Contexts, and Criticism
+<a name="session647">647</a>: Literary Studies in Cyberspace: Texts, Contexts, and Criticism
 --------------------------------------------------------------------------------------------
 
 Sunday, 29 December 2002, 9:00 to 10:15 p.m., Concourse G, Hilton New York
@@ -567,9 +567,9 @@ Respondent: Alan Liu, University of California, Santa Barbara
 
 See <http://blake.montclair.edu/~dursop/mla647.htm> for further details.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session687">687</a>: La Virgen de Guadalupe: Icon, Identity, Text
+<a name="session687">687</a>: La Virgen de Guadalupe: Icon, Identity, Text
 --------------------------------------------------------------------------
 
 Monday, 30 December 2002, 8:30 to 9:45 a.m., Conference K, Sheraton New York
@@ -581,9 +581,9 @@ A special session; session leader: María Carla Sánchez, University of Michigan
 - “Subversive Maternity: The Dialectics of Generation in Arturo Islas’s *The Rain God*,” John S. Honerkamp, New York University
 - “Our Lady of Guadalupe as Cyberarte: Religious Iconography and Public Discourse in the Postmodern Classroom,” Lille Norstad, University of New Mexico, Albuquerque
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session711">711</a>: Blake Scholarship and the New Technology
+<a name="session711">711</a>: Blake Scholarship and the New Technology
 ----------------------------------------------------------------------
 
 Monday, 30 December 2002, 10:15 to 11:30 a.m., Concourse C, Hilton New York
@@ -596,9 +596,9 @@ A special session; session leader: Sheila A. Spector, New York, NY
 
 Respondent: Stephen C. Behrendt, University of Nebraska, Lincoln
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session747">747</a>: Professional Communication in the Twenty-First Century II: The Future of Technology and the Literacy Industry
+<a name="session747">747</a>: Professional Communication in the Twenty-First Century II: The Future of Technology and the Literacy Industry
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Monday, 30 December 2002, noon to 1:15 p.m., Concourse D, Hilton New York
@@ -611,7 +611,7 @@ Program arranged by the Association for Business Communication. Presiding: Melin
 
 Respondent: Kitty O’Donnell Locker, Ohio State University, Columbus
 
-</div><div><a name="session754">754</a>: When Students Write about “the Other”: Research in Actual and Virtual Fields
+<a name="session754">754</a>: When Students Write about “the Other”: Research in Actual and Virtual Fields
 ----------------------------------------------------------------------------------------------------------
 
 Monday, 30 December 2002, noon to 1:15 p.m., Concourse C, Hilton New York
@@ -621,7 +621,7 @@ Program arranged by the National Council of Teachers of English. Presiding: Bonn
 - “When Students Write about ‘the Other’: Reflection and Position in Nonfiction,” Bonnie Sunstein
 - “When Students Write about ‘the Other’: Local Goes Global in Online Discourse,” Sarah H. Townsend, University of Iowa
 
-</div><div><a name="session770">770</a>: Teaching Early Hispanic Literature
+<a name="session770">770</a>: Teaching Early Hispanic Literature
 ----------------------------------------------------------------
 
 Monday, 30 December 2002, noon to 1:15 p.m., Conference L, Sheraton New York
@@ -632,9 +632,9 @@ Program arranged by the American Association of Teachers of Spanish and Portugue
 - “Garcilaso, Góngora y el tema del *carpe diem*: Dos perspectivas de un mismo motivo renacentista,” Salvatore J. Poeta, Villanova University
 - “Making It Relevant: Teaching Colonial Literature to Undergraduates and Having Them Care,” John Ochoa, University of California, Riverside
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session777">777</a>: Constructing Indigenous Consciousness in Colonizing Languages
+<a name="session777">777</a>: Constructing Indigenous Consciousness in Colonizing Languages
 -------------------------------------------------------------------------------------------
 
 Monday, 30 December 2002, 1:45 to 3:00 p.m., New York, Hilton New York
@@ -646,7 +646,7 @@ Program arranged by the Association for the Study of American Indian Literatures
 - “Evidence of Indigenous Consciousness in a Colonizing Language: Resilience and Resistance in the Poetry of Ofelia Zepeda,” Angelica M. Lawson, University of Arizona
 - “Lost in Translation: Expressing Haida Ideology in English,” Frederick White, Slippery Rock University
 
-</div><div><a name="session793">793</a>: Teaching beyond the Page
+<a name="session793">793</a>: Teaching beyond the Page
 ------------------------------------------------------
 
 Monday, 30 December 2002, 1:45 to 3:00 p.m., Concourse B, Hilton New York
@@ -656,7 +656,7 @@ Program arranged by the Association of Teachers of Technical Writing. Presiding:
 - “From Page to Interface: Teaching Digital Production Skills,” Tharon Howard, Clemson University; Sarah Weathers, Clemson University; Robert Rettew, Clemson University; M. Brad Bonham, Clemson University
 - “Who Needs Communication Skills? A Study of Job Ads across Disciplines,” Angela M. Eaton, Rensselaer Polytechnic Institute
 
-</div><div><a name="session795">795</a>: The New Apprenticeship: Navigating Collaboration in Digital Studies
+<a name="session795">795</a>: The New Apprenticeship: Navigating Collaboration in Digital Studies
 -------------------------------------------------------------------------------------------------
 
 Monday, 30 December 2002, 1:45 to 3:00 p.m., Concourse D, Hilton New York
@@ -670,11 +670,10 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 
 See <http://www.ach.org/mla02> for further details.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><a name="other"></a>Other events and activities
+<a name="other"></a>Other events and activities
 -----------------------------------------------
 
 The [Women Writers Project](http://www.wwp.brown.edu/) and the [Dickinson Electronic Archives Project](http://jefferson.village.virginia.edu/dickinson/) will share a booth in the exhibition hall: Booth 1022B, in Americas Hall I and II, Hilton New York. The exhibit halls will be open on 28 and 29 December 2002 from 9 a.m. to 6 p.m., and on 30 December 2002 from 9 a.m. to 1 p.m.
 
-</div>

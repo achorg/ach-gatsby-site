@@ -11,11 +11,11 @@ ACH officers and Executive Council members form ACH's policies, decide how we wi
 
 To be confirmed to the Executive Council, candidates must be members of the ACH. They commit to attending annual council meetings at the DH conference and hold discussions during the rest of the year by email and Skype. Council members are expected to be active in the digital humanities community. But these are not roles reserved to those in senior positions: graduate students have often served on the council, and demonstrated commitment to the organization and to the field counts for more with our membership than job titles.
 
-Send nominations to [<span class="s1">ach-nominations@digitalhumanities.org</span>](mailto:ach-nominations@digitalhumanities.org) by **September 21st.** Please confirm with your nominee that he or she is willing to serve, and provide a brief note of interest and qualifications. A platform statement will also be needed for the ballot but need not be included with the nomination. You are warmly encouraged to nominate yourself, but note that per ACH bylaws each nominee requires two nominations to be considered for the ballot. This year, the committee charged with creating a balanced slate will put forward no more than 20 names The three top vote-getters will be elected to four-year terms. The candidate winning the 1-year slot will be eligible for re-election next year.
+Send nominations to [ach-nominations@digitalhumanities.org](mailto:ach-nominations@digitalhumanities.org) by **September 21st.** Please confirm with your nominee that he or she is willing to serve, and provide a brief note of interest and qualifications. A platform statement will also be needed for the ballot but need not be included with the nomination. You are warmly encouraged to nominate yourself, but note that per ACH bylaws each nominee requires two nominations to be considered for the ballot. This year, the committee charged with creating a balanced slate will put forward no more than 20 names The three top vote-getters will be elected to four-year terms. The candidate winning the 1-year slot will be eligible for re-election next year.
 
-For more information on the responsibilities and obligations of ACH council members, see <span class="s1"><http://www.ach.org/about/constitution></span>
+For more information on the responsibilities and obligations of ACH council members, see <http://www.ach.org/about/constitution>
 
-Current officers of the ACH are listed at [<span class="s1">http://www.ach.org/about/officers</span>](http://www.ach.org/about/officers)
+Current officers of the ACH are listed at [http://www.ach.org/about/officers](http://www.ach.org/about/officers)
 
 Many thanks,
 

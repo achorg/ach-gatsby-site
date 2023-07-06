@@ -37,15 +37,15 @@ The ACH Awards Committee is an ACH Executive Committee charged with reviewing aw
 
 #### Membership
 
-- <span class="s1">Zoe LeBlanc </span>
-- <span class="s1">Andy Janco </span>
-- <span class="s1">Quinn Dombrowski </span>
-- <span class="s1">Sarah Potvin </span>
-- <span class="s1">Liz Grumbach </span>
-- <span class="s1">Roopika Risam </span>
-- <span class="s1">Caitlin Pollock </span>
-- <span class="s2">Eduard Arriaga </span>
-- <span class="s2">Lorena Gauthereau</span>
+- Zoe LeBlanc
+- Andy Janco
+- Quinn Dombrowski
+- Sarah Potvin
+- Liz Grumbach
+- Roopika Risam
+- Caitlin Pollock
+- Eduard Arriaga
+- Lorena Gauthereau
 
 - - - - - -
 
@@ -79,10 +79,10 @@ The ACH Infrastructure Committee was established in 2018 in response to ADHO inf
 
 #### Membership
 
-- <span class="s1">Jennifer Isasi </span>
-- <span class="s1">Caitlin Pollock </span>
-- <span class="s1">Andy Janco </span>
-- <span class="s2">Lorena </span><span class="s1">Gauthereau</span>
+- Jennifer Isasi
+- Caitlin Pollock
+- Andy Janco
+- Lorena Gauthereau
 
 - - - - - -
 
@@ -100,11 +100,11 @@ The ACH Membership Committee is a working group charged with strategic membershi
 
 #### Membership
 
-- <span class="s1">Quinn Dombrowski </span>
-- <span class="s1">Jewon Woo </span>
-- <span class="s1">Jim McGrath </span>
-- <span class="s2">Lauren Tilton</span>
-- <span class="s1">Andy Janco</span>
+- Quinn Dombrowski
+- Jewon Woo
+- Jim McGrath
+- Lauren Tilto
+- Andy Janco
 
 - - - - - -
 
@@ -116,10 +116,10 @@ Its activities include creating and maintaining online resources; organizing eve
 
 #### Membership
 
-- <span class="s1">Katina Rogers </span>
-- <span class="s2">Jim McGrath </span>
-- <span class="s2">Eduard Arriaga </span>
-- <span class="s2">Liz Grumbach</span>
+- Katina Rogers
+- Jim McGrath
+- Eduard Arriaga
+- Liz Grumbach
 
 - - - - - -
 
@@ -149,7 +149,7 @@ The ACH Publications Committee advances the interest of the ACH, its membership,
 - Lauren Tilton
 - Rebecca Koeser
 - Quinn Dombrowski
-- <span class="s1">Lorena </span><span class="s2">Gauthereau</span>
+- Lorena Gauthereau
 
 - - - - - -
 

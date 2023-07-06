@@ -12,7 +12,7 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
 ### Wednesday, 27 December 2000
@@ -137,9 +137,9 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 ### [Other events and activities](#other)
 
 
-</div>- - - - - -
+- - - - - -
 
-<div><div><a name="session53">53</a>: Rethinking Shakespeare and Performance Criticism
+<a name="session53">53</a>: Rethinking Shakespeare and Performance Criticism
 ----------------------------------------------------------------------------
 
 Wednesday, 27 December 2000, 7:00 to 8:15 p.m., Harding Room, Marriott Wardman Park
@@ -150,9 +150,9 @@ A special session; session leader: Sarah Werner, George Washington University
 - “Virtual Performances: Shakespeare Online,” W. B. Worthen, University of California, Berkeley
 - “(Re)Placing and (Re)Writing Shakespearean Stagings,” Barbara Hodgdon, Drake University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session70">70</a>: Getting Published, Electronically and in Print
+<a name="session70">70</a>: Getting Published, Electronically and in Print
 --------------------------------------------------------------------------
 
 Wednesday, 27 December 2000, 8:45 to 10:00 p.m., Park Tower Suite 8206, Marriott Wardman Park
@@ -162,9 +162,9 @@ Program arranged by the
 
 *Speakers*: [Raymond G. Siemens](http://purl.oclc.org/NET/R_G_Siemens.htm%20), <cite>[Early Modern Literary Studies](http://purl.oclc.org/emls/emlshome.html)</cite>; Heidi McGregor, <cite>[JSTOR](http://www.jstor.org/)</cite>; Joan Grenier-Winther, Rocky Mountain Modern Language Association
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session121">121</a>: Online Discourse: Theoretical Perspectives
+<a name="session121">121</a>: Online Discourse: Theoretical Perspectives
 ------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 8:30 to 9:45 a.m., Virginia Suite A, Marriott Wardman Park
@@ -176,9 +176,9 @@ Program arranged by the Popular Culture Association. Presiding: Beth A. Ferri, T
 - “Creating Communities out of Fear: The Culture of Y2K,” Patricia Ventura, University of Florida
 - “Cybversive Spaces: Negotiating Hidden Identities Electronically,” Beth A. Ferri
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session122">122</a>: From Gutenberg to Gates: Metamorphoses of Media
+<a name="session122">122</a>: From Gutenberg to Gates: Metamorphoses of Media
 -----------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 a.m. to noon, Salon 1, Marriott Wardman Park
@@ -192,7 +192,7 @@ A forum. Presiding: Margaret W. Ferguson, University of California, Davis
 
 For coordinated workshops, see meetings [321](#session321) and [484](#session484).
 
-</div><div><a name="session127">127</a>: The Impact of the Internet on East Asian Literatures and Cultures
+<a name="session127">127</a>: The Impact of the Internet on East Asian Literatures and Cultures
 -----------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Hamilton Room, Washington Hilton
@@ -203,7 +203,7 @@ Program arranged by the Division on East Asian Literatures. Presiding: Toru Kiuc
 - “The Internet and Modern Japanese Literature,” Toru Kiuchi
 - “Emergent Cultural Formations and Contradictions: Some Comments on the Internet in China,” Kang Liu, Penn State University, University Park
 
-</div><div><a name="session133">133</a>: Distance Education for Learning and Teaching Foreign Languages I
+<a name="session133">133</a>: Distance Education for Learning and Teaching Foreign Languages I
 ----------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Caucus Room, Washington Hilton
@@ -213,7 +213,7 @@ Program arranged by the Division on the Teaching of Language. Presiding: Helene 
 - “Teaching and Learning Styles in the Online Environment: What We Can Learn from Distance Learning,” Laura G. McGee, Western Kentucky University
 - “Distance Education, Proficiency, and Foreign Language for Professional Use,” K. Eckhard Kuhn-Osius, Hunter College, City University of New York
 
-</div><div><a name="session135">135</a>: Representing the Seventeenth Century in Anthologies, Syllabi, and Curricula
+<a name="session135">135</a>: Representing the Seventeenth Century in Anthologies, Syllabi, and Curricula
 ---------------------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Virginia Suite A, Marriott Wardman Park
@@ -224,7 +224,7 @@ Program arranged by the Division on Seventeenth-Century English Literature. Pres
 - “Representing Gender in the Seventeenth Century,” Betty S. Travitsky, Graduate Center, City University of New York
 - “Representing the Seventeenth Century Online,” Susanne Woods, Wheaton College, Massachusetts
 
-</div><div><a name="session136">136</a>: Functions of Victorian Culture at the Present Time I: A Roundtable
+<a name="session136">136</a>: Functions of Victorian Culture at the Present Time I: A Roundtable
 ------------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Virginia Suite C, Marriott Wardman Park
@@ -236,7 +236,7 @@ Program arranged by the Division on the Victorian Period. Presiding: Christine L
 - “Scholarship on the Web,” George P. Landow, National University of Singapore
 - “Disseminating Victorian Culture in the Postmillennial Classroom,” Sue Lonoff, Harvard University
 
-</div><div><a name="session140">140</a>: Words on the Web
+<a name="session140">140</a>: Words on the Web
 ----------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Maryland Suite B, Marriott Wardman Park
@@ -247,7 +247,7 @@ Program arranged by the Discussion Group on Lexicography. Presiding: Joseph P. P
 - “The Allure of Lost Words,” Richard W. Bailey, University of Michigan, Ann Arbor
 - “Locating Localisms on the World Wide Web,” Allan A. Metcalf, MacMurray College
 
-</div><div><a name="session142">142</a>: Academic Labor and Radical Pedagogy: The Fateful Nexus
+<a name="session142">142</a>: Academic Labor and Radical Pedagogy: The Fateful Nexus
 ------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Wilson Room A, Marriott Wardman Park
@@ -258,7 +258,7 @@ A special session; session leader: Ronald L. Strickland, Illinois State Universi
 - “Where Do Teaching and Organizing Meet?” Randy Martin, Pratt Institute
 - “Organize This! Faculty Union Insurgency at the Largest, Poorest Public University,” Harold Aram Veeser, City College, City University of New York
 
-</div><div><a name="session160">160</a>: Whose Standards? II
+<a name="session160">160</a>: Whose Standards? II
 -------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Eisenhower Room, Marriott Wardman Park
@@ -269,7 +269,7 @@ Program arranged by the MLA Committee on Scholarly Editions. Presiding: Katherin
 - “Editorial Practice: Finding an Audience for the TEAMS Middle English Text Series,” Thomas George Hahn, University of Rochester
 - “Who’s the Reader? Who’s the Writer? Electronic Versions of Early Women’s Texts,” Elizabeth H. Hageman, University of New Hampshire, Durham
 
-</div><div><a name="session164">164</a>: MOOs: The Theory and Culture of Virtual Worlds I
+<a name="session164">164</a>: MOOs: The Theory and Culture of Virtual Worlds I
 ------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 10:15 to 11:30 a.m., Coolidge Room, Marriott Wardman Park
@@ -284,9 +284,9 @@ One talk originally scheduled as part of this session has been cancelled: “How
 
 Further information is available [on the World Wide Web](?q=node/44).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session174A">174A</a>: The Humanities at Work: PhDs and New Media
+<a name="session174A">174A</a>: The Humanities at Work: PhDs and New Media
 --------------------------------------------------------------------------
 
 Thursday, 28 December 2000, noon to 1:45 p.m., Virginia Suite A, Marriott Wardman Park
@@ -299,7 +299,7 @@ A forum. Presiding: Maggie Debelius, Princeton University
 
 For coordinated workshops, see meetings [266](#session266) and [413](#session413).
 
-</div><div><a name="session204">204</a>: Computers and the Production of Literature
+<a name="session204">204</a>: Computers and the Production of Literature
 ------------------------------------------------------------------------
 
 Thursday, 28 December 2000, noon to 1:15 p.m., Virginia Suite C, Marriott Wardman Park
@@ -312,16 +312,16 @@ A special session; session leader: Wayne V. Miller, University of California, Lo
 
 Respondent: Stuart M. Kurland, Duquesne University
 
-</div><div><a name="session216">216</a>: Open Forum on Distance Learning
+<a name="session216">216</a>: Open Forum on Distance Learning
 -------------------------------------------------------------
 
 Thursday, 28 December 2000, noon to 1:15 p.m., Eisenhower Room, Marriott Wardman Park
 
 Program arranged by the MLA Committee on Computers and Emerging Technologies in Teaching and Research. Presiding: Douglas Morgenstern, Massachusetts Institute of Technology
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session244">244</a>: Changing Standards: Spanish in the New Millennium
+<a name="session244">244</a>: Changing Standards: Spanish in the New Millennium
 -------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 1:45 to 3:00 p.m., Room C-326, Washington Hilton
@@ -331,7 +331,7 @@ Program arranged by the Division on Language Change. Presiding: Florencia Corté
 - “Spanish in Miami: Forty Years after the Arrival of the First Wave of Cuban Exiles,” Ana Roca, Florida International University
 - “Spanish in the Internet: Is There Any Change?” Florencia Cortés-Conde
 
-</div><div><a name="session256">256</a>: Brain Work: Representations of Postindustrial Labor in American Literature
+<a name="session256">256</a>: Brain Work: Representations of Postindustrial Labor in American Literature
 --------------------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 1:45 to 3:00 p.m., Wilson Room B, Marriott Wardman Park
@@ -344,7 +344,7 @@ A special session; session leader: Andrew Hoberek, University of Missouri, Colum
 
 Respondent: Lawrence Rothfield, University of Chicago
 
-</div><div><a name="session266">266</a>: The Humanities at Work: University Innovators
+<a name="session266">266</a>: The Humanities at Work: University Innovators
 ---------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 1:45 to 3:00 p.m., Virginia Suite A, Marriott Wardman Park
@@ -356,7 +356,7 @@ A workshop arranged in conjunction with the forum [The Humanities at Work: PhDs 
 
 Respondent: Cary Nelson, University of Illinois, Urbana
 
-</div><div><a name="session270">270</a>: The Fate of the Scholarly Monograph
+<a name="session270">270</a>: The Fate of the Scholarly Monograph
 -----------------------------------------------------------------
 
 Thursday, 28 December 2000, 1:45 to 3:00 p.m., Virginia Suite C, Marriott Wardman Park
@@ -368,9 +368,9 @@ Program arranged by the Advisory Committee on the <cite>MLA International Biblio
 - “Promise,” Helen Tartar, Stanford University Press
 - “Thematic Research Collections: An Emerging Genre of Scholarly Publication,” [John Merritt Unsworth](http://jefferson.village.virginia.edu/~jmu2m/), University of Virginia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session308">308</a>: Computer Studies in Language and Literature: What Counts and Why
+<a name="session308">308</a>: Computer Studies in Language and Literature: What Counts and Why
 ----------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 3:30 to 4:45 p.m., Eisenhower Room, Marriott Wardman Park
@@ -381,7 +381,7 @@ Program arranged by the Discussion Group on Computer Studies in Language and Lit
 - “The Evolution of Characterization and Some Aspects of Style in Twentieth-Century American Science Fiction Magazine Short Stories,” Eric S. Rabkin, University of Michigan, Ann Arbor
 - “Reinventing the Archive: The Modernist Journals Project and the Digital New Age,” Sean Latham, Brown University
 
-</div><div><a name="session321">321</a>: Still Reading in the New Millennium: A Conversation
+<a name="session321">321</a>: Still Reading in the New Millennium: A Conversation
 ---------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 3:30 to 4:45 p.m., Salon 3, Marriott Wardman Park
@@ -390,7 +390,7 @@ A workshop arranged in conjunction with the forum [From Gutenberg to Gates: Meta
 
 *Speakers*: Geoffrey H. Hartman, Yale University; Kathleen A. McCormick, State University of New York, Purchase; Michael Levenson, University of Virginia; Carlos J. Alonso, University of Pennsylvania
 
-</div><div><a name="session323">323</a>: Context, Culture, and Identity in Language Learning and Teaching: A Session in Honor of Claire Kramsch
+<a name="session323">323</a>: Context, Culture, and Identity in Language Learning and Teaching: A Session in Honor of Claire Kramsch
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 3:30 to 4:45 p.m., Military Room, Washington Hilton
@@ -403,9 +403,9 @@ Program arranged by the Association of Departments of Foreign Languages. Presidi
 
 Respondent: Claire J. Kramsch, University of California, Berkeley
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session380">380</a>: Under the Skin: Medical Imaging and the Virtual Body
+<a name="session380">380</a>: Under the Skin: Medical Imaging and the Virtual Body
 ----------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 7:15 to 8:30 p.m., Virginia Suite C, Marriott Wardman Park
@@ -416,7 +416,7 @@ Program arranged by the Division on Literature and Science. Presiding: Jim Swan,
 - “Performing Live Surgery on TV and the Internet since 1945,” David H. Serlin, National Library of Medicine
 - “Speed Surgeries: Advanced Networking and Computer-Generated Modeling in Telesurgical Applications,” Eugene Y. Thacker, Rutgers University, New Brunswick
 
-</div><div><a name="session395">395</a>: Media Theory and Literature
+<a name="session395">395</a>: Media Theory and Literature
 ---------------------------------------------------------
 
 Thursday, 28 December 2000, 7:15 to 8:30 p.m., Wilson Room A, Marriott Wardman Park
@@ -428,7 +428,7 @@ Program arranged by the Discussion Group on Media and Literature. Presiding: Mon
 - “The Canon of Advertisements,”Deirdre Flynn, University of California, Berkeley
 - “The Fly as Noise,” Bruce Clarke, Texas Tech University
 
-</div><div><a name="session413">413</a>: The Humanities at Work: Postacademic Culture Shock
+<a name="session413">413</a>: The Humanities at Work: Postacademic Culture Shock
 --------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 7:15 to 8:30 p.m., Virginia Suite A, Marriott Wardman Park
@@ -438,7 +438,7 @@ A workshop arranged in conjunction with the forum [The Humanities at Work: PhDs 
 - “Finding Your Eclectic Mix,” Maggie Debelius, Princeton University; Susan Basalla, Motley Fool
 - “Landing Your First Job outside Academia,” Sabrina M. Wenrick
 
-</div><div><a name="session416">416</a>: Documentary Editing in the Digital Age: New Ways of Thinking about Old Problems
+<a name="session416">416</a>: Documentary Editing in the Digital Age: New Ways of Thinking about Old Problems
 -------------------------------------------------------------------------------------------------------------
 
 Thursday, 28 December 2000, 7:15 to 8:30 p.m., Park Tower Suite 8211, Marriott Wardman Park
@@ -449,9 +449,9 @@ Program arranged by the [Association for Documentary Editing](http://etext.virgi
 - “We Can Publish It, but Can You Find It?” Elizabeth H. Dow, University of Vermont
 - “Content or Context? Dollars versus Sense in Documentary Editions,” David R. Chesnutt, University of South Carolina, Columbia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session436">436</a>: Distance Education for Learning and Teaching Foreign Languages II
+<a name="session436">436</a>: Distance Education for Learning and Teaching Foreign Languages II
 -----------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 8:30 to 9:45 a.m., Cabinet Room, Washington Hilton
@@ -461,7 +461,7 @@ Program arranged by the Division on the Teaching of Language. Presiding: Thomas 
 - “The Use of the Internet for the Teaching of Advanced Spanish: A Critical Discussion of Current Technologies and New Challenges,” Santiago Juan-Navarro, Florida International University
 - “Foreign Language Teaching Online: How to Get the Most from the Web’s Interaction and Multimedia Capabilities,” Esperanza Roman Mendoza, George Mason University
 
-</div><div><a name="session451">451</a>: Subjectivity Dot-Com
+<a name="session451">451</a>: Subjectivity Dot-Com
 --------------------------------------------------
 
 Friday, 29 December 2000, 8:30 to 9:45 a.m., Park Tower Suite 8212, Marriott Wardman Park
@@ -474,7 +474,7 @@ A special session; session leader: Shera Ahmad, Capital Thinking
 
 Respondent: Shera Ahmad
 
-</div><div><a name="session457">457</a>: Digital Media and Graduate Students in the Modern Languages
+<a name="session457">457</a>: Digital Media and Graduate Students in the Modern Languages
 -----------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 8:30 to 9:45 a.m., Coolidge Room, Marriott Wardman Park
@@ -485,9 +485,9 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 - “Saving Yourself for Tenure: Intellectual Property and the Job Candidate’s Dilemma,” Stephanie L. Tripp, University of Florida
 - “Message in an E-Mail: `Is There Anybody Hiring Out There?’; or, The Place for Cyberspace Literacy in the Academic Market,” Kimberly A. Wells, Texas A&amp;M University, College Station
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session467">467</a>: World Wide Poetry on the Web
+<a name="session467">467</a>: World Wide Poetry on the Web
 ----------------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Maryland Suite B, Marriott Wardman Park
@@ -500,7 +500,7 @@ Program arranged by the Division on Poetry. Presiding: Loss Pequeño Glazier, St
 
 Respondent: Loss Pequeño Glazier
 
-</div><div><a name="session472">472</a>: Symptoms of Theory: Nation, Enjoyment, Critique
+<a name="session472">472</a>: Symptoms of Theory: Nation, Enjoyment, Critique
 -----------------------------------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Georgetown East Room, Washington Hilton
@@ -512,7 +512,7 @@ Program arranged by the Discussion Group on Romanian Studies. Presiding: Christi
 - ” `Not That There’s Anything Wrong with That’; or, Enjoying the Virtual Subject,” Jonna Mackin, University of Pennsylvania
 - “Fantasy.com: Textualizing Otherness in the Digital Age,” Thomas Lavazzi, Savannah State University
 
-</div><div><a name="session484">484</a>: Writing and Schooling at the Millennium
+<a name="session484">484</a>: Writing and Schooling at the Millennium
 ---------------------------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Salon 1, Marriott Wardman Park
@@ -526,7 +526,7 @@ A workshop arranged in conjunction with the forum [From Gutenberg to Gates: Meta
 - “Writing the Underside of the Curriculum,” Jonathan Beck Monroe, Cornell University
 - “Composition and the New Humanities,” Kurt Spellmeyer, Rutgers University, New Brunswick
 
-</div><div><a name="session491">491</a>: Literature through Multimedia: Ideas That Work
+<a name="session491">491</a>: Literature through Multimedia: Ideas That Work
 ----------------------------------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Cabinet Room, Washington Hilton
@@ -537,7 +537,7 @@ Program arranged by the MLA Advisory Committee on Foreign Languages and Literatu
 - “Project Sherezade: Teaching Spanish Literature Interactively,” Enrique J. Fernandez, University of Manitoba
 - “Using Multimedia to Enhance Standards-Based Literary Instruction,” Yoshiko Saito-Abbott, California State University, Monterey
 
-</div><div><a name="session492">492</a>: Economies of Writing I
+<a name="session492">492</a>: Economies of Writing I
 ----------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Virginia Suite A, Marriott Wardman Park
@@ -550,7 +550,7 @@ Program arranged by the Society for Critical Exchange. Presiding: Martha A. Wood
 
 Paper summaries will be available before the meeting at <http://www.cwru.edu/affil/sce>.
 
-</div><div><a name="session496">496</a>: Visual Communication in Cyberspace
+<a name="session496">496</a>: Visual Communication in Cyberspace
 ----------------------------------------------------------------
 
 Friday, 29 December 2000, 10:15 to 11:30 a.m., Park Tower Suite 8212, Marriott Wardman Park
@@ -562,9 +562,9 @@ Program arranged by the Association of Teachers of Technical Writing. Presiding:
 - “Web-Based Communication in the Technical Writing Classroom,” Kathryn Summers, University of North Carolina, Greensboro
 - “Screen Time: On Teaching the Design + Reading of Transition and Animation on the Web,” Anne Frances Wysocki, Michigan Technological University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session512">512</a>: [The Brown Women Writers Project](http://www.wwp.brown.edu/) Online: “New” Texts, New Questions
+<a name="session512">512</a>: [The Brown Women Writers Project](http://www.wwp.brown.edu/) Online: “New” Texts, New Questions
 -----------------------------------------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Park Tower Suite 8212, Marriott Wardman Park
@@ -578,7 +578,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Eli
 
 See also [Other events and activities](#other) for a related exhibit.
 
-</div><div><a name="session513">513</a>: Effects of Technology on Student and Faculty Learning
+<a name="session513">513</a>: Effects of Technology on Student and Faculty Learning
 -----------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Coolidge Room, Marriott Wardman Park
@@ -589,7 +589,7 @@ Program arranged by the Division on Teaching as a Profession. Presiding: Darren 
 - “The Symbol of Tragedy: A Web-Based Resource for Teaching Ethical Criticism,” Deborah Williams Minter, University of Nebraska, Lincoln; Jeffrey S. Poland, University of Nebraska, Lincoln; Malea D. Powell, University of Nebraska, Lincoln; Justine Reilly, University of Nebraska, Lincoln
 - “The Heart of the Matter: Documenting Teaching and Learning in Technology-Enhanced Environments,” Margaret Syverson, University of Texas, Austin
 
-</div><div><a name="session517">517</a>: Comparative United States Literatures I: Turn-of-the-Century Sexualities
+<a name="session517">517</a>: Comparative United States Literatures I: Turn-of-the-Century Sexualities
 ------------------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Harding Room, Marriott Wardman Park
@@ -600,7 +600,7 @@ Program arranged by the Division on Late-Nineteenth- and Early-Twentieth-Century
 - “Wired Love: Sex, Media, and American Modernity,” Mark Anton Goble, Stanford University
 - “American Nationhood as Eugenic Romance: D. W. Griffith’s <cite>Broken Blossoms</cite>,” Susan Koshy, University of California, Santa Barbara
 
-</div><div><a name="session518">518</a>: Germanic Philology
+<a name="session518">518</a>: Germanic Philology
 ------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Room C-326, Washington Hilton
@@ -612,7 +612,7 @@ Program arranged by the Discussion Group on Germanic Philology. Presiding: John 
 - ” `Is That Your Final Answer?’: Reconstructing Caedmon’s Hymn in a Postmodern Age,” Dan O’Donnell, University of Lethbridge
 - “Analyzing Conversational Self-Repair Strategies of English-German Bilinguals: Hesitations, Gaps, and Fillers,” Caroline L. Rieger, University of Alberta
 
-</div><div><a name="session528">528</a>: The Book as Object and Metaphor in the Digital Age
+<a name="session528">528</a>: The Book as Object and Metaphor in the Digital Age
 --------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Delaware Suite B, Marriott Wardman Park
@@ -623,7 +623,7 @@ A special session; session leader: Charles Bernstein, State University of New Yo
 - “Workers of the Book, Unite!” Jerome J. McGann, University of Virginia
 - “Editing <cite>A Book of the Book</cite>: A Return to the Book and Writing,” Jerome Rothenberg, University of California, San Diego
 
-</div><div><a name="session531">531</a>: What’s New about the New?
+<a name="session531">531</a>: What’s New about the New?
 -------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Wilson Room B, Marriott Wardman Park
@@ -634,7 +634,7 @@ A special session; session leader: Elena Pearl Glasberg, California State Univer
 - “Mattering on the Net: Virtual Spaces as Prefigurative Forms,” Thomas Foster, Indiana University, Bloomington
 - “What’s Blood Got to Do with It? On Genes and Society,” Robyn Wiegman, University of California, Irvine
 
-</div><div><a name="session536">536</a>: Pedagogical Uses of New Media in the Foreign Language Classroom
+<a name="session536">536</a>: Pedagogical Uses of New Media in the Foreign Language Classroom
 ---------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m.,Room C-328, Washington Hilton
@@ -647,7 +647,7 @@ A special session; session leader: Sylvie L. F. Richards, Columbia University
 
 Respondent: Sylvie L. F. Richards
 
-</div><div><a name="session537">537</a>: Mobile Citizens, Media States
+<a name="session537">537</a>: Mobile Citizens, Media States
 -----------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Marriott Balcony C and D, Marriott Wardman Park
@@ -660,7 +660,7 @@ Program arranged by the <cite>PMLA</cite> Editorial Board. Presiding: Emily Apte
 
 Respondent: N. Katherine Hayles, University of California, Los Angeles
 
-</div><div><a name="session539">539</a>: Teaching Boccaccio’s <cite>Decameron</cite>
+<a name="session539">539</a>: Teaching Boccaccio’s <cite>Decameron</cite>
 -------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Cabinet Room, Washington Hilton
@@ -673,7 +673,7 @@ Program arranged by the MLA Publications Committee. Presiding: James H. McGregor
 
 Respondents: Robert W. Hanning, Columbia University; Bonnie D. Irwin, Northern Indiana University; Robert Bayliss, Indiana University, Bloomington
 
-</div><div><a name="session541">541</a>: Electronic Rhetoric: Persuasion, Narrative, and the Web
+<a name="session541">541</a>: Electronic Rhetoric: Persuasion, Narrative, and the Web
 -------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, noon to 1:15 p.m., Park Tower Suite 8209, Marriott Wardman Park
@@ -684,9 +684,9 @@ Program arranged by the Association for Business Communication. Presiding: Melin
 - “Using Techniques of Literary Analysis in a Professional Writing Course Web Site Project,” Nancy P. Van Arsdale, East Stroudsburg University
 - “Reaching Out to `Citizens’: Microsoft’s Cyberspace Rhetoric,” Bonnie Lee Woodbery, Florida State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session555">555</a>: Leveling the Field: Literature and Science and Science Studies
+<a name="session555">555</a>: Leveling the Field: Literature and Science and Science Studies
 --------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 1:45 to 3:00 p.m., Virginia Suite A, Marriott Wardman Park
@@ -698,7 +698,7 @@ Program arranged by the Division on Literature and Science. Presiding: Arielle S
 - “Heuristic Allies,” Wai Chee Dimock, Yale University
 - “Where’s the Beef?” Harriet Ritvo, Massachusetts Institute of Technology
 
-</div><div><a name="session558">558</a>: Medieval Iberia Online
+<a name="session558">558</a>: Medieval Iberia Online
 ----------------------------------------------------
 
 Friday, 29 December 2000, 1:45 to 3:00 p.m., Cabinet Room, Washington Hilton
@@ -709,7 +709,7 @@ Program arranged by the Division on Spanish Medieval Language and Literature. Pr
 - “Philobiblon Online: Present and Future,” Harvey L. Sharrer, University of California, Santa Barbara
 - “Teaching Medieval French and Spanish Lyric: An NEH Initiative,” George D. Greenia, College of William and Mary
 
-</div><div><a name="session563">563</a>: History and Future of Rhetorics outside the Paradigm
+<a name="session563">563</a>: History and Future of Rhetorics outside the Paradigm
 ----------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 1:45 to 3:00 p.m., Maryland Suite B, Marriott Wardman Park
@@ -723,7 +723,7 @@ Program arranged by the Division on the History and Theory of Rhetoric and Compo
 - “The Rhetoric of Visual Cultural Analysis,” Marguerite Helen Helmers, University of Wisconsin, Oshkosh
 - “Electronic Rhetorics: Paradigms of the Future,” Alison Elizabeth Regan, University of Utah
 
-</div><div><a name="session580">580</a>: Educating Modern Language Graduate Students in Information Technology
+<a name="session580">580</a>: Educating Modern Language Graduate Students in Information Technology
 ---------------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 1:45 to 3:00 p.m., Park Tower Suite 8210, Marriott Wardman Park
@@ -735,7 +735,7 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 
 Respondents: F. Tyler Curtain; James S. Noblitt, University of North Carolina, Chapel Hill; Sarah Jane Sloane, Colorado State University; Matthew Berk, Inc.com
 
-</div><div><a name="session581">581</a>: What the Government Funds in Foreign Languages
+<a name="session581">581</a>: What the Government Funds in Foreign Languages
 ----------------------------------------------------------------------------
 
 Friday, 29 December 2000, 1:45 to 3:00 p.m., Map Room, Washington Hilton
@@ -746,9 +746,9 @@ Program arranged by the MLA Office of Foreign Language Programs. Presiding: Jame
 - “Languages for Business and Science,” Robert Slater, National Security Education Program
 - “Language, Literature, and Technology,” Bruce Robinson, National Endowment for the Humanities
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session606">606</a>: Bibliography and the Internet
+<a name="session606">606</a>: Bibliography and the Internet
 -----------------------------------------------------------
 
 Friday, 29 December 2000, 3:30 to 4:45 p.m., Coolidge Room, Marriott Wardman Park
@@ -759,7 +759,7 @@ Program arranged by the Discussion Group on Bibliography and Textual Studies. Pr
 - “Outside the Archive,” Matthew G. Kirschenbaum, University of Kentucky; Kari Kraus, University of Rochester
 - “Making Digital Texts Smart,” Susan Schreibman, New Jersey Institute of Technology
 
-</div><div><a name="session625">625</a>: Teaching American English I
+<a name="session625">625</a>: Teaching American English I
 ---------------------------------------------------------
 
 Friday, 29 December 2000, 3:30 to 4:45 p.m., Park Tower Suite 8212, Marriott Wardman Park
@@ -770,7 +770,7 @@ Program arranged by the American Dialect Society. Presiding: Michael P. Adams, A
 - “The Politics of Teaching Standard English,” Anne L. Curzan, University of Washington
 - “Teaching American English on the Web,” William A. Kretzschmar, University of Georgia
 
-</div><div><a name="session632">632</a>: American Literary Studies at a New Millennium: Publishing, Teaching, Working the Field
+<a name="session632">632</a>: American Literary Studies at a New Millennium: Publishing, Teaching, Working the Field
 --------------------------------------------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 3:30 to 4:45 p.m., Marriott Balcony C and D, Marriott Wardman Park
@@ -785,9 +785,9 @@ Program arranged by the American Literature Section. Presiding: Robert S. Levine
 - “Queer (Asian American) Canons,” David L. Eng, Columbia University
 - “American Studies without Exceptions,” Michael F. Bérubé, University of Illinois, Urbana
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session666">666</a>: Research Methods Developed from Electronic Resources
+<a name="session666">666</a>: Research Methods Developed from Electronic Resources
 ----------------------------------------------------------------------------------
 
 Friday, 29 December 2000, 7:15 to 8:30 p.m., Park Tower Suite 8212, Marriott Wardman Park
@@ -798,7 +798,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Sus
 - “Unplugging the Book: Information Management, Electronic Resources, and Bibliographic Research,” Suzanne Disheroon Green, Northwestern State University
 - “The Genre Evolution Project,” Eric S. Rabkin, University of Michigan, Ann Arbor
 
-</div><div><a name="session668">668</a>: Issues in Discourse Analysis
+<a name="session668">668</a>: Issues in Discourse Analysis
 ----------------------------------------------------------
 
 Friday, 29 December 2000, 7:15 to 8:30 p.m., Room C-328, Washington Hilton
@@ -810,9 +810,9 @@ Program arranged by the Division on Language and Society. Presiding: José Del V
 - ” `Installing the Future’: Objectifying the Future in Factual Discourse,” Patricia L. Dunmire, Kent State University, Kent
 - “Corpus Linguistics and Narrative Analysis,” David John Herman, North Carolina State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session734">734</a>: Beyond Hypertext: Exploring Online Communication and Community
+<a name="session734">734</a>: Beyond Hypertext: Exploring Online Communication and Community
 --------------------------------------------------------------------------------------------
 
 Saturday, 30 December 2000, 10:15 to 11:30 a.m., Park Tower Suite 8210, Marriott Wardman Park
@@ -823,9 +823,9 @@ A special session; session leader: Michael Eberle-Sinatra, University of Toronto
 - “What’s Cooking: Personal Narrative in the Online Kitchen,”Laura S. Patterson, Vanderbilt University
 - “Where the Texts Are,” Thomas C. Crochunis, Brown University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session799">799</a>: Economies of Writing II
+<a name="session799">799</a>: Economies of Writing II
 -----------------------------------------------------
 
 Saturday, 30 December 2000, 1:45 to 3:00 p.m., Virginia Suite B, Marriott Wardman Park
@@ -840,7 +840,7 @@ Respondent: James E. Porter, Case Western Reserve University
 
 Paper summaries will be available before the meeting at <http://www.cwru.edu/affil/sce>.
 
-</div><div><a name="session805">805</a>: MOOs: The Theory and Culture of Virtual Worlds II
+<a name="session805">805</a>: MOOs: The Theory and Culture of Virtual Worlds II
 -------------------------------------------------------------------------------
 
 Saturday, 30 December 2000, 1:45 to 3:00 p.m., Coolidge Room, Marriott Wardman Park
@@ -853,7 +853,7 @@ Program arranged by the [Association for Computers and the Humanities](/index.ht
 
 Further information is available [on the World Wide Web](?q=node/44).
 
-</div><div><a name="session808">808</a>: Rhetoric, Technical Communication, and Theory
+<a name="session808">808</a>: Rhetoric, Technical Communication, and Theory
 ---------------------------------------------------------------------------
 
 Saturday, 30 December 2000, 1:45 to 3:00 p.m., Park Tower Suite 8210, Marriott Wardman Park
@@ -865,11 +865,10 @@ Program arranged by the Association of Teachers of Technical Writing. Presiding:
 - “Rhetoric and the Arts of Web Design,” Geoffrey F. K. Sauer, University of Washington
 - “Situated Knowledges, Embodied Information: Haraway’s Cyborg Rhetoric in Feminist Technical Communication Research,” Amy L. Koerber, University of Minnesota, Twin Cities
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><a name="other">Other events and activities</a>
+<a name="other">Other events and activities</a>
 -----------------------------------------------
 
 The [Women Writers Project](http://www.wwp.brown.edu/) and the [Dickinson Electronic Archives Project](http://jefferson.village.virginia.edu/dickinson/) will share a booth in the exhibition hall: Booth 912, in Exhibit Halls B and C, Marriott Wardman Park. The exhibit halls will be open on 28 and 29 December 2000 from 9 a.m. to 6 p.m., and on 30 December 2000 from 9 a.m. to 1 p.m. (See [The Brown Women Writers Project Online: “New” Texts, New Questions](#session512) for a related session.)
 
-</div>

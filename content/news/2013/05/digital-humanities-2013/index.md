@@ -33,9 +33,9 @@ Please Ask, Do Tell!
 
 After a hiatus of a couple of years the *Please Ask! Do Tell!* stickers will be back with a vengence, complete with a new design. Don’t be shy, ask and tell!
 
-<div style="width: 350px;">Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!</div>
+Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!
 
-<div style="width: 350px;">Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know!</div>Pick up your sticker(s) at the ACH display near the DH 2013 registration tables!
+Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know! Pick up your sticker(s) at the ACH display near the DH 2013 registration tables!
 
 Join ACH
 --------

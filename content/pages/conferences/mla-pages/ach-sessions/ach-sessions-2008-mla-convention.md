@@ -32,7 +32,7 @@ Presiding: Mark Algee-Hewitt, New York University.
 > This paper demonstrates computational analysis of both keyword and collocation occurrence in Beerbohm’s two most famous narrative works: <cite>Zuleika Dobson</cite>—his only novel—and <cite>Seven Men</cite>—his satiric portrait of seven vain men, Beerbohm himself being one these seven men. For this work I created two comparison corpora, one roughly six times the size of the Beerbohm corpus (for keyword analysis) and one approximately the same size as the Beerbohm corpus (for collocation analysis). The analyses result in a discovery of an abnormally high concentration of past perfect verb complexes in Beerbohm’s works. Further, within those complexes, the verbs *known* and *seen*, the latter with  
 > both perceptual and cognitive meanings, are more common in Beerbohm’s texts than in the comparison corpora. The distributions of these cognition/perceptual verbs in past perfect complexes not only provide insight into Beerbohm’s style but also allow us to explore the past perfect in one of its primary functions posited by discourse analysts: providing background for foregrounded narrative.
 
-<div>Digital Initiatives in Early Modern English Literature (session 497)
+Digital Initiatives in Early Modern English Literature (session 497)
 --------------------------------------------------------------------
 
 Monday, 29 December 2008, 10:15–11:30 a.m., Golden Gate 6, Hilton San Francisco.
@@ -42,5 +42,3 @@ Presiding: John Lavagnino, King’s College London.
 - “‘What Is Writ by Hand We Reverence More’: Early Modern Manuscripts in the Digital Age,” Grace J. Ioppolo, University of Reading
 - “Toward the <cite>Catalogue of English Literary Manuscripts</cite>,” John Lavagnino
 - “The Notion of the Knowledgebase in Editing and Understanding,” Raymond G. Siemens, University of Victoria
-
-</div>

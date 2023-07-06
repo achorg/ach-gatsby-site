@@ -9,5 +9,3 @@ Funding for NEH represents [a tiny sliver of the Federal budget](https://www.was
 The Association for Computers and the Humanities urges lawmakers to reject efforts to withdraw funding from the National Endowment for the Humanities and to reaffirm the vital role the NEH plays in telling our shared human story. We furthermore urge all of our members to [reach out to their local representatives](http://p2a.co/qgIhfKy) to explain how the NEH has provided crucial support for their work.
 
 The ACH will be publishing members’ statements in support of the NEH on its website. We invite members of the ACH and anyone else who may be interested to contribute a statement using the form below. We particularly encourage those who have received NEH support in the past to tell us about your project and its importance.
-
-<iframe frameborder="0" height="1000px" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSdPsguSftM5THJ_z-Ff9M01sII8pJkwGomgLw5CD8k7Z3c0Mg/viewform?embedded=true" width="100%">Loading…</iframe>

@@ -381,7 +381,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Pet
 - "Team Teaching Computerized Editing of Texts from the Middle Ages to the Present," Ernest Sullivan, Virginia Polytechnic Institute and State University
 - "Electronic Research Crutches," Peter L. Shillingsburg
 
-<a name="ACH2">704: Poetry and Computers II: Hypertext and Poetry</a>
+704: Poetry and Computers II: Hypertext and Poetry
 ----------------------------------------------------------------------
 
 Monday, 30 December, noon to 1:15 p.m., Wisconsin Room, Sheraton Washington Hotel

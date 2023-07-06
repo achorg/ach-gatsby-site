@@ -8,7 +8,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 
 Although the 2004 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>The Material Electronic Text
+The Material Electronic Text
 ----------------------------
 
 Tuesday, 28 December 2004, 3:30–4:45 p.m., 406, Philadelphia Marriott Hotel
@@ -35,7 +35,7 @@ Nick Montfort, University of Pennsylvania
 
 > Many theories of new media, and many perspectives on computer writing, assume that the display screen, sometimes specifically the CRT screen, is an essential part of all creative and communicative computing. N. Katherine Hayles makes this assumption in using the “flickering signifier” as a figure for all text produced by code; Sherry Turkle also glosses over other computer interfaces by describing our experience with computers as a “life on the screen.” Although certainly a visible and important part of our material experience of computers today, the screen is actually a relative newcomer to human-computer interaction. Early work with computers happened largely via paper: on paper tape, punched cards, and print terminals and teletypewriters, such as those of the brand name Teletype, which had a scroll-like supply of continuous paper for printing output and input both. By looking back to early electronic texts (including the interactive systems Eliza and Adventure) and examining material interactions involving Teletype and print terminals, I aim to show how history contradicts “screen essentialist” assumptions about computing, and to suggest a few ways in which print interfaces can inform our understating of electronic texts today.
 
-</div><div>Digital Preservation and Electronic Scholarly Editions
+Digital Preservation and Electronic Scholarly Editions
 ------------------------------------------------------
 
 Thursday, 30 December 2004, 12:00 noon–1:15 p.m., 404, Philadelphia Marriott Hotel
@@ -45,5 +45,3 @@ Presiding: David L. Gants, University of New Brunswick
 - “The Text Creation Partnership (TCP): Building a Foundation for Preserving E-texts,” Shawn Martin, University of Michigan
 - “Printing on Acid-Free Electrons: Scholarly Publishers and the Renegotiation of Responsibilities in Electronic Editions,” David Sewell, University of Virginia
 - “Preservation through Evolution: The Advantages of Just In Time Markup,” Graham Barwell, University of Wollongong
-
-</div>

@@ -16,37 +16,37 @@ Summary of Sessions
 Thursday, 5 January 2012
 -------------------------
 
-###  8:30 – 11:30 a.m.
+### 8:30 – 11:30 a.m.
 
 - [1: Evaluating Digital Work for Tenure and Promotion: A Workshop for Evaluators and Candidates](#session1)
 
-###  12:00 noon – 1:15 p.m
+### 12:00 noon – 1:15 p.m
 
 - [9: Large Digital Libraries: Beyond Google Books](#session9)
 - [12: Transmedia Stories and Literary Games](#session12)
 - [34: The Future of Peer Review](#session34)
 
-###  1:45 – 3:00 p.m.
+### 1:45 – 3:00 p.m.
 
 - [41: Social Networks, Jewish Identity, and New Media](#session41)
 - [47: Old Books and New Tools](#session47)
 - [52: Post-Operaismo, Techne, and the Common](#session52)
 - [67: Race and Digital Humanities](#session67)
 
-###  3:30 – 5:15 p.m.
+### 3:30 – 5:15 p.m.
 
 - [69: The Future of Higher Education](#session69)
 
-###  3:30 – 4:45 p.m.
+### 3:30 – 4:45 p.m.
 
 - [87: Digital Literary Studies: When Will It End?](#session87)
 
-###  5:15 – 6:30 p.m.
+### 5:15 – 6:30 p.m.
 
 - [121: Writing the Jasmine Revolution and Tahrir Square: Graffiti, Film, Collage, Poetry](#session121)
 - [125: What's Still Missing? What Now? What Next? Digital Archives in American Literature](#session125)
 
-###  7:00 – 8:15 p.m.
+### 7:00 – 8:15 p.m.
 
 - [150: Digital Humanities and Internet Research](#session150)
 - [161: The Webs We Weave: Online Pedagogy in Community Colleges](#session161)
@@ -54,39 +54,39 @@ Thursday, 5 January 2012
 Friday, 6 January 2012
 -----------------------
 
-###  8:30 – 9:45 a.m.
+### 8:30 – 9:45 a.m.
 
 - [187: Digital Humanities and Hispanism](#session187)
 
-###  10:15 a.m. – 12:00 noon
+### 10:15 a.m. – 12:00 noon
 
 - [202: The Presidential Forum: Language, Literature, Learning](#session202)
 
-###  10:15 – 11:30 a.m.
+### 10:15 – 11:30 a.m.
 
 - [215: Digital South, Digital Futures](#session215)
 - [217: Reconfiguring the Scholarly Editor: Textual Studies at the University of Washington, Seattle](#session217)
 
-###  12:00 noon – 1:15 p.m.
+### 12:00 noon – 1:15 p.m.
 
 - [249: Building Digital Humanities in the Undergraduate Classroom](#session249)
 - [259: Representation in the Shadow of New Media Technologies](#session259)
 
-###  1:30 – 3:30 p.m.
+### 1:30 – 3:30 p.m.
 
 - [ 276: Getting Funded in the Humanities: An NEH Workshop](#session276)
 
-###  1:45 – 3:00 p.m.
+### 1:45 – 3:00 p.m.
 
 - [301: Reconfiguring Publishing](#session301)
 
-###  3:30 – 4:45 p.m.
+### 3:30 – 4:45 p.m.
 
 - [315: The New Dissertation: Thinking Outside the (Proto-)Book](#session315)
 - [332: Digital Narratives and Gaming for Teaching Language and Literature](#session332)
 - [343: The Cultural Place of Nineteenth-Century Poetry](#session343)
 
-###  5:15 – 6:30 p.m.
+### 5:15 – 6:30 p.m.
 
 - [349: Digital Pedagogy](#session349)
 - [378: Old Labor and New Media](#session378)
@@ -94,14 +94,14 @@ Friday, 6 January 2012
 Saturday, 7 January 2012
 -------------------------
 
-###  8:30 – 9:45 a.m.
+### 8:30 – 9:45 a.m.
 
 - [410: Reconfiguring the Literary: Narratives, Methods, Theories](#session410)
 - [421: Rhetorical Historiography and the Digital Humanities](#session421)
 - [422: Public Intellectuals and the Question of Media](#session422)
 - [425: Composing New Partnerships in the Digital Humanities](#session425)
 
-###  10:15 – 11:30 a.m.
+### 10:15 – 11:30 a.m.
 
 - [ 428: Technology and Chinese Literature and Language](#session428)
 - [ 429: New Directions in Earlier Tudor Drama](#session429)
@@ -109,7 +109,7 @@ Saturday, 7 January 2012
 - [ 444: Preservation Is (Not) Just Another Word for Nothing Left to Lose](#session444)
 - [450: Digital Faulkner: William Faulkner and Digital Humanities](#session450)
 
-###  12:00 noon – 1:15 p.m.
+### 12:00 noon – 1:15 p.m.
 
 - [467: The Future of Teaching](#session467)
 - [468: Networks, Maps, and Words: Digital-Humanities Approaches to the Archives of American Slavery](#session468)
@@ -118,17 +118,17 @@ Saturday, 7 January 2012
 - [487: Context versus Convenience: Teaching Contemporary Business Communication through Digital Media](#session487)
 - [490: Reconfiguring the Scholarly Edition](#session490)
 
-###  1:45 – 3:00 p.m.
+### 1:45 – 3:00 p.m.
 
 - [513: Principles of Exclusion: The Future of the Nineteenth-Century Archive](#sessin513)
 - [532: Reading Writing Interfaces: Electronic Literature's Past and Present](#session532)
 
-###  3:30 – 4:45 p.m.
+### 3:30 – 4:45 p.m.
 
 - [539: #alt-ac: Alternative Paths, Pitfalls, and Jobs in the Digital Humanities](#session539)
 - [566: Ending the Edition](#session566)
 
-###  5:15 – 6:30 p.m.
+### 5:15 – 6:30 p.m.
 
 - [581: Digital Humanities versus New Media](#session581)
 - [595: #alt-ac: The Future of "Alternative Academic" Careers](#session595)
@@ -138,22 +138,22 @@ Saturday, 7 January 2012
 Sunday, 8 January 2012
 -----------------------
 
-###  8:30 – 9:45 a.m.
+### 8:30 – 9:45 a.m.
 
 - [ 636: Not What We Thought: Representations of the Digital Everyday](#session636)
 
-###  10:15 – 11:30 a.m.
+### 10:15 – 11:30 a.m.
 
 - [658: The Literary Archive in an Age of Quantification: Evidence, Method, Imagination](#session658)
 - [665: Debates in the Digital Humanities](#session665)
 - [674: Giving It Away: Sharing and the Future of Scholarly Communication](#session674)
 
-###  12:00 noon – 1:15 p.m.
+### 12:00 noon – 1:15 p.m.
 
 - [ 691: Gertrude Stein and Music](#session691)
 - [ 716: Digital Material](#session716)
 
-###  1:45 – 3:00 p.m.
+### 1:45 – 3:00 p.m.
 
 - [730: New Media Narratives and Old Prose Fiction](#session730)
 - [736: Close Playing: Literary Methods and Video Game Studies](#session736)
@@ -161,7 +161,7 @@ Sunday, 8 January 2012
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-###  <a name="session1">1. Evaluating Digital Work for Tenure and Promotion: A Workshop for Evaluators and Candidates</a><a name="session1"></a>
+### <a name="session1">1. Evaluating Digital Work for Tenure and Promotion: A Workshop for Evaluators and Candidates</a><a name="session1"></a>
 
 Thursday, 5 January 2012, 8:30-11:30 a.m., Willow A, Sheraton
 
@@ -171,7 +171,7 @@ The workshop will provide materials and facilitated discussion about evaluating 
 
 - - - - - -
 
-###  <a name="session9">9. Large Digital Libraries: Beyond Google Books</a>
+### <a name="session9">9. Large Digital Libraries: Beyond Google Books</a>
 
 Thursday, 5 January 2012, 12:00 noon–1:15 p.m., 611, WSCC
 
@@ -185,7 +185,7 @@ Aside from Google Books, the two principal repositories for digitized books are 
 
 - - - - - -
 
-###  <a name="session12">12. Transmedia Stories and Literary Games</a>
+### <a name="session12">12. Transmedia Stories and Literary Games</a>
 
 Thursday, 5 January 2012, 12:00 noon–1:15 p.m., 615, WSCC
 
@@ -199,7 +199,7 @@ For abstracts, visit www.stephanieboluk.com/docs/MLA\_2012\_abstracts.pdf.
 
 - - - - - -
 
-###  <a name="session34">34. The Future of Peer Review</a>
+### <a name="session34">34. The Future of Peer Review</a>
 
 Thursday, 5 January 2012, 12:00 noon–1:15 p.m., Issaquah, Sheraton
 
@@ -211,7 +211,7 @@ Presiding: Sean Scanlan, New York City Coll. of Tech., City Univ. of New York
 
 - - - - - -
 
-###  <a name="session41">41. Social Networks, Jewish Identity, and New Media</a>
+### <a name="session41">41. Social Networks, Jewish Identity, and New Media</a>
 
 Thursday, 5 January 2012, 1:45–3:00 p.m. University, Sheraton
 
@@ -223,7 +223,7 @@ Presiding: Jonathan S. Skolnik Univ. of Massachusetts, Amherst
 
 - - - - - -
 
-###  <a name="session47">47. Old Books and New Tools</a>
+### <a name="session47">47. Old Books and New Tools</a>
 
 Thursday, 5 January 2012, 1:45–3:00 p.m. 606, WSCC
 
@@ -237,7 +237,7 @@ For abstracts, see http://sarahwerner.net/blog/index.php/old-books-and-new-tools
 
 - - - - - -
 
-###  <a name="session52">52. Post-Operaismo, Techne, and the Common</a>
+### <a name="session52">52. Post-Operaismo, Techne, and the Common</a>
 
 Thursday, 5 January 2012, 1:45–3:00 p.m., 304, WSCC
 
@@ -250,7 +250,7 @@ Presiding: Robert A. Wilkie Univ. of Wisconsin, La Crosse
 
 - - - - - -
 
-###  <a name="session67">67. Race and Digital Humanities</a>
+### <a name="session67">67. Race and Digital Humanities</a>
 
 Thursday, 5 January 2012, 1:45–3:00 p.m., 611, WSCC  
 Presiding: Howard Rambsy Southern Illinois Univ.
@@ -263,7 +263,7 @@ For abstracts, write to hrambsy@siue.edu.
 
 - - - - - -
 
-###  <a name="session69">69. The Future of Higher Education</a>
+### <a name="session69">69. The Future of Higher Education</a>
 
 Thursday, 5 January 2012, 3:30–5:15 p.m. Grand C, Sheraton  
 Presiding: Kathleen Woodward Univ. of Washington, Seattle
@@ -277,7 +277,7 @@ Scholars from the human, natural, and computational sciences will address the fu
 
 - - - - - -
 
-###  <a name="session87">87. Digital Literary Studies: When Will It End?</a>
+### <a name="session87">87. Digital Literary Studies: When Will It End?</a>
 
 Thursday, 5 January 2012, 3:30–4:45 p.m. 304, WSCC  
 Presiding: David A. Golumbia Virginia Commonwealth Univ.
@@ -288,7 +288,7 @@ Presiding: David A. Golumbia Virginia Commonwealth Univ.
 
 - - - - - -
 
-###  <a name="session121">121. Writing the Jasmine Revolution and Tahrir Square: Graffiti, Film, Collage, Poetry</a>
+### <a name="session121">121. Writing the Jasmine Revolution and Tahrir Square: Graffiti, Film, Collage, Poetry</a>
 
 Thursday, 5 January 2012, 5:15–6:30 p.m., Cedar, Sheraton
 
@@ -302,7 +302,7 @@ For abstracts, write to klachman@llc.umass.edu.
 
 - - - - - -
 
-###  <a name="session125">125. What’s Still Missing? What Now? What Next? Digital Archives in American Literature</a>
+### <a name="session125">125. What’s Still Missing? What Now? What Next? Digital Archives in American Literature</a>
 
 Thursday, 5 January 2012, 5:15–6:30 p.m., 608, WSCC  
 Presiding: Brad Evans, Rutgers Univ., New Brunswick
@@ -313,7 +313,7 @@ This roundtable has two goals: (1) to provide a forum for reflection on the firs
 
 - - - - - -
 
-###  <a name="session150">150. Digital Humanities and Internet Research</a>
+### <a name="session150">150. Digital Humanities and Internet Research</a>
 
 Thursday, 5 January 2012, 7:00–8:15 p.m., 613, WSCC  
 Presiding: John Jones Univ. of Texas, Dallas
@@ -326,7 +326,7 @@ For abstracts, visit robin\_anne\_reid.dreamwidth.org.
 
 - - - - - -
 
-###  <a name="session161">161. The Webs We Weave: Online Pedagogy in Community Colleges</a>
+### <a name="session161">161. The Webs We Weave: Online Pedagogy in Community Colleges</a>
 
 Thursday, 5 January 2012, 7:00–8:15 p.m., 615, WSCC  
 Presiding: Linda Weinhouse, Community Coll. of Baltimore County, MD
@@ -338,7 +338,7 @@ Presiding: Linda Weinhouse, Community Coll. of Baltimore County, MD
 
 - - - - - -
 
-###  <a name="session187">187. Digital Humanities and Hispanism</a>
+### <a name="session187">187. Digital Humanities and Hispanism</a>
 
 Friday, 6 January 2012, 8:30–9:45 a.m. Grand A, Sheraton  
 Presiding: Kyra A. Kietrys Davidson Coll.
@@ -351,7 +351,7 @@ Demonstrations by Hispanists who use technology in their scholarship and teachin
 
 - - - - - -
 
-###  <a name="session202">202. The Presidential Forum: Language, Literature, Learning</a>
+### <a name="session202">202. The Presidential Forum: Language, Literature, Learning</a>
 
 Friday, 6 January 2012, 10:15 a.m.–12:00 noon, Metropolitan A, Sheraton  
 Presiding: Russell A. Berman, Stanford Univ.
@@ -366,7 +366,7 @@ The forum addresses three fundamental points of orientation for our profession: 
 
 - - - - - -
 
-###  <a name="session215">215. Digital South, Digital Futures</a>
+### <a name="session215">215. Digital South, Digital Futures</a>
 
 Friday, 6 January 2012, 10:15–11:30 a.m. 606, WSCC  
 Presiding: Vincent J. Brewton Univ. of North Alabama
@@ -380,7 +380,7 @@ For abstracts, visit http://ach.org/ach-sessions-2012-mla-convention after 20 De
 
 - - - - - -
 
-###  <a name="session217">217. Reconfiguring the Scholarly Editor: Textual Studies at the University of Washington, Seattle</a>
+### <a name="session217">217. Reconfiguring the Scholarly Editor: Textual Studies at the University of Washington, Seattle</a>
 
 Friday, 6 January 2012, 10:15–11:30 a.m., 613, WSCC  
 Presiding: Míceál Vaughan, Univ. of Washington, Seattle
@@ -392,7 +392,7 @@ Presiding: Míceál Vaughan, Univ. of Washington, Seattle
 
 - - - - - -
 
-###  <a name="session249">249. Building Digital Humanities in the Undergraduate Classroom</a>
+### <a name="session249">249. Building Digital Humanities in the Undergraduate Classroom</a>
 
 Friday, 6 January 2012, 12:00 noon–1:15 p.m. Grand A, Sheraton  
 Presiding: Kathi Inman Berens Univ. of Southern California
@@ -405,7 +405,7 @@ This electronic roundtable assumes that “building stuff” is foundational to 
 
 - - - - - -
 
-###  <a name="session259">259. Representation in the Shadow of New Media Technologies</a>
+### <a name="session259">259. Representation in the Shadow of New Media Technologies</a>
 
 Friday, 6 January 2012, 12:00 noon–1:15 p.m., 304, WSCC  
 Presiding: Lan Dong Univ. of Illinois, Springfield
@@ -416,7 +416,7 @@ Presiding: Lan Dong Univ. of Illinois, Springfield
 
 - - - - - -
 
-###  <a name="session276">276. Getting Funded in the Humanities: An NEH Workshop</a>
+### <a name="session276">276. Getting Funded in the Humanities: An NEH Workshop</a>
 
 Friday, 6 January 2012, 1:30–3:30 p.m. 3B, WSCC  
 Presiding: Jason C. Rhody National Endowment for the Humanities
@@ -425,7 +425,7 @@ This workshop will highlight recent awards and outline current funding opportuni
 
 - - - - - -
 
-###  <a name="session301">301. Reconfiguring Publishing</a>
+### <a name="session301">301. Reconfiguring Publishing</a>
 
 Friday, 6 January 2012, 1:45–3:00 p.m., Grand A, Sheraton  
 Presiding: Carolyn Guertin Univ. of Texas, Arlington; William Thompson Western Illinois Univ.
@@ -438,7 +438,7 @@ This session intends not to bury publishing but to raise awareness of its transf
 
 - - - - - -
 
-###  <a name="session315">315. The New Dissertation: Thinking outside the (Proto-)Book</a>
+### <a name="session315">315. The New Dissertation: Thinking outside the (Proto-)Book</a>
 
 Friday, 6 January 2012, 3:30–4:45 p.m., 606, WSCC  
 Presiding: Kathleen Woodward, Univ. of Washington, Seattle
@@ -449,7 +449,7 @@ In 2010 the Executive Council appointed a working group to explore the state of 
 
 - - - - - -
 
-###  <a name="session332">332. Digital Narratives and Gaming for Teaching Language and Literature</a>
+### <a name="session332">332. Digital Narratives and Gaming for Teaching Language and Literature</a>
 
 Friday, 6 January 2012, 3:30–4:45 p.m. Aspen, Sheraton  
 Presiding: Barbara Lafford Arizona State Univ.
@@ -462,7 +462,7 @@ Responding: Dave McAlpine Univ. of Arkansas, Little Rock
 
 - - - - - -
 
-###  <a name="session343">343. The Cultural Place of Nineteenth-Century Poetry</a>
+### <a name="session343">343. The Cultural Place of Nineteenth-Century Poetry</a>
 
 Friday, 6 January 2012, 3:30–4:45 p.m., 611, WSCC  
 Presiding: Charles P. LaPorte, Univ. of Washington, Seattle
@@ -473,7 +473,7 @@ Presiding: Charles P. LaPorte, Univ. of Washington, Seattle
 
 - - - - - -
 
-###  <a name="session349">349. Digital Pedagogy</a>
+### <a name="session349">349. Digital Pedagogy</a>
 
 Friday, 6 January 2012, 5:15–6:30 p.m., Grand A, Sheraton  
 Presiding: Katherine D. Harris San José State Univ.
@@ -484,7 +484,7 @@ Discussions about digital projects and digital tools often focus on research goa
 
 - - - - - -
 
-###  <a name="session378">378. Old Labor and New Media</a>
+### <a name="session378">378. Old Labor and New Media</a>
 
 Friday, 6 January 2012, 5:15–6:30 p.m., 608, WSCC  
 Presiding: Alison Shonkwiler Rhode Island Coll.
@@ -497,7 +497,7 @@ Responding: Seth Perlow Cornell Univ.
 
 - - - - - -
 
-###  <a name="session410">410. Reconfiguring the Literary: Narratives, Methods, Theories</a>
+### <a name="session410">410. Reconfiguring the Literary: Narratives, Methods, Theories</a>
 
 Saturday, 7 January 2012, 8:30–9:45 a.m. 608, WSCC  
 Presiding: Susan Schreibman Trinity Coll., Dublin
@@ -510,7 +510,7 @@ This roundtable will include projects that show how notions of the literary (nar
 
 - - - - - -
 
-###  <a name="session421">421. Rhetorical Historiography and the Digital Humanities</a>
+### <a name="session421">421. Rhetorical Historiography and the Digital Humanities</a>
 
 Saturday, 7 January 2012, 8:30–9:45 a.m., 611, WSCC  
 Presiding: Janice Fernheimer Univ. of Kentucky
@@ -521,7 +521,7 @@ Presiding: Janice Fernheimer Univ. of Kentucky
 
 - - - - - -
 
-###  <a name="session422">422. Public Intellectuals and the Question of Media</a>
+### <a name="session422">422. Public Intellectuals and the Question of Media</a>
 
 Saturday, 7 January 2012, 8:30–9:45 a.m. 310, WSCC  
 Presiding: Brian J. Norman Loyola Univ., Baltimore
@@ -535,7 +535,7 @@ Responding: Hortense Jeanette Spillers Vanderbilt Univ.
 
 - - - - - -
 
-###  <a name="session425">425. Composing New Partnerships in the Digital Humanities</a>
+### <a name="session425">425. Composing New Partnerships in the Digital Humanities</a>
 
 Saturday, 7 January 2012, 8:30–9:45 a.m., 606, WSCC  
 Presiding: Catherine Jean Prendergast Univ. of Illinois, Urbana
@@ -546,7 +546,7 @@ The objective of this roundtable is to facilitate interactions between digital h
 
 - - - - - -
 
-###  <a name="session428">428. Technology and Chinese Literature and Language</a>
+### <a name="session428">428. Technology and Chinese Literature and Language</a>
 
 Saturday, 7 January 2012, 10:15–11:30 a.m., Boren, Sheraton  
 Presiding: Xiaoping Song Norwich Univ.
@@ -560,7 +560,7 @@ For abstracts, write to xsong@norwich.edu.
 
 - - - - - -
 
-###  <a name="session429">429. New Directions in Earlier Tudor Drama</a>
+### <a name="session429">429. New Directions in Earlier Tudor Drama</a>
 
 Saturday, 7 January 2012, 10:15–11:30 a.m., 306, WSCC  
 Presiding: Maura Giles Watson Univ. of Nebraska, Lincoln; Erin E. Kelly Univ. of Victoria
@@ -572,7 +572,7 @@ Presiding: Maura Giles Watson Univ. of Nebraska, Lincoln; Erin E. Kelly Univ. of
 
 - - - - - -
 
-###  <a name="session442">442. New Media, New Pedagogies</a>
+### <a name="session442">442. New Media, New Pedagogies</a>
 
 Saturday, 7 January 2012, 10:15–11:30 a.m., 613, WSCC  
 Presiding: Rebecca L. Walkowitz Rutgers Univ., New Brunswick
@@ -583,7 +583,7 @@ Presiding: Rebecca L. Walkowitz Rutgers Univ., New Brunswick
 
 - - - - - -
 
-###  <a name="session444">444. Preservation Is (Not) Just Another Word for Nothing Left to Lose</a>
+### <a name="session444">444. Preservation Is (Not) Just Another Word for Nothing Left to Lose</a>
 
 Saturday, 7 January 2012, 10:15–11:30 a.m., 307, WSCC  
 Presiding: Robert H. Kieft, Occidental Coll.
@@ -598,7 +598,7 @@ The speakers will discuss the preservation of texts as a core purpose of librari
 
 - - - - - -
 
-###  <a name="session450">450. Digital Faulkner: William Faulkner and Digital Humanities</a>
+### <a name="session450">450. Digital Faulkner: William Faulkner and Digital Humanities</a>
 
 Saturday, 7 January 2012, 10:15–11:30 a.m. 615, WSCC  
 Presiding: Steven Knepper Univ. of Virginia
@@ -611,7 +611,7 @@ A roundtable on digital humanities and its implications for teaching and scholar
 
 - - - - - -
 
-###  <a name="session467">467. The Future of Teaching</a>
+### <a name="session467">467. The Future of Teaching</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m., Grand C, Sheraton  
 Presiding: Priscilla B. Wald, Duke Univ.
@@ -625,7 +625,7 @@ This session features innovative advanced doctoral students and junior scholars 
 
 - - - - - -
 
-###  <a name="session468">468. Networks, Maps, and Words: Digital-Humanities Approaches to the Archive of American Slavery</a>
+### <a name="session468">468. Networks, Maps, and Words: Digital-Humanities Approaches to the Archive of American Slavery</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m. 615, WSCC  
 Presiding: Lauren Klein Georgia Inst. of Tech.
@@ -638,7 +638,7 @@ Responding: Amy Earhart Texas A&amp;M Univ., College Station
 
 - - - - - -
 
-###  <a name="session479">479. Digital Humanities in the Italian Context</a>
+### <a name="session479">479. Digital Humanities in the Italian Context</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m. Cedar, Sheraton  
 Presiding: Manuela Marchesini Texas A&amp;M Univ., College Station
@@ -652,7 +652,7 @@ For abstracts, write to mmarchesini@tamu.edu after 19 Dec.
 
 - - - - - -
 
-###  <a name="session482">482. Of Kings’ Treasuries and the E-Protean Invasion: The Evolving Nature of Scholarly Research</a>
+### <a name="session482">482. Of Kings’ Treasuries and the E-Protean Invasion: The Evolving Nature of Scholarly Research</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m., 613, WSCC  
 Presiding: Jude V. Nixon, Salem State Univ.
@@ -663,8 +663,7 @@ This roundtable addresses the veritable explosion of emerging technologies (Goog
 
 - - - - - -
 
-###    
-<a name="session487">487. Context versus Convenience: Teaching Contemporary Business Communication through Digital Media</a>
+### <a name="session487">487. Context versus Convenience: Teaching Contemporary Business Communication through Digital Media</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m., 306, WSCC  
 Presiding: Mahli Xuan Mechenbier, Kent State Univ.
@@ -675,7 +674,7 @@ Presiding: Mahli Xuan Mechenbier, Kent State Univ.
 
 - - - - - -
 
-###  <a name="session490">490. Reconfiguring the Scholarly Edition</a>
+### <a name="session490">490. Reconfiguring the Scholarly Edition</a>
 
 Saturday, 7 January 2012, 12:00 noon–1:15 p.m., 611, WSCC  
 Presiding: Susan Schreibman, Trinity Coll. Dublin
@@ -686,7 +685,7 @@ New theories of editing have broadened the approaches available to editors of sc
 
 - - - - - -
 
-###  <a name="sessin513">513. Principles of Exclusion: The Future of the Nineteenth-Century Archive</a>
+### <a name="sessin513">513. Principles of Exclusion: The Future of the Nineteenth-Century Archive</a>
 
 Saturday, 7 January 2012, 1:45–3:00 p.m., 611, WSCC  
 Presiding: Lloyd P. Pratt, Univ. of Oxford, Linacre Coll.
@@ -697,7 +696,7 @@ Presiding: Lloyd P. Pratt, Univ. of Oxford, Linacre Coll.
 
 - - - - - -
 
-###  <a name="session532">532. Reading Writing Interfaces: Electronic Literature’s Past and Present</a>
+### <a name="session532">532. Reading Writing Interfaces: Electronic Literature’s Past and Present</a>
 
 Saturday, 7 January 2012, 1:45–3:00 p.m. 613, WSCC  
 Presiding: Marjorie Luesebrink Irvine Valley Coll., CA
@@ -711,7 +710,7 @@ For abstracts, visit http://loriemerson.net/2011/10/04/mla-2012-special-session/
 
 - - - - - -
 
-###  <a name="session539">539. #alt-ac: Alternative Paths, Pitfalls, and Jobs in the Digital Humanities</a>
+### <a name="session539">539. #alt-ac: Alternative Paths, Pitfalls, and Jobs in the Digital Humanities</a>
 
 Saturday, 7 January 2012, 3:30–4:45 p.m. 3B, WSCC  
 Presiding: Sara Steger Univ. of Georgia
@@ -722,7 +721,7 @@ This roundtable brings together various perspectives on alternative academic car
 
 - - - - - -
 
-###  <a name="session566">566. Ending the Edition</a>
+### <a name="session566">566. Ending the Edition</a>
 
 Saturday, 7 January 2012, 3:30–4:45 p.m., 303, WSCC  
 Presiding: Carol DeBoer-Langworthy, Brown Univ.
@@ -733,7 +732,7 @@ Presiding: Carol DeBoer-Langworthy, Brown Univ.
 
 - - - - - -
 
-###  <a name="session581">581. Digital Humanities versus New Media</a>
+### <a name="session581">581. Digital Humanities versus New Media</a>
 
 Saturday, 7 January 2012, 5:15–6:30 p.m., 611, WSCC
 
@@ -746,7 +745,7 @@ For abstracts, visit www.duke.edu/~ves4/mla2012.
 
 - - - - - -
 
-###  <a name="session595">595. #alt-ac: The Future of “Alternative Academic” Careers</a>
+### <a name="session595">595. #alt-ac: The Future of “Alternative Academic” Careers</a>
 
 Saturday, 7 January 2012, 5:15–6:30 p.m., 3B, WSCC  
 Presiding: Bethany Nowviskie, Univ. of Virginia
@@ -757,7 +756,7 @@ In increasing numbers, scholars are pursuing careers as “alternative academics
 
 - - - - - -
 
-###  <a name="session603">603. Innovative Pedagogy and Research in Technical Communication</a>
+### <a name="session603">603. Innovative Pedagogy and Research in Technical Communication</a>
 
 Saturday, 7 January 2012, 5:15–6:30 p.m., 615, WSCC  
 Presiding: William Klein Univ. of Missouri, St. Louis
@@ -770,7 +769,7 @@ For abstracts, write to bill\_klein@umsl.edu.
 
 - - - - - -
 
-###  <a name="session606">606. Text:Image Visual Studies in the English Major</a>
+### <a name="session606">606. Text:Image Visual Studies in the English Major</a>
 
 Saturday, 7 January 2012, 5:15–6:30 p.m., 304, WSCC  
 Presiding: Meg Roland, Marylhurst Univ.
@@ -784,7 +783,7 @@ For abstracts, write to mroland@marylhurst.edu.
 
 - - - - - -
 
-###  <a name="session636">636. Not What We Thought: Representations of the Digital Everyday</a>  
+### <a name="session636">636. Not What We Thought: Representations of the Digital Everyday</a>  
 
 
 Sunday, 8 January 2012, 8:30–9:45 a.m., 307, WSCC  
@@ -796,7 +795,7 @@ Presiding: Mark Bresnan New York Univ.
 
 - - - - - -
 
-###  <a name="session658">658. The Literary Archive in an Age of Quantification: Evidence, Method, Imagination</a>
+### <a name="session658">658. The Literary Archive in an Age of Quantification: Evidence, Method, Imagination</a>
 
 Sunday, 8 January 2012, 10:15–11:30 a.m., 307, WSCC  
 Presiding: Justine S. Murison Univ. of Illinois, Urbana
@@ -809,7 +808,7 @@ Responding: Justine S. Murison
 
 - - - - - -
 
-###  <a name="session665">665. Debates in the Digital Humanities</a>
+### <a name="session665">665. Debates in the Digital Humanities</a>
 
 Sunday, 8 January 2012, 10:15–11:30 a.m. 615, WSCC  
 Presiding: Alexander Reid Univ. at Buffalo, State Univ. of New York
@@ -823,7 +822,7 @@ For abstracts and discussion, visit dhdebatesmla12.wordpress.com/.
 
 - - - - - -
 
-###  <a name="session674">674. Giving It Away: Sharing and the Future of Scholarly Communication</a>
+### <a name="session674">674. Giving It Away: Sharing and the Future of Scholarly Communication</a>
 
 Sunday, 8 January 2012, 10:15–11:30 a.m., Willow A, Sheraton  
 Presiding: Nicholas Birns, New School
@@ -832,7 +831,7 @@ Presiding: Nicholas Birns, New School
 
 - - - - - -
 
-###  <a name="session691">691. Gertrude Stein and Music</a>
+### <a name="session691">691. Gertrude Stein and Music</a>
 
 Sunday, 8 January 2012, 12:00 noon–1:15 p.m., Cedar, Sheraton  
 Presiding: Jeff Dailey, Five Towns Coll.
@@ -846,7 +845,7 @@ For abstracts, visit www.lyricasociety.org.
 
 - - - - - -
 
-###  <a name="session716">716. Digital Material</a>
+### <a name="session716">716. Digital Material</a>
 
 Sunday, 8 January 2012, 12:00 noon–1:15 p.m., 613, WSCC  
 Presiding: Charles M. Tung Seattle Univ.; Benjamin Widiss Princeton Univ.
@@ -859,7 +858,7 @@ Is there gravity in digital worlds? Moving beyond both lamentations and celebrat
 
 - - - - - -
 
-###  <a name="session730">730. New Media Narratives and Old Prose Fiction</a>
+### <a name="session730">730. New Media Narratives and Old Prose Fiction</a>
 
 Sunday, 8 January 2012, 1:45–3:00 p.m., 310, WSCC  
 Presiding: Amy J. Elias Univ. of Tennessee, Knoxville
@@ -870,8 +869,7 @@ Presiding: Amy J. Elias Univ. of Tennessee, Knoxville
 
 - - - - - -
 
-###    
-<a name="session736">736. Close Playing: Literary Methods and Video Game Studies</a>
+### <a name="session736">736. Close Playing: Literary Methods and Video Game Studies</a>
 
 Sunday, 8 January 2012, 1:45–3:00 p.m., University, Sheraton  
 Presiding: Mark L. Sample George Mason Univ.
@@ -884,7 +882,7 @@ This roundtable moves beyond the games-versus-stories dichotomy to explore the f
 
 - - - - - -
 
-###  <a name="session738">738. Textual Remediation in the Digital Age</a>
+### <a name="session738">738. Textual Remediation in the Digital Age</a>
 
 Sunday, 8 January 2012, 1:45–3:00 p.m., 307, WSCC  
 Presiding: Andrew M. Stauffer, Univ. of Virginia

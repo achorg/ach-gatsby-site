@@ -8,7 +8,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 
 Although the 1999 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>The Impact of Technology
+The Impact of Technology
 ------------------------
 
 Presiding: Julia H. Flanders, Brown University
@@ -27,7 +27,7 @@ In general terms, the impact of technology on academic work has become a familia
 
 > This paper describes the challenges and effects of using a listserv as a writing and discussion space in literature courses. The author explores both the shifting intellectual dynamic of the class, and also the subtle alteration of the students’ subject positions, in response to the change in discursive space. Situating these issues in relation to the work of theorists like Stanley Fish, Katherine Hayles, and Sherry Turkle, the author cautiously assesses the usefulness of these models for understanding the pedagogical impact of creating a digital writing community.
 
-</div><div>The `New’ Computer-Assisted Literary Criticism: What Does it Look Like? What Will it Look Like?
+The `New’ Computer-Assisted Literary Criticism: What Does it Look Like? What Will it Look Like?
 -----------------------------------------------------------------------------------------------
 
 Presiding: Raymond G. Siemens, Malaspina University-College
@@ -88,5 +88,3 @@ Session 296, Tuesday, 28 December 1999, 1:45 to 3:00 p.m., Field Room, Hyatt Reg
 > And indeed there are costs associated with this new medium which will govern, to a large extent, the scope and content of archives: copyright costs, the production of machine-readable versions of texts, the cost of digitising images, hardware, software, etc. One’s ideal archive is governed by a balancing of costs, and tradeoffs, such as deeper encoding vs encoding of a greater number of texts, will play a significant part in the creation of resources.
 > 
 > In addition, the searching, retrieval and display of objects in a digital archive will, by default, reflect the bias of both the editor/author and the system designer. Yet, unlike critical theory presented in a two-dimensional space, much of the bias will be invisible to the user, as it will be buried for example, in SGML or XML encoding, . Thus there will be new challenges in learning to “read” this new model of literary discourse, which will, in turn, no doubt, foster new theoretical modes.
-
-</div>

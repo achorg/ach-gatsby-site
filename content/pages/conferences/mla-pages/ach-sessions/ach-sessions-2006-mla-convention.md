@@ -8,7 +8,7 @@ We also offer a [guide to all digital humanities sessions at the convention](?q=
 
 Although the 2006 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>Digital Medievalism and the Single Scholar
+Digital Medievalism and the Single Scholar
 ------------------------------------------
 
 Thursday, 28 December 2006, 1:45–3:00 p.m., Grand Ballroom Salon K, Philadelphia Marriott
@@ -27,7 +27,7 @@ Presiding: Dorothy Porter, Collaboratory for Research in Computing for Humanitie
 
 > For most of its history, the study of medieval and renaissance literature has been an amateur pursuit. Amateur antiquaries tended to be trained philologists: college fellows, clergymen, and gentlemen of independent means with strong ties to the universities where books and manuscripts were deposited. Digital antiquaries working today are similarly tethered to universities, often professors whose work extends beyond the professional pale. Now as then, antiquaries respond to the stigma attached to supposedly trivial subjects by pursuing commercial and self-publication. It remains the antiquary’s business to make hidden knowledge accessible and ephemeral knowledge permanent. While digital publication makes it easy to get obscure knowledge out, it makes it harder to render it permanent since digital media are themselves so ephemeral. For the earlier success is to be repeated, much will depend on the willingness of antiquaries to master the ways of alternative publication and libraries to archive their work.
 
-</div><div><div>Editing’s Cultural Work: Building the Electronic New Variorum Shakespeare
+Editing’s Cultural Work: Building the Electronic New Variorum Shakespeare
 -------------------------------------------------------------------------
 
 Saturday, 30 December 2006, 12:00 noon–1:15 p.m., 308, Philadelphia Marriott
@@ -38,4 +38,3 @@ Presiding: Alan Galey, University of Alberta
 - “How Does the Scholar Think? ModelingEditorial Work in the Electronic New Variorum Shakespeare”, Julia Flanders, Brown University
 - “Electronic Monuments: The Digital Variorum and Theories of the Archive”, Alan Galey, University of Alberta
 
-</div></div>

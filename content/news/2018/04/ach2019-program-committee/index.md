@@ -3,7 +3,7 @@ title: 'ACH2019 Program Committee'
 date: '2018-04-26'
 author: 'Jen Guiliano'
 ---
-<span style="font-weight: 400;">The Association for Computers and the Humanities, in conjunction with our partners at Carnegie Mellon University, Duquesne University, and the University of Pittsburgh are delighted to announce the program committee for the ACH2019 conference:</span>
+The Association for Computers and the Humanities, in conjunction with our partners at Carnegie Mellon University, Duquesne University, and the University of Pittsburgh are delighted to announce the program committee for the ACH2019 conference:
 
 Heather Froehlich, [Digital Scholarship Fellow](https://hfroehli.ch/) in Text Analysis and an Assistant Librarian at Penn State University.
 

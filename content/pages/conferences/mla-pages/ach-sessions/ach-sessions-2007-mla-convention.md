@@ -8,7 +8,7 @@ We also offer a [guide to all digital-humanities sessions at the convention](?q=
 
 Although the 2007 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>The Challenge of a Million Books (session 21)
+The Challenge of a Million Books (session 21)
 ---------------------------------------------
 
 Thursday, 27 December 2007, 3:30–4:45 p.m., Grand Suite 2, Hyatt Regency.
@@ -19,7 +19,7 @@ Presiding: Arno Bosse, University of Chicago.
 - “Mining Millions of Metaphors,” Brad Pasanek, University of Southern California; D. Sculley, Tufts University
 - “You Know It When You Feel It: Assisted Machine Learning and Patterns of Sentimentality,” Sara Steger, University of Georgia
 
-</div><div>New Reading Interfaces (session 250)
+New Reading Interfaces (session 250)
 ------------------------------------
 
 Friday, 28 December 2007, noon–1:15 p.m., Missouri, Sheraton Chicago.
@@ -33,5 +33,3 @@ Presiding: Elizabeth Swanstrom, University of California, Santa Barbara.
 - “Texts in Virtual Contexts: Reading Scholarly Work in 3-D Environments,” Victoria E. Szabo, Duke University
 
 For copies of abstracts, see [www.english.ucsb.edu/faculty/rraley/research/conferences/ACH07.html](http://www.english.ucsb.edu/faculty/rraley/research/conferences/ACH07.html).
-
-</div>

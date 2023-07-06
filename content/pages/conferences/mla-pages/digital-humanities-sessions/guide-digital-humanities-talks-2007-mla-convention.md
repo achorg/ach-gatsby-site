@@ -15,98 +15,98 @@ Corrections and additions are welcome; please send them to John.Lavagnino at kcl
 
 - - - - - -
 
-<div> Summary of Sessions
+Summary of Sessions
 --------------------
 
-<div>###  Thursday, 27 December 2007
+### Thursday, 27 December 2007
 
-<div>####  3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [13: Kafka Now: Kafka and Popular Culture](#session13)
 - [21: The Challenge of a Million Books](#session21)
 
-</div><div>####  5:15–6:30 p.m.
+#### 5:15–6:30 p.m.
 
 - [66: Open Digital Communities](#session66)
 - [72: Performance and Technology: Techniques of Embodiment](#session72)
 - [73: Corpus-Based Applied Linguistics Research](#session73)
 - [79: Persuasive Games](#session79)
 
-</div><div>####  7:00–8:15 p.m.
+#### 7:00–8:15 p.m.
 
 - [98: Reconstructing Whitman: The Rhetoric of Recovery](#session98)
 - [102: Class, Inequality, and the Digital](#session102)
 - [105: Cosmofeminisms](#session105)
 - [120: Teaching in Changing Technological Environments](#session120)
 
-</div><div>####  8:45–10:00 p.m.
+#### 8:45–10:00 p.m.
 
 - [131: Film and the History of Technology](#session131)
 
-</div></div><div>###  Friday, 28 December 2007
+### Friday, 28 December 2007
 
-<div>####  8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [159: Got ECCO? The Contents and Discontents of Electronic Media for Early Modern Studies](#session159)
 - [174: Free Culture: Intellectual Property and Restricted Archives](#session174)
 - [177: The Electronic New Variorum Shakespeare](#session177)
 - [183: Writing Empires: Composition and the Expansion of English](#session183)
 
-</div><div>####  10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [212: Using Digital Archives](#session212)
 - [215: Novel History, Media History](#session215)
 
-</div><div>####  Noon–1:15 p.m.
+#### Noon–1:15 p.m.
 
 - [224: Roundtable on Editing Collections of Poetry](#session224)
 - [228: Editing Sound](#session228)
 - [244: Romantic Futures: *Romantic Circles* at the Start of Its Second Decade](#session244)
 - [250: New Reading Interfaces](#session250)
 
-</div><div>####  1:45–3:00 or 3:30 p.m.
+#### 1:45–3:00 or 3:30 p.m.
 
 - [256: Professionalization in a Digital Age](#session256)
 - [261: Lyricism in Modern East Asian Literatures](#session261)
 - [273: Psychoanalysis and Relational Space](#session273)
 - [279: Teaching Strategies for the New Millennial Business Writing Classroom](#session279)
 
-</div><div>####  3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [298: Training Teaching Assistants for the Future: Current Issues on Curricular Shifts at Public Institutions](#session298)
 - [317: Electronic Literature: Reading, Writing, Navigating](#session317)
 - [324: Brave New World: Digital Scholarship and the Future of Early American Studies](#session324)
 - [329: Breaking into Print: Multicultural Authors and Independent Publishers](#session329)
 
-</div><div>####  7:15–8:30 p.m.
+#### 7:15–8:30 p.m.
 
 - [361: Textual Visualization](#session361)
 - [373: Scholarship in New Media](#session373)
 - [376: Performance and Technology: Writing and Speaking as Techne](#session376)
 
-</div></div><div>###  Saturday, 29 December 2007
+### Saturday, 29 December 2007
 
-<div>####  8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [402: Early Modern Research in the Digital Age](#session402)
 - [408: Networks: Interrelationships Characterizing the Subjects We Study and Our Methods of Studying Them](#session408)
 
-</div><div>####  10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [432: The Josephine A. Roberts Forum: E-Editing in Corpora](#session432)
 - [446: Methods for Making Technical Communication Research Meaningful for Learners: Using Technical Communication Research to Instruct](#session446)
 - [455: Literary Geospaces](#session455)
 
-</div><div>####  Noon–1:15 p.m.
+#### Noon–1:15 p.m.
 
 - [472: Keywords for a Digital Profession](#session472)
 - [483: Morris as Metatext: Manuscripts, Print Forms, and Illustrations](#session483)
 
-</div><div>####  1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [523: Archive Trouble](#session523)
 
-</div><div>####  3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [535: Teaching Undergraduate Linguistics](#session535)
 - [541: Electronic Literature: After Afternoon](#session541)
@@ -114,40 +114,40 @@ Corrections and additions are welcome; please send them to John.Lavagnino at kcl
 - [560: The Ends of Cinema in the Digital Age](#session560)
 - [561: Performance and Technology: Performing Machines](#session561)
 
-</div><div>####  5:15–6:30 p.m.
+#### 5:15–6:30 p.m.
 
 - [581: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project](#session581)
 
-</div><div>####  7:15–8:30 p.m.
+#### 7:15–8:30 p.m.
 
 - [592: New Poetic Archives](#session592)
 - [601: Voice as Sound: The Material Voice in Discourses on Bodies and Media](#session601)
 - [607: Poetry and Globalization](#session607)
 
-</div><div>####  9:00–10:15 p.m.
+#### 9:00–10:15 p.m.
 
 - [649: Sampling the Original: Rethinking Appropriation, Attribution, and Copyright](#session649)
 
-</div></div><div>###  Sunday, 30 December 2007
+### Sunday, 30 December 2007
 
-<div>####  8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [660: Editing and Interpreting in the Digital Age](#session660)
 - [662: The Novel and/as Written Testimony](#session662)
 - [678: “Bartleby,” Resistance, and the City of Immaterial Labor](#session678)
 
-</div><div>####  10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [704: Literary Criticism for the Twenty-First Century: Topology, Politics, Mind](#session704)
 
-</div><div>####  1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [747: New Approaches to *Endgame*](#session747)
 - [757: How Revolutionary Are We? Current Issues on Curricular Shifts at Private Institutions](#session757)
 
-</div></div></div>- - - - - -
+- - - - - -
 
-<div> <a name="session13">13</a>: Kafka Now: Kafka and Popular Culture
+ <a name="session13">13</a>: Kafka Now: Kafka and Popular Culture
 -----------------------------------------------------------------
 
 Thursday, 27 December 2007, 3:30–4:45 p.m., Parlor C, Sheraton Chicago.
@@ -160,7 +160,7 @@ Presiding: Judith L. Ryan, Harvard University
 - “Their Take on Kafka Now: Recent Kafka Adaptations on the New York Stage,” Marie Luise Caputo-Mayr, Temple University
 - “Extraterrestrial Kafka,” Henry S. Sussman, University at Buffalo, State University of New York
 
-</div><div> <a name="session21">21</a>: The Challenge of a Million Books
+ <a name="session21">21</a>: The Challenge of a Million Books
 -------------------------------------------------------------
 
 Thursday, 27 December 2007, 3:30–4:45 p.m., Grand Suite 2, Hyatt Regency.
@@ -173,9 +173,9 @@ Presiding: Arno Bosse, University of Chicago
 - “Mining Millions of Metaphors,” Brad Pasanek, University of Southern California; D. Sculley, Tufts University
 - “You Know It When You Feel It: Assisted Machine Learning and Patterns of Sentimentality,” Sara Steger, University of Georgia
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session66">66</a>: Open Digital Communities
+ <a name="session66">66</a>: Open Digital Communities
 -----------------------------------------------------
 
 Thursday, 27 December 2007, 5:15–6:30 p.m., Columbus Hall G, Hyatt Regency.
@@ -190,7 +190,7 @@ Presiding: Geoffrey Rockwell, McMaster University
 
 Respondent: David G. Nicholls, MLA
 
-</div><div> <a name="session72">72</a>: Performance and Technology: Techniques of Embodiment
+ <a name="session72">72</a>: Performance and Technology: Techniques of Embodiment
 ---------------------------------------------------------------------------------
 
 Thursday, 27 December 2007, 5:15–6:30 p.m., Stetson B and C, Hyatt Regency.
@@ -203,7 +203,7 @@ Presiding: Elin Diamond, Rutgers University, New Brunswick
 - “Working Hard to Get My Fill: The Desiring Body in Video Games,” Derek A. Burrill, University of California, Riverside
 - “On Gestic Technology: Brecht beyond Biomechanics,” Devin A. Fore, Princeton University
 
-</div><div> <a name="session73">73</a>: Corpus-Based Applied Linguistics Research
+ <a name="session73">73</a>: Corpus-Based Applied Linguistics Research
 ----------------------------------------------------------------------
 
 Thursday, 27 December 2007, 5:15–6:30 p.m., Ohio, Sheraton Chicago.
@@ -214,7 +214,7 @@ Program arranged by the Division on Applied Linguistics
 - “Data-Driven Learning: Concordances and Collocations in the Acquisition of Spanish Phrasal Verbs,” Carmen Schlig, Georgia State University
 - “The Persuasive Power of Conditionals,” Ilona Vandergriff, San Francisco State University
 
-</div><div> <a name="session79">79</a>: Persuasive Games
+ <a name="session79">79</a>: Persuasive Games
 ---------------------------------------------
 
 Thursday, 27 December 2007, 5:15–6:30 p.m., Toronto, Hyatt Regency.
@@ -227,9 +227,9 @@ Presiding: Rita M. Raley, University of California, Santa Barbara
 - “War Games,” Rita M. Raley
 - “Guy Debord’s ‘Kriegspiel’: Nostalgic Algorithms in Late Modernity,” Alexander Galloway, New York University
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session98">98</a>: Reconstructing Whitman: The Rhetoric of Recovery
+ <a name="session98">98</a>: Reconstructing Whitman: The Rhetoric of Recovery
 -----------------------------------------------------------------------------
 
 Thursday, 27 December 2007, 7:00–8:15 p.m., Grand Suite 2, Hyatt Regency.
@@ -242,7 +242,7 @@ Presiding: Jay Grossman, Northwestern University
 - “Whitman, Sexual Democracy, and ‘The U.S.A. School of Writing,’” Vivian R. Pollak, Washington University
 - “Reconstructing Whitman’s Poetry Manuscripts,” Kenneth M. Price, University of Nebraska, Lincoln
 
-</div><div> <a name="session102">102</a>: Class, Inequality, and the Digital
+ <a name="session102">102</a>: Class, Inequality, and the Digital
 -----------------------------------------------------------------
 
 Thursday, 27 December 2007, 7:00–8:15 p.m., Michigan B, Sheraton Chicago.
@@ -255,7 +255,7 @@ Presiding: Robert A. Wilkie, University at Albany, State University of New York
 - “High-Tech Learning and the Minority Urban Youngster: The New Price Barrier to Literacy,” Reginald Martin, University of Memphis
 - “The Body Digital and (Immaterial) Feminism,” Jennifer M. Cotter, University of California, Los Angeles
 
-</div><div> <a name="session105">105</a>: Cosmofeminisms
+ <a name="session105">105</a>: Cosmofeminisms
 ---------------------------------------------
 
 Thursday, 27 December 2007, 7:00–8:15 p.m., Water Tower, Hyatt Regency.
@@ -271,7 +271,7 @@ Presiding: Jennifer Williams, Michigan State University
 
 For copies of abstracts, write to <will1881@msu.edu>.
 
-</div><div> <a name="session120">120</a>: Teaching in Changing Technological Environments
+ <a name="session120">120</a>: Teaching in Changing Technological Environments
 ------------------------------------------------------------------------------
 
 Thursday, 27 December 2007, 7:00–8:15 p.m., New Orleans, Hyatt Regency.
@@ -285,9 +285,9 @@ Presiding: Sheila T. Cavanagh, Emory University
 - “Ohio State’s Foreign Language Technology Certificate Program,” Diane W. Birckbichler, Ohio State University, Columbus
 - “In the Middle Ages, No One’s Parchment Ever Crashed,” Theodore L. Steinberg, State University of New York, Fredonia
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session131">131</a>: Film and the History of Technology
+ <a name="session131">131</a>: Film and the History of Technology
 -----------------------------------------------------------------
 
 Thursday, 27 December 2007, 8:45–10:00 p.m., Erie, Sheraton Chicago.
@@ -300,9 +300,9 @@ Presiding: Alice Ann Kuzniar, University of North Carolina, Chapel Hill
 - “Men and Machines: On the Subway with Busby Berkeley,” Sunny Stalter, Auburn University, Auburn
 - “Which Digital Cinema? Notes on an Emerging Poetics of Digital Film Style,” Alexander Ian Olney, York University, PA
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session159">159</a>: Got ECCO? The Contents and Discontents of Electronic Media for Early Modern Studies
+ <a name="session159">159</a>: Got ECCO? The Contents and Discontents of Electronic Media for Early Modern Studies
 ------------------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 8:30–9:45 a.m., Atlanta, Hyatt Regency.
@@ -313,7 +313,7 @@ Presiding: Cynthia S. Wall, *Literature Compass*
 
 Speakers: Gail Aw, University of Virginia; Peter Brown, University of Kent; David A. Golumbia, University of Virginia; Kathryn J. Lowerre, Michigan State University; David Radcliffe, Virginia Polytechnic Institute and State University; Christine Ruotolo, University Librarian
 
-</div><div> <a name="session174">174</a>: Free Culture: Intellectual Property and Restricted Archives
+ <a name="session174">174</a>: Free Culture: Intellectual Property and Restricted Archives
 ------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 8:30–9:45 a.m., Truffles, Hyatt Regency.
@@ -326,7 +326,7 @@ Presiding: William Baker, Northern Illinois University
 - “Popular Culture and Intellectual Property Rights: A Marriage of (In)Convenience,” Kenneth Womack, Penn State University, Altoona
 - “Phish in the Age of Digital Reproduction: Intellectual and Intimate Property in the Networked Archive,” Scott M. Kushner, Duke University
 
-</div><div> <a name="session177">177</a>: The Electronic New Variorum Shakespeare
+ <a name="session177">177</a>: The Electronic New Variorum Shakespeare
 ----------------------------------------------------------------------
 
 Friday, 28 December 2007, 8:30–9:45 a.m., Columbus Hall K and L, Hyatt Regency.
@@ -338,7 +338,7 @@ Presiding: Suzanne Gossett, Loyola University, Chicago
 - “How to Do Things with Variants: Text Visualization in the Electronic New Variorum Shakespeare,” Alan Galey, University of Alberta
 - “Sums and Parts, in View of a Complex Whole: A Response to the Electronic New Variorum Shakespeare Interface,” Raymond G. Siemens, University of Victoria
 
-</div><div> <a name="session183">183</a>: Writing Empires: Composition and the Expansion of English
+ <a name="session183">183</a>: Writing Empires: Composition and the Expansion of English
 ----------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 8:30–9:45 a.m., New Orleans, Hyatt Regency.
@@ -356,9 +356,9 @@ Respondent: Jessica Beth Yood, Lehman University, City University of New York
 
 For copies of papers, visit [www.case.edu/affil/sce](http://www.case.edu/affil/sce).
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session212">212</a>: Using Digital Archives
+ <a name="session212">212</a>: Using Digital Archives
 -----------------------------------------------------
 
 Friday, 28 December 2007, 10:15–11:30 a.m., Columbus Hall K and L, Hyatt Regency.
@@ -371,7 +371,7 @@ Presiding: Donald R. Dickson, Texas A&amp;M University, College Station
 - “Archival Constructions of Early Latino Literature,” Anne C. Gebelein, Trinity University, CT
 - “Remaking the Past: ‘The Pepys Ballad Archive,’” Tassie Gniady, University of California, Santa Barbara
 
-</div><div> <a name="session215">215</a>: Novel History, Media History
+ <a name="session215">215</a>: Novel History, Media History
 -----------------------------------------------------------
 
 Friday, 28 December 2007, 10:15–11:30 a.m., Atlanta, Hyatt Regency.
@@ -384,9 +384,9 @@ Presiding: Ivan Kreilkamp, Indiana University, Bloomington
 - “*Ulysses* Player Piano,” Paul K. Saint-Amour, University of Pennsylvania
 - “Remediating the Modernist Novel: Judd Morrissey’s Digital Remix,” Jessica Pressman, University of California, Los Angeles
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session224">224</a>: Roundtable on Editing Collections of Poetry
+ <a name="session224">224</a>: Roundtable on Editing Collections of Poetry
 --------------------------------------------------------------------------
 
 Friday, 28 December 2007, noon–1:15 p.m., Water Tower, Hyatt Regency.
@@ -397,7 +397,7 @@ Presiding: Cristanne Miller, University at Buffalo, State University of New York
 
 Speakers: George J. Bornstein, University of Michigan, Ann Arbor; Michael Davidson, University of California, San Diego; Jenny Penberthy, Capilano University; Kenneth M. Price, University of Nebraska, Lincoln; Nigel S. Smith, Princeton University
 
-</div><div> <a name="session228">228</a>: Editing Sound
+ <a name="session228">228</a>: Editing Sound
 --------------------------------------------
 
 Friday, 28 December 2007, noon–1:15 p.m., Stetson E, Hyatt Regency.
@@ -411,7 +411,7 @@ Presiding: Peter J. Kalliney, University of Kentucky
 - “How Does a Community Happen in a Sound Archive?” Corey J. Frost, Graduate Center, City University of New York
 - “Framing the Poem: Theory and Practice in the Literary Audio Web Site,” Kenneth W. Sherwood, Indiana University of Pennsylvania
 
-</div><div> <a name="session244">244</a>: Romantic Futures: *Romantic Circles* at the Start of Its Second Decade
+ <a name="session244">244</a>: Romantic Futures: *Romantic Circles* at the Start of Its Second Decade
 -----------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, noon–1:15 p.m., Grand Suite 3, Hyatt Regency.
@@ -424,7 +424,7 @@ Presiding: Steven E. Jones, Loyola University, Chicago
 - “*Romantic Circles* Electronic Editions and the Shape of Romanticism,” Tilar Mazzeo, Colby University
 - “The Practice of Praxis: Reading Romanticism Electronically and the *Romantic Circles* Praxis Series,” Orrin Nan Chung Wang, University of Maryland, College Park
 
-</div><div> <a name="session250">250</a>: New Reading Interfaces
+ <a name="session250">250</a>: New Reading Interfaces
 -----------------------------------------------------
 
 Friday, 28 December 2007, noon–1:15 p.m., Missouri, Sheraton Chicago.
@@ -441,9 +441,9 @@ Presiding: Elizabeth Swanstrom, University of California, Santa Barbara
 
 For copies of abstracts, see [www.english.ucsb.edu/faculty/rraley/research/conferences/ACH07.html](http://www.english.ucsb.edu/faculty/rraley/research/conferences/ACH07.html).
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session256">256</a>: Professionalization in a Digital Age
+ <a name="session256">256</a>: Professionalization in a Digital Age
 -------------------------------------------------------------------
 
 Friday, 28 December 2007, 1:45–3:30 p.m., Columbus Hall C and D, Hyatt Regency.
@@ -460,7 +460,7 @@ Respondent: W. J. T. Mitchell, University of Chicago
 
 For coordinated workshops, see meetings [373](#session373) and [472](#session472).
 
-</div><div> <a name="session261">261</a>: Lyricism in Modern East Asian Literatures
+ <a name="session261">261</a>: Lyricism in Modern East Asian Literatures
 ------------------------------------------------------------------------
 
 Friday, 28 December 2007, 1:45–3:00 p.m., Parlor E, Sheraton Chicago.
@@ -474,7 +474,7 @@ Presiding: Michelle Yeh, University of California, Davis
 - “Boon or Bust? The Internet and Chinese Poetry,” Michael Day, National University
 - “Antilyricism in Contemporary Chinese Poetry,” Michelle Yeh
 
-</div><div> <a name="session273">273</a>: Psychoanalysis and Relational Space
+ <a name="session273">273</a>: Psychoanalysis and Relational Space
 ------------------------------------------------------------------
 
 Friday, 28 December 2007, 1:45–3:00 p.m., Toronto, Hyatt Regency.
@@ -488,7 +488,7 @@ Presiding: Esther Rashkin, University of Utah
 - “Beyond the Third Space of MySpace: Lacan, Winnicott, and Cyberspace,” Robert Samuels, University of California, Los Angeles
 - “Public Spaces, Other Faces, Liminal Places,” Jennifer Friedlander, Pomona University
 
-</div><div> <a name="session279">279</a>: Teaching Strategies for the New Millennial Business Writing Classroom
+ <a name="session279">279</a>: Teaching Strategies for the New Millennial Business Writing Classroom
 ----------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 1:45–3:00 p.m., Columbus Hall H, Hyatt Regency.
@@ -503,9 +503,9 @@ Presiding: Jennifer Veltsos, Iowa State University
 
 For copies of abstracts, write to <kwills@iupui.edu>.
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session298">298</a>: Training Teaching Assistants for the Future: Current Issues on Curricular Shifts at Public Institutions
+ <a name="session298">298</a>: Training Teaching Assistants for the Future: Current Issues on Curricular Shifts at Public Institutions
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 3:30–4:45 p.m., Columbus A and B, Sheraton Chicago.
@@ -520,7 +520,7 @@ Presiding: Helene Zimmer-Loew, American Association of Teachers of German
 
 Respondent: Peter Höyng, Emory University
 
-</div><div> <a name="session317">317</a>: Electronic Literature: Reading, Writing, Navigating
+ <a name="session317">317</a>: Electronic Literature: Reading, Writing, Navigating
 ----------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 3:30–4:45 p.m., Columbus Hall K and L, Hyatt Regency.
@@ -541,7 +541,7 @@ N. Katherine Hayles has described electronic literature as “‘digital born,�
 
 This poster session provides the opportunity for attendees to engage firsthand with works of electronic literature, to meet with electronic literature authors and theorists, and to engage with interactive computer presentations of their work. Presenters will exhibit their work simultaneously, creating ample opportunity for discussion and demonstration.
 
-</div><div> <a name="session324">324</a>: Brave New World: Digital Scholarship and the Future of Early American Studies
+ <a name="session324">324</a>: Brave New World: Digital Scholarship and the Future of Early American Studies
 ------------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 3:30–4:45 p.m., New Orleans, Hyatt Regency.
@@ -554,7 +554,7 @@ Presiding: Karen A. Weyler, University of North Carolina, Greensboro
 - “The Charles Brockden Brown Electronic Archive and Scholarly Edition and the Text Encoding Initiative (TEI),” Mark L. Kamrath, University of Central Florida
 - “Teaching Early American Literature with Digital Resources,” Michelle Harper, Readex
 
-</div><div> <a name="session329">329</a>: Breaking into Print: Multicultural Authors and Independent Publishers
+ <a name="session329">329</a>: Breaking into Print: Multicultural Authors and Independent Publishers
 ----------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 3:30–4:45 p.m., Acapulco, Hyatt Regency.
@@ -570,9 +570,9 @@ Presiding: Dorothy J. Wang, Williams University
 
 Respondent: Aldon Lynn Nielsen, Penn State University, University Park
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session361">361</a>: Textual Visualization
+ <a name="session361">361</a>: Textual Visualization
 ----------------------------------------------------
 
 Friday, 28 December 2007, 7:15–8:30 p.m., Columbus Hall K and L, Hyatt Regency.
@@ -594,7 +594,7 @@ This poster session provides the opportunity for attendees to engage firsthand w
 
 For demos and copies of abstracts, visit <http://textualvisualization.blogspot.com>.
 
-</div><div> <a name="session373">373</a>: Scholarship in New Media
+ <a name="session373">373</a>: Scholarship in New Media
 -------------------------------------------------------
 
 Friday, 28 December 2007, 7:15–8:30 p.m., Columbus Hall C and D, Hyatt Regency.
@@ -610,7 +610,7 @@ Presiding: Markus Zisselsberger, Binghamton University, State University of New 
 
 For copies of papers, write to <weorchar@uchicago.edu> after 1 December.
 
-</div><div> <a name="session376">376</a>: Performance and Technology: Writing and Speaking as Techne
+ <a name="session376">376</a>: Performance and Technology: Writing and Speaking as Techne
 -----------------------------------------------------------------------------------------
 
 Friday, 28 December 2007, 7:15–8:30 p.m., Stetson E, Hyatt Regency.
@@ -623,9 +623,9 @@ Presiding: Angela C. Pao, Indiana University, Bloomington
 - “Type as Performance: Gender, Technology, and Collaboration in the Typing Explosion,” Paul Benzon, Rutgers University, New Brunswick
 - “Allegories of Information,” W. B. Worthen, University of Michigan, Ann Arbor
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session402">402</a>: Early Modern Research in the Digital Age
+ <a name="session402">402</a>: Early Modern Research in the Digital Age
 -----------------------------------------------------------------------
 
 Saturday, 29 December 2007, 8:30–9:45 a.m., Stetson F, Hyatt Regency.
@@ -638,7 +638,7 @@ Presiding: Jonathan Gil Harris, George Washington University
 - “Not Either-Or but Rather Both-And: Material and Electronic Resources for Early Modern Research,” Angelica Alicia Duran, Purdue University, West Lafayette
 - “Digital (Inter)Nationalism,” Jacques Lezra, University of Wisconsin, Madison
 
-</div><div> <a name="session408">408</a>: Networks: Interrelationships Characterizing the Subjects We Study and Our Methods of Studying Them
+ <a name="session408">408</a>: Networks: Interrelationships Characterizing the Subjects We Study and Our Methods of Studying Them
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 8:30–9:45 a.m., New Orleans, Hyatt Regency.
@@ -653,9 +653,9 @@ Presiding: Sandra Abelson Zagarell, Oberlin University
 
 Respondent: Priscilla B. Wald, Duke University
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session432">432</a>: The Josephine A. Roberts Forum: E-Editing in Corpora
+ <a name="session432">432</a>: The Josephine A. Roberts Forum: E-Editing in Corpora
 -----------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 10:15–11:30 a.m., Stetson F, Hyatt Regency.
@@ -668,7 +668,7 @@ Presiding: Michael Roy Denbo, Bronx Community University, City University of New
 - “Providing a Base for E-Editing: The Text Creation Partnership Project,” Shawn Martin, University of Michigan Press
 - “The Emory Women Writers Resource Project: Teaching Students, Training Students,” Sheila T. Cavanagh, Emory University
 
-</div><div> <a name="session446">446</a>: Methods for Making Technical Communication Research Meaningful for Learners: Using Technical Communication Research to Instruct
+ <a name="session446">446</a>: Methods for Making Technical Communication Research Meaningful for Learners: Using Technical Communication Research to Instruct
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 10:15–11:30 a.m., New Orleans, Hyatt Regency.
@@ -684,7 +684,7 @@ Presiding: Marc Santos, Purdue University, West Lafayette
 
 For copies of abstracts, write to <denise.tillery@unlv.edu>.
 
-</div><div> <a name="session455">455</a>: Literary Geospaces
+ <a name="session455">455</a>: Literary Geospaces
 -------------------------------------------------
 
 Saturday, 29 December 2007, 10:15–11:30 a.m., Atlanta, Hyatt Regency.
@@ -698,9 +698,9 @@ Presiding: Stephen J. Ramsay, University of Nebraska, Lincoln
 - “Using Court Records to Map the Witchcraft Accusations, Salem 1692,” Benjamin Ray, University of Virginia
 - “Beyond Boston: Georeferencing Irish American Literature,” Matthew Jockers, Stanford University
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session472">472</a>: Keywords for a Digital Profession
+ <a name="session472">472</a>: Keywords for a Digital Profession
 ----------------------------------------------------------------
 
 Saturday, 29 December 2007, noon–1:15 p.m., Columbus Hall C and D, Hyatt Regency.
@@ -715,7 +715,7 @@ Presiding: Megan Moore, Newberry Library
 
 For copies of papers, write to <weorchar@uchicago.edu> after 1 December.
 
-</div><div> <a name="session483">483</a>: Morris as Metatext: Manuscripts, Print Forms, and Illustrations
+ <a name="session483">483</a>: Morris as Metatext: Manuscripts, Print Forms, and Illustrations
 ----------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, noon–1:15 p.m., Plaza Ballroom A, Hyatt Regency.
@@ -730,9 +730,9 @@ Presiding: Kathleen O. Sims, Manchester, NH
 
 For copies of abstracts, write to <florence-boos@uiowa.edu>.
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session523">523</a>: Archive Trouble
+ <a name="session523">523</a>: Archive Trouble
 ----------------------------------------------
 
 Saturday, 29 December 2007, 1:45–3:00 p.m., Stetson F, Hyatt Regency.
@@ -746,9 +746,9 @@ Presiding: Andrew M. Stauffer, Boston University
 - “Archive Burning: The Archival Event and the Great Fire(s) of London,” Kathleen M. Keating, Greensboro University
 - “Archive Trauma,” Robert Matuozzi, Washington State University, Pullman
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session535">535</a>: Teaching Undergraduate Linguistics
+ <a name="session535">535</a>: Teaching Undergraduate Linguistics
 -----------------------------------------------------------------
 
 Saturday, 29 December 2007, 3:30–4:45 p.m., Huron, Sheraton Chicago.
@@ -765,7 +765,7 @@ Presiding: Rebecca Day Babcock, University of Texas of the Permian Basin
 
 Respondent: Roslyn Sue Raney, University of San Mateo, CA
 
-</div><div> <a name="session541">541</a>: Electronic Literature: After Afternoon
+ <a name="session541">541</a>: Electronic Literature: After Afternoon
 ---------------------------------------------------------------------
 
 Saturday, 29 December 2007, 3:30–4:45 p.m., Mississippi, Sheraton Chicago.
@@ -778,7 +778,7 @@ Presiding: Neil Fraistat, University of Maryland, College Park
 - “This Afternoon,” Matthew Gary Kirschenbaum, University of Maryland, College Park
 - “Play, Flow, and Mix: Paradigms for Electronic Literature,” N. Katherine Hayles, University of California, Los Angeles
 
-</div><div> <a name="session545">545</a>: Are Eighteenth-Century Studies Changing Literary Studies? Doing the Math
+ <a name="session545">545</a>: Are Eighteenth-Century Studies Changing Literary Studies? Doing the Math
 -------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 3:30–4:45 p.m., Plaza Ballroom B, Hyatt Regency.
@@ -790,7 +790,7 @@ Presiding: Janet L. Sorensen, University of California, Berkeley
 - “Reading the Eighteenth Century by Numbers: Toward a New Quantitative Approach to the Sublime in Literature,” Mark Algee-Hewitt, New York University
 - “Amateur Literary Culture and the ‘Long Tail’ Print Marketplace,” Michelle Nancy Levy, Simon Fraser University
 
-</div><div> <a name="session560">560</a>: The Ends of Cinema in the Digital Age
+ <a name="session560">560</a>: The Ends of Cinema in the Digital Age
 --------------------------------------------------------------------
 
 Saturday, 29 December 2007, 3:30–4:45 p.m., Plaza Ballroom A, Hyatt Regency.
@@ -806,7 +806,7 @@ Presiding: Nora M. Alter, University of Florida; Anna Everett, University of Cal
 
 For copies of abstracts, write to <everett@filmandmedia.ucsb.edu>.
 
-</div><div> <a name="session561">561</a>: Performance and Technology: Performing Machines
+ <a name="session561">561</a>: Performance and Technology: Performing Machines
 ------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 3:30–4:45 p.m., New Orleans, Hyatt Regency.
@@ -819,16 +819,16 @@ Presiding: Karen Shimakawa, New York University
 - “Technologies of/and Performance and Globalizing India,” Neelima Talwar, Indian Institute of Technology
 - “Can the Subaltern Perform Data?” Mark Bartlett, San Francisco Art Institute
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session581">581</a>: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project
+ <a name="session581">581</a>: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 5:15–6:30 p.m., Columbus Hall G, Hyatt Regency.
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session592">592</a>: New Poetic Archives
+ <a name="session592">592</a>: New Poetic Archives
 --------------------------------------------------
 
 Saturday, 29 December 2007, 7:15–8:30 p.m., Stetson F, Hyatt Regency.
@@ -841,7 +841,7 @@ Presiding: Ann Louise Kibbie, Bowdoin University
 - “Early Modern British Poetry in Archives Old and New,” Lorna J. Clymer, California State University, Bakersfield
 - “Programming Poetry: Visualizations in the Poetess Archive Database,” Laura C. Mandell, Miami University, Oxford
 
-</div><div> <a name="session601">601</a>: Voice as Sound: The Material Voice in Discourses on Bodies and Media
+ <a name="session601">601</a>: Voice as Sound: The Material Voice in Discourses on Bodies and Media
 ---------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 7:15–8:30 p.m., Plaza Ballroom A, Hyatt Regency.
@@ -856,7 +856,7 @@ Presiding: Annette Schlichter, University of California, Irvine
 
 Respondent: Alexander G. Weheliye, Northwestern University
 
-</div><div> <a name="session607">607</a>: Poetry and Globalization
+ <a name="session607">607</a>: Poetry and Globalization
 -------------------------------------------------------
 
 Saturday, 29 December 2007, 7:15–8:30 p.m., Atlanta, Hyatt Regency.
@@ -869,9 +869,9 @@ Presiding: Jahan Ramazani, University of Virginia
 - “After Print: Crisis and Poetry on the Internet,” Simon Yiu-Tsan Ng, University of Hong Kong
 - “Borderless Bodies: Linh Dinh, Literary Internets, and the Poetics of Global (Dis)Connection,” Hai-Dang Phan, University of Wisconsin, Madison
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session649">649</a>: Sampling the Original: Rethinking Appropriation, Attribution, and Copyright
+ <a name="session649">649</a>: Sampling the Original: Rethinking Appropriation, Attribution, and Copyright
 ----------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2007, 9:00–10:15 p.m., Plaza Ballroom A, Hyatt Regency.
@@ -884,9 +884,9 @@ Presiding: Thomas C. Spear, Lehman University, City University of New York
 - “Media-Enriched Critical Writing as Gray-Market Transgression,” Victoria E. Szabo, Duke University
 - “You Can, but You May Not: Copyright, Scholars, and the Temptations of New Media,” Jeffrey Ankrom, Bloomington, IN
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session660">660</a>: Editing and Interpreting in the Digital Age
+ <a name="session660">660</a>: Editing and Interpreting in the Digital Age
 --------------------------------------------------------------------------
 
 Sunday, 30 December 2007, 8:30–9:45 a.m., Grand Suite 3, Hyatt Regency.
@@ -899,7 +899,7 @@ Presiding: Bruce R. Smith, University of Southern California
 - “Digital Editions, Online Resources, *Stare Decisis*, and a Crux in *The Changeling*,” Lars Engle, University of Tulsa
 - “The Descriptive Bibliography of Electronic Scholarly Editions,” David Lee Gants, Florida State University
 
-</div><div> <a name="session662">662</a>: The Novel and/as Written Testimony
+ <a name="session662">662</a>: The Novel and/as Written Testimony
 -----------------------------------------------------------------
 
 Sunday, 30 December 2007, 8:30–9:45 a.m., Horner, Hyatt Regency.
@@ -912,7 +912,7 @@ Presiding: Tony E. Jackson, University of North Carolina, Charlotte
 - “Writing, Orality, and the Novel,” Tony E. Jackson
 - “The Testimony of Electronic Voice in Recent Fiction: Radio, Record, Tape,” Daniel Punday, Purdue University, Calumet
 
-</div><div> <a name="session678">678</a>: “Bartleby,” Resistance, and the City of Immaterial Labor
+ <a name="session678">678</a>: “Bartleby,” Resistance, and the City of Immaterial Labor
 ---------------------------------------------------------------------------------------
 
 Sunday, 30 December 2007, 8:30–9:45 a.m., Stetson B and C, Hyatt Regency.
@@ -926,9 +926,9 @@ Presiding: Kimberly DeFazio, Clarkson University
 - “Both/Or and/or Neither/Nor: Melville’s ‘Bartleby’ and the Economy of *Différance*,” Dennis Williams, University of Charleston
 - “Bartleby and Materiality in Cybercapitalism,” Stephen C. Tumino, University of Pittsburgh, Pittsburgh
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session704">704</a>: Literary Criticism for the Twenty-First Century: Topology, Politics, Mind
+ <a name="session704">704</a>: Literary Criticism for the Twenty-First Century: Topology, Politics, Mind
 --------------------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2007, 10:15–11:30 a.m., Columbus Hall G, Hyatt Regency.
@@ -941,9 +941,9 @@ Presiding: Herman Rapaport, Wake Forest University
 - “Psychoanalytic Historicity and the Politics of Close Reading: A New Approach to Literary Criticism,” Esther Rashkin, University of Utah
 - “Onlyne Revolutions: Moving toward Wiki Criticism,” Mark Phillips, University of Cincinnati
 
-</div>- - - - - -
+- - - - - -
 
-<div> <a name="session747">747</a>: New Approaches to *Endgame*
+ <a name="session747">747</a>: New Approaches to *Endgame*
 ----------------------------------------------------------
 
 Sunday, 30 December 2007, 1:45–3:00 p.m., Columbian, Hyatt Regency.
@@ -957,7 +957,7 @@ Presiding: Linda Ben-Zvi, Tel Aviv University
 - “Rethinking *Endgame*’s Genesis in a Digital Format,” Dirk Michael Van Hulle, University of Antwerp
 - “Masculine Dead Masculine: Western Masculinity’s *Endgame*,” Jennifer M. Jeffers, Cleveland State University
 
-</div><div> <a name="session757">757</a>: How Revolutionary Are We? Current Issues on Curricular Shifts at Private Institutions
+ <a name="session757">757</a>: How Revolutionary Are We? Current Issues on Curricular Shifts at Private Institutions
 --------------------------------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2007, 1:45–3:00 p.m., Colorado, Sheraton Chicago.
@@ -970,4 +970,3 @@ Presiding: Helene Zimmer-Loew, American Association of Teachers of German
 - “The Role of Language in Collegiate Foreign Language Programmatic Reform,” Hiram H. Maxim, Emory University
 - “Cultural Studies from the Bottom Up? Curricular Planning along the Faultlines between ‘Instrumental’ and ‘Academic’ Agendas,” Ingeborg Christina Walther, Duke University
 
-</div>

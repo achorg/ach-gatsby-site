@@ -12,34 +12,34 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
-<div>### Saturday, 27 December 2003
+### Saturday, 27 December 2003
 
-<div>#### 3:30 to 4:45 p.m.
+#### 3:30 to 4:45 p.m.
 
 - [8: Electronic Theory and Criticism](#session8)
 
-</div><div>#### 5:15 to 6:30 p.m.
+#### 5:15 to 6:30 p.m.
 
 - [65: Nabokov after *Lolita*: *Pnin* and *Pale Fire*](#session65)
 - [72: Teacher Preparation in English: The State of the Profession](#session72)
 
-</div><div>#### 7:00 to 8:15 p.m.
+#### 7:00 to 8:15 p.m.
 
 - [98: Prisons, Universities, Electronic Media: Possible and Impossible Communities I](#session98)
 - [103: Italy and the Cultures of Migration](#session103)
 - [109: The Professional Dimensions of Technology in English Studies](#session109)
 - [117: E-Teaching American Studies Internationally](#session117)
 
-</div><div>#### 8:45 to 10:00 p.m.
+#### 8:45 to 10:00 p.m.
 
 - [159: The Changing Face of Scholarly Editions](#session159)
 
-</div></div><div>### Sunday, 28 December 2003
+### Sunday, 28 December 2003
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [161: Prisons, Universities, Electronic Media: Possible and Impossible Communities II](#session161)
 - [167: Language Learning and Technology I: Technology and Foreign Language Pedagogy](#session167)
@@ -47,72 +47,72 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [184: Theorizing Visual Rhetoric](#session184)
 - [190: Undergraduate Students as Collaborators in Foreign Language Research](#session190)
 
-</div><div>#### 10:15 to 11:30 a.m.
+#### 10:15 to 11:30 a.m.
 
 - [195: Surfing the Internet to Rethink Medieval Culture](#session195)
 
-</div><div>#### 1:45 to 3:00 p.m.
+#### 1:45 to 3:00 p.m.
 
 - [281: Digital Theory](#session281)
 - [287: Why I Do (Not) Use Digital Resources](#session287)
 - [296: Reciprocity in the Relation between Cognitive Science and Literary Studies: What Can We Offer to Them and Why Should They Care?](#session296)
 
-</div><div>#### 3:30 to 4:45 p.m.
+#### 3:30 to 4:45 p.m.
 
 - [345: Modes of Scholarly Communication](#session345)
 
-</div><div>#### 7:15 to 8:30 p.m.
+#### 7:15 to 8:30 p.m.
 
 - [395: Language Learning and Technology II: Research on Technology in Foreign Language Learning](#session395)
 - [406: The Crisis in Scholarly Publishing: Comparative Literature and Literatures in the Smaller-Market Foreign Languages](#session406)
 - [408: Information Technology and the Profession](#session408)
 
-</div></div><div>### Monday, 29 December 2003
+### Monday, 29 December 2003
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [420: The Place of French Studies in Various Visions for a Renaissance Center](#session420)
 - [438: Editorial Theory and Practice in the Computer Age](#session438)
 
-</div><div>#### 10:15 to 11:30 a.m.
+#### 10:15 to 11:30 a.m.
 
 - [490: New Paradigms in Humanities Computing](#session490)
 
-</div><div>#### 1:45 to 3:00 p.m.
+#### 1:45 to 3:00 p.m.
 
 - [570: Evaluation of Digital Scholarship in the Academy](#session570)
 - [574: Editing the Romantics](#session574)
 
-</div><div>#### 3:30 to 4:45 p.m.
+#### 3:30 to 4:45 p.m.
 
 - [592: Digital Arthur](#session592)
 - [603: Narrating the German Capital in the Age of Globalization: The “Impossible” Berlin Novel at the Turn of the Twenty-First Century](#session603)
 - [610: The Josephine A. Roberts Forum: Twenty-First Century Foxe—The Online Genetic Edition of John Foxe’s *Book of Martyrs*](#session610)
 
-</div><div>#### 7:15 to 8:30 p.m.
+#### 7:15 to 8:30 p.m.
 
 - [647: Theorizing the Interface](#session647)
 - [649: Conflicts in Present-Day Englishes: What Is and What Should Never Be](#session649)
 
-</div><div>#### 9:00 to 10:15 p.m.
+#### 9:00 to 10:15 p.m.
 
 - [682: Language Learning and Technology III: Language Learning and Technology](#session682)
 - [687: Cyberspace and the Industrial Revolution](#session687)
 - [695: California Connections](#session695)
 
-</div></div><div>### Tuesday, 30 December 2003
+### Tuesday, 30 December 2003
 
-<div>#### 8:30 to 9:45 a.m.
+#### 8:30 to 9:45 a.m.
 
 - [702: Beyond Difference: Contemporary Theories of Culture in Latin America](#session702)
 
-<div>#### 10:15 to 11:30 a.m.
+#### 10:15 to 11:30 a.m.
 
 - [732: Technologies of Memory](#session732)
 
-</div></div></div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session8">8</a>: Electronic Theory and Criticism
+<a name="session8">8</a>: Electronic Theory and Criticism
 ---------------------------------------------------------
 
 Saturday, 27 December 2003, 3:30 to 4:45 p.m., Cunningham A, Manchester Grand Hyatt
@@ -128,9 +128,9 @@ Program arranged by the Association for Computers and the Humanities.
 
 See <http://www.ach.org/mla03> for further details.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session65">65</a>: Nabokov after *Lolita*: *Pnin* and *Pale Fire*
+<a name="session65">65</a>: Nabokov after *Lolita*: *Pnin* and *Pale Fire*
 --------------------------------------------------------------------------
 
 Saturday, 27 December 2003, 5:15 to 6:30 p.m., Ford C, Manchester Grand Hyatt
@@ -144,7 +144,7 @@ Program arranged by the International Vladimir Nabokov Society.
 - “Dramatic Interludes in *Pale Fire*,” Matthew I. Laufer, Columbia University
 - “Hypertextual Readings of *Pale Fire*,” Burcu S. Bakioglu, Indiana University, Bloomington
 
-</div><div><a name="session72">72</a>: Teacher Preparation in English: The State of the Profession
+<a name="session72">72</a>: Teacher Preparation in English: The State of the Profession
 ---------------------------------------------------------------------------------------
 
 Saturday, 27 December 2003, 5:15 to 6:30 p.m., Molly A, Manchester Grand Hyatt
@@ -159,9 +159,9 @@ Program arranged by the Council of Writing Program Administrators.
 
 *Respondent:* Dawn Skorczewski, Emerson College
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session98">98</a>: Prisons, Universities, Electronic Media: Possible and Impossible Communities I
+<a name="session98">98</a>: Prisons, Universities, Electronic Media: Possible and Impossible Communities I
 ----------------------------------------------------------------------------------------------------------
 
 Saturday, 27 December 2003, 7:00 to 8:15 p.m., Edward C and D, Manchester Grand Hyatt
@@ -175,7 +175,7 @@ Program arranged by the Division on Comparative Studies in Twentieth-Century Lit
 - “Flourishing or Slight and Inaccessible Communities: The University and Other Contexts,” Ana M. Luszczynska, State University of New York, Buffalo
 - “Un-American Studies,” McKenzie Wark, State University of New York, Albany
 
-</div><div><a name="session103">103</a>: Italy and the Cultures of Migration
+<a name="session103">103</a>: Italy and the Cultures of Migration
 -----------------------------------------------------------------
 
 Saturday, 27 December 2003, 7:00 to 8:15 p.m., Point Loma, San Diego Marriott
@@ -188,7 +188,7 @@ Program arranged by the Division on Twentieth-Century Italian Literature.
 - “Space, Race, and Female Subjectivity in Bertolucci’s *L’assedio*,” Roberta Di Carmine, University of Oregon
 - “The Digital Landscape of Migrant Cultures in Italy (1993–2003),” Timothy Campbell, Cornell University
 
-</div><div><a name="session109">109</a>: The Professional Dimensions of Technology in English Studies
+<a name="session109">109</a>: The Professional Dimensions of Technology in English Studies
 ------------------------------------------------------------------------------------------
 
 Saturday, 27 December 2003, 7:00 to 8:15 p.m., Cunningham C, Manchester Grand Hyatt
@@ -202,7 +202,7 @@ Program arranged by the Division on Teaching as a Profession.
 
 *Respondent:* Randy Bass
 
-</div><div><a name="session117">117</a>: E-Teaching American Studies Internationally
+<a name="session117">117</a>: E-Teaching American Studies Internationally
 -------------------------------------------------------------------------
 
 Saturday, 27 December 2003, 7:00 to 8:15 p.m., America’s Cup A and B, Manchester Grand Hyatt
@@ -217,9 +217,9 @@ A special session.
 
 *Respondent:* Deborah Lea Madsen, University of Geneva
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session159">159</a>: The Changing Face of Scholarly Editions
+<a name="session159">159</a>: The Changing Face of Scholarly Editions
 ---------------------------------------------------------------------
 
 Saturday, 27 December 2003, 8:45 to 10:00 p.m., Molly B, Manchester Grand Hyatt
@@ -230,9 +230,9 @@ Program arranged by the MLA Committee on Scholarly Editions.
 
 *Speakers:* Linda Bree, Cambridge University Press; Evelyn B. Tribble, University of Otago; James Barry Fitzmaurice, Northern Arizona University; Gary A. Stringer, University of Southern Mississippi
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session161">161</a>: Prisons, Universities, Electronic Media: Possible and Impossible Communities II
+<a name="session161">161</a>: Prisons, Universities, Electronic Media: Possible and Impossible Communities II
 -------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 8:30 to 9:45 a.m., Upper Room 5A, San Diego Convention Center
@@ -246,7 +246,7 @@ Program arranged by the Division on Comparative Studies in Twentieth-Century Lit
 - “New Media Art and Rhizomatic Instability,” Timothy C. Murray, Cornell University
 - “The Rhizomatic Community,” Henry S. Sussman, State University of New York, Buffalo
 
-</div><div><a name="session167">167</a>: Language Learning and Technology I: Technology and Foreign Language Pedagogy
+<a name="session167">167</a>: Language Learning and Technology I: Technology and Foreign Language Pedagogy
 ----------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 8:30 to 9:45 a.m., Columbia 1, San Diego Marriott
@@ -258,7 +258,7 @@ Program arranged by the Division on Applied Linguistics.
 - “An Integrated SLA Model Combining Personal Web Sites with Course Management Systems in Second-Year French,” Christopher J. Ippolito, University of the Pacific
 - “Using Digital Video to Enhance Listening Comprehension and Cultural Competence,” Susan Carpenter Binkley, College of Wooster
 
-</div><div><a name="session183">183</a>: The Subjects of New Media
+<a name="session183">183</a>: The Subjects of New Media
 -------------------------------------------------------
 
 Sunday, 28 December 2003, 8:30 to 9:45 a.m., Betsy A, Manchester Grand Hyatt
@@ -271,7 +271,7 @@ A special session.
 - “Affect and Agency: Postsubjects in New Media,” Elizabeth A. Walden
 - “Virtual Movement: Visceral Affect and Dispersed Identification,” Petra Kuppers, Bryant College
 
-</div><div><a name="session184">184</a>: Theorizing Visual Rhetoric
+<a name="session184">184</a>: Theorizing Visual Rhetoric
 --------------------------------------------------------
 
 Sunday, 28 December 2003, 8:30 to 9:45 a.m., Ford A and B, Manchester Grand Hyatt
@@ -284,7 +284,7 @@ A special session.
 - “Spaces of Possibility in the Composition Classroom: Visual Tactics and ‘The Power to Impose a Hearing’,” David Paul Sherman, California State University, Dominguez Hills
 - “The Visual Performative as Deliberative Rhetoric,” Kevin Eric De Pew, University of Nevada, Las Vegas
 
-</div><div><a name="session190">190</a>: Undergraduate Students as Collaborators in Foreign Language Research
+<a name="session190">190</a>: Undergraduate Students as Collaborators in Foreign Language Research
 --------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 8:30 to 9:45 a.m., Torrance, San Diego Marriott
@@ -298,9 +298,9 @@ Program arranged by the MLA Advisory Committee on Foreign Languages and Literatu
 - “RAP, the Research Abroad Program at the Univesity of Pittsburgh,” Dennis Looney, University of Pittsburgh, Pittsburgh
 - “Using the Web to Enhance the Study of Literature: Three Projects for Advanced-Level German,” Anne Marie Green, Carnegie Mellon University; Caroline Schaumann, Emory University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session195">195</a>: Surfing the Internet to Rethink Medieval Culture
+<a name="session195">195</a>: Surfing the Internet to Rethink Medieval Culture
 ------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 10:15 to 11:30 a.m., Columbia 1, San Diego Marriott
@@ -315,9 +315,9 @@ Program arranged by the Division on French Medieval Language and Literature.
 
 *Respondent:* Michel-André Bossy, Brown University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session281">281</a>: Digital Theory
+<a name="session281">281</a>: Digital Theory
 --------------------------------------------
 
 Sunday, 28 December 2003, 1:45 to 3:00 p.m., Upper Room 5A, San Diego Convention Center
@@ -330,7 +330,7 @@ Program arranged by the Division on Literary Criticism.
 - “Of Kinetology,” Mark B. N. Hansen, Princeton University
 - “The Murmur of Machines: Theorizing the Interrelation of Code and Natural Language,” N. Katherine Hayles, University of California, Los Angeles
 
-</div><div><a name="session287">287</a>: Why I Do (Not) Use Digital Resources
+<a name="session287">287</a>: Why I Do (Not) Use Digital Resources
 ------------------------------------------------------------------
 
 Sunday, 28 December 2003, 1:45 to 3:00 p.m., Ford A and B, Manchester Grand Hyatt
@@ -345,7 +345,7 @@ Program arranged by the Discussion Group on Computer Studies in Language and Lit
 
 *Respondent:* Malcolm Hayward
 
-</div><div><a name="session296">296</a>: Reciprocity in the Relation between Cognitive Science and Literary Studies: What Can We Offer to Them and Why Should They Care?
+<a name="session296">296</a>: Reciprocity in the Relation between Cognitive Science and Literary Studies: What Can We Offer to Them and Why Should They Care?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 1:45 to 3:00 p.m., Cunningham A, Manchester Grand Hyatt
@@ -359,9 +359,9 @@ A special session.
 
 *Respondent:* David John Herman, North Carolina State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session345">345</a>: Modes of Scholarly Communication
+<a name="session345">345</a>: Modes of Scholarly Communication
 --------------------------------------------------------------
 
 Sunday, 28 December 2003, 3:30 to 4:45 p.m., Upper Room 1A, San Diego Convention Center
@@ -372,9 +372,9 @@ Sunday, 28 December 2003, 3:30 to 4:45 p.m., Upper Room 1A, San Diego Convention
 - “In Defense of the Monograph: An Interdisciplinary Approach to Acquisitions,” Ken Wissoker, Duke University Press
 - “Is a Grapefruit Better than a Grape?” Marshall J. Brown, University of Washington, Seattle
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session395">395</a>: Language Learning and Technology II: Research on Technology in Foreign Language Learning
+<a name="session395">395</a>: Language Learning and Technology II: Research on Technology in Foreign Language Learning
 ----------------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 7:15 to 8:30 p.m., Columbia 1, San Diego Marriott
@@ -385,7 +385,7 @@ Program arranged by the Division on Applied Linguistics.
 - “Integrating WebCT Discussion Activities in a College-Level Elementary Chinese Course,” Youping Zhang, Rutgers University, New Brunswick
 - “Are CALL and SLA Theory Compatible? Evidence Supporting the Positive Role of Task-Based, Computer-Mediated Interaction in the ESL Classroom,” Bryan Smith, Texas Tech University
 
-</div><div><a name="session406">406</a>: The Crisis in Scholarly Publishing: Comparative Literature and Literatures in the Smaller-Market Foreign Languages
+<a name="session406">406</a>: The Crisis in Scholarly Publishing: Comparative Literature and Literatures in the Smaller-Market Foreign Languages
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 2003, 7:15 to 8:30 p.m., Solana, San Diego Marriott
@@ -398,7 +398,7 @@ A special session.
 - “A University Press Editor’s Perspective: The Economic Crisis for Presses and the Options for Publishing on Foreign Language Literatures,” Mary E. Murrell, Princeton University Press
 - “A Department Head’s Perspective: Economies of Scarcity and Economies of Excess—between Paper and Electronic Publishing,” C. P. Haun Saussy, Stanford University
 
-</div><div><a name="session408">408</a>: Information Technology and the Profession
+<a name="session408">408</a>: Information Technology and the Profession
 -----------------------------------------------------------------------
 
 Sunday, 28 December 2003, 7:15 to 8:30 p.m., Upper Room 5A, San Diego Convention Center
@@ -413,9 +413,9 @@ Program arranged by the MLA Committee on Information Technology.
 
 *Respondent:* Richard A. Lanham, University of California, Los Angeles
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session420">420</a>: The Place of French Studies in Various Visions for a Renaissance Center
+<a name="session420">420</a>: The Place of French Studies in Various Visions for a Renaissance Center
 -----------------------------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 8:30 to 9:45 a.m., Santa Rosa, San Diego Marriott
@@ -428,7 +428,7 @@ Program arranged by the Division on Sixteenth-Century French Literature.
 - “Research Centers in a Digital Society: Strategies and Plans of the Center for Reformation and Renaissance Studies, Toronto,” William R. Bowen, University of Toronto
 - “Various Visions for a Renaissance Center,” Arthur F. Kinney, University of Massachusetts, Amherst
 
-</div><div><a name="session438">438</a>: Editorial Theory and Practice in the Computer Age
+<a name="session438">438</a>: Editorial Theory and Practice in the Computer Age
 -------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 8:30 to 9:45 a.m., America’s Cup A and B, Manchester Grand Hyatt
@@ -441,9 +441,9 @@ A special session.
 - “The New Stemmatics,” Barbara Bordalejo, De Montfort University
 - “Technological Applications in Manuscript Editing: W. B. Yeats’s *The Speckled Bird* as an Example,” William H. O’Donnell, University of Memphis
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session490">490</a>: New Paradigms in Humanities Computing
+<a name="session490">490</a>: New Paradigms in Humanities Computing
 -------------------------------------------------------------------
 
 Monday, 29 December 2003, 10:15 to 11:30 a.m., Del Mar B, Manchester Grand Hyatt
@@ -458,9 +458,9 @@ Program arranged by the Association for Computers and the Humanities.
 
 See <http://www.ach.org/mla03> for further details.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session570">570</a>: Evaluation of Digital Scholarship in the Academy
+<a name="session570">570</a>: Evaluation of Digital Scholarship in the Academy
 ------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 1:45 to 3:00 p.m., Upper Room 5B, San Diego Convention Center
@@ -475,7 +475,7 @@ Program arranged by the MLA Committee on Information Technology.
 
 For copies of the CIT Guidelines for Evaluating Digital Scholarship and for Distance Education, please go to [http://www.mla.org/reports/guidelines\_evaluation\_digital](http://www.mla.org/reports/guidelines_evaluation_digital) and [http://www.mla.org/reports/statement\_aaup\_distance\_ed](http://www.mla.org/reports/statement_aaup_distance_ed).
 
-</div><div><a name="session574">574</a>: Editing the Romantics
+<a name="session574">574</a>: Editing the Romantics
 ---------------------------------------------------
 
 Monday, 29 December 2003, 1:45 to 3:00 p.m., Randle A and B, Manchester Grand Hyatt
@@ -489,9 +489,9 @@ Program arranged by the Keats–Shelley Association of America.
 - “Editing Dramas That (Don’t) Matter,” Jeffrey N. Cox, University of Colorado, Boulder; Michael Crews Gamer, University of Pennsylvania
 - “*The Cenci* Unbound: A Hypertextual Edition,” Cajsa C. Baldini, Arizona State University, Tempe
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session592">592</a>: Digital Arthur
+<a name="session592">592</a>: Digital Arthur
 --------------------------------------------
 
 Monday, 29 December 2003, 3:30 to 4:45 p.m., Betsy A, Manchester Grand Hyatt
@@ -502,7 +502,7 @@ Program arranged by the Discussion Group on Arthurian Literature.
 
 - “Does Technology Matter? Arthurian Film on DVD,” Martin Barry Shichtman, Eastern Michigan University
 
-</div><div><a name="session603">603</a>: Narrating the German Capital in the Age of Globalization: The “Impossible” Berlin Novel at the Turn of the Twenty-First Century
+<a name="session603">603</a>: Narrating the German Capital in the Age of Globalization: The “Impossible” Berlin Novel at the Turn of the Twenty-First Century
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 3:30 to 4:45 p.m., Manchester 2, San Diego Marriott
@@ -516,7 +516,7 @@ A special session.
 - “Global Village Berlin: Rainald Goetz’s Internet Diaries *Abfall für Alle*,” Brigitte Weingart, University of Köln
 - “Berlin Cuts: Monstrous Imagination and the City in Contemporary German Narratives,” Doerte Bischoff, University of Münster
 
-</div><div><a name="session610">610</a>: The Josephine A. Roberts Forum: Twenty-First Century Foxe—The Online Genetic Edition of John Foxe’s *Book of Martyrs*
+<a name="session610">610</a>: The Josephine A. Roberts Forum: Twenty-First Century Foxe—The Online Genetic Edition of John Foxe’s *Book of Martyrs*
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 3:30 to 4:45 p.m., Randle A and B, Manchester Grand Hyatt
@@ -529,9 +529,9 @@ Program arranged by the Renaissance English Text Society.
 - “Print Reformation or Print Revolution? John Foxe and the History of Books,” Jesse Macliesh Lander, University of Notre Dame
 - “From Manuscript to Codex to E-Book: The Interactive Foxe,” Susan Wabuda, Fordham University, Bronx
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session647">647</a>: Theorizing the Interface
+<a name="session647">647</a>: Theorizing the Interface
 ------------------------------------------------------
 
 Monday, 29 December 2003, 7:15 to 8:30 p.m., Randle A and B, Manchester Grand Hyatt
@@ -544,7 +544,7 @@ Program arranged by the Discussion Group on Bibliography and Textual Studies.
 - “Reading beyond the Interface: The New Annotated E-Edition,” Susan Schreibman, University of Maryland, College Park
 - “Synthetic Databases, Idiosyncratic Analyses, and Scholarly Editing,” David Lee Gants, University of New Brunswick
 
-</div><div><a name="session649">649</a>: Conflicts in Present-Day Englishes: What Is and What Should Never Be
+<a name="session649">649</a>: Conflicts in Present-Day Englishes: What Is and What Should Never Be
 --------------------------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 7:15 to 8:30 p.m., Betsy A, Manchester Grand Hyatt
@@ -559,9 +559,9 @@ Program arranged by the Discussion Group on Present-Day English Language.
 
 *Respondent:* Deborah H. Holdstein
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session682">682</a>: Language Learning and Technology III: Language Learning and Technology
+<a name="session682">682</a>: Language Learning and Technology III: Language Learning and Technology
 ----------------------------------------------------------------------------------------------------
 
 Monday, 29 December 2003, 9:00 to 10:15 p.m., Columbia 1, San Diego Marriott
@@ -572,7 +572,7 @@ Program arranged by the Division on Applied Linguistics.
 - “Computer-Mediated Intercultural Foreign Language Education: Accounts from France, Germany, Spain, and the United States,” Julie Anne Belz, Penn State University, University Park
 - “ The Development of Pragmatic Competence in Telecollaboration: The Case of German Modal Participles,” Nina Vyatkina, Penn State University, University Park
 
-</div><div><a name="session687">687</a>: Cyberspace and the Industrial Revolution
+<a name="session687">687</a>: Cyberspace and the Industrial Revolution
 ----------------------------------------------------------------------
 
 Monday, 29 December 2003, 9:00 to 10:15 p.m., Betsy A, Manchester Grand Hyatt
@@ -585,7 +585,7 @@ A special session.
 - “The Victorian Archive and the Disappearance of the Book,” Dino Franco Felluga, Purdue University, West Lafayette
 - “Frankenstein’s Futurity: AI, Robotics, and Turing Tests Online,” Jay Clayton, Vanderbilt University
 
-</div><div><a name="session695">695</a>: California Connections
+<a name="session695">695</a>: California Connections
 ----------------------------------------------------
 
 Monday, 29 December 2003, 9:00 to 10:15 p.m., Point Loma, San Diego Marriott
@@ -598,9 +598,9 @@ Program arranged by the MLA Committee on Information Technology.
 - “The Absent Professor: Technical Innovation versus Student Expectations in a Hybrid French Civilization Course,” Gretchen V. Angelo, California State University, Los Angeles
 - “Spanish without Walls: Results from a Distance-Learning Language Course,” Robert James Blake, University of California, Davis
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session702">702</a>: Beyond Difference: Contemporary Theories of Culture in Latin America
+<a name="session702">702</a>: Beyond Difference: Contemporary Theories of Culture in Latin America
 --------------------------------------------------------------------------------------------------
 
 Tuesday, 30 December 2003, 8:30 to 9:45 a.m., Leucadia, San Diego Marriott
@@ -614,9 +614,9 @@ Program arranged by the Division on Twentieth-Century Latin American Literature.
 - “The Emergent Paradigm of Textual Circuitry: Epistemological Reprocessing in Digital Society,” Phillip T. Penix-Tadsen, University of Pennsylvania
 - “Cultura y poder en América Latina: Los límites de la epistemología y los proyectos críticos de Antonio Cornejo Polar y Silvia Rivera Cusicanqui,” Silvia Bermúdez, University of California, Santa Barbara
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session732">732</a>: Technologies of Memory
+<a name="session732">732</a>: Technologies of Memory
 ----------------------------------------------------
 
 Tuesday, 30 December 2003, 10:15 to 11:30 a.m., Molly B, Manchester Grand Hyatt
@@ -629,4 +629,3 @@ Program arranged by the Division on the English Romantic Period.
 - “Fascinating Rhythm,” Margaret E. Russett, University of Southern California
 - “Juan the Memorious: The Feinaiglian Narrative Dynamics of *Don Juan*,” Stuart Samuel Peterfreund, Northeastern University
 
-</div></div>

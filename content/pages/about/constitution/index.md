@@ -113,8 +113,7 @@ Approved August 1979, Amended 1983, 1987, 1992, 2002, 2013, 2021
 #### C. Payment of Dues
 
 1. The annual dues for members shall be payable in accordance with the terms laid out on the Association’s website.
-2. Honorary Members shall not be required to pay annual dues.<span style="font-size: 13px; line-height: 19px;">  
-</span>
+2. Honorary Members shall not be required to pay annual dues.
 
 #### D. Removal and Resignation of Members
 

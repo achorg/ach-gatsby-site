@@ -18,7 +18,7 @@ The Steering Committee approved the following wording for consideration in terms
 
 “Nominations should reflect ADHO’s mission and stated expectation that reviewers “be selected to represent a range of disciplines, interests, and geography.” We \[the members of the PC for DH 2017 and DH 2018\] would extend that to be more inclusive, using appropriately all criteria that seem relevant to improve the diversity and inclusivity of the conference in consideration of language and gender. In putting forward a candidate, the nominator should be cognizant of and attentive to their own organization’s statement of diversity.”
 
-Please submit your self-nomination and/or nominations of others via email to Program Chair, Diane Jakacki at [<span class="il">diane.jakacki@bucknell.edu</span>](mailto:diane.jakacki@bucknell.edu) by <span class="aBn" data-term="goog_485152482" tabindex="0"><span class="aQJ">30 September, 2016</span></span>, including in your nomination the following information for each candidate:
+Please submit your self-nomination and/or nominations of others via email to Program Chair, Diane Jakacki at [diane.jakacki@bucknell.edu](mailto:diane.jakacki@bucknell.edu) by 30 September, 2016, including in your nomination the following information for each candidate:
 
 - Name of nominee
 - Nominee’s professional affiliation and job title
@@ -26,7 +26,7 @@ Please submit your self-nomination and/or nominations of others via email to Pro
 - Brief identification of candidate’s meeting criteria (no more than 50 words)
 - Confirmation that candidate has expressed interest in serving as a reviewer and their willingness to review \*at least\* seven proposals for DH 2017 conference.
 
-Diane will compile the full list of nominees and submit it to the ADHO Conference Coordinating Committee by <span class="aBn" data-term="goog_485152483" tabindex="0"><span class="aQJ">10 October</span></span>. Approved reviewers will be contacted via ConfTool to confirm their willingness to participate and ask them to create or update their ConfTool user profile to include the language(s) in which they are proficient for evaluating professional work and their areas of expertise.
+Diane will compile the full list of nominees and submit it to the ADHO Conference Coordinating Committee by 10 October. Approved reviewers will be contacted via ConfTool to confirm their willingness to participate and ask them to create or update their ConfTool user profile to include the language(s) in which they are proficient for evaluating professional work and their areas of expertise.
 
 If you have any questions, please don’t hesitate to contact Diane. Thank you in advance for considering this opportunity. ACH hopes to see many of you in Montreal!
 

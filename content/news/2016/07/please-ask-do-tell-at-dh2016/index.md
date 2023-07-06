@@ -7,6 +7,6 @@ If you’re attending the [DH2016 conference in Krakow](http://dh2016.adho.org/)
 
 You can also add ask or tell stickers to your conference badge to help start conversations – pick up your sticker(s) at the [ACH annual general meeting at lunchtime on Thursday](http://ach.org/news/2016/07/ach-agm-at-digital-humanities-2016/)!
 
-<div>Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!</div>
+Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!
 
-<div>Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know!</div><div></div><div>Speaking of questions and answers, you can post or answer questions about digital humanities throughout the year at [Digital Humanities Questions &amp; Answers](http://digitalhumanities.org/answers/).</div>
+Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know! Speaking of questions and answers, you can post or answer questions about digital humanities throughout the year at [Digital Humanities Questions &amp; Answers](http://digitalhumanities.org/answers/).

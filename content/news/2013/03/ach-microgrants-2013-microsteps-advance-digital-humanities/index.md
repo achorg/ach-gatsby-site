@@ -32,7 +32,7 @@ Applications will be evaluated according to the following criteria:
 
 For further technical information about the ACH/DHQ websites please see further details below.
 
-**Applicants must be members of the ACH <http:></http:> at the time of application**
+**Applicants must be members of the ACH at the time of application**
 
 It is expected that grants will be in the range of $US 200-500. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2013.
 

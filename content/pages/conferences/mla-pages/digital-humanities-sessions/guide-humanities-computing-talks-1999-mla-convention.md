@@ -12,7 +12,7 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
 ### Monday, 27 December 1999
@@ -129,9 +129,9 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [779: Millennial Shakespeare](#session779)
 
 
-</div>- - - - - -
+- - - - - -
 
-<div><div><a name="session29">29</a>: Technical Communication in Cyberspace
+<a name="session29">29</a>: Technical Communication in Cyberspace
 -----------------------------------------------------------------
 
 Monday, 27 December 1999, 3:30 to 4:45 p.m., Columbus Hall B, Hyatt Regency Chicago
@@ -143,7 +143,7 @@ Program arranged by the [Association of Teachers of Technical Writing](http://en
 - “Disconnects in the Wired Laboratory: `Standard Symbols’ versus Ephemeral Pages,” Russell S. Clark, Scotia, New York
 - “Rhetoric and Virtuality in Cyberspace,” Myrth Jimmie Killingsworth, Texas A&amp;M University, College Station; Martin M. Jacobsen, Texas A&amp;M University, College Station
 
-</div><div><a name="session36">36</a>: Technology and the Literature Classroom
+<a name="session36">36</a>: Technology and the Literature Classroom
 -------------------------------------------------------------------
 
 Monday, 27 December 1999, 3:30 to 4:45 p.m., Colorado Room, Sheraton Chicago
@@ -155,9 +155,9 @@ Program arranged by the [American Association of Teachers of German](http://www.
 - ” `Jugendliteratur’ and the Internet,” Anne Marie Green, Carnegie Mellon University
 - “The Evolution of a Multimedia Vision,” Louise E. Stoehr, University of Texas, Austin
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session54">54</a>: The Old and the New: Editorial and Manuscript Research and the Challenge of the New Century
+<a name="session54">54</a>: The Old and the New: Editorial and Manuscript Research and the Challenge of the New Century
 -----------------------------------------------------------------------------------------------------------------------
 
 Monday, 27 December 1999, 5:15 to 6:30 p.m., Atlanta Room, Hyatt Regency Chicago
@@ -168,7 +168,7 @@ Program arranged by the MLA Committee on Scholarly Editions. Presiding: Joseph V
 - “Bibliography of Ancient Galician and Portuguese Texts: Technology and Edition Research,” Harvey L. Sharrer, University of California, Santa Barbara
 - “The <cite>Poemo de Mío Cid</cite>: Two Comparisons,” Nancy Joe Dyer, Texas A&amp;M University, College Station
 
-</div><div><a name="session60">60</a>: Joycean Communities: Fictional, Biographical, Scholarly, Virtual, Imagined, …: A Communal Discussion
+<a name="session60">60</a>: Joycean Communities: Fictional, Biographical, Scholarly, Virtual, Imagined, …: A Communal Discussion
 --------------------------------------------------------------------------------------------------------------------------------
 
 Monday, 27 December 1999, 5:15 to 6:30 p.m., Du Sable Room, Hyatt Regency Chicago
@@ -177,9 +177,9 @@ Program arranged by the [International James Joyce Foundation](http://english.oh
 
 *Speakers*: Christy L. Burns, College of William and Mary; Hoi F. Cheu, University of Western Ontario; Michael Patrick Gillespie, Marquette University; Patrick Colm Hogan, University of Connecticut, Storrs; Timothy P. Martin, Rutgers University, Camden; Mark Nunes, Georgia Perimeter College; Bonnie Kime Scott, University of Delaware, Newark
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session101">101</a>: The Impact of Technology
+<a name="session101">101</a>: The Impact of Technology
 ------------------------------------------------------
 
 Monday, 27 December 1999, 7:00 to 8:15 p.m., Haymarket Room, Hyatt Regency Chicago
@@ -192,9 +192,9 @@ Program arranged by the [Association for Computers and the Humanities](http://ac
 
 Further information is available [on the World Wide Web](?q=node/43).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session144">144</a>: Life Writing and the Visual
+<a name="session144">144</a>: Life Writing and the Visual
 ---------------------------------------------------------
 
 Tuesday, 28 December 1999, 8:30 to 9:45 a.m., Water Tower Room, Hyatt Regency Chicago
@@ -206,7 +206,7 @@ Program arranged by the Division on Autobiography, Biography, and Life Writing. 
 - “Postings from Hoochie Mama: Erika Lopez, Graphic Art, and the Poetics of Women’s Life Writing,” Laura Laffrado, Western Washington University
 - “Visualizing the Baroness’s Body/Self: Gender, Sexuality, and the Performative Diary,” Irene Gammel, University of Prince Edward Island
 
-</div><div><a name="session146">146</a>: Social Dialects and Bilingualism in the Media and the World Wide Web
+<a name="session146">146</a>: Social Dialects and Bilingualism in the Media and the World Wide Web
 --------------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 8:30 to 9:45 a.m., Columbus Room A and B, Sheraton Chicago
@@ -217,7 +217,7 @@ Program arranged by the Division on Language and Society. Presiding: Patricia C.
 - “Language Alternation in Bilingual Magazines,” Cecilia Montes-Alcala, University of California, Santa Barbara
 - ” `Catching Big Air’: Constructing a Category of Extreme Sports through the Language of `Riding’,” Munkyung A. Kang, University of California, Santa Barbara
 
-</div><div><a name="session147">147</a>: Innovative Perspectives on Technology
+<a name="session147">147</a>: Innovative Perspectives on Technology
 -------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 8:30 to 9:45 a.m., Grand Ballroom D South, Hyatt Regency Chicago
@@ -228,7 +228,7 @@ Program arranged by the Division on Teaching as a Profession. Presiding: Darren 
 - “Using Technology to Support Student Learning,” Morri Safran, University of Texas, Austin
 - “How Networked Computing Erodes the Teaching-Research Distinction,” [Eric S. Rabkin](http://www-personal.umich.edu/~esrabkin/), University of Michigan, Ann Arbor
 
-</div><div><a name="session153">153</a>: Quantitative Analysis of Aspects of Style
+<a name="session153">153</a>: Quantitative Analysis of Aspects of Style
 -----------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 8:30 to 9:45 a.m., Columbus Hall B, Hyatt Regency Chicago
@@ -239,9 +239,9 @@ Program arranged by the Discussion Group on Computer Studies in Language and Lit
 - “The Particular Prosody of Tyard’s <cite>Erreurs amoureuses</cite>,” Henry P. Biggs, Houghton College
 - “The Stylistic Significance of Common English Words,” David L. Hoover, New York University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session178">178</a>: Girling Popular Culture
+<a name="session178">178</a>: Girling Popular Culture
 -----------------------------------------------------
 
 Tuesday, 28 December 1999, 10:15 to 11:30 a.m., Water Tower Room, Hyatt Regency Chicago
@@ -252,7 +252,7 @@ Program arranged by the Division on Popular Culture. Presiding: Cynthia J. Fuchs
 - ” `Ahem, We Are Not Horny Thai Girls’: Resisting the Thai Girl Image on the Internet,” Jillana B. Enteen, University of Central Florida
 - “High School in Beverly Hills: Class Fictions and the Jewish American Princess,” Andrea Beth Levine, Georgetown University
 
-</div><div><a name="session209">209</a>: Editing in the Digital Age: W. B. Yeats and Marianne Moore
+<a name="session209">209</a>: Editing in the Digital Age: W. B. Yeats and Marianne Moore
 ----------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 10:15 to 11:30 a.m., Acapulco Room, Hyatt Regency Chicago
@@ -263,9 +263,9 @@ Program arranged by the [Association for Documentary Editing](http://etext.virgi
 - “Exploring the Electronic Environment with the Chadwyck-Healey <cite>W. B. Yeats Collection</cite>,” William H. O’Donnell, University of Memphis
 - “Authorial Selection and Editorial Practice: Toward an Electronic Edition of Marianne Moore’s Early Poems,” Robin G. Schulze, Penn State University, University Park
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session243">243</a>: Medieval Literature on the Web
+<a name="session243">243</a>: Medieval Literature on the Web
 ------------------------------------------------------------
 
 Tuesday, 28 December 1999, noon to 1:15 p.m., Grand Ballroom D South, Hyatt Regency Chicago
@@ -276,9 +276,9 @@ A special session.
 - “Wulfstan’s Eschatological Homilies: A Hypertext Edition,” Joyce Lionarons, Ursinus College
 - “The English Peasant Revolt of 1381 on the Web: A Framed Hyperlinked Site,” Grover C. Furr, Montclair State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session289">289</a>: Getting Some Distance on Distance Education
+<a name="session289">289</a>: Getting Some Distance on Distance Education
 -------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 1:45 to 3:00 p.m., Columbus Hall B, Hyatt Regency Chicago
@@ -290,7 +290,7 @@ Program arranged by the MLA Committee on Community Colleges. Presiding: Carolyn 
 - “Make the Connection: What Oprah Taught Me about Teaching Telecommunication Courses,” Lucindy Willis, North Carolina State University
 - “Preserving Community in the Community College: The Interactive Video Network,” Carolyn Buckley-Fletcher, George Mason University
 
-</div><div><a name="session295">295</a>: Technical Communication, Ethics, and Privacy
+<a name="session295">295</a>: Technical Communication, Ethics, and Privacy
 --------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 1:45 to 3:00 p.m., Acapulco Room, Hyatt Regency Chicago
@@ -302,7 +302,7 @@ Program arranged by the [Association of Teachers of Technical Writing](http://en
 - “Toss Your Cookies! Preserving a Measure of Privacy in Online Communications,” John H. Logie, University of Minnesota, Twin Cities
 - “Public versus Private: Balancing the Demands of Online Information through Online Pedagogy,” Elizabeth Ruth Pass, James Madison University
 
-</div><div><a name="session296">296</a>: The “New” Computer-Assisted Literary Criticism: What Does it Look Like? What Will it Look Like?
+<a name="session296">296</a>: The “New” Computer-Assisted Literary Criticism: What Does it Look Like? What Will it Look Like?
 -----------------------------------------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 1:45 to 3:00 p.m., Field Room, Hyatt Regency Chicago
@@ -316,9 +316,9 @@ Program arranged by the [Association for Computers and the Humanities](http://ac
 
 Further information is available [on the World Wide Web](?q=node/43).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session326">326</a>: Looking Glasses: Reflections on Vision Machines
+<a name="session326">326</a>: Looking Glasses: Reflections on Vision Machines
 -----------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 3:30 to 4:45 p.m., Picasso Room, Hyatt Regency Chicago
@@ -329,7 +329,7 @@ A special session; session leader: Brenda R. Silver, Dartmouth College
 - “A Self-Conscious Looking Glass,” Geoffrey Batchen, University of New Mexico
 - “First Contact: Narratives of Cyberspace,” Wendy H. Chun, Brown University
 
-</div><div><a name="session334">334</a>: Reinventing Undergraduate Pedagogy II
+<a name="session334">334</a>: Reinventing Undergraduate Pedagogy II
 -------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 3:30 to 4:45 p.m., Columbus Room A and B, Sheraton Chicago
@@ -339,9 +339,9 @@ Program arranged by the MLA Office of Foreign Language Programs. Presiding: Arth
 - “Integrating Language Instruction and Cultural Inquiry through Reading,” Hiram Hamilton Maxim, University of Texas, Austin
 - “Technically Speaking: Transforming Language/Learning into Cultural Studies through Virtual Learning Environments,” Silke Von Der Emde, Vassar College
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session349">349</a>: A Reading of Collaborative Texts from the World Wide Web
+<a name="session349">349</a>: A Reading of Collaborative Texts from the World Wide Web
 --------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 5:15 to 6:30 p.m., Grand Ballroom D South, Hyatt Regency Chicago
@@ -350,9 +350,9 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 
 *Speaker*: Rob Wittig, Chicago, Illinois
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session386">386</a>: Queer Visuals on the Verge…
+<a name="session386">386</a>: Queer Visuals on the Verge…
 ---------------------------------------------------------
 
 Tuesday, 28 December 1999, 7:15 to 8:30 p.m., Truffles Room, Hyatt Regency Chicago
@@ -365,7 +365,7 @@ Program arranged by the Division on Film. Presiding: Chris Holmlund, University 
 
 *Respondent*: Patricia White, Swarthmore College
 
-</div><div><a name="session390">390</a>: Technology and the Teaching of Writing: Possibilities and Challenges
+<a name="session390">390</a>: Technology and the Teaching of Writing: Possibilities and Challenges
 --------------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 7:15 to 8:30 p.m., Acapulco Room, Hyatt Regency Chicago
@@ -376,7 +376,7 @@ Program arranged by the Division on the Teaching of Writing. Presiding: Deborah 
 - “Cross-Cultural Teaching Partnerships: Technological Challenges and Possibilities,” Joseph F. Trimmer, Ball State University; Jeffrey C. White, Ball State University
 - “Teaching Teachers to Teach Writing: Vygotsky in the Collaborative Computer Classroom,” Linda Carro, Humboldt State University; Nancy Knowles, University of Connecticut, Storrs
 
-</div><div><a name="session400">400</a>: Caught in a Web? Liberal Arts Teaching in the Information Age
+<a name="session400">400</a>: Caught in a Web? Liberal Arts Teaching in the Information Age
 -------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 7:15 to 8:30 p.m., Stetson Room G, Hyatt Regency Chicago
@@ -389,7 +389,7 @@ A special session; session leader: Shawn Patrick Gillen, Beloit College
 
 *Respondent*: Shawn Patrick Gillen
 
-</div><div><a name="session412">412</a>: Evaluating and Supporting Academic Work in the Digital Age I
+<a name="session412">412</a>: Evaluating and Supporting Academic Work in the Digital Age I
 ------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 1999, 7:15 to 8:30 p.m., Columbus Hall B, Hyatt Regency Chicago
@@ -402,9 +402,9 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 
 *Respondent*: Sarah Jane Sloane, University of Puget Sound
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session460">460</a>: The New Variorum Shakespeare in the Electronic Medium
+<a name="session460">460</a>: The New Variorum Shakespeare in the Electronic Medium
 -----------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 8:30 to 9:45 a.m., Columbus Hall B, Hyatt Regency Chicago
@@ -413,9 +413,9 @@ Program arranged by the MLA Committee on the New Variorum Edition of Shakespeare
 
 *Speakers*: Gregory Crane, Tufts University; Hilary Binda, Tufts University; David Smith, Tufts University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session492">492</a>: Distance Learning and the Humanities: A Roundtable
+<a name="session492">492</a>: Distance Learning and the Humanities: A Roundtable
 --------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 10:15 to 11:30 a.m., Columbus Hall B, Hyatt Regency Chicago
@@ -431,7 +431,7 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 
 *Respondent*: F. Tyler Curtain, University of North Carolina, Chapel Hill
 
-</div><div><a name="session505">505</a>: Teaching and Learning German
+<a name="session505">505</a>: Teaching and Learning German
 ----------------------------------------------------------
 
 Wednesday, 29 December 1999, 10:15 to 11:30 a.m., Parlor C, Sheraton Chicago
@@ -442,9 +442,9 @@ Program arranged by Delta Phi Alpha (National German Honor Society). Presiding: 
 - “Accent Reduction: Using Selected Phonetic Symbols to Improve Pronunciation in German,” John F. Reynolds, Longwood College
 - “Paintings, Postcards, and Photos: Visuals as Language and Culture Prompts,” Regina Braker, Eastern Oregon University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session521">521</a>: Black American Literature and Culture at the Millennium: New Technologies
+<a name="session521">521</a>: Black American Literature and Culture at the Millennium: New Technologies
 -------------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, noon to 1:15 p.m., Acapulco Room, Hyatt Regency Chicago
@@ -453,9 +453,9 @@ Program arranged by the Division on Black American Literature and Culture. Presi
 
 - “Technologies, Teach Knowledges: Developing an Electronic Pedagogy for African American Studies,” Lois Leveen, University of California, Los Angeles
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session558">558</a>: Spanish Medieval Language and Literature
+<a name="session558">558</a>: Spanish Medieval Language and Literature
 ----------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 1:45 to 3:00 p.m., Ohio Room, Sheraton Chicago
@@ -466,7 +466,7 @@ Program arranged by the Division on Spanish Medieval Language and Literature.
 - ” `Mujeres y caníbales’: Rituales violentos en <cite>Grisel y Mirabella</cite> de Juan de Flores,” Alberto Prieto-Calixto, Vanderbilt University
 - “*[Admyte](http://www.lllf.uam.es/~fmarcos/informes/admyte/admytei.htm)* and Syntactic Research on Medieval Spanish: Using the Automated Archive to Investigate the Evolution of Infinitive Constructions in Old Spanish,” Elizabeth P. Trainor, Universidad Complutense de Madrid
 
-</div><div><a name="session579">579</a>: Books, Bytes, and Teaching: Technological Fixes or Junk Research?
+<a name="session579">579</a>: Books, Bytes, and Teaching: Technological Fixes or Junk Research?
 -----------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 1:45 to 3:00 p.m.,
@@ -478,7 +478,7 @@ Program arranged by the Advisory Committee on the <cite>MLA International Biblio
 - “Teaching Freshman Humanities by Impulse, Wave, and Feedback: Experiences from Stanford,” Mariatte Denman, Stanford University; C. P. Haun Saussy; Carlos R. Seligo, Stanford University
 - “Aiming to Please: Can Wired Academic Culture Keep the Subject in Its Sites?” Jolanda Vanderwal Taylor, University of Wisconsin, Madison
 
-</div><div><a name="session593">593</a>: Desplazamientos: Women and Resistance
+<a name="session593">593</a>: Desplazamientos: Women and Resistance
 -------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 1:45 to 3:00 p.m., Parlor C, Sheraton Chicago
@@ -493,9 +493,9 @@ Program arranged by [Feministas Unidas](http://www.west.asu.edu/femunida/). Pres
 
 Papers are available [through the organization’s Web site](http://www.west.asu.edu/femunida/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session617">617</a>: Old Texts, New Strategies: Researching and Teaching Early Women Writers Online
+<a name="session617">617</a>: Old Texts, New Strategies: Researching and Teaching Early Women Writers Online
 ------------------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 3:30 to 4:45 p.m., Grand Ballroom D South, Hyatt Regency Chicago
@@ -507,7 +507,7 @@ A special session; session leader: Elizabeth H. Hageman, University of New Hamps
 - “A Home `upon the Way’: Travel Encounters with Two Seventeenth-Century Woman Quakers from the [Women Writers Project](http://www.wwp.brown.edu/),” Kirilka S. Stavreva, Saint Ambrose University
 - “The Goose’s Quill: Teaching Early Women Writers and the Challenge of Sources,” Jennifer Summit, Stanford University
 
-</div><div><a name="session626">626</a>: Chaucer Futures: Graduate Study in the Twenty-First Century
+<a name="session626">626</a>: Chaucer Futures: Graduate Study in the Twenty-First Century
 -----------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 3:30 to 4:45 p.m., Acapulco Room, Hyatt Regency Chicago
@@ -521,7 +521,7 @@ A workshop arranged in conjunction with the forum “Millennial Chaucer: 1400/20
 - “Teaching Chaucer within the Crisis of Late Medieval Culture,” Richard Kenneth Emmerson, Medieval Academy of America
 - “The Interdisciplinary Chaucer,” Lisa J. Kiser, Ohio State University, Columbus
 
-</div><div><a name="session631">631</a>: Graduate Education in Foreign Language for the Twenty-First Century
+<a name="session631">631</a>: Graduate Education in Foreign Language for the Twenty-First Century
 -------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 3:30 to 4:45 p.m., Colorado Room, Sheraton Chicago
@@ -532,7 +532,7 @@ Program arranged by the MLA Advisory Committee on Foreign Languages and Literatu
 - “The GTA as Pedagogical Apprentice: An Enculturation Model for the Twenty-First Century,” Charles Grove, West Chester University; Gladys Vega Scott, Arizona State University, Tempe
 - “Redefining the Language Specialist,” Marilyn Gaddis Rose, State University of New York, Binghamton
 
-</div><div><a name="session635">635</a>: The Awkward Stage I: Henry James and the Invention of Postmodernity
+<a name="session635">635</a>: The Awkward Stage I: Henry James and the Invention of Postmodernity
 -------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 3:30 to 4:45 p.m., San Francisco Room, Hyatt Regency Chicago
@@ -545,16 +545,16 @@ Program arranged by the Henry James Society. Presiding: Michael Anesko, Penn Sta
 
 *Respondent*: David McWhirter, Texas A&amp;M University, College Station
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session644">644</a>: Business Meeting and Cash Bar Arranged by the Women’s Caucus for the Modern Languages, in Collaboration with the [Brown University Women Writers Project](http://www.wwp.brown.edu/), [Feministas Unidas](http://www.west.asu.edu/femunida/), Women in French, and Women in German
+<a name="session644">644</a>: Business Meeting and Cash Bar Arranged by the Women’s Caucus for the Modern Languages, in Collaboration with the [Brown University Women Writers Project](http://www.wwp.brown.edu/), [Feministas Unidas](http://www.west.asu.edu/femunida/), Women in French, and Women in German
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 5:15 to 6:30 p.m., Acapulco Room, Hyatt Regency Chicago
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session689">689</a>: Electronic Editions: Who Will Read and How?
+<a name="session689">689</a>: Electronic Editions: Who Will Read and How?
 -------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 7:15 to 8:30 p.m., Skyway Suite 280, Hyatt Regency Chicago
@@ -567,7 +567,7 @@ A special session; session leader: S. Chris Koenig-Woodyard, University of Oxfor
 
 For more information, see the *[British Women Playwrights around 1800](http://www-sul.stanford.edu/mirrors/romnet/wp1800/)* web site.
 
-</div><div><a name="session702">702</a>: Working in Publishing
+<a name="session702">702</a>: Working in Publishing
 ---------------------------------------------------
 
 Wednesday, 29 December 1999, 7:15 to 8:30 p.m., Columbus Hall B, Hyatt Regency Chicago
@@ -579,9 +579,9 @@ Program arranged by the MLA Office of English Programs. Presiding: James Ralph P
 - “Publishing Experience in and out of the Classroom,” Sharon E. Hamilton, Dalhousie University
 - “The Tower and the Web: Emigrés from English Lit Can Find Work in the Field of Online Information Architecture,” Liz Hines Kelleher, American Association of Retired Persons
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session720">720</a>: Faulkner, Modernity, and Mechanization
+<a name="session720">720</a>: Faulkner, Modernity, and Mechanization
 --------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 9:00 to 10:15 p.m., Toronto Room, Hyatt Regency Chicago
@@ -592,7 +592,7 @@ A special session;session leader: Patrick H. Samway, Saint Peter’s College
 - “Cars and Criminality: Faulkner in the Age of Automobility,” Deborah L. Clarke, Penn State University, University Park
 - “Mink’s Road to <cite>The Mansion</cite>: Modernity in Faulkner’s New South,” Thomas L. Wilmeth, Concordia University, Wisconsin
 
-</div><div><a name="session731">731</a>: Writing the Circuit: Technology, Language Transmission, and Transformations in Linguistic Practice
+<a name="session731">731</a>: Writing the Circuit: Technology, Language Transmission, and Transformations in Linguistic Practice
 --------------------------------------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 1999, 9:00 to 10:15 p.m., Burnham Room, Hyatt Regency Chicago
@@ -603,9 +603,9 @@ A special session; session leader: Jill Galvan, University of California, Los An
 - “Transmitting the Spirit: Occult Messages and Turn-of-the-Century Telecommunications,” Jill Galvan
 - “State of the Art: Language Precepts and Practices in the Modern Software Patent,” Dan Seward, University of Texas, Austin
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session744">744</a>: From Observation to Analysis to Action: Confronting the Job Crisis
+<a name="session744">744</a>: From Observation to Analysis to Action: Confronting the Job Crisis
 ------------------------------------------------------------------------------------------------
 
 Thursday, 30 December 1999, 8:30 to 9:45 a.m., Acapulco Room, Hyatt Regency Chicago
@@ -618,7 +618,7 @@ Program arranged by the Discussion Group on Part-Time Faculty Members. Presiding
 - “Hey! That Adjunct Is Using the Wrong Fork: Humanizing the Part-Time Beast,” W. T. Pfefferle, Nova Southeastern University
 - “Taking Action, Making Policy: Improving Working Conditions through Governance,” Carla J. Love, University of Wisconsin, Madison
 
-</div><div><a name="session757">757</a>: Evaluating and Supporting Academic Work in the Digital Age II
+<a name="session757">757</a>: Evaluating and Supporting Academic Work in the Digital Age II
 -------------------------------------------------------------------------------------------
 
 Thursday, 30 December 1999, 8:30 to 9:45 a.m., Water Tower Room, Hyatt Regency Chicago
@@ -630,7 +630,7 @@ Program arranged by the MLA Committee on Computers and Emerging Technologies in 
 - “Perpetual Editing and Academic Labor: Evaluating Hypertext Editions,” [Neil Fraistat](http://www.inform.umd.edu/ARHU/Depts/English/englfac/NFraistat/), University of Maryland, College Park; [Carl G. Stahmer](http://www.rc.umd.edu/cstahmer/), University of California, Santa Barbara
 - “The Search for Respectability: Cutting-Edge Anxieties in a Digital Age,” [Jack Lynch](http://andromeda.rutgers.edu/~jlynch/), Rutgers University, Newark
 
-</div><div><a name="session764">764</a>: Humanities Futures II
+<a name="session764">764</a>: Humanities Futures II
 ---------------------------------------------------
 
 Thursday, 30 December 1999, 8:30 to 9:45 a.m., Columbus Hall A, Hyatt Regency Chicago
@@ -643,9 +643,9 @@ Program arranged by the [Society for Critical Exchange](http://www.cwru.edu/affi
 
 Papers will be available before the convention on [the society’s web site](http://www.cwru.edu/affil/sce/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session779">779</a>: Millennial Shakespeare
+<a name="session779">779</a>: Millennial Shakespeare
 ----------------------------------------------------
 
 Thursday, 30 December 1999, 10:15 to 11:30 a.m., Gold Coast Room, Hyatt Regency Chicago
@@ -656,4 +656,3 @@ Program arranged by the Division on Shakespeare. Presiding: Kim Felicia Hall, Ge
 - “The Public Speare,” Donald Keith Hedrick, Kansas State University
 - “Shakespeare’s Phantom Communities: Mourning, Messianicity, and the Past to Come,” Roger A. Starling, University of Toronto
 
-</div></div>

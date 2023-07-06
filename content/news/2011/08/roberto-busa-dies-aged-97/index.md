@@ -18,5 +18,3 @@ The major prize in Digital Humanities field, the Roberto Busa award, is awarded 
 The next Roberto Busa prize, the highest honour in Digital Humanities, will be awarded at the Digital Humanities Conference in Hamburg, Germany in June 2012.
 
 *— [Craig Bellamy](http://www.craigbellamy.net/2011/08/11/roberto-busa-dies-aged-98/)*
-
-<div> </div>

@@ -115,7 +115,7 @@ Council Representatives 2021–2025
 Council Representatives 2022-2024
 ---------------------------------
 
-<div class="person"><div class="person">### Jim McGrath
+### Jim McGrath
 
 - Email: jimmcgrath dot us@gmail dot com
 

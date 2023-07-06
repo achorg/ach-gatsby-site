@@ -8,7 +8,7 @@ The annual Digital Humanities conference is an opportunity for the ACH to pursue
 ACH Annual General Meeting and Jobs Slam
 ----------------------------------------
 
-The ACH AGM will be held Wednesday, 9 July 2014 at 12:30pm CEST (UTC +1:00) in the <span style="color: #373737;">Amphimax Building, UNIL, Room 350/351.</span> Join us for a free, healthy, vegetarian-friendly lunch!
+The ACH AGM will be held Wednesday, 9 July 2014 at 12:30pm CEST (UTC +1:00) in the Amphimax Building, UNIL, Room 350/351. Join us for a free, healthy, vegetarian-friendly lunch!
 
 Sure, there may be some sub-committee reports and even an important vote or two, but you haven’t really experienced an annual general meeting until you’ve been to an ACH Jobs Slam! This is a lively event where prospective employees and employers have 30 seconds of floor-time to woo each other**.**
 
@@ -26,9 +26,9 @@ Please Ask, Do Tell!
 
 Looking for professional advice or job opportunities? Willing to share some professional advice or news of job opportunities? Use our Please Ask, Do Tell stickers to let conference attendees know!
 
-<div style="width: 350px;">Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!</div>
+Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!
 
-<div style="width: 350px;">Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know!</div>Pick up your sticker(s) at the ACH annual general meeting!
+Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know! Pick up your sticker(s) at the ACH annual general meeting!
 
 Join ACH
 --------

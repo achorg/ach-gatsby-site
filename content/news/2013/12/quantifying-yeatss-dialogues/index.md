@@ -3,10 +3,10 @@ title: 'Quantifying Yeats’s Dialogues'
 date: '2013-12-30'
 author: 'Shawna Ross'
 ---
-<div><div><article><header>**Shawna Ross, Arizona State University**
+**Shawna Ross, Arizona State University**
 -----------------------------------------
 
-</header><section>Origin Story
+Origin Story
 ------------
 
 This project originated in a coincidence that occurred sometime in or around 2006, when I was a graduate student at Penn State. I was binge-reading Hegel’s *Phenomenology of Spirit* at night while methodically proceeding through Yeats’s entire oeuvre during the daylight hours. Somewhere around the *Phenomenology*’s self-consciousness section and the soothsaying lunar charts of *A Vision*, it struck me that Yeats used dialectical forms to dramatize the gradual emergence of the self-conscious poet-craftsman—quite as much as Jean Hyppolite claims of Hegel’s *bildungsroman* of consciousness.
@@ -119,5 +119,3 @@ Some of the potentially broader ramifications I can gesture toward.
 
 1. Learning the value of error, of confusion, of frustration at the early stages of a project. What kind of intellectual work is really going on when we create data sets, and how is that different from writing? What is “real” intellectual work, and when does it really happen?
 2. Finding shades between qualitative and quantitative inquiry, between the study of the subjective and the cultivation of the objective. As Yeats wrote to Ezra Pound in 1918, “**I will use certain philosophical ideas to give subjective hardness** as Dante used Aquinas \[…\]. Subjective hardness is what we all trying to get in different ways. In poetry it is the escape from imagination, the only vast pattern. All the rest is haycocks in the flood.”
-
-</section></article></div></div>

@@ -3,7 +3,7 @@ title: 'ACH AGM at Digital Humanities 2016'
 date: '2016-07-09'
 author: 'Mia Ridge'
 ---
-Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. You are invited to join us this year for our General Meeting at the DH2016 conference. This year the meeting will take place **Thursday, July 14,** during the conference lunch break**, <span class="aBn" data-term="goog_228579799" tabindex="0"><span class="aQJ">1-2:30pm</span></span>**<span class="aBn" data-term="goog_228579799" tabindex="0"><span class="aQJ"> in </span></span>Exhibition Room 1, Audimax, Jagiellonian University, ul. Krupnicza 33. The meeting is open to the public, and all are welcome. **Lunch will be provided** on a first-come, first-served basis for up to 80 attendees.
+Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. You are invited to join us this year for our General Meeting at the DH2016 conference. This year the meeting will take place **Thursday, July 14,** during the conference lunch break**, 1-2:30pm** in Exhibition Room 1, Audimax, Jagiellonian University, ul. Krupnicza 33. The meeting is open to the public, and all are welcome. **Lunch will be provided** on a first-come, first-served basis for up to 80 attendees.
 
 ### New Tenure and Promotion Guidelines Discussion
 
@@ -11,7 +11,7 @@ We need your input! Following the lead of scholarly societies in some of the dis
 
 ### Jobs Slam
 
-Our AGM will include our popular “<span class="il">jobs</span> <span class="il">slam</span>,” a fast-paced lightning round in which <span class="il">job </span>seekers have an opportunity to introduce themselves to their digital humanities colleagues and potential employers (or be introduced by a mentor)—and people with <span class="il">jobs</span> to announce can share their good news!
+Our AGM will include our popular “jobs slam,” a fast-paced lightning round in which job seekers have an opportunity to introduce themselves to their digital humanities colleagues and potential employers (or be introduced by a mentor)—and people with jobs to announce can share their good news!
 
 If you have a current or upcoming job opening at your institution, please send a message to brian.croxall \[at\] brown.edu with the following:
 

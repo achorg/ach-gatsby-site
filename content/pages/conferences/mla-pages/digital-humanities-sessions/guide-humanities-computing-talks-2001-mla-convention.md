@@ -12,7 +12,7 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
 ### Thursday, 27 December 2001
@@ -98,7 +98,7 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [575: Conflicts, Culture Wars, Curricula: A Roundtable on Gerald Graff](#session575)
 - [586: Teaching Smarter](#session586)
 
-####  5:15 to 6:30 p.m.
+#### 5:15 to 6:30 p.m.
 
 - [596: *American Sign Language Dictionary and Inflection Guide*: A Demonstration of the CD-ROM](#session596)
 
@@ -142,9 +142,9 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [789: Digital Discourse II: Civility, Subjectivity, and Difference](#session789)
 
 
-</div>- - - - - -
+- - - - - -
 
-<div><div><a name="session73">73</a>: A New Generation of Comparatists I: Research
+<a name="session73">73</a>: A New Generation of Comparatists I: Research
 ------------------------------------------------------------------------
 
 Thursday, 27 December 2001, 7:00 to 8:15 p.m., Studio 10, New Orleans Marriott
@@ -156,7 +156,7 @@ Program arranged by the American Comparative Literature Association. Presiding: 
 - "Calypso, Son, Beguine: Popular Music and Poetry in the Caribbean in the 1930s and 1940s," Christopher Franz Laferl, University of Vienna
 - "New Labyrinths: The Comparatist Enters Cyberspace," Sarah Boykin Hardy, Hampden-Sydney College
 
-</div><div><a name="session76">76</a>: Technologies of Song
+<a name="session76">76</a>: Technologies of Song
 ------------------------------------------------
 
 Thursday, 27 December 2001, 7:00 to 8:15 p.m., Galerie 4, New Orleans Marriott
@@ -167,9 +167,9 @@ Program arranged by the Lyrica Society for Word-Music Relations. Presiding: Lesl
 - "Voice, Music, Technology: Text-Music Relations in Alanis Morissette’s `Front Row’ (1998)," Serge Lacasse, University of Western Ontario
 - "Technologies of Queerness: Plying the Intersection of Musicality and Sexuality in GALA Choruses," Julia Therese Balén, University of Arizona
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session100">100</a>: Tuning In to Culture: German Authors and Twentieth-Century Media
+<a name="session100">100</a>: Tuning In to Culture: German Authors and Twentieth-Century Media
 ----------------------------------------------------------------------------------------------
 
 Thursday, 27 December 2001, 8:45 to 10:00 p.m., Balcony I, New Orleans Marriott
@@ -180,7 +180,7 @@ A special session; session leader: Daniel D. Gilfillan, University of Oregon
 - "Rethinking Radio: Alfred Andersch and Collaborative Media," Daniel D. Gilfillan
 - "Media Technologies: The Path to Literary Form in Recent Works by Walter Kempowski," Carla Ann Damiano, Eastern Michigan University
 
-</div><div><a name="session104">104</a>: Business Meeting of the Council of Editors of Learned Journals
+<a name="session104">104</a>: Business Meeting of the Council of Editors of Learned Journals
 --------------------------------------------------------------------------------------------
 
 Thursday, 27 December 2001, 8:45 to 10:00 p.m., Pontchartrain Ballroom F, Sheraton New Orleans
@@ -188,9 +188,9 @@ Thursday, 27 December 2001, 8:45 to 10:00 p.m., Pontchartrain Ballroom F, Sherat
 - "Computing and Scholarly Publication," Ian Lancashire, University of Toronto
 - "Scholarly Publishing and Copyright," Patrick R. Harrison, Cornell University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session126">126</a>: Spanish Golden Age Drama I: Pedagogy
+<a name="session126">126</a>: Spanish Golden Age Drama I: Pedagogy
 ------------------------------------------------------------------
 
 Friday, 28 December 2001, 8:30 to 9:45 a.m., Galerie 4, New Orleans Marriott
@@ -201,7 +201,7 @@ Program arranged by the Division on Sixteenth- and Seventeenth-Century Spanish D
 - "Teaching the *Comedia* in the Twenty-First Century: Problems and Opportunities," Alix S. Ingber, Sweet Briar College
 - "Rape and Madness in the Classroom: *Fuenteovejuna* and *Los locos de Valencia*," Belén Atienza, Connecticut College
 
-</div><div><a name="session130">130</a>: Research Methods for the Digital Age: What Should Graduate Students Know, and When Should They Know It?
+<a name="session130">130</a>: Research Methods for the Digital Age: What Should Graduate Students Know, and When Should They Know It?
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 8:30 to 9:45 a.m., Bayside Room B, Sheraton New Orleans
@@ -214,7 +214,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Ric
 
 Respondent: W. Speed Hill, Graduate Center, City University of New York
 
-</div><div><a name="session136">136</a>: Arabic Media Culture
+<a name="session136">136</a>: Arabic Media Culture
 --------------------------------------------------
 
 Friday, 28 December 2001, 8:30 to 9:45 a.m., Balcony I, New Orleans Marriott
@@ -227,7 +227,7 @@ Program arranged by the Discussion Group on Arabic Literature and Culture. Presi
 
 Respondent: Nader Khalaf Uthman, Columbia University
 
-</div><div><a name="session137">137</a>: Epistemologies of "Truth" across Disciplines: A Cognitive Perspective?
+<a name="session137">137</a>: Epistemologies of "Truth" across Disciplines: A Cognitive Perspective?
 ----------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 8:30 to 9:45 a.m., Poydras Room, Sheraton New Orleans
@@ -240,9 +240,9 @@ A special session; session leader: Ronald Schleifer, University of Oklahoma
 
 Respondent: Ronald Schleifer
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session161">161</a>: Novedad y ruptura II: Nuevos nexos
+<a name="session161">161</a>: Novedad y ruptura II: Nuevos nexos
 ----------------------------------------------------------------
 
 Friday, 28 December 2001, 10:15 to 11:30 a.m., Studio 2, New Orleans Marriott
@@ -253,7 +253,7 @@ Program arranged by the Division on Twentieth-Century Latin American Literature.
 - "De transiciones, rupturas, y prefijos: La condición posmexicana," Ignacio Corona, Ohio State University, Columbus
 - "Novedad y Ruptura: Poetry and Technology," Jill Suzanne Kuhnheim, University of Kansas
 
-</div><div><a name="session167">167</a>: Rhetorics and Poetics: Historical and Theoretical Relationships
+<a name="session167">167</a>: Rhetorics and Poetics: Historical and Theoretical Relationships
 ---------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 10:15 to 11:30 a.m., Pontchartrain Ballroom B, Sheraton New Orleans
@@ -264,7 +264,7 @@ Program arranged by the Division on the History and Theory of Rhetoric and Compo
 - "Cultural Poetics and Rhetorical Hermeneutics," Steven Mailloux, University of California, Irvine
 - "Rhetoric, Poetics, and Publics," John L. Schilb, Indiana University, Bloomington
 
-</div><div><a name="session178">178</a>: Digital Poetics: The E-Poetry Genre
+<a name="session178">178</a>: Digital Poetics: The E-Poetry Genre
 -----------------------------------------------------------------
 
 Friday, 28 December 2001, 10:15 to 11:30 a.m., Pontchartrain Ballroom C, Sheraton New Orleans
@@ -275,7 +275,7 @@ A special session; session leader: Maria Damon, University of Minnesota Twin Cit
 - "Script Language = `Poetry’: The Poetic Potential of JavaScript and DHTML," George Edward Hartley, Ohio University, Athens
 - "Electronic Pies in the Poetry Sky," Charles Bernstein, State University of New York, Buffalo
 
-</div><div><a name="session200">200</a>: Pairings: The Intersectional Work of American Literature
+<a name="session200">200</a>: Pairings: The Intersectional Work of American Literature
 --------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 10:15 to 11:30 a.m., Rhythms Ballroom II, Sheraton New Orleans
@@ -286,9 +286,9 @@ Program arranged by the American Literature Section. Presiding: Betsy Erkkila, N
 - "Mentor as Intellectual, Mentor as Model," Arnold Rampersad, Stanford University; Judith Jackson Fossett, University of Southern California
 - "Welcome to a Real Internet Revolution: How to Reform Teaching, Research, and Public Outreach," Cary Nelson, University of Illinois, Urbana
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session207">207</a>: W(h)ither the Eighteenth Century? A Cross-Generational Assessment
+<a name="session207">207</a>: W(h)ither the Eighteenth Century? A Cross-Generational Assessment
 -----------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, noon to 1:15 p.m., Bayside Room A, Sheraton New Orleans
@@ -301,7 +301,7 @@ Program arranged by the Division on Restoration and Early-Eighteenth-Century Eng
 - "Information Technology and the Future State of Eighteenth-Century Studies," George H. Williams, University of Maryland, College Park
 - "The Next Generation’s Eighteenth Century," Sean Moore, Duke University
 
-</div><div><a name="session215">215</a>: Digital Diaspora: New Media, Indigenous Spaces, and Postcoloniality
+<a name="session215">215</a>: Digital Diaspora: New Media, Indigenous Spaces, and Postcoloniality
 -------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, noon to 1:15 p.m., Rhythms Ballroom II, Sheraton New Orleans
@@ -312,7 +312,7 @@ Program arranged by the Discussion Group on Postcolonial Studies in Literature a
 - "Anxieties of Influence: The Caribbean Digital Diaspora," Belinda J. Edmondson, Rutgers University, Newark; Faith Lois Smith, Brandeis University
 - " `What to Do?’; or, Strategies of Replacement: Alien Architecture and the Work of Rafael Lozano-Hemmer and Will Bauer," Andreas Gernot Kitzman, University of Karlstad, Sweden
 
-</div><div><a name="session222">222</a>: Lost, Stolen, Strayed, or Forgotten: The Impact of "Unknown" Women’s Texts
+<a name="session222">222</a>: Lost, Stolen, Strayed, or Forgotten: The Impact of "Unknown" Women’s Texts
 --------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, noon to 1:15 p.m., Bayside Room B, Sheraton New Orleans
@@ -324,7 +324,7 @@ A special session; session leader: Julia H. Flanders, Brown University
 - "The Authoress Lives: Electronic Texts and Feminist Literary Study," Kimberly S. Hill, Kent State University, Kent
 - "Vulnerable Arguments: The Reemergence of Secret Histories in the Historiography of Recovery," Judith Ann Dorn, Saint Cloud State University
 
-</div><div><a name="session230">230</a>: Postnational Imaginaries: Cultural Practices in Latin America
+<a name="session230">230</a>: Postnational Imaginaries: Cultural Practices in Latin America
 -------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, noon to 1:15 p.m., Iberville Room, New Orleans Marriott
@@ -337,9 +337,9 @@ A special session; session leader: Miguel López, University of New Mexico, Albu
 
 Respondent: Javier Durán, Michigan State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session269">269</a>: Le Français en Louisiane: Our Past, Present, and Future
+<a name="session269">269</a>: Le Français en Louisiane: Our Past, Present, and Future
 -------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 1:45 to 3:00 p.m., Galerie 1, New Orleans Marriott
@@ -350,7 +350,7 @@ Program arranged by the MLA Office of Foreign Language Programs. Presiding: Caro
 - "George Dessomes en Classiques Pélican: Un état présent du fait français en Louisiane," Dana Kress, Centenary College
 - "Les médias francophones aujourd’hui et demain: La presse, la radio, et l’Internet," Michael C. Bruce, Centenary College
 
-</div><div><a name="session272">272</a>: Digital Discourse I: Theory and Practice of Teaching Online
+<a name="session272">272</a>: Digital Discourse I: Theory and Practice of Teaching Online
 -----------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 1:45 to 3:00 p.m., Poydras Room, Sheraton New Orleans
@@ -363,9 +363,9 @@ Program arranged by the Association for Business Communication. Presiding: Melin
 
 Respondent: Melinda A. Knight
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session295">295</a>: Language Change in Social Contexts
+<a name="session295">295</a>: Language Change in Social Contexts
 ----------------------------------------------------------------
 
 Friday, 28 December 2001, 3:30 to 4:45 p.m., Poydras Room, Sheraton New Orleans
@@ -376,7 +376,7 @@ Program arranged by the Division on Language Change. Presiding: Kristin Hanson, 
 - "Utilizing *Use*: Grammaticization and Delexification," Eric J. Hyman, Fayetteville State University
 - "Notes from Inside the Discourse Community of Information Technologists: Blind Spots and Empowerment," Alan M. Bilansky, Penn State University, University Park
 
-</div><div><a name="session316">316</a>: When Is a Web Site Scholarship?
+<a name="session316">316</a>: When Is a Web Site Scholarship?
 -------------------------------------------------------------
 
 Friday, 28 December 2001, 3:30 to 4:45 p.m., Rhythms Ballroom II, Sheraton New Orleans
@@ -389,7 +389,7 @@ Program arranged by the Advisory Committee on the
 - "Should I List This on My CV? Considering the Values of Self-Published and Maintained Web Sites," Steven Daniel Krause, Eastern Michigan University
 - "Digital Representation, Editorial Representation, and the William Blake Archive," Joseph Viscomi, University of North Carolina, Chapel Hill
 
-</div><div><a name="session317">317</a>: Interactive Technology in Foreign Languages, Linguistics, and Literature
+<a name="session317">317</a>: Interactive Technology in Foreign Languages, Linguistics, and Literature
 ------------------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 3:30 to 4:45 p.m., Balcony I, New Orleans Marriott
@@ -399,7 +399,7 @@ Program arranged by the MLA Office of Foreign Language Programs. Presiding: Alex
 - "New Technology Yes! New Pedagogy No!" Benjamin Rifkin, University of Wisconsin, Madison
 - "Creating Interactive Text on the Web," Caroline Schaumann, Middlebury College
 
-</div><div><a name="session323">323</a>: Web Development in the Technical Communication Service Course
+<a name="session323">323</a>: Web Development in the Technical Communication Service Course
 -------------------------------------------------------------------------------------------
 
 Friday, 28 December 2001, 3:30 to 4:45 p.m., Bayside Room B, Sheraton New Orleans
@@ -411,9 +411,9 @@ Program arranged by the Association of Teachers of Technical Writing. Presiding:
 - "Producing Responsible Web Writers: Let’s Start at the Very Beginning," Elizabeth Ruth Pass, James Madison University
 - "Web Development in the Technical Communication Service Course," Joy Rouse, Appalachian State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session365">365</a>: Teaching Language with Technology
+<a name="session365">365</a>: Teaching Language with Technology
 ---------------------------------------------------------------
 
 Friday, 28 December 2001, 7:15 to 8:30 p.m., Balcony I, New Orleans Marriott
@@ -424,9 +424,9 @@ Program arranged by the Division on the Teaching of Language. Presiding: Diane W
 - "The Potential of Multimedia for Learner-Active Intercultural Understanding: The Interactive Documentary Thriller *Berlin Connection* in the Foreign Language Classroom," Sylvia H. Rieger, Harvard University
 - "An Active Approach to Instructional Technology in a Foreign Language Classroom: Electronic Writing Portfolios," Jerzy (George) Jura, Iowa State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session409">409</a>: Archival Research and New Technologies: A Discussion
+<a name="session409">409</a>: Archival Research and New Technologies: A Discussion
 ----------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 8:30 to 9:45 a.m., Bayside Room B, Sheraton New Orleans
@@ -438,7 +438,7 @@ Program arranged by the Division on Nineteenth-Century American Literature. Pres
 - "An Americanist Technophobe in the Overseas Archive," Lynn A. Casmier-Paz, University of Central Florida
 - "The Dickinson Electronic Archives: Technologies and Textualities," Lara E. Vetter, University of Maryland, College Park
 
-</div><div><a name="session425">425</a>: Versions of Modernism
+<a name="session425">425</a>: Versions of Modernism
 ---------------------------------------------------
 
 Saturday, 29 December 2001, 8:30 to 9:45 a.m., Gallier Rooms A and B, Sheraton New Orleans
@@ -449,7 +449,7 @@ A special session; session leader: W. Speed Hill, Graduate Center, City Universi
 - "The Modernist Book as Artifact: Historicizing the First Thirty Cantos," George J. Bornstein, University of Michigan, Ann Arbor
 - "Hanging Gertrude: Picasso’s Portrait of Stein and the Display of Modernism," Catherine Elizabeth Paul, Clemson University
 
-</div><div><a name="session433">433</a>: Electronic Media and Intellectual Property
+<a name="session433">433</a>: Electronic Media and Intellectual Property
 ------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 8:30 to 9:45 a.m., Grand Chenier Room, Sheraton New Orleans
@@ -461,9 +461,9 @@ Program arranged by the MLA Committee on Academic Freedom and Professional Right
 - "Profit from It: The Rhetoric of Usability and E-Commerce in Students’ Poaching of Intellectual Property," Kathleen M. Keating, Greensboro College
 - "Just Sharing, Not Stealing: Student Conceptions of Intellectual Property in Academic and Electronic Settings," Amy Marie Ward, College of Mount Saint Vincent
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session450">450</a>: Textual Criticism and Theory
+<a name="session450">450</a>: Textual Criticism and Theory
 ----------------------------------------------------------
 
 Saturday, 29 December 2001, 10:15 to 11:30 a.m., Pontchartrain Ballroom F, Sheraton New Orleans
@@ -475,7 +475,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Pam
 - "The Author Has *Not* Left the Building: Intentions, Conventions, and Rhetoric," Steven Mailloux, University of California, Irvine
 - "McGann versus Greg and Gaskell: Reflections on the `Copy-Text’ Controversy," William Baker, Northern Illinois University
 
-</div><div><a name="session457">457</a>: 2001, a Cultural Studies Odyssey: Science Fiction and Technocultural Fact
+<a name="session457">457</a>: 2001, a Cultural Studies Odyssey: Science Fiction and Technocultural Fact
 -------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 10:15 to 11:30 a.m., Bayside Room A, Sheraton New Orleans
@@ -486,7 +486,7 @@ Program arranged by the Discussion Group on Science Fiction and Utopian and Fant
 - "Afro-Futurism and Women Writers of Color," Lisbeth Gant-Britton, Kalamazoo College
 - "Technological Contours of Electronic Science Fiction," Brooks Landon, University of Iowa
 
-</div><div><a name="session466">466</a>: Defining Digital Scholarship
+<a name="session466">466</a>: Defining Digital Scholarship
 ----------------------------------------------------------
 
 Saturday, 29 December 2001, 10:15 to 11:30 a.m., Bayside Room B, Sheraton New Orleans
@@ -498,7 +498,7 @@ Program arranged by the MLA Committee on Information Technology. Presiding: Jame
 
 Respondent: Matthew G. Kirschenbaum, University of Maryland, College Park
 
-</div><div><a name="session475">475</a>: Global Connections II: South American, Asian, and United States Theater and Drama
+<a name="session475">475</a>: Global Connections II: South American, Asian, and United States Theater and Drama
 ---------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 10:15 to 11:30 a.m., Bayside Room C, Sheraton New Orleans
@@ -509,9 +509,9 @@ Program arranged by the American Theatre and Drama Society. Presiding: David Rom
 - "Digital Zapatistas: Undoing Global Influence with Ricardo Dominguez and the Electronic Disturbance Theatre," Jill M. Lane, Ohio State University, Columbus
 - "Kabuki, Bharata Natyam, and the National Theater of the Deaf," Kanta Kochhar-Lindgren, Central Michigan University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session506">506</a>: Language Barriers and Barriers to Language: Disability and Foreign Language Acquisition
+<a name="session506">506</a>: Language Barriers and Barriers to Language: Disability and Foreign Language Acquisition
 ---------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, noon to 1:15 p.m., Galerie 4, New Orleans Marriott
@@ -522,7 +522,7 @@ A special session; session leader: Susan Burch, Gallaudet University
 - "Watch-You-Learn-Now: Foreign Language Instruction in the Deaf Classroom," Ian M. Sutherland, Gallaudet University
 - "Who Is Leading Whom? Teaching German to Students Who Are Blind," Elizabeth Cushman Hamilton, Oberlin College
 
-</div><div><a name="session508">508</a>: Enabling Technologies and Electronic Publishing
+<a name="session508">508</a>: Enabling Technologies and Electronic Publishing
 -----------------------------------------------------------------------------
 
 Saturday, 29 December 2001, noon to 1:15 p.m., Rampart Room, Sheraton New Orleans
@@ -535,9 +535,9 @@ Program arranged by the MLA Publications Committee. Presiding: Dierk O. Hoffmann
 
 Respondent: Susan M. Belasco, University of Nebraska, Lincoln
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session550">550</a>: Computer Games, Narrative, and Special Effects
+<a name="session550">550</a>: Computer Games, Narrative, and Special Effects
 ----------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 1:45 to 3:00 p.m., Grand Couteau Room, Sheraton New Orleans
@@ -551,9 +551,9 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 
 See [the associated web site](http://www.ach.org/mla01/) for further details.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session570">570</a>: Digital Approaches to Language and Text: Words, Images, and Beyond
+<a name="session570">570</a>: Digital Approaches to Language and Text: Words, Images, and Beyond
 ------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 3:30 to 4:45 p.m., Bayside Room B, Sheraton New Orleans
@@ -565,7 +565,7 @@ Program arranged by the Discussion Group on Computer Studies in Language and Lit
 - "A Computational Infrastructure for Aligning Tibetan Videos with Text," Edward J. Garrett, University of Virginia
 - "Perl Programming in Stylistic Analysis and Pedagogy," Donald E. Hardy, Northern Illinois University
 
-</div><div><a name="session575">575</a>: Conflicts, Culture Wars, Curricula: A Roundtable on Gerald Graff
+<a name="session575">575</a>: Conflicts, Culture Wars, Curricula: A Roundtable on Gerald Graff
 ----------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 3:30 to 4:45 p.m., Pontchartrain Ballroom G, Sheraton New Orleans
@@ -579,7 +579,7 @@ A special session; session leader: Andrew Hoberek, University of Missouri, Colum
 - "Remodeling Literary Pedagogy: Gerald Graff at the Museum of Natural History," Robin P. Valenza, Stanford University
 - "We Really Do Not Know How to Disagree with Each Other," Jeffrey D. Wallen, Hampshire College
 
-</div><div><a name="session586">586</a>: Teaching Smarter
+<a name="session586">586</a>: Teaching Smarter
 ----------------------------------------------
 
 Saturday, 29 December 2001, 3:30 to 4:45 p.m., Pontchartrain Ballroom F, Sheraton New Orleans
@@ -593,18 +593,18 @@ A workshop arranged in conjunction with the forum Understanding Teaching (sessio
 
 Respondent: Susan Anne Kress, Skidmore College
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session596">596</a>: *American Sign Language Dictionary and Inflection Guide*: A Demonstration of the CD-ROM
+<a name="session596">596</a>: *American Sign Language Dictionary and Inflection Guide*: A Demonstration of the CD-ROM
 ---------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 5:15 to 6:30 p.m., Southdown Room, Sheraton New Orleans
 
 Presiding: Geoffrey S. Poor, Rochester Institute of Technology, National Technical Institute for the Deaf
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session631">631</a>: Bibliography in the Electronic Environment
+<a name="session631">631</a>: Bibliography in the Electronic Environment
 ------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 7:15 to 8:30 p.m., Bayside Room B, Sheraton New Orleans
@@ -615,7 +615,7 @@ Program arranged by the Discussion Group on Bibliography and Textual Studies. Pr
 - "The Theory and Practice of Creating a `Center for Applied Technologies in the Humanities,’" Daniel W. Mosser, Virginia Polytechnic Institute and State University; Ernest Walter Sullivan, Virginia Polytechnic Institute and State University
 - "Textual and Electronic Versions of the Keats-Shelley Bibliography," Jonathan David Gross, DePaul University
 
-</div><div><a name="session645">645</a>: The Portuguese Diaspora in the Indian Ocean and Beyond / A diáspora portuguesa no Oceano Indico e mais além
+<a name="session645">645</a>: The Portuguese Diaspora in the Indian Ocean and Beyond / A diáspora portuguesa no Oceano Indico e mais além
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 7:15 to 8:30 p.m., Studio 2, New Orleans Marriott
@@ -628,7 +628,7 @@ A special session; session leader: Joseph Abraham Levi, Rhode Island College
 
 Respondent: Nechama Kramer-Hellinx, York College, City University of New York
 
-</div><div><a name="session647">647</a>: Career Planning for Graduate Students: A Holistic Vision
+<a name="session647">647</a>: Career Planning for Graduate Students: A Holistic Vision
 --------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 7:15 to 8:30 p.m., Rhythms Ballroom I, Sheraton New Orleans
@@ -639,7 +639,7 @@ Program arranged by the MLA Committee on the Status of Graduate Students in the 
 - "How to Leave Graduate School with Abundant Career Options," Cynthia D. Petrites, University of Chicago
 - "The WRK4US Listserv: An Electronic Resource for Exploring Nonacademic Careers," Paula Foster, Foster Communications
 
-</div><div><a name="session648">648</a>: How to Drive a New Variorum Shakespeare
+<a name="session648">648</a>: How to Drive a New Variorum Shakespeare
 ---------------------------------------------------------------------
 
 Saturday, 29 December 2001, 7:15 to 8:30 p.m., Salon 825 &amp; 829, Sheraton New Orleans
@@ -652,7 +652,7 @@ Program arranged by the MLA Committee on the New Variorum Edition of Shakespeare
 
 Respondent: Russ McDonald, University of North Carolina, Greensboro
 
-</div><div><a name="session649">649</a>: Online Research and Learning in Modern Languages and Literature: Issues of Quality
+<a name="session649">649</a>: Online Research and Learning in Modern Languages and Literature: Issues of Quality
 ----------------------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 7:15 to 8:30 p.m., Grand Couteau Room, Sheraton New Orleans
@@ -664,9 +664,9 @@ Program arranged by the MLA Committee on Information Technology. Presiding: Jame
 
 Respondent: James S. Noblitt
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session655">655</a>: The Arts of (Making) Money II
+<a name="session655">655</a>: The Arts of (Making) Money II
 -----------------------------------------------------------
 
 Saturday, 29 December 2001, 9:00 to 10:15 p.m., Grand Couteau Room, Sheraton New Orleans
@@ -677,7 +677,7 @@ Program arranged by the Division on Literature and Other Arts. Presiding: Margue
 - "The Euro Is Coming: People, History, and Other Stuff You Can Buy," Peter Sarram, Northwestern University
 - "J. S. G. Boggs’s Networked Art," Craig Saper, University of the Arts
 
-</div><div><a name="session673">673</a>: Systems of Control: Navigating Academic Authority in the Digital Age
+<a name="session673">673</a>: Systems of Control: Navigating Academic Authority in the Digital Age
 --------------------------------------------------------------------------------------------------
 
 Saturday, 29 December 2001, 9:00 to 10:15 p.m., Bayside Room B, Sheraton New Orleans
@@ -689,9 +689,9 @@ A special session; session leader: Brandy Brown Walker, Georgia Institute of Tec
 - "Selling Space: Commodification, the Link, and the Business of Hypertext," Michael Griffith, Tulane University
 - "Electronic Critique and Digital Departments: Navigating New Media Studies," Marcel O’Gorman, University of Detroit Mercy
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session696">696</a>: Race, Sexuality, and Popular Culture
+<a name="session696">696</a>: Race, Sexuality, and Popular Culture
 ------------------------------------------------------------------
 
 Sunday, 30 December 2001, 8:30 to 9:45 a.m., Rampart Room, Sheraton New Orleans
@@ -704,7 +704,7 @@ Program arranged by the Division on Popular Culture
 
 Respondent: Carole-Ann Tyler, University of California, Riverside
 
-</div><div><a name="session707">707</a>: Making Pedagogy Visible
+<a name="session707">707</a>: Making Pedagogy Visible
 -----------------------------------------------------
 
 Sunday, 30 December 2001, 8:30 to 9:45 a.m., Bayside Room B, Sheraton New Orleans
@@ -715,7 +715,7 @@ A special session; session leader: Margaret Katherine Willard-Traub, Oakland Uni
 - "All the News That’s Fit to Print: Pedagogy in the Public Domain," Mark C. Long, Keene State College
 - "Teaching with New Technologies: Documenting Complex Teaching Practices," Barbara Anne Szlanic, Columbia University
 
-</div><div><a name="session713">713</a>: The Information Superrailway: Literature and Media in the Nineteenth Century
+<a name="session713">713</a>: The Information Superrailway: Literature and Media in the Nineteenth Century
 ----------------------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2001, 8:30 to 9:45 a.m., Cornet Room, Sheraton New Orleans
@@ -726,9 +726,9 @@ A special session; session leader: Richard Menke, University of Georgia
 - "Exhibiting the Telegraph Girl: Gender and Surveillance in the Global Information Network of the Nineteenth Century," Christopher J. Keep, University of Western Ontario
 - "Stenographic Masculinity," Leah Price, Harvard University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session729">729</a>: Technology and Language Acquisition
+<a name="session729">729</a>: Technology and Language Acquisition
 -----------------------------------------------------------------
 
 Sunday, 30 December 2001, 10:15 to 11:30 a.m., Galerie 1, New Orleans Marriott
@@ -737,7 +737,7 @@ Program arranged by the Division on Applied Linguistics. Presiding: M. Rafael Sa
 
 - "SLA Interactive Framework and Vocabulary Acquisition: Effects of Computer-Mediated Synchronous Interaction," Maria J. De La Fuente, Vanderbilt University
 
-</div><div><a name="session751">751</a>: Teaching Language and Literature Online
+<a name="session751">751</a>: Teaching Language and Literature Online
 ---------------------------------------------------------------------
 
 Sunday, 30 December 2001, 10:15 to 11:30 a.m., Bayside Room B, Sheraton New Orleans
@@ -749,9 +749,9 @@ Program arranged by the MLA Committee on Information Technology. Presiding: Doug
 - "GOLDEN (German On-Line Distance Eduation Network): Interactive Professional Development on the Web," Joan Keck Campbell, University of Nebraska, Lincoln
 - "Should Distance Learning Replace Our Classroom-Based Language Teaching?" Peter Jianhua Yang, Case Western Reserve University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session772">772</a>: Professing Technical Communication
+<a name="session772">772</a>: Professing Technical Communication
 ----------------------------------------------------------------
 
 Sunday, 30 December 2001, noon to 1:15 p.m., Bayside Room B, Sheraton New Orleans
@@ -763,7 +763,7 @@ Program arranged by the Association of Teachers of Technical Writing. Presiding:
 - "Researching toward New Technologies and Techniques," Paul M. Dombrowski, University of Central Florida
 - "Job Requirements for Today’s Technical Writing Practitioners," Michael A. McCord, University of Nevada, Las Vegas
 
-</div><div><a name="session774">774</a>: Seeking the Soul of the Machine: Interrogating Human-Computer Relations in Literature, Composition, and Art
+<a name="session774">774</a>: Seeking the Soul of the Machine: Interrogating Human-Computer Relations in Literature, Composition, and Art
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2001, noon to 1:15 p.m., Grand Couteau Room, Sheraton New Orleans
@@ -776,7 +776,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 
 See [the associated web site](http://wordsworth2.net/projects/mla2001/) for further details.
 
-</div><div><a name="session782">782</a>: Living between Cultures and Languages
+<a name="session782">782</a>: Living between Cultures and Languages
 -------------------------------------------------------------------
 
 Sunday, 30 December 2001, noon to 1:15 p.m., Audubon Room, New Orleans Marriott
@@ -787,7 +787,7 @@ Program arranged by the American Association of Teachers of Spanish and Portugue
 - "Entre el texto y el hipertexto: El estudio y la enseñanza de la literatura," Diego del Pozo, University of Georgia
 - "Between Cultures: LangNet," Carmen Chaves Tesser, University of Georgia
 
-</div><div><a name="session783">783</a>: Rethinking German Curricula and Classroom Practices in the Time of Cultural Studies
+<a name="session783">783</a>: Rethinking German Curricula and Classroom Practices in the Time of Cultural Studies
 -----------------------------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2001, noon to 1:15 p.m., Studio 2, New Orleans Marriott
@@ -799,7 +799,7 @@ Program arranged by the American Association of Teachers of German. Presiding: C
 - "German Cultural Studies and the Curriculum of Medieval Studies: Reflecting on New Paradigms," Rosmarie T. Morwedge, State University of New York, Binghamton
 - "German Studies and/or European Studies," Sara Friedrichsmeyer, University of Cincinnati
 
-</div><div><a name="session784">784</a>: South Asians in Public Culture
+<a name="session784">784</a>: South Asians in Public Culture
 ------------------------------------------------------------
 
 Sunday, 30 December 2001, noon to 1:15 p.m., Galerie 4, New Orleans Marriott
@@ -812,9 +812,9 @@ Program arranged by the South Asian Literary Association. Presiding: Shailja Sha
 - "Spice Girls and Food: Consuming Indianness on Padma’s Passport," Anita Mannur, Massachusetts Institute of Technology
 - "Cultural Difference and the Popular: The Diasporic Narrative of Bhangna," Harveen Sachdeva Mann, Loyola University, Chicago
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session789">789</a>: Digital Discourse II: Civility, Subjectivity, and Difference
+<a name="session789">789</a>: Digital Discourse II: Civility, Subjectivity, and Difference
 ------------------------------------------------------------------------------------------
 
 Sunday, 30 December 2001, 1:45 to 3:00 p.m., Gallier Rooms A and B, Sheraton New Orleans
@@ -827,4 +827,3 @@ Program arranged by the Association for Business Communication. Presiding: Berna
 
 Respondent: Kitty O’Donnell Locker, Ohio State University, Columbus
 
-</div></div>

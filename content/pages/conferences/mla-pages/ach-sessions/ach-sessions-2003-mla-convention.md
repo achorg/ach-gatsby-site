@@ -8,7 +8,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 
 Although the 2003 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>Session 8: Electronic Theory and Criticism
+Session 8: Electronic Theory and Criticism
 ------------------------------------------
 
 Saturday, 27 December 2003, 3:30 to 4:45 p.m., Cunningham A, Manchester Grand Hyatt
@@ -20,7 +20,7 @@ Presiding: Vika Zafrin, Brown University
 
 Respondent: Thomas Swiss, University of Iowa
 
-</div><div>Session 490: New Paradigms in Humanities Computing
+Session 490: New Paradigms in Humanities Computing
 --------------------------------------------------
 
 Monday, 29 December 2003, 10:15 to 11:30 a.m., Del Mar B, Manchester Grand Hyatt
@@ -31,4 +31,3 @@ Presiding: Stephen J. Ramsay, University of Georgia
 - “Humanities Computing and Community of Minds: Situating the Individual in the Collective,” Mark V. Olsen, University of Chicago
 - “Cybernetic Constructivism,” Stephen Ramsay, University of Georgia
 
-</div>

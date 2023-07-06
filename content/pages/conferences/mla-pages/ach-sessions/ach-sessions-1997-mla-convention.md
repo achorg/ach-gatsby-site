@@ -9,7 +9,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 Although the 1997 convention is now in the past, this information will  
 remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>Computers and Theory
+Computers and Theory
 --------------------
 
 Sunday, 28 December 1997, 1:45 to 3:00 p.m., Toronto Room, Royal York Hotel
@@ -24,7 +24,7 @@ There has been a great deal of recent work in literary studies on the nature of 
 - “Storytime: Temporal As Well As Spatial Metaphors for Hypertext,” Michael Groden, University of Western Ontario
 - “Out of Praxis: Textual Ontology, from Below,” [Allen Renear](http://www.stg.brown.edu/stg/staff_pages/allen.html), Brown University
 
-</div><div>Spatial and Geometric Metaphors for Text
+Spatial and Geometric Metaphors for Text
 ----------------------------------------
 
 Tuesday, 30 December 1997, 10:15 to 11:30 a.m., Room 203B, Toronto Convention Centre
@@ -45,4 +45,3 @@ Organizer: C. M. Sperberg-McQueen, University of Illinois, Chicago; <cmsmcq@uic.
 - “Pushing the Landscape Metaphor: Textual Variation Keyed to Topographic Values”, James Connor, Saint Louis University
 - “Applied Virtual Reality: Mapping Texts in Three Dimensions with VRML”, [Matthew G. Kirschenbaum](http://www.iath.virginia.edu/~mgk3k/), University of Virginia
 
-</div>

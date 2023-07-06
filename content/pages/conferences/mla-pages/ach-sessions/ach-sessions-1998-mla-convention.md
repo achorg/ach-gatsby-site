@@ -8,7 +8,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 
 Although the 1998 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>Computers and the Great Language/Literature, Research/Teaching Divides
+Computers and the Great Language/Literature, Research/Teaching Divides
 ----------------------------------------------------------------------
 
 Presiding: Leslie Z. Morgan, Loyola College, Maryland
@@ -17,7 +17,7 @@ Presiding: Leslie Z. Morgan, Loyola College, Maryland
 - “The Computer as Catalyst: Where do Second Language Acquisition Research, Cultural Studies, and the Less-Commonly Taught Languages Fit In?”, Nina Garrett, Yale University
 - “Computer Applications and Research Agendas: Another Dimension in Professional Advancement”, Robert Fischer, Southwest Texas State University
 
-</div><div>The Content-Provider as Colleague: Creating Institutional Spaces for New Media Teaching and Research
+The Content-Provider as Colleague: Creating Institutional Spaces for New Media Teaching and Research
 ----------------------------------------------------------------------------------------------------
 
 Presiding: [Matthew G. Kirschenbaum](http://www.iath.virginia.edu/~mgk3k/), University of Virginia
@@ -29,5 +29,3 @@ This panel will address the apparent contradiction between the casual enthusiasm
 - “ok computer: Professing Literature in the Para-Economy”, [Joseph Tabbi](http://www.engl.uic.edu/english/tabbicv.htm), University of Illinois, Chicago
 
 A talk originally scheduled for this session—”Intellectual Property/Community Property: The Cultural Contradictions of New Media Pedagogy”, by Randy Bass of Georgetown University—has been cancelled.
-
-</div>

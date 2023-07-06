@@ -3,7 +3,7 @@ title: 'Revising Ekphrasis: Methods and Models'
 date: '2013-12-30'
 author: 'Lisa Marie Rhody'
 ---
-<div><div><article><header>**Lisa Marie Rhody, George Mason University**
+**Lisa Marie Rhody, George Mason University**
 ---------------------------------------------
 
 When Brian Croxall asked each of our roundtable participants to write a blog post in advance of MLA describing our methodologies, he mentioned that he’d prefer a minimum of 500 words. Our maximum limit, however, he described as “whatever it takes.” I doubt he would have predicted an over 113-page post with 4 extended appendices, but that is, as best as I can determine, what it would take to explain how I got to the point at which I felt prepared to begin making statements about ekphrasis that extend from topic modeling and social network analysis.
@@ -19,5 +19,3 @@ The chapters found here have origins in blog posts from Spring 2012, such as “
 Finally, I have also posted copies of my dissertation’s appendices (all PDFs). These include a complete list of 4,771 poems in the full dataset, two primary metadata fields (sex and genre), and the breakdown of text sources ([Appendix A](http://www.lisarhody.com/wp-content/uploads/2013/12/AppendixA.pdf)); stopword lists used in chapter 4 ([Appendix B](http://www.lisarhody.com/wp-content/uploads/2013/12/AppendixB.pdf): The Mallet default stoplist, [Appendix C](http://www.lisarhody.com/wp-content/uploads/2013/12/AppendixC.pdf): a heavily edited stoplist based on Appendix B, and [Appendix D](http://www.lisarhody.com/wp-content/uploads/2013/12/AppendixD.pdf): a lightly edited stoplist based on Appendix B), and the Mallet commands used in the chapter four experiments ([Appendix E](http://www.lisarhody.com/wp-content/uploads/2013/12/Rhody.ER_.AppendixE.12302013.pdf)). Should anyone wish to repeat my experiments, the required poems to harvest, the methods for preparing the data, and the MALLET commands required to perform the experiment are all included in these chapters.
 
 As I will explain during my brief talk at MLA, these methods have helped me to reconsider critical assumptions about ekphrasis as a network of ongoing, socially situated discourses. Casting a wider net by including a broader spectrum of poems by a more diverse demographic of poets, my MLA presentation will demonstrate that latent patterns in language detected by topic models and organized by social network graphs offer opportunities for exploring subtle and nuanced relationships between the “sister arts,” as well as opportunities to recuperate ekphrastic poetry by women heretofore excluded from critical histories of the genre.
-
-</header></article></div></div>

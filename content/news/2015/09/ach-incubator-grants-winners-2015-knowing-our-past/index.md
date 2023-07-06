@@ -14,8 +14,8 @@ The ACH Incubator Grant winners for 2015 are:
 
 $1000 towards developing a website to allow the Network for the Study of Caroline Minuscule to publish 30 summary articles, including bibliographies and links to online manuscripts, on the major scribal centres and regions that used the diverse and complex Caroline minuscule script in Europe c. 700–1000 AD.
 
-<span class="s1">**Kim Gallon** (Purdue University) and **Zita Cristina Nunes** (University of Maryland)  
-</span>**<span class="s1">Storifying “Digital Diasporas”</span>**
+**Kim Gallon** (Purdue University) and **Zita Cristina Nunes** (University of Maryland)  
+**Storifying “Digital Diasporas”**
 
 $1000 towards creating a digital archive of the “Digital Diasporas: Digital Humanities and African American/African Diaspora Studies” conference held in 2008 at the University of Maryland, College Park, and an associated social media stream towards a second conference in 2018.
 

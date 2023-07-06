@@ -6,18 +6,20 @@ author: 'Elli Mylonas'
 ACH Bursaries for Digital Humanities Summer Institute, University of Victoria
 ------------------------------------------------------------------------------
 
-###  2010
+### 2010
 
-<div class="rteindent1"> Mike Frangos  
+Mike Frangos  
 Tara Hargrave  
 Jessica Jacobson-Konefall  
 Natalie Milbrodt  
 Matteo Romanello  
 Oscar Oliver Santos Sopena  
 Jeremy Thorne  
-Ali Grotkowski</div>###  2009
+Ali Grotkowski
 
-<div class="rteindent1"> Claire O'Connor  
+### 2009
+
+Claire O'Connor  
 Elizabeth Vincelette  
 Andrew Bretz  
 Sara Schmidt  
@@ -25,10 +27,14 @@ Amber Skoglund
 Jessica Murphy  
 Elizabeth Lorang  
 Diane Jakacki  
-Neal Audenaert</div><div class="rteindent1"> </div> ADHO Student and Young Scholar Bursaries, DH Conference
+Neal Audenaert
+
+ADHO Student and Young Scholar Bursaries, DH Conference
 --------------------------------------------------------
 
-<div> (These replaced separate ACH and ALLC bursaries in 2009.)</div><div> Chen Szu-pei, National Taiwan University, “On Building a Full-Text Digital Library of Land Deeds of Taiwan” (paper)
+(These replaced separate ACH and ALLC bursaries in 2009.)
+
+Chen Szu-pei, National Taiwan University, “On Building a Full-Text Digital Library of Land Deeds of Taiwan” (paper)
 
 Maciej Eder, Pedagogical University, Cracow, Poland, “PCA, Delta, JGAAP and Polish Poetry of the 16th and 17th Centuries. Who Wrote the Dirty Stuff?” (paper)
 
@@ -48,12 +54,12 @@ Sharon Webb, University of Ireland, Maynooth, “MIHS—Text Mining Historical S
 
 Matthew Wilkens, Rice University, “Corpus Analysis and Literary History” (paper)
 
-</div> ACH Young Scholar Bursaries, DH Conference
+ACH Young Scholar Bursaries, DH Conference
 -------------------------------------------
 
-###  DH2008
+### DH2008
 
-<div class="rteindent1"> Joe Shapiro  
+Joe Shapiro  
 Mengjia Zhao  
 Mark Anthoney  
 Shawn Averkamp  
@@ -61,12 +67,15 @@ Sarah Allison
 Rachel Lee  
 Elizabeth Vincelette  
 Mary Tripp  
-Junte Zhang</div>###  DH2007
+Junte Zhang
 
-<div class="rteindent1"> Roderick Klein  
+### DH2007
+
+Roderick Klein  
 Maria Esteva  
 Isabel Galina-Russell  
 Roman Gnutikov  
 Alexey Lavrentev  
-Marc Plamondon</div><div class="rteindent1"> </div><div> ACH also awarded bursaries prior to these dates, and the recipients will be added to this page soon.  
-</div>
+Marc Plamondon
+
+ACH also awarded bursaries prior to these dates, and the recipients will be added to this page soon.

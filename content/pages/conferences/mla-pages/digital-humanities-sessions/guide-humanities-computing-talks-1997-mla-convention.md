@@ -12,7 +12,7 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div><div><a name="session58">58</a>: Electronic Culture I: CyberStyle
+<a name="session58">58</a>: Electronic Culture I: CyberStyle
 ------------------------------------------------------------
 
 Sunday, 28 December 1997, 8:30 to 9:45 a.m., Confederation Rooms 4, 5, and 6, Royal York Hotel
@@ -24,7 +24,7 @@ Program arranged by the Division on Literature and Other Arts. Presiding: Timoth
 - “Precipice: The Sensuous and Monstrous Dimensions of Cyberspace in Contemporary Visual Art Practices,” Louise Dompierre, Power Plant
 - “Wired Style,” Verena Andermatt Conley, Harvard University
 
-</div><div><a name="session60">60</a>: Ethnic Science Fiction
+<a name="session60">60</a>: Ethnic Science Fiction
 --------------------------------------------------
 
 Sunday, 28 December 1997, 8:30 to 9:45 a.m., Kenosha Room, Sheraton Centre Toronto
@@ -35,7 +35,7 @@ Program arranged by the Division on Ethnic Studies in Language and Literature. P
 - “<cite>Stars in My Pocket like Grains of Sand</cite>: Samuel Delany and the Dialectics of Difference,” Carl Freedman, Louisiana State University, Baton Rouge
 - “Breeding Commonalities: Octavia Butler’s New Orders of Difference,” Marilyn M. Mehaffy, Eastern New Mexico University; Ana Louise Keating, Eastern New Mexico University
 
-</div><div><a name="session94">94</a>: The Muse Collaborates: Writing Communities for Learning Literature and Composition
+<a name="session94">94</a>: The Muse Collaborates: Writing Communities for Learning Literature and Composition
 --------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 1997, 8:30 to 9:45 a.m., Tudor Rooms 8 and 9, Royal York Hotel
@@ -50,9 +50,9 @@ Respondent: Arthur P. Young, Clemson University
 
 Copies of program materials are available [on the World Wide Web](http://onlinelearning.tc.cc.va.us/faculty/tcreisd/projects/mla/1997/museclab.htm). (Please note that the URL for these materials that’s printed in the convention program is incorrect.)
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session97">97</a>: Revolution or Evolution? Electronic Resources in the Humanities
+<a name="session97">97</a>: Revolution or Evolution? Electronic Resources in the Humanities
 -------------------------------------------------------------------------------------------
 
 Sunday, 28 December 1997, 10:15 a.m. to noon, Confederation Rooms 4, 5, and 6, Royal York Hotel. Free and open to the public.
@@ -67,7 +67,7 @@ Abstracts are available [on the World Wide Web](http://www.cohums.ohio-state.edu
 
 For coordinated workshops, see meetings [308](#session308) and [343](#session343).
 
-</div><div><a name="session119">119</a>: Multimedia Literature: Hypertext and Beyond
+<a name="session119">119</a>: Multimedia Literature: Hypertext and Beyond
 -------------------------------------------------------------------------
 
 Sunday, 28 December 1997, 10:15 to 11:30 a.m., British Columbia Room, Royal York Hotel
@@ -81,7 +81,7 @@ A special session; session leader: Midori Y. McKeon, San Francisco State Univers
 
 Respondent: [Michael Joyce](http://iberia.vassar.edu/~mijoyce/), Vassar College
 
-</div><div><a name="session127">127</a>: Historical Annotation: A Necessary Evil?
+<a name="session127">127</a>: Historical Annotation: A Necessary Evil?
 ----------------------------------------------------------------------
 
 Sunday, 28 December 1997, 10:15 to 11:30 a.m., Tudor Rooms 8 and 9, Royal York Hotel
@@ -92,7 +92,7 @@ Program arranged by the MLA Committee on Scholarly Editions. Presiding: Heather 
 - “Reinterpreting the Variorum (with Interest),” Dayton W. Haskin, Boston College
 - “This Is Not a Hypertext: Scholarly Annotation and the Electronic Medium,” Bruce Graver, Providence College
 
-</div><div><a name="session129">129</a>: Exploring the Relation between Instructional Design and Technical Communication
+<a name="session129">129</a>: Exploring the Relation between Instructional Design and Technical Communication
 -------------------------------------------------------------------------------------------------------------
 
 Sunday, 28 December 1997, 10:15 to 11:30 a.m., New Brunswick Room, Royal York Hotel
@@ -101,9 +101,9 @@ Program arranged by the [Association of Teachers of Technical Writing](http://en
 
 - “Laptop Computers, Instructional Design, and Technical Communication: Pedagogy and Engineering Education Meet the Future,” Julia McElhattan Williams, Rose-Hulman Institute of Technology
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session174">174</a>: Talking the Digital Talk
+<a name="session174">174</a>: Talking the Digital Talk
 ------------------------------------------------------
 
 Sunday, 28 December 1997, noon to 1:15 p.m., Confederation Room 3, Royal York Hotel
@@ -113,7 +113,7 @@ Program arranged by the [American Dialect Society](http://www.et.byu.edu/~lillie
 - “Visualizing Discourse on the World Wide Web,” [Gail Elizabeth Hawisher](http://www.english.uiuc.edu/hawisher/), University of Illinois, Urbana
 - “Language and the New Technologies of Literacy,” [Dennis Baron](http://www.english.uiuc.edu/baron/)
 
-</div><div><a name="session175">175</a>: What’s New with William Morris
+<a name="session175">175</a>: What’s New with William Morris
 ------------------------------------------------------------
 
 Sunday, 28 December 1997, noon to 1:15 p.m., New Brunswick Room, Royal York Hotel
@@ -127,9 +127,9 @@ Program arranged by the [William Morris Society](http://www.ccny.cuny.edu/wmorri
 
 Further information is available [on the World Wide Web](http://www.ccny.cuny.edu/wmorris/mla97.html#sessions).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session207">207</a>: Computers and Theory
+<a name="session207">207</a>: Computers and Theory
 --------------------------------------------------
 
 Sunday, 28 December 1997, 1:45 to 3:00 p.m., Toronto Room, Royal York Hotel
@@ -142,9 +142,9 @@ Program arranged by the [Association for Computers and the Humanities](http://ac
 
 Further information is available [on the World Wide Web](?q=node/41).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session288">288</a>: Beyond “Community”: New Perspectives on the Making of Knowledge
+<a name="session288">288</a>: Beyond “Community”: New Perspectives on the Making of Knowledge
 ---------------------------------------------------------------------------------------------
 
 Sunday, 28 December 1997, 7:15 to 8:30 p.m., Manitoba Room, Royal York Hotel
@@ -155,7 +155,7 @@ Program arranged by the Division on the Teaching of Writing. Presiding: David J.
 - “Freedom in Technobureaucracy?” Richard E. Miller, Rutgers University, New Brunswick
 - “Walt Disney Meets Mary Daly: Magic Kingdoms and the Dislocation of Community,” William A. Covino, University of Illinois, Chicago
 
-</div><div><a name="session308">308</a>: Electronic Texts in the Humanities
+<a name="session308">308</a>: Electronic Texts in the Humanities
 ----------------------------------------------------------------
 
 Sunday, 28 December 1997, 7:15 to 8:30 p.m., Ontario Room, Royal York Hotel. Free and open to the public.
@@ -168,9 +168,9 @@ A workshop arranged in conjunction with the forum [Revolution or Evolution? Elec
 
 Abstracts are available [on the World Wide Web](http://www.cohums.ohio-state.edu/english/People/Ulman.1/MLA97/).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session334">334</a>: Queerly Canadian
+<a name="session334">334</a>: Queerly Canadian
 ----------------------------------------------
 
 Monday, 29 December 1997, 8:30 to 9:45 a.m., Tudor Rooms 8 and 9, Royal York Hotel
@@ -182,7 +182,7 @@ Program arranged by the Discussion Group on Canadian Literature in English. Pres
 - “Railroading History: Bachelors, Coolies, and Sodomites in Richard Fung’s <cite>Dirty Laundry</cite>,” Rick H. Lee, Rutgers University, New Brunswick
 - “Interrogating an Aesthetics of Lack in Canadian Lesbian Performance Art,” B. J. Wray, University of Calgary
 
-</div><div><a name="session343">343</a>: The Refereed Electronic Journal
+<a name="session343">343</a>: The Refereed Electronic Journal
 -------------------------------------------------------------
 
 Monday, 29 December 1997, 8:30 to 9:45 a.m., British Columbia Room, Royal York Hotel. Free and open to the public.
@@ -195,7 +195,7 @@ A workshop arranged in conjunction with the forum [Revolution or Evolution? Elec
 
 Abstracts are available [on the World Wide Web](http://www.cohums.ohio-state.edu/english/People/Ulman.1/MLA97/).
 
-</div><div><a name="session347">347</a>: New Compositions, New Configurations
+<a name="session347">347</a>: New Compositions, New Configurations
 ------------------------------------------------------------------
 
 Monday, 29 December 1997, 8:30 to 9:45 a.m., Toronto Room, Royal York Hotel
@@ -206,7 +206,7 @@ Program arranged by the Council of Writing Program Administrators. Presiding: Ba
 - “Field Notes in the Community Service Link: Writing to Learn, Learning to Write,” Ruth E. Fischer, George Mason University
 - “Information Literacy and Teacher Preparation: Is There a Role for the Web?” Irene L. Clark, University of Southern California
 
-</div><div><a name="session352">352</a>: Technology in the Classroom
+<a name="session352">352</a>: Technology in the Classroom
 ---------------------------------------------------------
 
 Monday, 29 December 1997, 8:30 to 9:45 a.m., Huron Room, Sheraton Centre Toronto
@@ -216,16 +216,16 @@ Program arranged by the [American Association of Teachers of German](http://www.
 - “Words for All the Individuals: Technology-Enhanced Vocabulary Acquisition,” Laurie Melissa Vogelsang, Connecticut College
 - “Computer-Enhanced Language Instruction: An Evolution Rather Than a Revolution,” Catherine C. Fraser
 
-</div><div><a name="joyce-hypermedia"></a>James Joyce’s <cite>Ulysses</cite> in Hypermedia
+<a name="joyce-hypermedia"></a>James Joyce’s <cite>Ulysses</cite> in Hypermedia
 -------------------------------------------------------------------------------
 
 Monday, 29 December 1997, 9 to 10 a.m., Ontario Room, Royal York Hotel
 
 [Michael Groden](mailto:mgroden@acm.org), University of Western Ontario, will demonstrate the prototype of his “James Joyce’s <cite>Ulysses</cite> in Hypermedia” project.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session355">355</a>: Electronic Culture II: A Theory Performance
+<a name="session355">355</a>: Electronic Culture II: A Theory Performance
 -------------------------------------------------------------------------
 
 Monday, 29 December 1997, 10:15 to 11:30 a.m., Confederation Rooms 4, 5, and 6, Royal York Hotel
@@ -234,7 +234,7 @@ Program arranged by the Division on Literature and Other Arts. Presiding: Sharon
 
 - “Slow Suicide: Theory in the Datastorm,” Arthur Kroker, Concordia University; Marilouise Kroker, [<cite>CTHEORY</cite>](http://www.ctheory.com/ctheory.html)
 
-</div><div></div><a name="session362">362</a>: Drama as Public Fantasy II: Barely Touching
+<a name="session362">362</a>: Drama as Public Fantasy II: Barely Touching
 -------------------------------------------------------------------------
 
 Monday, 29 December 1997, 10:15 to 11:30 a.m., British Columbia Room, Royal York Hotel
@@ -245,9 +245,9 @@ Program arranged by the Division on Drama. Presiding: David Román, University o
 - “The Place(ing) of Desire in Ariane Mnouchkine and the Théâtre du Soleil’s <cite>Tartuffe</cite>,” Lisa Jo Epstein, Tulane University
 - “Tripping the Light Fantastic: Ballroom Dance in Contemporary Popular Culture,” J. Ellen Gainor, Cornell University
 
-</div>- - - - - -
+- - - - - -
 
-<div><div><a name="session393">393</a>: Pedagogy in the Ruins of the University
+<a name="session393">393</a>: Pedagogy in the Ruins of the University
 ---------------------------------------------------------------------
 
 Monday, 29 December 1997, noon to 1:15 p.m., Conference Room D and E, Sheraton Centre Toronto
@@ -258,7 +258,7 @@ Program arranged by the Division on Philosophical Approaches to Literature. Pres
 - “Archival Politics; or, The Passions of the Afterlife,” Thomas Dana Cohen, University of North Carolina, Chapel Hill
 - “Truth into Technology: The Postcolonial Research University in the United States,” J. Hillis Miller, University of California, Irvine
 
-</div><div><a name="session428">428</a>: Problems in the Romance Epic I
+<a name="session428">428</a>: Problems in the Romance Epic I
 ------------------------------------------------------------
 
 Monday, 29 December 1997, noon to 1:15 p.m., York Room, Sheraton Centre Toronto
@@ -271,9 +271,9 @@ Program arranged by <a bhref="http://www.loyola.edu/dept/mll/soc_ren/">Société
 
 A short business meeting will follow the session.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session456">456</a>: Wrestling the Word: Teaching Poetry in the Contemporary Classroom
+<a name="session456">456</a>: Wrestling the Word: Teaching Poetry in the Contemporary Classroom
 -----------------------------------------------------------------------------------------------
 
 Monday, 29 December 1997, 1:45 to 3:00 p.m., Ontario Room, Royal York Hotel
@@ -285,9 +285,9 @@ A special session; session leader: Jan VanStavern, University of California, Dav
 - “From Bathroom Graffiti to Rock Books: Strategies,” Jan VanStavern
 - “Wrestling the Wor(l)d: Multicultural Poetry and the Web,” Lucindy Willis, North Carolina State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session485a">485A</a>: The Role of Statistics in Computer Studies in Language and Literature
+<a name="session485a">485A</a>: The Role of Statistics in Computer Studies in Language and Literature
 -----------------------------------------------------------------------------------------------------
 
 Monday, 29 December 1997, 3:30 to 4:45 p.m., Manitoba Room, Royal York Hotel
@@ -306,16 +306,16 @@ This session will be a workshop conducted by Joseph Rudman, who will give:
 
 Paul Fortier of the University of Manitoba will act as respondent, expert gadfly, and expert advocate.
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div>Cash Bar Arranged by the [Brown University Women Writers Project](http://www.wwp.brown.edu/)
+Cash Bar Arranged by the [Brown University Women Writers Project](http://www.wwp.brown.edu/)
 --------------------------------------------------------------------------------------------
 
 Monday, 29 December 1997, 5:15 to 6:30 p.m., New Brunswick Room, Royal York Hotel
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session534">534</a>: Electronic Culture III: Cyborgs, Performance, and the Political
+<a name="session534">534</a>: Electronic Culture III: Cyborgs, Performance, and the Political
 ---------------------------------------------------------------------------------------------
 
 Monday, 29 December 1997, 7:15 to 8:30 p.m., Room 205A, Toronto Convention Centre
@@ -326,9 +326,9 @@ Program arranged by the Division on Literature and Other Arts. Presiding: Mary R
 - “Virtual Prognosis: The Production of the Hypertext Conscious,” Alexander Reid, State University of New York, Albany
 - “Orlan, Stelarc, and Bodies of or as Evidence,” Ann-Marie Braithwaite, University of Rochester
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session600">600</a>: Technologies of Inscription and Reproduction
+<a name="session600">600</a>: Technologies of Inscription and Reproduction
 --------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 8:30 to 9:45 a.m., Tudor Rooms 8 and 9, Royal York Hotel
@@ -338,7 +338,7 @@ Program arranged by the Division on the History and Theory of Rhetoric and Compo
 - “Electronic Communities: Feminist Zines on the World Wide Web,” Lene A. Whitley-Putz, Rensselaer Polytechnic Institute
 - “Web Authoring as an Argument for Visual and Verbal Rhetorics,” Marguerite Helen Helmers, University of Wisconsin, Oshkosh
 
-</div><div><a name="session604">604</a>: Romantic Media III: Composite Forms and Transmediations
+<a name="session604">604</a>: Romantic Media III: Composite Forms and Transmediations
 -------------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 8:30 to 9:45 a.m., Room 206C, Toronto Convention Centre
@@ -349,7 +349,7 @@ Program arranged by the Division on the English Romantic Period. Presiding: Jame
 - “Scotch Drink and Irish Harps: The Marketing of the National Air,” Celeste G. Langan, University of California, Berkeley
 - “Thomas Rowlandson and the Literary Politics of Romantic Pornography,” Bradford Keyes Mudge, University of Colorado, Denver
 
-</div><div><a name="session614">614</a>: Cyborg for Hire: Postindustrial Work in Contemporary American Culture
+<a name="session614">614</a>: Cyborg for Hire: Postindustrial Work in Contemporary American Culture
 ---------------------------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 8:30 to 9:45 a.m., Tudor Room 7, Royal York Hotel
@@ -360,7 +360,7 @@ A special session; session leader: Heather J. Hicks, Villanova University
 - ” `The Record of My Life Is the Record of Work’: Automation and the Paradox of Feminist Work in Joanna Russ’s <cite>The Female Man</cite>,” Heather J. Hicks
 - ” `Holding Incompatible Things Together’: Donna Haraway’s Ironic Faith and Her `Cyborg Theorists’ in a Postindustrial World,” Tanya Wood, University of Toronto, Saint George Campus
 
-</div><div><a name="session624">624</a>: Literary Theory and Children’s Literature: Reflections on the Past and Predictions for the Future
+<a name="session624">624</a>: Literary Theory and Children’s Literature: Reflections on the Past and Predictions for the Future
 -------------------------------------------------------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 8:30 to 9:45 a.m., Confederation Rooms 4, 5, and 6, Royal York Hotel. Free and open to the public.
@@ -372,9 +372,9 @@ A workshop arranged in conjunction with the forum <cite>The State of Children’
 - “Cultural History and the Meanings of Children’s Literature,” Ruth B. Bottigheimer, State University of New York, Stony Brook
 - “Hypertext and Hypermedia: A New Genre for a New Cultural Memory?” Ronald Soetaert, University of Ghent; Guy Van Belle, University of Ghent
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session640">640</a>: Computer Conferencing in Literature and Language Classes
+<a name="session640">640</a>: Computer Conferencing in Literature and Language Classes
 --------------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 10:15 to 11:30 a.m., Territories Room, Royal York Hotel
@@ -385,7 +385,7 @@ A special session; session leader: Grover C. Furr, Montclair State University
 - “Synchronous and Asynchronous Communication and Second Language Acquisition,” Susana M. Sotillo, Montclair State University
 - “Synchronous Aural-Visual-Textual Internet Tutoring,” Jamie Thurber, University of Alaska, Fairbanks
 
-</div><div><a name="session655">655</a>: Spatial and Geometric Metaphors for Text
+<a name="session655">655</a>: Spatial and Geometric Metaphors for Text
 ----------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 10:15 to 11:30 a.m., Room 203B, Toronto Convention Centre
@@ -397,7 +397,7 @@ Program arranged by the [Association for Computers and the Humanities](http://ac
 
 Further information is available [on the World Wide Web](?q=node/41).
 
-</div><div><a name="session656">656</a>: Unfastening the Fascicles: A Roundtable Discussion
+<a name="session656">656</a>: Unfastening the Fascicles: A Roundtable Discussion
 --------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 10:15 to 11:30 a.m., Toronto Room, Royal York Hotel
@@ -410,9 +410,9 @@ Program arranged by the [Emily Dickinson International Society](http://www.color
 - “Reading the Web, Reading through the Web: Dickinson’s Strategies of Radial Writing in Fascicle 24,” Marget Sands, University of Maryland, College Park
 - “The `Nameless Pod’ and Other Miscarriages of Language in Dickinson’s Fascicle 28,” Daneen Leigh Wardrop, Western Michigan University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session706">706</a>: Annual Awards Ceremony Arranged by the [Council of Editors of Learned Journals](http://www.msu.edu/user/pod/celj/)
+<a name="session706">706</a>: Annual Awards Ceremony Arranged by the [Council of Editors of Learned Journals](http://www.msu.edu/user/pod/celj/)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, noon to 1:15 p.m., Tudor Room 7, Royal York Hotel
@@ -421,9 +421,9 @@ Presiding: Holly A. Laird, University of Tulsa
 
 - “[Project Muse](http://muse.jhu.edu/muse.html),” Michael Jon Jensen, Johns Hopkins University Press
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session743">743</a>: Spanish Poetry, 2000: *Fin de Siglo* and Beyond
+<a name="session743">743</a>: Spanish Poetry, 2000: *Fin de Siglo* and Beyond
 -----------------------------------------------------------------------------
 
 Tuesday, 30 December 1997, 1:45 to 3:00 p.m., Wentworth Room, Sheraton Centre Toronto
@@ -434,4 +434,3 @@ Program arranged by the Twentieth-Century Spanish Association of America. Presid
 - “De la voz, de la experiencia y/a otros fantasmas poéticos,” Raquel Medina, University of Massachusetts, Amherst
 - “Postpostmodern Boom or Bust? Can Poetry Survive in an Age of Electronic Reproduction?” William Michael Mudrovic, Washington University
 
-</div></div>

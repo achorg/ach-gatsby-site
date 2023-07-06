@@ -8,7 +8,7 @@ We also offer a [guide to all computer-related sessions at the convention](?q=no
 
 Although the 2005 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-<div>Scale and Scholarship in the Digital Humanities
+Scale and Scholarship in the Digital Humanities
 -----------------------------------------------
 
 Thursday, 29 December 2005, 3:30–4:45 p.m., Eisenhower Room, Marriott
@@ -22,7 +22,7 @@ Presiding: Andrea Laue, University of Virginia.
 - “A Faithful Narrative of the Surprising Work of Creating an Online Jonathan Edwards”, Caleb J. D. Maskell, Yale University
 - “Flexible Encoding for Search, Comparison, and Analysis”, Andrea Laue
 
-</div><div>Computer Literacy: Assessing the Impact of IT on English Literature Teaching and Research
+Computer Literacy: Assessing the Impact of IT on English Literature Teaching and Research
 -----------------------------------------------------------------------------------------
 
 Friday, 30 December 2005, noon–1:15 p.m., Park Tower Suite 8209, Marriott
@@ -32,5 +32,3 @@ Presiding: Paul Vetch, King’s College London.
 - “E is for English: Pedagogy and New Technology in the Classroom”, Ian Gadd, University of Bath Spa
 - “What eLearning Has Taught Us: Scoping the Use and Effectiveness of Learning Technologies in the Teaching of Literature”, Brett Lucas, Higher Education Academy (Royal Holloway, University of London)
 - “The Changing (Inter)Face of Literary Research”, Paul Vetch, King’s College London
-
-</div>

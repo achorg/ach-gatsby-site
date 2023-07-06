@@ -12,34 +12,34 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 
 - - - - - -
 
-<div>Summary of Sessions
+Summary of Sessions
 -------------------
 
-<div>### Monday, 27 December 2004
+### Monday, 27 December 2004
 
-<div>#### 5:15–6:30 p.m.
+#### 5:15–6:30 p.m.
 
 - [15: Print History, Posthistory, and Vilém Flusser](#session15)
 
-</div><div>#### 7:00–8:15 p.m.
+#### 7:00–8:15 p.m.
 
 - [24: The Perils of Databases for Studying Language Change](#session24)
 - [35: Toward a History of Globalism](#session35)
 - [44: Journals as Innovators and the Innovation of Journals](#session44)
 
-</div><div>#### 8:45–10:00 p.m.
+#### 8:45–10:00 p.m.
 
 - [52: The Future of Franco-American Relations: *Que Faire?*](#session52)
 
-</div></div><div>### Tuesday, 28 December 2004
+### Tuesday, 28 December 2004
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [64: Plagiarism and the Internet](#session64)
 - [92: Cluelessness and Difference in the Literature Classroom](#session92)
 - [99: Inscribing Media: New American Discourse Networks](#session99)
 
-</div><div>#### 10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [110: The Shakespeare Variorum: From Furness to Cyberspace](#session110)
 - [116: Concretism and Beyond: A Tribute to Haroldo de Campos](#session116)
@@ -47,81 +47,81 @@ Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.a
 - [129: On Truth and Lying in a Contemporary Sense](#session129)
 - [133: Poster Session: Exemplary Digital Scholarship](#session133)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [153: Best Staffing Practices and Instructional Effectiveness](#session153)
 - [177: Community College Scholarship: Highlighting Exemplary Projects](#session177)
 
-</div><div>#### 1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [213: Constellations II: The Social Life of Aesthetic Forms](#session213)
 
-</div><div>#### 3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [234: The Material Electronic Text](#session234)
 - [242: Lyric and Media](#session242)
 - [266: Primary Documents and the Web](#session266)
 
-</div><div>#### 7:15–8:30 p.m.
+#### 7:15–8:30 p.m.
 
 - [315: General Session on Applied Linguistics](#session315)
 - [319: Learning for Life: Producing and Becoming Lifelong Learners](#session319)
 
-</div></div><div>### Wednesday, 29 December 2004
+### Wednesday, 29 December 2004
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [358: Computer-Mediated Foreign Language Study](#session358)
 - [375: Technologies of the Self](#session375)
 
-</div><div>#### 10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [416: Digital Tools](#session416)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [438: Teaching Golden Age Poetry: Challenges, Choices, and Strategies](#session438)
 
-</div><div>#### 3:30–4:45 p.m.
+#### 3:30–4:45 p.m.
 
 - [515: Evaluating Teaching and Scholarship in New Media](#session515)
 - [521: Cyberspace and Eastern Europe](#session521)
 
-</div><div>#### 5:15–6:30 p.m.
+#### 5:15–6:30 p.m.
 
 - [555: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project](#session555)
 
-</div><div>#### 9:00–10:15 p.m.
+#### 9:00–10:15 p.m.
 
 - [608: Smart Classrooms, Hybrid Courses, and the Teaching of Languages](#session608)
 - [624: Other Longings: Nostalgia as Cultural Industry](#session624)
 
-</div></div><div>### Thursday, 30 December 2004
+### Thursday, 30 December 2004
 
-<div>#### 8:30–9:45 a.m.
+#### 8:30–9:45 a.m.
 
 - [633: Anime and *Manga*: Animated/Graphic Human/Nature](#session633)
 - [635: Medieval Manuscripts in the Digital Age](#session635)
 - [657: It’s 2010—Do You Know Where Your Data Is? Open Standards for Technology in the Academy](#session657)
 
-</div><div>#### 10:15–11:30 a.m.
+#### 10:15–11:30 a.m.
 
 - [658: Computing, Theorizing, Communicating](#session658)
 - [660: Race-ing New Media](#session660)
 - [679: Literary Linguistics: Toward a Definition](#session679)
 
-</div><div>#### 12:00 noon–1:15 p.m.
+#### 12:00 noon–1:15 p.m.
 
 - [728: Digital Preservation and Electronic Scholarly Editions](#session728)
 
-</div><div>#### 1:45–3:00 p.m.
+#### 1:45–3:00 p.m.
 
 - [754: Scholarly Journals: Our Futures in the Digital Soup](#session754)
 - [758: Electronic Publishing and Feminist Practice](#session758)
 
-</div></div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session15">15</a>: Print History, Posthistory, and Vilém Flusser
+<a name="session15">15</a>: Print History, Posthistory, and Vilém Flusser
 -------------------------------------------------------------------------
 
 Monday, 27 December 2004, 5:15–6:30 p.m., Adams, Loews Philadelphia
@@ -136,9 +136,9 @@ Session leader: Anke Karen Finger, University of Connecticut, Storrs
 
 Respondent: Anke Karen Finger
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session24">24</a>: The Perils of Databases for Studying Language Change
+<a name="session24">24</a>: The Perils of Databases for Studying Language Change
 --------------------------------------------------------------------------------
 
 Monday, 27 December 2004, 7:00–8:15 p.m., 308, Philadelphia Marriott
@@ -149,7 +149,7 @@ Program arranged by the Division on Language Change.
 - “Traversing Corpora: Tracking Auxiliary Verb Changes from Old to Middle English,” Felicia Jean Steele, College of New Jersey
 - “Looking for the Right Search: New Ways of Reading Language and Literature,” Chris Palmer, University of Michigan, Ann Arbor
 
-</div><div><a name="session35">35</a>: Toward a History of Globalism
+<a name="session35">35</a>: Toward a History of Globalism
 ---------------------------------------------------------
 
 Monday, 27 December 2004, 7:00–8:15 p.m., 203-B, Convention Center
@@ -162,7 +162,7 @@ Presiding: Friederike U. Eigler, Georgetown University
 - “Globalization, Benjamin’s *Passagen-Werk*, and Metropolitan Culture: New Questions for German Studies,” Rolf Johannes Goebel, University of Alabama, Huntsville
 - “Globalization, the Internet, and German Culture,” Scott G. Williams, University of Texas, Arlington
 
-</div><div><a name="session44">44</a>: Journals as Innovators and the Innovation of Journals
+<a name="session44">44</a>: Journals as Innovators and the Innovation of Journals
 ---------------------------------------------------------------------------------
 
 Monday, 27 December 2004, 7:00–8:15 p.m., 411–412, Philadelphia Marriott
@@ -177,9 +177,9 @@ Presiding: David Cox Hanson, Southeastern Louisiana University
 
 Respondent: Linda Veronika Troost, Washington and Jefferson College
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session52">52</a>: The Future of Franco-American Relations: *Que Faire?*
+<a name="session52">52</a>: The Future of Franco-American Relations: *Que Faire?*
 ---------------------------------------------------------------------------------
 
 Monday, 27 December 2004, 8:45–10:00 p.m., Washington B, Loews Philadelphia
@@ -193,9 +193,9 @@ Session leader: Rosemarie Scullion, University of Iowa
 - “Cataclysmic Relations: Franco-American Discord in Diane Johnson’s <cite>L’Affaire</cite>,” Carolyn Ann Durham, College of Wooster
 - “‘Why Are the French So …?’: Facing French Culture in the Undergraduate Classroom,” Charles J. Stivale, Wayne State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session64">64</a>: Plagiarism and the Internet
+<a name="session64">64</a>: Plagiarism and the Internet
 -------------------------------------------------------
 
 Tuesday, 28 December 2004, 8:30–9:45 a.m., 202-B, Pennsylvania Convention Center
@@ -210,7 +210,7 @@ Presiding: Andrew C. Parker, Amherst College
 
 Respondent: Peter J. Vandenberg, DePaul University
 
-</div><div><a name="session92">92</a>: Cluelessness and Difference in the Literature Classroom
+<a name="session92">92</a>: Cluelessness and Difference in the Literature Classroom
 -----------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 8:30–9:45 a.m., 203-B, Pennsylvania Convention Center
@@ -224,7 +224,7 @@ Presiding: Marcy Ellen Schwartz, Rutgers University, New Brunswick
 - “Cluelessness and the Queer Studies Classroom,” Donald E. Hall, West Virginia University, Morgantown
 - “New Spaces, New Media: Bringing Africa and Film into the Literature Classroom,” Rachel T. Gabara, Princeton University
 
-</div><div><a name="session99">99</a>: Inscribing Media: New American Discourse Networks
+<a name="session99">99</a>: Inscribing Media: New American Discourse Networks
 -----------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 8:30–9:45 a.m., 204-A, Pennsylvania Convention Center
@@ -235,9 +235,9 @@ A special session
 - “From MSS to Mississippi: Visual Technology and Textual Production, 1883,” Lisa Gitelman, Catholic University of America
 - “From A to 01011010: ASCII and the Alphabetization of Electronic Space,” Matthew Gary Kirschenbaum, University of Maryland, College Park
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session110">110</a>: The Shakespeare Variorum: From Furness to Cyberspace
+<a name="session110">110</a>: The Shakespeare Variorum: From Furness to Cyberspace
 ----------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 10:15–11:30 a.m., 307, Philadelphia Marriott
@@ -249,7 +249,7 @@ Presiding: Georgianna Ziegler, Folger Shakespeare Library
 - “The Philadelphia Variorum,” Richard Alan John Knowles, University of Wisconsin, Madison
 - “Book into Data: The Electronic NVS,” Julia H. Flanders, Brown University
 
-</div><div><a name="session116">116</a>: Concretism and Beyond: A Tribute to Haroldo de Campos
+<a name="session116">116</a>: Concretism and Beyond: A Tribute to Haroldo de Campos
 -----------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 10:15–11:30 a.m., Commonwealth Hall D, Loews Philadelphia
@@ -263,7 +263,7 @@ Presiding: Christopher John Dunn, Tulane University
 - “Haroldo de Campos’s ‘Planetary Music for Mortal Ears’: A Latin American ‘Postmodern/Global’ Poetics,” Odile Cisneros, University of Alberta
 - “Interpoetic Intermediation: Concretism and Brazilian Digital Poetry,” Christopher T. Funkhouser, New Jersey Institute of Technology
 
-</div><div><a name="session124">124</a>: Las fronteras del estudio mexicanista, el estudio mexicanista de la frontera
+<a name="session124">124</a>: Las fronteras del estudio mexicanista, el estudio mexicanista de la frontera
 ----------------------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 10:15–11:30 a.m., Jefferson, Loews Philadelphia
@@ -276,7 +276,7 @@ Presiding: Debra Ann Castillo, Cornell University
 - “Missing: The Dark Side of Free Trade,” Stuart Alexander Day, University of North Carolina, Chapel Hill
 - “The United States–Mexico Border as Cemetery in Films Made 2000–03,” Isabel Arredondo, State University of New York, Plattsburgh
 
-</div><div><a name="session129">129</a>: On Truth and Lying in a Contemporary Sense
+<a name="session129">129</a>: On Truth and Lying in a Contemporary Sense
 ------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 10:15–11:30 a.m., 203-B, Pennsylvania Convention Center
@@ -289,7 +289,7 @@ Session leader: Gregory Flaxman, University of North Carolina, Chapel Hill
 - “Identity Theft or Digital Lies?” Mark Poster, University of California, Irvine
 - “You’ve Got Mail!—from the Dalai Lama: The New Age Online,” Catherine Liu, Bard College
 
-</div><div><a name="session133">133</a>: Poster Session: Exemplary Digital Scholarship
+<a name="session133">133</a>: Poster Session: Exemplary Digital Scholarship
 ---------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 10:15–11:30 a.m., 204-B, Pennsylvania Convention Center
@@ -300,9 +300,9 @@ Presiding: David Hiple, University of Hawai‘i, Manoa
 
 Speakers: Mary Ann Lyman-Hager, San Diego State University; Gilberte Furstenberg, Massachusetts Institute of Technology; Irene S. Thompson, University of Florida; June K. Phillips, Weber State University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session153">153</a>: Best Staffing Practices and Instructional Effectiveness
+<a name="session153">153</a>: Best Staffing Practices and Instructional Effectiveness
 -------------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 12:00 noon–1:15 p.m., 304, Philadelphia Marriott
@@ -315,7 +315,7 @@ Presiding: Suzanne S. Hintz, Northern Virginia Community College, Woodbridge Cam
 - “Visible and Transparent: Using the Web to Promote Effectiveness,” Barclay Barrios, Rutgers University, New Brunswick
 - “Fiscal Responsibility and Instructional Effectiveness: Complementary or Contradictory?” Suzanne S. Hintz
 
-</div><div><a name="session177">177</a>: Community College Scholarship: Highlighting Exemplary Projects
+<a name="session177">177</a>: Community College Scholarship: Highlighting Exemplary Projects
 --------------------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 12:00 noon–1:15 p.m., 413, Philadelphia Marriott
@@ -329,9 +329,9 @@ Presiding: Stacey Lee Donohue, Central Oregon Community College
 
 Respondent: George Louis Scheper, Community College of Baltimore County, MD
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session213">213</a>: Constellations II: The Social Life of Aesthetic Forms
+<a name="session213">213</a>: Constellations II: The Social Life of Aesthetic Forms
 -----------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 1:45–3:00 p.m., 304, Philadelphia Marriott
@@ -347,9 +347,9 @@ Presiding: Silvia L. López, Carleton College
 
 Respondent: Carsten Strathausen, University of Missouri, Columbia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session234">234</a>: The Material Electronic Text
+<a name="session234">234</a>: The Material Electronic Text
 ----------------------------------------------------------
 
 Tuesday, 28 December 2004, 3:30–4:45 p.m., 406, Philadelphia Marriott
@@ -364,7 +364,7 @@ Presiding: Aimée H. Morrison, University of Waterloo
 
 For further information, visit [www.ach.org/mla/mla04](index.html).
 
-</div><div><a name="session242">242</a>: Lyric and Media
+<a name="session242">242</a>: Lyric and Media
 ---------------------------------------------
 
 Tuesday, 28 December 2004, 3:30–4:45 p.m., Grand Ballroom Salon I, Philadelphia Marriott
@@ -377,7 +377,7 @@ Presiding: Richard Menke, University of Georgia
 - “Lyric Bulletins: Poetry and News in the United States Civil War,” Eliza Clark Richards, University of North Carolina, Chapel Hill
 - “Lyric/Antilyric, Blog/Antiblog: Reading the Blog-Built Self through the Lyric Subject,” Lisa L. Lynch, Catholic University of America
 
-</div><div><a name="session266">266</a>: Primary Documents and the Web
+<a name="session266">266</a>: Primary Documents and the Web
 -----------------------------------------------------------
 
 Tuesday, 28 December 2004, 3:30–4:45 p.m., 307, Philadelphia Marriott
@@ -390,9 +390,9 @@ Presiding: Elizabeth Dow, Louisiana State University, Baton Rouge
 - “Primary Documents: The Challenge for Archivists and Librarians,” Elizabeth Dow
 - “Primary Documents: The Challenge for Scholars,” David Chesnutt, University of South Carolina, Columbia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session315">315</a>: General Session on Applied Linguistics
+<a name="session315">315</a>: General Session on Applied Linguistics
 --------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 7:15–8:30 p.m., Tubman, Loews Philadelphia
@@ -402,7 +402,7 @@ Program arranged by the Division on Applied Linguistics.
 - “Changing Campus Attitudes toward Foreign Language Study,” Audrey A. Fisch, New Jersey City University; Donna M. Farina, New Jersey City University
 - “Intercultural Communication at the Intersection of Context, Genre, and Agency: The Grammatical Choice of Mood and Modality in an Internet Chat,” Nina Vyatkina, Penn State University, University Park
 
-</div><div><a name="session319">319</a>: Learning for Life: Producing and Becoming Lifelong Learners
+<a name="session319">319</a>: Learning for Life: Producing and Becoming Lifelong Learners
 -----------------------------------------------------------------------------------------
 
 Tuesday, 28 December 2004, 7:15–8:30 p.m., 401–403, Philadelphia Marriott
@@ -417,9 +417,9 @@ Presiding: William Tell Gifford, Truckee Meadows Community College, NV
 
 Respondent: Amy R. Leal, Graduate Center, City University of New York
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session358">358</a>: Computer-Mediated Foreign Language Study
+<a name="session358">358</a>: Computer-Mediated Foreign Language Study
 ----------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 8:30–9:45 a.m., Adams, Loews Philadelphia
@@ -431,7 +431,7 @@ Presiding: Julie Anne Belz, Penn State University, University Park
 - “The Effect of Question Glossing on Online Reading and Look-Up Behavior,” Christina Overstreet, University of Florida
 - “Comparative Perspectives on Computer-Mediated Communication on Foreign Language Learning: Structural-Cognitive and Sociocognitive Insights,” Jonathon Reinhardt, Penn State University, University Park
 
-</div><div><a name="session375">375</a>: Technologies of the Self
+<a name="session375">375</a>: Technologies of the Self
 ------------------------------------------------------
 
 Wednesday, 29 December 2004, 8:30–9:45 a.m., Grand Ballroom Salon I, Philadelphia Marriott
@@ -444,9 +444,9 @@ Presiding: Mary Jean Corbett, Miami University, Oxford
 - “New Media Autobiography and the Differently Gendered Self: Transgender Home Pages,” Kimberly J. Surkan, Minnesota State University, Mankato
 - “Autobiography and the Internet: Representations of Self in a Posthuman Era,” Jeffrey D. Wallen, Hampshire College
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session416">416</a>: Digital Tools
+<a name="session416">416</a>: Digital Tools
 -------------------------------------------
 
 Wednesday, 29 December 2004, 10:15–11:30 a.m., Grand Ballroom Salon I, Philadelphia Marriott
@@ -459,9 +459,9 @@ Presiding: Neil Fraistat, University of Maryland, College Park
 - “Getting out of the Tool Box,” Matthew Gary Kirschenbaum, University of Maryland, College Park
 - “Sound Tools for Sound Listening: Poetry’s Coming Digital Present,” Charles Bernstein, University of Pennsylvania
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session438">438</a>: Teaching Golden Age Poetry: Challenges, Choices, and Strategies
+<a name="session438">438</a>: Teaching Golden Age Poetry: Challenges, Choices, and Strategies
 ---------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 12:00 noon–1:15 p.m., Washington C, Loews Philadelphia
@@ -474,9 +474,9 @@ Presiding: William Henry Clamurro, Emporia State University
 - “Garcilaso Goes to the Met: Fine Arts and the Hypertext Sonnet,” Steven Wagschal, Indiana University, Bloomington
 - “Modeling Intertextuality through the Use of Hypertext,” Ignacio E. Navarrete, University of California, Berkeley
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session515">515</a>: Evaluating Teaching and Scholarship in New Media
+<a name="session515">515</a>: Evaluating Teaching and Scholarship in New Media
 ------------------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 3:30–4:45 p.m., Washington C, Loews Philadelphia
@@ -489,7 +489,7 @@ Presiding: Kenneth M. Price, University of Nebraska, Lincoln
 - “Establishing and Applying Best Practices in the Peer Review of New Digital Scholarship,” David Sewell, University of Virginia Press
 - “Learning Tech from Hype to Ho Hum: One Department’s Digital Dreams, Deceptions, and Occasional Disappointments,” Brooks Landon, University of Iowa
 
-</div><div><a name="session521">521</a>: Cyberspace and Eastern Europe
+<a name="session521">521</a>: Cyberspace and Eastern Europe
 -----------------------------------------------------------
 
 Wednesday, 29 December 2004, 3:30–4:45 p.m., Congress A, Loews Philadelphia
@@ -502,16 +502,16 @@ Presiding: Terence Odlin, Ohio State University, Columbus
 - “Exorcizing ‘Semiotic Ghosts’ of the Past: Literary Cyberpunk in Russia,” Irene Sywenky, University of Alberta
 - “Hackers Are Us: A Hayride through the Russian Cyberspace,” Inna V. Caron, Ohio State University, Columbus
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session555">555</a>: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project
+<a name="session555">555</a>: Cash Bar Arranged by the Society for the Study of Early Modern Women and the Brown University Women Writers Project
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 5:15–6:30 p.m., Commonwealth Hall B, Loews Philadelphia
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session608">608</a>: Smart Classrooms, Hybrid Courses, and the Teaching of Languages
+<a name="session608">608</a>: Smart Classrooms, Hybrid Courses, and the Teaching of Languages
 ---------------------------------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 9:00–10:15 p.m., Congress C, Loews Philadelphia
@@ -524,7 +524,7 @@ Presiding: Marjorie O. Tussing, California State University, Fullerton
 - “A New Hybrid Course: Teaching Spanish with Mallard,” Emily E. Scida, University of Virginia
 - “Instructor-Developed Web Pages and the Teaching of Language,” Alexander Waid, United States Coast Guard Academy
 
-</div><div><a name="session624">624</a>: Other Longings: Nostalgia as Cultural Industry
+<a name="session624">624</a>: Other Longings: Nostalgia as Cultural Industry
 ----------------------------------------------------------------------------
 
 Wednesday, 29 December 2004, 9:00–10:15 p.m., 307, Philadelphia Marriott
@@ -537,9 +537,9 @@ Session leader: Narin F. Hassan, Georgia Institute of Technology
 - “Incidental Nostalgia: Temporality, Kitsch, and the Scopitone Jukebox,” Amy Herzog, Queens College, City University of New York
 - “Commodifying Longing: eBay as Nostalgia Machine,” Patricia Ventura, Georgia Institute of Technology
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session633">633</a>: Anime and *Manga*: Animated/Graphic Human/Nature
+<a name="session633">633</a>: Anime and *Manga*: Animated/Graphic Human/Nature
 ------------------------------------------------------------------------------
 
 Thursday, 30 December 2004, 8:30–9:45 a.m., Jefferson, Loews Philadelphia
@@ -552,7 +552,7 @@ Presiding: Pamela Sue Gossin, University of Texas, Dallas
 - “An Engineering Meditation to Culture: Mecha, Apocalypse, and the Birth of a Cybernetic Order in Japanese Anime,” Joseph Murphy, University of Florida
 - “Saint Francis the Robot: Reconciliations of Nature and Technoculture in the Work of Hayao Miyazaki,” Anthony Lioi, Massachusetts Institute of Technology
 
-</div><div><a name="session635">635</a>: Medieval Manuscripts in the Digital Age
+<a name="session635">635</a>: Medieval Manuscripts in the Digital Age
 ---------------------------------------------------------------------
 
 Thursday, 30 December 2004, 8:30–9:45 a.m., Washington C, Loews Philadelphia
@@ -566,7 +566,7 @@ Presiding: Michel-André Bossy, Brown University
 - “Technology, Manuscripts, and the Renewal of Philology,” Molly C. Robinson Kelly, Lewis and Clark College
 - “Text Editing in a Distance-Research Environment,” Barbara K. Altmann, University of Oregon
 
-</div><div><a name="session657">657</a>: It’s 2010—Do You Know Where Your Data Is? Open Standards for Technology in the Academy
+<a name="session657">657</a>: It’s 2010—Do You Know Where Your Data Is? Open Standards for Technology in the Academy
 --------------------------------------------------------------------------------------------------------------------
 
 Thursday, 30 December 2004, 8:30–9:45 a.m., Grand Ballroom Salon I, Philadelphia Marriott
@@ -579,9 +579,9 @@ Presiding: Julia H. Flanders, Brown University
 - “Open Source Software: Quality Learning, Improved Productivity, or a Distraction?” James Farmer, University of Michigan, Ann Arbor
 - “‘What I Assume You Shall Assume’: The <cite>Whitman Archive</cite> and the Challenge of Integrating Different Open Standards,” Kenneth M. Price, University of Nebraska, Lincoln; Brett Barney, University of Nebraska, Lincoln
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session658">658</a>: Computing, Theorizing, Communicating
+<a name="session658">658</a>: Computing, Theorizing, Communicating
 ------------------------------------------------------------------
 
 Thursday, 30 December 2004, 10:15–11:30 a.m., Jefferson, Loews Philadelphia
@@ -596,7 +596,7 @@ Presiding: Donald E. Hardy, Colorado State University
 
 For copies of abstracts, visit [textant.colostate.edu/mla2004/abstracts.htm](http://textant.colostate.edu/mla2004/abstracts.htm).
 
-</div><div><a name="session660">660</a>: Race-ing New Media
+<a name="session660">660</a>: Race-ing New Media
 ------------------------------------------------
 
 Thursday, 30 December 2004, 10:15–11:30 a.m., Congress A, Loews Philadelphia
@@ -610,7 +610,7 @@ Presiding: Jennifer DeVere Brody, Northwestern University
 - “Confessions of an Afrogeek,” Anna Everett, University of California, Santa Barbara
 - “The Cyberjunkie and Cyberporn Princess: Reflections on the Virtual Reality of a Subjectless Asian American Critique,” Rachel C. Lee, University of California, Los Angeles
 
-</div><div><a name="session679">679</a>: Literary Linguistics: Toward a Definition
+<a name="session679">679</a>: Literary Linguistics: Toward a Definition
 -----------------------------------------------------------------------
 
 Thursday, 30 December 2004, 10:15–11:30 a.m., Washington C, Loews Philadelphia
@@ -624,9 +624,9 @@ Presiding: Todd Van Evera Oakley, Case Western Reserve University
 - “Optimality Theory, Borges, and Hoaxes: Modeling the Act of Reading as a Pragmatic Process of Constraint Satisfaction,” Lynda C. Walsh, New Mexico Institute of Mining and Technology
 - “The Pragmatic Author: Comparing Pragmatic Constraints on Linguistic Choices in Everyday Use and in Literary Texts,” Sharon A. Cote, James Madison University
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session728">728</a>: Digital Preservation and Electronic Scholarly Editions
+<a name="session728">728</a>: Digital Preservation and Electronic Scholarly Editions
 ------------------------------------------------------------------------------------
 
 Thursday, 30 December 2004, 12:00 noon–1:15 p.m., 404, Philadelphia Marriott
@@ -641,9 +641,9 @@ Presiding: David Lee Gants, University of New Brunswick
 
 For further information, visit [www.ach.org/mla/mla04](index.html).
 
-</div></div>- - - - - -
+- - - - - -
 
-<div><div><a name="session754">754</a>: Scholarly Journals: Our Futures in the Digital Soup
+<a name="session754">754</a>: Scholarly Journals: Our Futures in the Digital Soup
 ---------------------------------------------------------------------------------
 
 Thursday, 30 December 2004, 1:45–3:00 p.m., Liberty Ballroom Salon A, Philadelphia Marriott
@@ -658,7 +658,7 @@ Presiding: David Cox Hanson, Southeastern Louisiana University
 
 Respondent: Bonnie Wheeler, Southern Methodist University
 
-</div><div><a name="session758">758</a>: Electronic Publishing and Feminist Practice
+<a name="session758">758</a>: Electronic Publishing and Feminist Practice
 -------------------------------------------------------------------------
 
 Thursday, 30 December 2004, 1:45–3:00 p.m., Washington C, Loews Philadelphia
@@ -673,4 +673,3 @@ Presiding: Michelle M. Sauer, Minot State University
 
 Respondent: Gerard Peter NeCastro, University of Maine, Machias
 
-</div></div>

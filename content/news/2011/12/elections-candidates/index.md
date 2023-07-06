@@ -6,7 +6,7 @@ author: 'Elli Mylonas'
 2011 Candidates for ACH President, Vice President and Executive Council
 ------------------------------------------------------------------------
 
-###  **ACH President: Nowviskie and Ramsay**
+### **ACH President: Nowviskie and Ramsay**
 
 **Bethany Nowviskie**
 
@@ -22,7 +22,7 @@ author: 'Elli Mylonas'
 
 That's harder than it sounds. It's a decision that involves all of the ADHO member organizations, and it's also a decision that touches on questions of disciplinary definition. My own view is that we can trust the community and the review process to tackle the latter. The job of the ADHO member organizations is to create a structure that is robust enough to support the definition that emerges. I sincerely believe that we can get there without sacrificing either the warmth and approachability of our community, or the academic rigor that we've strived to uphold within the digital humanities.
 
-###  **ACH Vice President: Sinclair and Spiro**
+### **ACH Vice President: Sinclair and Spiro**
 
 **Stéfan Sinclair**
 
@@ -42,7 +42,7 @@ As vice president, I would promote three main ideas:
 - expanding communication and outreach to ensure that the ACH represents the diversity of the global DH community
 - exploring how the ACH can support DH education and training, such as by promoting the sharing of syllabi and course resources, coordinating discussions of curriculum, and expanding the mentorship program
 
-###  **ACH Executive Council: Bellamy, Boggs, Drucker, Gold, Reimer, Reside, Worthey**
+### **ACH Executive Council: Bellamy, Boggs, Drucker, Gold, Reimer, Reside, Worthey**
 
 **Craig Bellamy**
 
