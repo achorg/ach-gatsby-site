@@ -87,6 +87,9 @@ header.page-header {
     @apply mx-auto;
     
     @apply prose-a:text-purple-500 dark:prose-a:text-purple-200;
+    
+    @apply prose-blockquote:prose-quoteless;
+    @apply prose-blockquote:font-normal prose-blockquote:not-italic;
 }
 
 .boxed-regular {

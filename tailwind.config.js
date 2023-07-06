@@ -35,6 +35,14 @@ module.exports = {
       },
       screens: {
         xs: '480px'
+      },
+      typography: {
+        quoteless: {
+          css: {
+            'blockquote p:first-of-type::before': { content: 'none' },
+            'blockquote p:first-of-type::after': { content: 'none' }
+          },
+        },
       }
     },
   },
