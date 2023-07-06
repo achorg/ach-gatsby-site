@@ -397,3 +397,22 @@ nav.primary-nav {
         }
     }
 }
+
+.error-page .error-container {
+    @apply py-10;
+    
+    h1 {
+        @apply text-9xl;
+        @apply font-black;
+    }
+    
+    p {
+        @apply text-3xl;
+        @apply font-light;
+        @apply my-4;
+    }
+    
+    a {
+        @apply mt-6;
+    }
+}
