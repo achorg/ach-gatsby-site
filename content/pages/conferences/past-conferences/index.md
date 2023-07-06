@@ -6,10 +6,10 @@ The annual DH conference is sponsored by the [Alliance of Digital Humanities Org
 
 The conference has been held in the following locations:
 
-- [Canadian DH/ACH 2015, Ottawa, Ontario](http://ach.org/2014/10/20/joint-ach-canadian-dh-conference-2015/) (2015)
+- [Canadian DH/ACH 2015, Ottawa, Ontario](http://ach.org/news/2014/10/joint-ach-canadian-dh-conference-2015/) (2015)
 - [University of Western Sydney, Australia](http://dh2015.org/) (2015)
-- [UNIL, EPFL, Lausanne, Switzerland](http://ach.org/2014/06/04/digital-humanities-2014/) (2014)
-- [University of Nebraska, Lincoln, Nebraska, USA](http://ach.org/2013/05/04/digital-humanities-2013/) (2013)
+- [UNIL, EPFL, Lausanne, Switzerland](http://ach.org/news/2014/06/digital-humanities-2014/) (2014)
+- [University of Nebraska, Lincoln, Nebraska, USA](http://ach.org/news/2013/05/digital-humanities-2013/) (2013)
 - Hamburg University, Germany (2012)
 - Stanford University (2011)
 - Kings College London (2010)

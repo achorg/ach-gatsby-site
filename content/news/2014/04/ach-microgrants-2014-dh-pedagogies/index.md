@@ -73,6 +73,6 @@ For inquiries about the website please contact webmaster@ach.org, or for DHAnswe
 
 Previous microgrant project winners can be found here:
 
-- 2012: <http://ach.org/ach-announces-microgrants-winners>;
+- 2012: <http://ach.org/news/2012/04/ach-announces-microgrants-winners>;
 
-- 2013: <http://ach.org/2013/07/03/ach-microgrants-winners-2013/>
+- 2013: <http://ach.org/news/2013/07/ach-microgrants-winners-2013/>

@@ -2,7 +2,7 @@
 title: 'Appel à Propositions: Association for Computers and the Humanities 2021'
 date: '2020-12-29'
 ---
-[Anglais](https://ach.org/blog/2020/12/29/call-for-proposals-association-for-computers-and-the-humanities-2021/) | [Espagnol](https://ach.org/blog/2020/12/29/convocatoria-association-for-computers-and-the-humanities-2021/)
+[Anglais](https://ach.org/news/2020/12/call-for-proposals-association-for-computers-and-the-humanities-2021/) | [Espagnol](https://ach.org/news/2020/12/convocatoria-association-for-computers-and-the-humanities-2021/)
 
 Date limite : 28 février 2021
 

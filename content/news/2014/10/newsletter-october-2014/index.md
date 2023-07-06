@@ -18,7 +18,7 @@ Stéfan Sinclair
 Digital Humanities 2014
 -----------------------
 
-ACH was delighted to participate in the annual Digital Humanities conference, held this past July in Lausanne, Switzerland. As usual, we contributed reviewers to the Program Committee and proposal review process, and a representative to the ADHO Conference Coordinating Committee. At the conference we once again held our day-long Executive Council meeting ([minutes](http://ach.org/about-ach/history/ach-meeting-minutes/2014-meeting/)) and the Annual General Meeting ([notes](http://ach.org/2014/09/29/notes-from-2014-annual-general-meeting/)). Since DH 2014, we have been busy preparing for the coming elections, collaborating with CSDH/SCHN on a conference in Ottawa next June (details below!), and minding our action items from the July meeting.
+ACH was delighted to participate in the annual Digital Humanities conference, held this past July in Lausanne, Switzerland. As usual, we contributed reviewers to the Program Committee and proposal review process, and a representative to the ADHO Conference Coordinating Committee. At the conference we once again held our day-long Executive Council meeting ([minutes](http://ach.org/about-ach/history/ach-meeting-minutes/2014-meeting/)) and the Annual General Meeting ([notes](http://ach.org/news/2014/09/notes-from-2014-annual-general-meeting/)). Since DH 2014, we have been busy preparing for the coming elections, collaborating with CSDH/SCHN on a conference in Ottawa next June (details below!), and minding our action items from the July meeting.
 
 Digital Humanities 2015
 -----------------------

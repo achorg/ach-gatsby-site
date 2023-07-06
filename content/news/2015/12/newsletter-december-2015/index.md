@@ -37,7 +37,7 @@ author: 'Stéfan Sinclair'
 
 <span style="font-weight: 400;">You will be entitled to vote for only ONE candidate for the positions of PRESIDENT and VICE-PRESIDENT, and for up to THREE candidates for the position of EXECUTIVE COUNCIL OFFICER.</span>
 
-<span style="font-weight: 400;">Elections began at midday on November 20, 2015 and end at midnight GMT on December 10 2015. Details of all the </span>[<span style="font-weight: 400;">candidates can be found on the ACH website</span>](http://ach.org/2015/11/20/candidate-statements/)<span style="font-weight: 400;">, or by clicking on the candidate links in the Online Voting Form.</span>
+<span style="font-weight: 400;">Elections began at midday on November 20, 2015 and end at midnight GMT on December 10 2015. Details of all the </span>[<span style="font-weight: 400;">candidates can be found on the ACH website</span>](http://ach.org/news/2015/11/candidate-statements/)<span style="font-weight: 400;">, or by clicking on the candidate links in the Online Voting Form.</span>
 
 <span style="font-weight: 400;">To place your vote online, you will need your Subscription Number and your unique Voting Token sent to you by email. The token ensures that each member may vote only once and that the results are submitted anonymously. All queries and questions about the elections should be addressed to the Chair of the Nominations Committee, Élika Ortega (</span>[<span style="font-weight: 400;">elections@ach.org</span>](mailto:elections@ach.org)<span style="font-weight: 400;">). Please contact Élika if you don’t seem to have received a voting token and you’re sure you’re a current member.</span>
 

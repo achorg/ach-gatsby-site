@@ -16,7 +16,7 @@ Interested candidates should put together a proposal of no more than 3 pages tha
 5. Examples of your previous work.
 6. Any other information that you think will be helpful to the ACH Infrastructure and Communications committees that will help in the decision making process.
 
-Committed to activating the ACH’s [statement on Black Lives Matter, structural racism, and our organization](https://ach.org/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/), we particularly want to encourage proposals from Black, Indigenous and People of Color web designers.
+Committed to activating the ACH’s [statement on Black Lives Matter, structural racism, and our organization](https://ach.org/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/), we particularly want to encourage proposals from Black, Indigenous and People of Color web designers.
 
 Please email your proposal to infra@ach.org by **1 April 2022**. We expect to make a selection by 15 April. If you have any questions, please email officers@ach.org.
 

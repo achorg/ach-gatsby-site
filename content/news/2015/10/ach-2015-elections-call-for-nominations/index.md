@@ -9,7 +9,7 @@ The Association for Computers and the Humanities (ACH) invites nominations for t
 
 - Three Executive Council members for four­-year terms (2016-2020);
 - A new President for a two-year term (2016-2018);
-- And, per our [constitutional change](http://ach.org/2014/12/23/2014-election-results-announced/) last year, a Vice President/President-Elect, for two consecutive two-year terms (2016-2018 and 2018-2020).
+- And, per our [constitutional change](http://ach.org/news/2014/12/2014-election-results-announced/) last year, a Vice President/President-Elect, for two consecutive two-year terms (2016-2018 and 2018-2020).
 
 We seek candidates who want to support and advance the field of digital humanities (DH) by helping to lead the ACH.
 

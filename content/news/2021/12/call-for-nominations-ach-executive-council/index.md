@@ -35,7 +35,7 @@ All are welcome to attend the [Q&amp;A event for running for ACH Exec or (co-VP)
 
 The Nominations committee will follow up with nominees later in January to request brief candidate materials – a short candidate bio and summary of your interest in serving ACH.
 
-Sample candidate statements from past elections are available at[ http://ach.org/elections-candidates](http://ach.org/elections-candidates/), though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see[ http://www.ach.org/constitution#Bylaws](http://www.ach.org/constitution#Bylaws).
+Sample candidate statements from past elections are available at <http://ach.org/news/2020/03/ach-2020-elections-candidate-statements/>, though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see[ http://www.ach.org/about/constitution](http://www.ach.org/about/constitution).
 
 For questions about nominations please contact co-VPs, Roopika Risam (rrisam@salemstate.edu) and Quinn Dombrowski (qad@stanford.edu)
 

@@ -3,7 +3,7 @@ title: 'ACH Agenda-Setting: Next Steps'
 date: '2012-06-04'
 author: 'Bethany Nowviskie'
 ---
-Last month, the [Association for Computers and the Humanities](http://ach.org) (ACH) began [an experiment](http://ach.org/open-agenda-setting-2012) in grassroots idea-generation and transparent agenda-setting.
+Last month, the [Association for Computers and the Humanities](http://ach.org) (ACH) began [an experiment](http://ach.org/news/2012/04/open-agenda-setting-2012) in grassroots idea-generation and transparent agenda-setting.
 
 Using an open-source platform called "[All Our Ideas](http://www.allourideas.org/)," association members and interested digital humanists added 18 fresh concepts to a starter-set of 8, which had been drawn from earlier conversations among elected representatives and the ACH community. In May, participants on 6 continents cast more than 2700 votes, generating a ranked list of interests and priorities.
 

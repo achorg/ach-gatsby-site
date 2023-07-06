@@ -6,7 +6,7 @@ date: '2021-12-03'
 
 **Check out our call for papers in [English](https://dhunbound2022.ach.org/cfp-english/), [Spanish](https://dhunbound2022.ach.org/cfp-espanol/), and [French](https://dhunbound2022.ach.org/cfp-francais/), and [submit your proposal](https://www.conftool.org/dhunbound2022) by January 15, 2022!**
 
-Reviving a collaboration that began with the [Joint CSDH/SCHN and ACH Conference](https://ach.org/blog/2014/10/20/joint-ach-canadian-dh-conference-2015/) in 2015, DH Unbound facilitates collaboration between ACH, CSDH/SCHN, and other organizations sharing our commitment to creating virtual and hybrid spaces that showcase the diverse practices within digital humanities.
+Reviving a collaboration that began with the [Joint CSDH/SCHN and ACH Conference](https://ach.org/news/2014/10/joint-ach-canadian-dh-conference-2015/) in 2015, DH Unbound facilitates collaboration between ACH, CSDH/SCHN, and other organizations sharing our commitment to creating virtual and hybrid spaces that showcase the diverse practices within digital humanities.
 
 DH Unbound 2022 provides a forum for conversations about digital humanities in a broad range of subject areas, methods, languages, and communities of practice.
 

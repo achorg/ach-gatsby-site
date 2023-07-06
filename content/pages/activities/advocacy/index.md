@@ -9,7 +9,7 @@ Recent advocacy activities include:
 
 - Publishing [ACH Guidelines for Assessment of Digital Scholarship in Tenure and Promotion](http://ach.org/ach-guidelines-for-assessment-of-digital-scholarship-in-tenure-and-promotion/)
 - Releasing a [Statement in the Aftermath of the 2016 Election](http://ach.org/activities/advocacy/ach-statement-in-the-aftermath-of-the-2016-election/)
-- [Lobbying the US Senate Appropriations Committee](http://ach.org/2014/04/28/ach-lobbies-for-increased-federal-funding) to increase funding for humanities research and innovation
+- [Lobbying the US Senate Appropriations Committee](http://ach.org/news/2014/04/ach-lobbies-for-increased-federal-funding) to increase funding for humanities research and innovation
 - [Endorsing DORA](http://ach.org/ach-endorses-san-francisco-declaration-research-assessment): the San Francisco Declaration on Research Assessment
 - [Endorsing OSTP policy/FASTR](http://ach.org/ach-endorses-ostp-policyfastr) in support of open access to federally-funded research in the US
 - [Joining amicus briefs](http://ach.org/ach-advocacy-news) describing the importance of fair use access to the HathiTrust corpus
