@@ -7,8 +7,6 @@ Thanks to all of the contributors to our Pedagogy Lightning Talks at the ACH AGM
 
 In the meantime, though, here is the wonderfully witty poem that provided a wonderful capstone to the lightning presentations.
 
-[![PedagogyLT_2013_finalv2.pptx](../../../../../../uploads/2013/07/O-DH-pioneers.jpg)](http://ach.org/wp-content/uploads/2013/07/O-DH-pioneers.jpg)
-
 **Some people believe in the “new new new thing”**  
 **That we know as DH — but I’d like to bring**
 

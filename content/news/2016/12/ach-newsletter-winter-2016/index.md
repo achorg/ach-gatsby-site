@@ -3,7 +3,7 @@ title: 'ACH Newsletter, Winter 2016'
 date: '2016-12-23'
 author: 'Mia Ridge'
 ---
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>![](../../../../../../uploads/2016/12/264dab80-f659-45d7-a720-b8a98a75a60d.png)President’s Letter
+<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>
 ==================
 
 Dear ACH friends and colleagues,

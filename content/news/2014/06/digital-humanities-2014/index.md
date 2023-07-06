@@ -26,9 +26,7 @@ Please Ask, Do Tell!
 
 Looking for professional advice or job opportunities? Willing to share some professional advice or news of job opportunities? Use our Please Ask, Do Tell stickers to let conference attendees know!
 
-![Please Ask!](http://ach.org/sites/default/files/please-ask.png)
-
-<div style="width: 350px;">Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!</div>![Do Tell!](http://ach.org/sites/default/files/do-tell.png)
+<div style="width: 350px;">Someone with this sticker may have some advice to offer or know about an interesting DH job – please feel free to ask them!</div>
 
 <div style="width: 350px;">Someone with this sticker is looking for professional advice and/or job opportunities, so if you have something to offer, please let them know!</div>Pick up your sticker(s) at the ACH annual general meeting!
 

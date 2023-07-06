@@ -7,8 +7,6 @@ Last month, the [Association for Computers and the Humanities](http://ach.org) (
 
 Using an open-source platform called "[All Our Ideas](http://www.allourideas.org/)," association members and interested digital humanists added 18 fresh concepts to a starter-set of 8, which had been drawn from earlier conversations among elected representatives and the ACH community. In May, participants on 6 continents cast more than 2700 votes, generating a ranked list of interests and priorities.
 
-![](http://ach.org/sites/default/files/Screen%20Shot%202012-07-18%20at%2010.45.10%20AM.png)
-
 The five most popular suggestions were:
 
 1. "to explore a membership model that doesn't require subscription to a journal;"

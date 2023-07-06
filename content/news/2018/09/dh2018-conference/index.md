@@ -3,8 +3,6 @@ title: 'ACH-Supported Student Experiences at DH 2018'
 date: '2018-09-04'
 author: 'Matt Gold'
 ---
-[![DH2019 conference logo](../../../../../../uploads/2018/09/250-ADHO-2017.png)](http://ach.org/wp-content/uploads/2018/09/250-ADHO-2017.png)
-
 The Association for Computers and the Humanities [was delighted to support the participation](http://Seeking%20to%20foster%20stronger%20collaborations%20with%20colleagues%20in%20Mexico%20and%20elsewhere%20in%20Latin%20America,%20this%20year,%20ACH%20supported%20the%20participation%20of%20ten%20early%20career%20scholars%20at%20DH2018.) of ten early career scholars from across the globe in the [DH2018 conference](https://dh2018.adho.org/en/) held in Mexico City. We thank these students for their participation in the conference and for reflecting upon their experiences in the posts below:
 
 **Melanie Walsh (US) “Tweets of a Native Son: James Baldwin, #BlackLivesMatter, and Networks of Textual Recirculation.”**

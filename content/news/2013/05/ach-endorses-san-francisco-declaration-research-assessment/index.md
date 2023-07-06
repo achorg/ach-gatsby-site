@@ -2,7 +2,6 @@
 title: 'ACH Endorses San Francisco Declaration on Research Assessment'
 date: '2013-05-23'
 author: 'Lisa Spiro'
-thumbnail: ../../../../../../uploads/2013/05/dora-logo-big.png
 ---
 The Association for Computers and the Humanities (ACH) has endorsed the [San Francisco Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/), a set of recommendations for applying more nuanced, accurate ways to evaluate research than the Journal Impact Factor (JIF).  
 

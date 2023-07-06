@@ -15,13 +15,13 @@ The ACH is strong thanks to its members. By being a member you’re already cont
 Humbly yours,  
 Stéfan Sinclair
 
-![](../../../../../../uploads/2014/02/dh2014logo.png)Digital Humanities 2014
-----------------------------------------------------------------------------
+Digital Humanities 2014
+-----------------------
 
 ACH was delighted to participate in the annual Digital Humanities conference, held this past July in Lausanne, Switzerland. As usual, we contributed reviewers to the Program Committee and proposal review process, and a representative to the ADHO Conference Coordinating Committee. At the conference we once again held our day-long Executive Council meeting ([minutes](http://ach.org/about-ach/history/ach-meeting-minutes/2014-meeting/)) and the Annual General Meeting ([notes](http://ach.org/2014/09/29/notes-from-2014-annual-general-meeting/)). Since DH 2014, we have been busy preparing for the coming elections, collaborating with CSDH/SCHN on a conference in Ottawa next June (details below!), and minding our action items from the July meeting.
 
-[![](../../../../../../uploads/2014/10/dh2015logo.jpg)](http://dh2015.org)Digital Humanities 2015
--------------------------------------------------------------------------------------------------
+Digital Humanities 2015
+-----------------------
 
 The next Digital Humanites conference will be held in Sydney, Australia, 29 June–3 July 2015! The conference theme is Global Digital Humanities, and while the program committee welcomes proposals on any aspect of the digital humanities, it also especially encourages proposals that address global aspects of the digital humanities. [Visit the DH 2015 conference website](http://dh2015.org) for more information and to [submit a proposal](http://dh2015.org/cfp/)!
 

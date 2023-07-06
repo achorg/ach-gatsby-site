@@ -9,9 +9,6 @@ The Association for Computers and the Humanities is very pleased to announce the
 
 The 2012 ACH Microgrants winners are:
 
-
-![](http://ach.org/sites/default/files/visconti.jpg)![](http://ach.org/sites/default/files/dombrowski.jpg)![](http://ach.org/sites/default/files/burton.jpg)![](http://ach.org/sites/default/files/lester.jpg)
-
 **Amanda Visconti** (PhD student, Maryland-College Park): $285 to develop and share methods for visualizing the citation network evident in articles published by Digital Humanities Quarterly
 
 **Quinn Dombrowski** (Chicago): $169 for a proposal on behalf of DH Commons and Bamboo DiRT, to provide cross-linking from both projects with mentions of specific tools on Digital Humanities Questions and Answers

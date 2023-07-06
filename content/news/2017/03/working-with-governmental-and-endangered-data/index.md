@@ -2,7 +2,6 @@
 title: 'Working with Governmental and Endangered Data'
 date: '2017-03-22'
 author: 'Micki K'
-thumbnail: ../../../../../../uploads/2017/03/edw.jpeg
 ---
 <span style="font-size: small;">The Digital Library Federation (DLF)’s new working group on Government Records Transparency and Accountability is bringing together a cross-disciplinary group of practitioners in collaborations designed to help effectively address the shifting landscape of preservation and access regarding government archives, records and data in the United States – and abroad. (An introduction to the group by its founder, Dr. Rachel Mattson, is available here: [https://www.diglib.org/archives/13609/](https://www.diglib.org/archives/13609/).) If the subject matter is of particular interest to you, ACH encourages you to check out the Group’s wiki page – which includes links to meeting agendas, notes and resources – here: [https://wiki.diglib.org/Transparency-Accountability](https://wiki.diglib.org/Transparency-Accountability).</span>
 

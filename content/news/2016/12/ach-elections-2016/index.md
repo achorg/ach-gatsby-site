@@ -16,16 +16,15 @@ The four-year terms for the Executive Council positions will begin at the close 
 
 The bylaws change shifts the election cycle to the spring of each year. This will align ACH more closely to other ADHO constituent organizations in terms of election cycles. It will also align more closely with the start of the ACH membership term at the beginning of the calendar year, addressing some members’ confusion regarding whether they are eligible to vote. Finally, it will bring elections closer to the rollover date of service periods for existing Executive Council members.
 
-The bylaws change is an up-or-down vote; you will be asked whether you vote to RATIFY or NOT RATIFY it. [Bylaws Change Document](http://ach.org/wp-content/uploads/2017/01/ach_elections_cycle_change_2016.pdf)
+The bylaws change is an up-or-down vote; you will be asked whether you vote to RATIFY or NOT RATIFY it.
 
 **Endorsement of ACH Guidelines and Identity**
 
 Over the last year, and with ACH members’ participation, the Executive Council has drafted two documents we would like the membership to endorse publicly:
 
-1\) The Recommendations for Assessment of Digital scholarship in Tenure and Promotion Cases: This document was presented at our annual General Membership meeting in Krakow in Summer 2016. The Executive Council solicited feedback from the membership following that meeting and incorporated it into the version of the Guidelines you will be asked to endorse with your yea vote. [ACH Recommendations for Assessment of Digital Scholarship in Tenure and Promotion](http://ach.org/wp-content/uploads/2017/01/ach_guidelines_tenure_promotion.pdf)
+1\) The Recommendations for Assessment of Digital scholarship in Tenure and Promotion Cases: This document was presented at our annual General Membership meeting in Krakow in Summer 2016. The Executive Council solicited feedback from the membership following that meeting and incorporated it into the version of the Guidelines you will be asked to endorse with your yea vote.
 
-2\) The ACH Identity Statement. This document was drafted by the Executive Council following discussions with the membership as well as at the Executive Council level. It seeks to clarify the scope and identity of our organization for both new and continuing members.  
-[ACH Identity Statement](http://www.oxfordjournals.org/resource/eballot/ACH_Identity_Statement.pdf)
+2\) The ACH Identity Statement. This document was drafted by the Executive Council following discussions with the membership as well as at the Executive Council level. It seeks to clarify the scope and identity of our organization for both new and continuing members.
 
 For each of the public documents, we will ask you to ENDORSE or NOT ENDORSE it. Endorsed documents will be made part of the ACH website and promoted via social media.
 

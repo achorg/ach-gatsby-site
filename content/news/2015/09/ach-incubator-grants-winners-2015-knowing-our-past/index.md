@@ -9,21 +9,15 @@ ACH Microgrants were established to reward enterprising ideas that serve the dig
 
 The ACH Incubator Grant winners for 2015 are:
 
-**![Anna Dorofeeva photo](../../../../../../uploads/2015/09/Anna-Dorofeeva-photo.png)**
-
 **Anna Dorofeeva**, University of Cambridge  
 **The Caroline Miniscule Mapping Project**
 
 $1000 towards developing a website to allow the Network for the Study of Caroline Minuscule to publish 30 summary articles, including bibliographies and links to online manuscripts, on the major scribal centres and regions that used the diverse and complex Caroline minuscule script in Europe c. 700–1000 AD.
 
-[![Gallon-Incubatorgrantheadshot](../../../../../../uploads/2015/09/Gallon-Incubatorgrantheadshot.jpg)](http://ach.org/wp-content/uploads/2015/09/Gallon-Incubatorgrantheadshot.jpg) [![Nunes-Incubator-Grants](../../../../../../uploads/2015/09/Nunes-Incubator-Grants.jpg)](http://ach.org/wp-content/uploads/2015/09/Nunes-Incubator-Grants.jpg)
-
 <span class="s1">**Kim Gallon** (Purdue University) and **Zita Cristina Nunes** (University of Maryland)  
 </span>**<span class="s1">Storifying “Digital Diasporas”</span>**
 
 $1000 towards creating a digital archive of the “Digital Diasporas: Digital Humanities and African American/African Diaspora Studies” conference held in 2008 at the University of Maryland, College Park, and an associated social media stream towards a second conference in 2018.
-
-[![O'Sullivan_incubator-grants](../../../../../../uploads/2015/09/OSullivan_incubator-grants.jpeg)](http://ach.org/wp-content/uploads/2015/09/OSullivan_incubator-grants.jpeg)
 
 **James O’Sullivan** (Pennsylvania State University)  
 **Electronic Literature Timeline**
