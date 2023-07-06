@@ -40,4 +40,4 @@ After a hiatus of a couple of years the *Please Ask! Do Tell!* stickers will be 
 Join ACH
 --------
 
-And if you like what you see, and want to become part of a welcoming, international, interdisciplinary, and inter-professional DH association, we invite you to [join the ACH](/membership) today.
+And if you like what you see, and want to become part of a welcoming, international, interdisciplinary, and inter-professional DH association, we invite you to [join the ACH](https://members.ach.org/) today.

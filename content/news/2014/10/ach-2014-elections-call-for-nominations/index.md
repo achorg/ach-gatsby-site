@@ -9,7 +9,7 @@ The Association for Computers and the Humanities (ACH) invites nominations for t
 
 ACH officers and Executive Council members develop and uphold ACH policies, determine and distribute funding, and oversee all organizational activities. Activities for 2014/2015 include our mentorship program and job slams; advocacy work; publications including the Humanist list, Digital Humanities Quarterly and DH Answers; collaborations with ADHO partners in the annual DH conference and other professional activities (including the first-ever [joint conference of ACH and CSDH-SCHN](http://ach.org/news/2014/10/joint-ach-canadian-dh-conference-2015/) (our Canadian counterpart); co-administration of a number of prestigious DH awards, distribution of student bursaries for DH training and education, as well as other priorities as set by the ACH membership. You can be involved in helping ACH programs succeed by nominating yourself, or someone else, to be an active participant in the leadership of the Association.
 
-To stand for election as an Executive Council member, candidates must be [members](http://ach.org/membership/) in good standing of the ACH. Council members commit to being present (whether in person or virtually) at annual meetings usually held at the Digital Humanities Conference, and to participating in discussions during the rest of the year by email and audio/video conference. Council members are expected to be active in the digital humanities community.
+To stand for election as an Executive Council member, candidates must be [members](https://members.ach.org/) in good standing of the ACH. Council members commit to being present (whether in person or virtually) at annual meetings usually held at the Digital Humanities Conference, and to participating in discussions during the rest of the year by email and audio/video conference. Council members are expected to be active in the digital humanities community.
 
 We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with digital humanities, from anywhere in the world. We also welcome nominations of people from all constituencies and humanities disciplines, and especially encourage the nomination of women, people of color, <abbr title="Lesbian, Gay, Bisexual, Transgender, Queer">LGBTQ</abbr>, or other under-represented groups. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliation, academic status, or job title.
 
@@ -20,9 +20,9 @@ Send nominations to[ nominations@ach.org](mailto:nominations@ach.org) by October
 
 If you have any questions, please feel free to contact us at <nominations@ach.org>.
 
-The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of the ACH Executive Council, read our [Bylaws](http://www.ach.org/constitution#Bylaws).
+The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of the ACH Executive Council, read our [Bylaws](http://www.ach.org/about/constitution).
 
-Visit our [Officers page](http://www.ach.org/officers) for a current list of officers.
+Visit our [Officers page](http://www.ach.org/about/officers) for a current list of officers.
 
 Thanks for helping shape the future of the ACH!
 

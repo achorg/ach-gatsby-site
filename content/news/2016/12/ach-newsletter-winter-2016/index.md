@@ -114,7 +114,7 @@ You can read the full policy on [our announcements page](http://ach.org/news/201
 
 In connection with the annual DH conference, we began approaching university presses to provide discounts for their catalogs. We are now working to partner with presses to offer discounts without expiration dates. To receive discounts, ACH members must order books through the individual Press websites.
 
-This is just one of the many benefits we offer to ACH members! Please encourage your colleagues to visit [our membership page ](http://ach.org/membership/)and join our organization.
+This is just one of the many benefits we offer to ACH members! Please encourage your colleagues to visit [our membership page](https://members.ach.org/)and join our organization.
 
 </td></tr></tbody></table>
 
@@ -127,7 +127,7 @@ This is just one of the many benefits we offer to ACH members! Please encourage 
 <table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>**ACH Membership**
 ------------------
 
-Encourage colleagues to Join ACH! We’ve recently revamped our membership page to make it easier than ever to join ACH — just visit [our new membership page](http://ach.org/membership/) and click on your preferred membership type. Student memberships are just US $26, and like other membership levels, help fund student bursaries, open-access journal publication, mentoring services, development micro-grants, and other important DH initiatives. Please encourage DH practitioners in your community to join!
+Encourage colleagues to Join ACH! We’ve recently revamped our membership page to make it easier than ever to join ACH — just visit [our new membership page](https://members.ach.org/) and click on your preferred membership type. Student memberships are just US $26, and like other membership levels, help fund student bursaries, open-access journal publication, mentoring services, development micro-grants, and other important DH initiatives. Please encourage DH practitioners in your community to join!
 
 </td></tr></tbody></table>
 

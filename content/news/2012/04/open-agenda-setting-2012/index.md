@@ -9,7 +9,7 @@ To that end, we launched an "idea marketplace" using a transparent, grassroots, 
 
 ACH can't undertake every project you suggest, but we do promise to take our members' and community's views very seriously and to address as many of them as we can, in open dialogue.
 
-Both association [members](/membership) and non-members are welcome to contribute to this process, and we are only moderating new submissions to prevent unproductive overlap or to clarify language.
+Both association [members](https://members.ach.org/) and non-members are welcome to contribute to this process, and we are only moderating new submissions to prevent unproductive overlap or to clarify language.
 
 Please take a moment to share your views:
 

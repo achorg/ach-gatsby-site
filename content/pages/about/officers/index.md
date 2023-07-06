@@ -2,7 +2,7 @@
 title: 'Officers and Council Members'
 date: '2010-03-14'
 ---
-*All terms begin and end with the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st in the years listed. See also the list of [ACH Office and Council alumni](http://ach.org/about-ach/officers/alumni/), who have all our gratitude.*
+*All terms begin and end with the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st in the years listed. See also the list of [ACH Office and Council alumni](http://ach.org/about/officers/alumni/), who have all our gratitude.*
 
 Executive Officers
 ------------------

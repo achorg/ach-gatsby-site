@@ -20,7 +20,7 @@ Next we launched into the annual ACH Jobs Slam, a chance for prospective employe
 - Digital Humanities Academic Administrator at UCLA: http://bit.ly/iCQI4g
 - Web Developers at NYPL: http://bit.ly/mRGKA0
 
-We also pointed to two very useful lists of jobs: http://www.arts-humanities.net/jobs and http://www.hastac.org/forum/23 Finally, we reminded everyone of the ongoing ACH mentoring programme http://ach.org/mentoring We encourage thesis supervisors who have students finishing and looking for DH-oriented jobs to contact the Mentoring committee.
+We also pointed to two very useful lists of jobs: http://www.arts-humanities.net/jobs and http://www.hastac.org/forum/23 Finally, we reminded everyone of the ongoing ACH mentoring programme http://ach.org/activities/mentoring We encourage thesis supervisors who have students finishing and looking for DH-oriented jobs to contact the Mentoring committee.
 
 Following the Jobs Slam we covered some new and ongoing initiatives. In particular:
 

@@ -9,7 +9,7 @@ The Association for Computers and the Humanities (ACH) invites nominations for t
 
 ACH officers and Executive Council members develop and uphold ACH policies, determine and distribute funding, and oversee all organizational activities. Activities for 2013/2014 include our mentorship program and jobs slams, advocacy work, publications including Digital Humanities Quarterly and DH Answers, collaborations with ADHO partners in the annual DH conference and other initiatives, co-administration of a number of prestigious DH awards, distribution of student bursaries for DH training and education, as well as other priorities as set by ACH. You could be involved in helping ACH programs succeed by nominating yourself, or someone else, to be an active participant in the leadership of the Association.
 
-To be confirmed as an ACH officer or Executive Council member, candidates must be [members in good standing of the ACH](http://ach.org/membership/). They commit to attending annual council meetings at the Digital Humanities conference and participate in discussions during the rest of the year by email and audio/video conference. Council members are expected to be active in the digital humanities community. We welcome participants not just from universities and colleges but also galleries, libraries, museums, community organizations, and other organizations engaged with digital humanities. Independent scholars, graduate students, alternative academics, women, those of diverse ethnic and racial backgrounds, and other under-represented communities are especially encouraged to self-nominate, or to be nominated by the membership. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliations or academic status/titles.
+To be confirmed as an ACH officer or Executive Council member, candidates must be [members in good standing of the ACH](https://members.ach.org/). They commit to attending annual council meetings at the Digital Humanities conference and participate in discussions during the rest of the year by email and audio/video conference. Council members are expected to be active in the digital humanities community. We welcome participants not just from universities and colleges but also galleries, libraries, museums, community organizations, and other organizations engaged with digital humanities. Independent scholars, graduate students, alternative academics, women, those of diverse ethnic and racial backgrounds, and other under-represented communities are especially encouraged to self-nominate, or to be nominated by the membership. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliations or academic status/titles.
 
 **Send nominations to <nominations@ach.org> by October 31st, 2013.** Please confirm with your nominee that he or she is willing to serve, and:
 
@@ -22,9 +22,9 @@ To be confirmed as an ACH officer or Executive Council member, candidates must b
 
 If you have any questions, please feel free to contact us at <nominations@ach.org>.
 
-The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/constitution#Bylaws](http://www.ach.org/constitution#Bylaws)
+The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](http://www.ach.org/about/constitution)
 
-Current officers of the ACH are listed at[ http://www.ach.org/officers](http://www.ach.org/officers)
+Current officers of the ACH are listed at[ http://www.ach.org/about/officers](http://www.ach.org/about/officers)
 
 Many thanks,
 

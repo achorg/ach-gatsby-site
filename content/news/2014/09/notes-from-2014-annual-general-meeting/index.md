@@ -28,7 +28,7 @@ We are pleased to post notes from the 2014 AGM, which took place at the [Digital
   - For the first time, ACH is announcing an affiliations committee whose aim is to broaden our relationships with other professional societies, organizations, and initiatives.
   - MLA is a long-standing partner at whose conference we offer sessions and other events
   - A new partner is the American History Association, at whose January conference we’ll be sponsoring four panels
-  - We’re interested in doing more, and are calling for nominations. Please help us identify potential organizations for us to affiliate with, generating more cross-polination in fields related to DH. We are looking for ACH members in good standing to be on the committee for two-year terms — email tweet Jen at the contact information [here](http://ach.org/about-ach/officers/ "Officers and Council Members"). Official nominations process is also posted [on the ACH website](http://ach.org/news/2014/07/call-for-nominations-affiliates-committee/ "Call for Nominations: Affiliates Committee").
+  - We’re interested in doing more, and are calling for nominations. Please help us identify potential organizations for us to affiliate with, generating more cross-polination in fields related to DH. We are looking for ACH members in good standing to be on the committee for two-year terms — email tweet Jen at the contact information [here](http://ach.org/about/officers/ "Officers and Council Members"). Official nominations process is also posted [on the ACH website](http://ach.org/news/2014/07/call-for-nominations-affiliates-committee/ "Call for Nominations: Affiliates Committee").
 
 **JOBS SLAM**
 
@@ -57,4 +57,4 @@ The bulk of the meeting was spent in discussion of ACH’s regional status (or n
 
 **CLOSING**
 
-Stéfan closes the meeting. Anyone wishing to be more involved with ACH? Please [talk to us](http://ach.org/about-ach/officers/ "Officers and Council Members")!
+Stéfan closes the meeting. Anyone wishing to be more involved with ACH? Please [talk to us](http://ach.org/about/officers/ "Officers and Council Members")!

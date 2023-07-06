@@ -18,13 +18,13 @@ To stand for election as an Executive Council member or officer, candidates must
 
 We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with digital humanities. We also welcome nominations of people from all constituencies and humanities disciplines, and especially encourage the nomination of women, people of color, LGBTQ, or other under­represented groups. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliation, academic status, or job title.
 
-**Send nominations to <nominations@ach.org> by January 15, 2018.** Please confirm with your nominee that he or she is willing to serve, and provide a brief candidate statement and biography. Sample candidate statements from past elections are available at:[ http://ach.org/elections-candidates/](http://ach.org/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
+**Send nominations to <nominations@ach.org> by January 15, 2018.** Please confirm with your nominee that he or she is willing to serve, and provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: <http://ach.org/news/2016/12/ach-elections-2016-candidate-statements>. If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 
 If you have any questions, please feel free to contact us at nominations@ach.org. The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
 
-For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/constitution#Bylaws](http://www.ach.org/constitution#Bylaws).
+For more information on the responsibilities and obligations of ACH council members, see <http://www.ach.org/about/constitution>.
 
-Current officers of the ACH are listed at[ http://ach.org/about-ach/officers/](http://ach.org/about-ach/officers/) .
+Current officers of the ACH are listed at <http://ach.org/about/officers/>.
 
 **ACH Nominations Committee**
 

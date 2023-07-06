@@ -35,7 +35,7 @@ Nominations are due by 1/15/2023.
 
 The Nominations committee will follow up with nominees later in January to request brief candidate materials – a short candidate bio and summary of their interest in serving ACH.
 
-Sample candidate bios and statements from last year’s election are available at <https://ach.org/news/2022/02/ach-2022-elections-slate/>. For more information on the responsibilities and obligations of Executive Council members, please see http://www.ach.org/constitution#Bylaws.
+Sample candidate bios and statements from last year’s election are available at <https://ach.org/news/2022/02/ach-2022-elections-slate/>. For more information on the responsibilities and obligations of Executive Council members, please see http://www.ach.org/about/constitution.
 
 For questions about nominations please contact ACH presidents, Roopika Risam (roopika \[doc\] risam \[at\] dartmouth \[doc\] edu) and Quinn Dombrowski (qad \[at\] stanford \[doc\] edu)
 

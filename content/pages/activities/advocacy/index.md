@@ -13,8 +13,8 @@ Recent advocacy activities include:
 - [Endorsing DORA](http://ach.org/ach-endorses-san-francisco-declaration-research-assessment): the San Francisco Declaration on Research Assessment
 - [Endorsing OSTP policy/FASTR](http://ach.org/ach-endorses-ostp-policyfastr) in support of open access to federally-funded research in the US
 - [Joining amicus briefs](http://ach.org/ach-advocacy-news) describing the importance of fair use access to the HathiTrust corpus
-- Encouraging the National Endowment for the Humanities and SSHRC to require [data management plans](http://ach.org/advocacy-work-ach) in digital humanities grant applications
-- Participating in protests against [SOPA/ PIPA](http://ach.org/advocacy-work-ach)
+- Encouraging the National Endowment for the Humanities and SSHRC to require [data management plans](http://ach.org/activities/advocacy) in digital humanities grant applications
+- Participating in protests against [SOPA/PIPA](http://ach.org/activities/advocacy)
 - Sponsoring the [4Humanities](http://4humanities.org/) collective, a group developing a platform for advocacy of the humanities, drawing on the technologies, new-media expertise, and ideas of the international digital humanities community.
 
 We welcome your input and participation in ACH’s advocacy efforts. Contact Lisa Spiro, primary liaison for advocacy initiatives, at advocacy at ach.org.

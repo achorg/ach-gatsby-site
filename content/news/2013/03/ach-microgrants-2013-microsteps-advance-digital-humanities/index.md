@@ -13,11 +13,11 @@ We invite proposals that will advance the goals and mission of the ACH, to suppo
 
 Projects should be modest and designed to be accomplished within roughly six months. Examples of possible projects, meant to inspire rather than limit:
 
-- a mobile app for the DH conference <http:></http:>
+- a mobile app for the DH conference
 - a framework for sharing DH syllabi
-- enhancements to DH Questions &amp; Answers <http:></http:>
-- initiatives that enhance the redesigned ACH Website <ach.org></ach.org>
-- activities that add functionality/features to the online journal Digital Humanities Quarterly <digitalhumanities.org></digitalhumanities.org>
+- enhancements to DH Questions &amp; Answers
+- initiatives that enhance the redesigned ACH Website
+- activities that add functionality/features to the online journal Digital Humanities Quarterly
 - an approach for aggregating or curating videos related to the digital humanities, such as conference talks, project-related videos and oral histories
 - new content, such as podcasts
 - making old content, such as DHQ content or ACH-related history, accessible in new forms or amenable to visualization or analytics.

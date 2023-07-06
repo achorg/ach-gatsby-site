@@ -2,7 +2,7 @@
 title: 'About ACH'
 date: '2010-03-12'
 ---
-The Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities. ACH is based in the US, but boasts an international [membership](/membership) (as of November 2015, representing 21 countries worldwide).
+The Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities. ACH is based in the US, but boasts an international [membership](https://members.ach.org/) (as of November 2015, representing 21 countries worldwide).
 
 We welcome members of any academic affiliation or professional role who are interested in the digital humanities and who would like to help shape the values and priorities of our organization. Although we are a US-based organization, we welcome those who live in regions of the world that are not represented by existing professional organizations, recognizing that intellectual, cultural, institutional, and other forms of diversity make a vital contribution to scholarship and practice.
 
@@ -23,4 +23,4 @@ The ACH is the US-based member of the [Alliance of Digital Humanities Organizati
 How Do I Join?
 --------------
 
-Learn more about the benefits of membership and what your contribution supports, and join ACH or all the ADHO organizations [here](/membership).
+Learn more about the benefits of membership and what your contribution supports, and join ACH or all the ADHO organizations [here](https://members.ach.org/).

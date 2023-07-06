@@ -27,7 +27,7 @@ author: 'Stéfan Sinclair'
 
 <span style="font-weight: 400;">ACH members are entitled to vote in this year’s ACH’s election, in which a President, a Vice-President/President-elect, and three Executive Council members will be elected. The terms for all of these positions will begin at the close of the 2016 annual summer Executive Council meeting.</span>
 
-<span style="font-weight: 400;">Per the recently amended </span>[<span style="font-weight: 400;">ACH Constitution</span>](http://ach.org/about-ach/constitution/)<span style="font-weight: 400;">, the Vice President serves a two-year term and then becomes the President for an additional two-year term. Since this process is just beginning, a President must be elected for a two-year term. Members of the Executive Council serve four-year terms.</span>
+<span style="font-weight: 400;">Per the recently amended </span>[<span style="font-weight: 400;">ACH Constitution</span>](http://ach.org/about/constitution/)<span style="font-weight: 400;">, the Vice President serves a two-year term and then becomes the President for an additional two-year term. Since this process is just beginning, a President must be elected for a two-year term. Members of the Executive Council serve four-year terms.</span>
 
 <span style="font-weight: 400;">TWO candidates have been nominated to fill the position of PRESIDENT.</span>
 

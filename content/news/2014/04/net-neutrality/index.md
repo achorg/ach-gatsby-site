@@ -9,4 +9,4 @@ The effort was spearheaded by the US-based Association for Computers and the Hum
 
 The full letter and list of signatories is [available here](http://ach.org/news/2014/04/open-letter-on-net-neutrality/), and may shortly appear on other professional societies’ websites as well. We welcome wide distribution of the letter, and urge our members and readers to take individual action and make their voices heard ahead of the FCC’s May 15th [Open Commission Meeting](http://www.fcc.gov/events/open-commission-meeting-may-2014).
 
-The ACH [also provides](http://ach.org/activities/net-neutrality-info-and-action/) a short set of background readings on net neutrality, and some suggested actions you can take.
+The ACH also provides a short set of background readings on net neutrality, and some suggested actions you can take.

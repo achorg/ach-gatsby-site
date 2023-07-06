@@ -12,7 +12,7 @@ Abstracts and biographical statements for the following presenters can be found 
 - [Christina L. Boyles](#christina "Christina Boyles") (Baylor University), “(Re)shaping Scholarship, (Re)claiming Folklore: Reassessing Hurston’s Oeuvre Using TEI”
 - [Christopher Gabbard](#chris "Chris Gabbard") (University of North Florida), “Have Qrafter Ready: What Literature Students Can Learn from Digital Deformation”
 
-Additionally, presenters were offered the opportunity to write brief blog posts regarding their methods, as well. [Brandon Walsh has taken up that invitation, and we have cross-posted it on the ACH site.](http://ach.org/?p=909 "The Devil in the Recording")
+Additionally, presenters were offered the opportunity to write brief blog posts regarding their methods, as well. [Brandon Walsh has taken up that invitation, and we have cross-posted it on the ACH site.](http://ach.org/ "The Devil in the Recording")
 
 There is one change from the MLA program. Unfortunately, Danielle Gustafson-Sundell (Minnesota State University) will be unable to attend the conference and has withdrawn her paper “songs that start with i.”
 
