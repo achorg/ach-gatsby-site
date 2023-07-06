@@ -1,5 +1,5 @@
 import React from "react"
-import IconGrid from "../../static/images/hero-icons.svg"
+import IconGrid from "../images/hero-icons.svg"
 
 const Hero = ({ title, subtitle }) => {
   return (

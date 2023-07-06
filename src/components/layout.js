@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import Navigation from "./navigation"
 import Breadcrumbs from "./breadcrumbs"
 import { FaCreativeCommons, FaCreativeCommonsBy, FaCreativeCommonsSa } from "react-icons/fa"
@@ -14,7 +15,12 @@ const Layout = ({ location, title, children, usingHero }) => {
         <div className="header-inner boxed-regular">
           <h1 className="main-heading">
             <Link to="/">
-              <img src="/images/logo.png" alt={title} />
+              <StaticImage
+                src="../images/logo.png"
+                alt={title}
+                loading="eager"
+                imgClassName="!transition-none"
+              />
             </Link>
           </h1>
           <Navigation />
