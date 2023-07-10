@@ -1,4 +1,4 @@
-import React from "react"
+import React, { Fragment } from "react"
 import { Link, useStaticQuery, graphql } from "gatsby";
 import { FaChevronRight } from "react-icons/fa";
 
@@ -77,18 +77,18 @@ const Breadcrumbs = ({ location }) => {
     <nav className="breadcrumbs">
       <ol>
         { pageComponents.map((page, index) => (
-          <>
+          <Fragment key={page.slug}>
             <li>
               <Link to={page.slug} key={page.slug}>
                 { page.title }
               </Link>
             </li>
-            { index != pageComponents.length - 1 &&
+            { index !== pageComponents.length - 1 &&
               <li role="presentation">
                 <FaChevronRight className="icon" aria-hidden="true" />
               </li>
             }
-          </>
+          </Fragment>
         )) }
       </ol>
     </nav>

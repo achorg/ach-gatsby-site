@@ -83,12 +83,10 @@ const NavigationLevel = ({ links, isRoot = true }) => {
               </a>
             }
             {link.subMenu &&
-              <>
-                <NavigationLevel
-                  isRoot={false}
-                  links={link.subMenu}
-                />
-              </>
+              <NavigationLevel
+                isRoot={false}
+                links={link.subMenu}
+              />
             }
           </li>
         ))}
