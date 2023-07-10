@@ -108,7 +108,7 @@ header.page-header {
         }
         
         nav.primary-nav > ul {
-            @apply text-purple-100 text-opacity-80;
+            @apply md:text-purple-100 md:text-opacity-80;
         }
         
         & > .header-inner {
@@ -169,30 +169,26 @@ nav.primary-nav {
         @apply p-1;
     }
     
+    .submenu-toggle {
+        @apply md:hidden;
+        @apply float-right;
+        @apply px-2;
+        @apply opacity-60;
+    }
+    
     &.menu-open {
         & > ul {
-            @apply flex;
+            @apply visible;
         }
     }
     
-    & > ul {
-        @apply hidden;
-        @apply flex-col;
-        @apply absolute md:static;
-        @apply top-24 left-0 right-0;
-        @apply bg-zinc-900;
-        @apply text-lg;
-        @apply text-zinc-100;
-        @apply py-8 px-5;
-        
-        @apply flex-wrap;
-        @apply md:static;
-        @apply md:flex;
-        @apply md:flex-row;
-        @apply md:bg-transparent;
-        @apply md:text-base;
-        @apply md:text-zinc-900 md:dark:text-zinc-100;
-        @apply md:p-0;
+    ul {
+        @apply flex flex-col;
+        @apply gap-1.5;
+        @apply text-zinc-900 dark:text-zinc-100;
+        @apply bg-zinc-100 dark:bg-zinc-900;
+        @apply rounded-md;
+        @apply invisible;
         
         a {
             @apply px-2 py-2;
@@ -206,41 +202,64 @@ nav.primary-nav {
             &.active {
                 @apply opacity-100;
             }
+            
+            &.active + .submenu-toggle {
+                @apply opacity-100;
+            }
         }
+    }
+    
+    & > ul {
+        @apply md:visible;
+        @apply absolute md:static;
+        @apply top-24 left-4 right-4;
+        @apply py-5 px-3;
+        @apply shadow-lg md:shadow-none;
+        @apply border border-zinc-200 dark:border-zinc-800 md:border-none;
+        
+        @apply md:static;
+        @apply md:flex-row;
+        @apply md:bg-transparent;
+        @apply md:border-none;
+        @apply md:p-0;
+        @apply md:gap-0;
         
         & > li {
             @apply relative m-0;
             
-            & > ul {
-                @apply mt-2 mb-1 ml-3;
-                
-                @apply md:absolute;
-                @apply md:flex;
-                @apply md:flex-col;
-                @apply md:gap-1.5;
-                @apply md:invisible;
-                @apply md:opacity-0;
-                @apply md:mt-3 md:m-0;
-                @apply md:px-4 md:py-5;
-                @apply md:transition-all ease-in-out;
-                @apply bg-zinc-900;
-                
-                a {
-                    @apply md:text-zinc-100;
-                    @apply md:opacity-75;
-                    @apply before:content-['—'] md:before:content-none;
-                    @apply before:mr-2 md:before:mr-0;
-                    @apply before:opacity-50;
-                }
-            }
-            
             & > a:hover + ul,
             & > a:focus + ul,
+            & > a:hover + button + ul,
+            & > a:focus + button + ul,
             & > ul:hover,
             & > ul:focus-within {
-                @apply visible;
+                @apply md:visible;
                 @apply opacity-100;
             }
+        }
+    }
+    
+    & > ul > li > ul {
+        @apply ml-3;
+        @apply shadow-none md:shadow-lg;
+        @apply h-0 md:h-auto;
+        
+        @apply md:border md:border-zinc-200 dark:md:border-zinc-800;
+        @apply md:absolute;
+        @apply md:opacity-0;
+        @apply md:mt-3 md:m-0;
+        @apply md:px-4 md:py-5;
+        @apply md:transition-all ease-in-out;
+        
+        &.submenu-open {
+            @apply visible h-auto;
+            @apply mt-2 mb-1;
+        }
+        
+        a {
+            @apply before:content-['—'] md:before:content-none;
+            @apply before:mr-2 md:before:mr-0;
+            @apply before:opacity-50;
         }
     }
 }
@@ -283,6 +302,7 @@ nav.primary-nav {
     
     li {
         @apply bg-purple-900 text-purple-100 dark:text-purple-200;
+        @apply rounded-md;
         @apply opacity-90 hover:opacity-100;
         @apply transition-opacity ease-in-out;
         

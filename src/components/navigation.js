@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
-import { FaBars, FaTimes } from "react-icons/fa"
+import { FaBars, FaTimes, FaChevronDown, FaChevronUp } from "react-icons/fa"
 
 const Navigation = () => {
   const [ opened, setOpened ] = useState(false);
@@ -26,30 +26,6 @@ const Navigation = () => {
   
   const { menuLinks } = query.site.siteMetadata;
   
-  const renderNavLevel = links => (
-    <ul>
-      {links.map(link => (
-        <li
-          key={link.name}
-        >
-          {
-            !link.link.startsWith("http") ?
-            <Link
-              to={link.link}
-              activeClassName="active"
-            >
-              {link.name}
-            </Link> :
-            <a href={link.link}>
-              {link.name}
-            </a>
-          }
-          {link.subMenu && renderNavLevel(link.subMenu)}
-        </li>
-      ))}
-    </ul>
-  )
-  
   const handleMenuToggle = () => setOpened(!opened);
   
   return (
@@ -66,9 +42,59 @@ const Navigation = () => {
           <FaTimes className="icon" aria-hidden="true" />
         }
       </button>
-      {renderNavLevel(menuLinks)}
+      <NavigationLevel links={menuLinks} />
     </nav>
   );
 }
+
+const NavigationLevel = ({ links, isRoot = true }) => {
+  const [ opened, setOpened ] = useState(isRoot);
+  
+  const handleMenuToggle = () => setOpened(!opened);
+  
+  return (
+    <>
+      { !isRoot &&
+        <button
+          className="submenu-toggle"
+          onClick={handleMenuToggle}
+          aria-label="Toggle submenu"
+          aria-expanded={opened}
+        >{ opened ?
+          <FaChevronUp className="icon" aria-hidden="true" /> :
+          <FaChevronDown className="icon" aria-hidden="true" />
+        }</button>
+      }
+      <ul className={opened ? "submenu-open" : ""}>
+        {links.map(link => (
+          <li
+            key={link.name}
+          >
+            {
+              !link.link.startsWith("http") ?
+              <Link
+                to={link.link}
+                activeClassName="active"
+              >
+                {link.name}
+              </Link> :
+              <a href={link.link}>
+                {link.name}
+              </a>
+            }
+            {link.subMenu &&
+              <>
+                <NavigationLevel
+                  isRoot={false}
+                  links={link.subMenu}
+                />
+              </>
+            }
+          </li>
+        ))}
+      </ul>
+    </>
+  );
+};
 
 export default Navigation
