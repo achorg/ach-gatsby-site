@@ -61,7 +61,7 @@ header.page-header {
     @apply mt-1 mb-6;
     
     & > ol {
-        @apply flex items-center gap-1.5;
+        @apply flex flex-wrap items-center gap-1.5;
     }
     
     a {
@@ -196,7 +196,7 @@ nav.primary-nav {
         
         a {
             @apply px-2 py-2;
-            @apply whitespace-nowrap;
+            @apply md:whitespace-nowrap;
             
             @apply opacity-60;
             @apply transition-opacity ease-in-out;
