@@ -17,6 +17,7 @@ const NewsPostTemplate = ({
         className="news-post boxed-regular"
         itemScope
         itemType="http://schema.org/Article"
+        lang={post.frontmatter?.language}
       >
         <header className="page-header">
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
@@ -92,6 +93,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         author
+        language
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
