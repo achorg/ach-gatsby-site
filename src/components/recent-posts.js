@@ -5,8 +5,8 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
   const query = useStaticQuery(
     graphql`
       {
-        allMarkdownRemark(
-          filter: { fileAbsolutePath: { regex: "/\/news\//" } },
+        allMdx(
+          filter: { internal: { contentFilePath: { regex: "/\/news\//" } } },
           sort: { frontmatter: { date: DESC } }
         ) {
           nodes {
@@ -25,7 +25,7 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
     `
   );
   
-  let posts = query.allMarkdownRemark.nodes;
+  let posts = query.allMdx.nodes;
   
   if (maxPosts) {
     posts = posts.slice(0, maxPosts);

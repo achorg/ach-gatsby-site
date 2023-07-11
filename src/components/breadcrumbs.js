@@ -6,8 +6,8 @@ const Breadcrumbs = ({ location }) => {
   const query = useStaticQuery(
     graphql`
       {
-        genericPages: allMarkdownRemark(
-          filter: { fileAbsolutePath: { regex: "/\/pages\//" } }
+        genericPages: allMdx(
+          filter: { internal: { contentFilePath: { regex: "/\/pages\//" } } }
         ) {
           nodes {
             fields {
@@ -18,8 +18,8 @@ const Breadcrumbs = ({ location }) => {
             }
           }
         }
-        newsPosts: allMarkdownRemark(
-          filter: { fileAbsolutePath: { regex: "/\/news\//" } }
+        newsPosts: allMdx(
+          filter: { internal: { contentFilePath: { regex: "/\/news\//" } } }
         ) {
           nodes {
             fields {
@@ -74,7 +74,7 @@ const Breadcrumbs = ({ location }) => {
   }).filter(page => page);
   
   return (
-    <nav className="breadcrumbs">
+    <nav className="breadcrumbs" aria-label="breadcrumbs">
       <ol>
         { pageComponents.map((page, index) => (
           <Fragment key={page.slug}>

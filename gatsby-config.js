@@ -116,9 +116,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        plugins: [
+        extensions: [ '.md', '.mdx' ],
+        gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -131,7 +132,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          `gatsby-remark-prismjs`,
         ],
       },
     },
@@ -161,22 +161,20 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.nodes.map(node => {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
                   description: node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
                 })
               })
             },
             query: `{
-              allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+              allMdx(sort: {frontmatter: {date: DESC}}) {
                 nodes {
                   excerpt
-                  html
                   fields {
                     slug
                   }

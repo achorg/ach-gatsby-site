@@ -8,8 +8,8 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 // Define the template for news post
-const newsPost = path.resolve(`./src/templates/news-post.js`)
-const genericPage = path.resolve(`./src/templates/generic-page.js`)
+const newsPostTemplate = path.resolve(`./src/templates/news-post.js`)
+const genericPageTemplate = path.resolve(`./src/templates/generic-page.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -20,8 +20,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Get all markdown news posts sorted by date
   const result = await graphql(`
     {
-      newsPosts: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/\/news\//" } },
+      newsPosts: allMdx(
+        filter: { internal: { contentFilePath: { regex: "/\/news\//" } } },
         sort: { frontmatter: { date: ASC } },
         limit: 1000
       ) {
@@ -30,10 +30,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           fields {
             slug
           }
+          internal {
+            contentFilePath
+          }
         }
       },
-      genericPages: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/\/pages\//" } },
+      genericPages: allMdx(
+        filter: { internal: { contentFilePath: { regex: "/\/pages\//" } } },
         sort: { frontmatter: { date: ASC } },
         limit: 1000
       ) {
@@ -41,6 +44,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id
           fields {
             slug
+          }
+          internal {
+            contentFilePath
           }
         }
       }
@@ -68,7 +74,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
       createPage({
         path: `/news${post.fields.slug}`,
-        component: newsPost,
+        component: `${newsPostTemplate}?__contentFilePath=${post.internal.contentFilePath}`,
         context: {
           id: post.id,
           previousPostId,
@@ -84,7 +90,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     pages.forEach(page => {
       createPage({
         path: page.fields.slug,
-        component: genericPage,
+        component: `${genericPageTemplate}?__contentFilePath=${page.internal.contentFilePath}`,
         context: {
           id: page.id
         },
@@ -99,7 +105,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
-  if (node.internal.type === `MarkdownRemark`) {
+  if (node.internal.type === `Mdx`) {
     const value = createFilePath({ node, getNode })
 
     createNodeField({
@@ -120,7 +126,7 @@ exports.createSchemaCustomization = ({ actions }) => {
   // This way those will always be defined even if removed from gatsby-config.js
 
   // Also explicitly define the Markdown frontmatter
-  // This way the "MarkdownRemark" queries will return `null` even when no
+  // This way the "Mdx" queries will return `null` even when no
   // news posts are stored inside "content/news" instead of returning an error
   createTypes(`
     type SiteSiteMetadata {
@@ -139,7 +145,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       link: String
     }
 
-    type MarkdownRemark implements Node {
+    type Mdx implements Node {
       frontmatter: Frontmatter
       fields: Fields
     }

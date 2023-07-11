@@ -5,8 +5,9 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const GenericPageTemplate = ({
-  data: { site, markdownRemark: post },
+  data: { site, mdx: post },
   location,
+  children
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
 
@@ -16,15 +17,16 @@ const GenericPageTemplate = ({
         <h1 itemProp="headline">{post.frontmatter.title}</h1>
       </header>
       <section
-        dangerouslySetInnerHTML={{ __html: post.html }}
         itemProp="articleBody"
         className="prose boxed-regular"
-      />
+      >
+        { children }
+      </section>
     </Layout>
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export const Head = ({ data: { mdx: post } }) => {
   return (
     <Seo
       title={post.frontmatter.title}
@@ -44,10 +46,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
-      html
       frontmatter {
         title
         description
