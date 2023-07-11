@@ -176,12 +176,6 @@ nav.primary-nav {
         @apply opacity-60;
     }
     
-    &.menu-open {
-        & > ul {
-            @apply visible;
-        }
-    }
-    
     ul {
         @apply flex flex-col;
         @apply gap-1.5;
@@ -224,6 +218,10 @@ nav.primary-nav {
         @apply md:p-0;
         @apply md:gap-0;
         
+        &.submenu-open {
+            @apply visible;
+        }
+        
         & > li {
             @apply relative m-0;
             
@@ -252,7 +250,8 @@ nav.primary-nav {
         @apply md:transition-all ease-in-out;
         
         &.submenu-open {
-            @apply visible h-auto;
+            visibility: inherit;
+            @apply h-auto;
             @apply mt-2 mb-1;
         }
         
