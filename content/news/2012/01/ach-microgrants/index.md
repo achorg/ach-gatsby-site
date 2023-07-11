@@ -14,7 +14,7 @@ Proposals will be accepted in two categories:
 1. initiatives that enhance the redesigned ACH Website &lt;[ach.org/](http://ach.org/)&gt;, or
 2. activities that add functionality/features to the online journal Digital Humanities Quarterly &lt;[digitalhumanities.org/dhq/](http://digitalhumanities.org/dhq/)&gt;.
 
-Proposals might include developing new content such as podcasts or making existing content more user friendly, more visible, or amenable to analytics. Proposals may take the form of apps, plugins, or tools. For DHQ, of particular interest are proposals focusing on integration of DHQ content with digital humanities tools, visualization of DHQ data, or enrichment of DHQ data. ACH is particularly interested in proposals that focus on enhanced communications with ACH members, our mentoring and advocacy initiatives, Digital Humanities Questions and Answers &lt;<http://digitalhumanities.org/answers>&gt;, or on the history of the association. Proposals should seek to draw in the community, expand the existing community, or link to other initiatives. Graduate students and early stage researchers are encouraged to apply.
+Proposals might include developing new content such as podcasts or making existing content more user friendly, more visible, or amenable to analytics. Proposals may take the form of apps, plugins, or tools. For DHQ, of particular interest are proposals focusing on integration of DHQ content with digital humanities tools, visualization of DHQ data, or enrichment of DHQ data. ACH is particularly interested in proposals that focus on enhanced communications with ACH members, our mentoring and advocacy initiatives, Digital Humanities Questions and Answers &lt;[http://digitalhumanities.org/answers](http://digitalhumanities.org/answers)&gt;, or on the history of the association. Proposals should seek to draw in the community, expand the existing community, or link to other initiatives. Graduate students and early stage researchers are encouraged to apply.
 
 Applications will be evaluated according to the following criteria:
 
@@ -24,7 +24,7 @@ Applications will be evaluated according to the following criteria:
 
 For further technical information about the ACH/DHQ websites please see further details below
 
-**\*\* Applicants must be members of the ACH &lt;<http://ach.org/>&gt; at the time of application \*\***
+**\*\* Applicants must be members of the ACH &lt;[http://ach.org/](http://ach.org/)&gt; at the time of application \*\***
 
 It is expected that grants will be in the range of $US 200-500. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don't have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2012.
 

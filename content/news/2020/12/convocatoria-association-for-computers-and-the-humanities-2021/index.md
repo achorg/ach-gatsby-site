@@ -7,7 +7,7 @@ language: 'es'
 
 Fecha límite: 28 de febrero de 2021
 
-Entregar propuesta a través de: : <https://www.conftool.org/ach2021/>
+Entregar propuesta a través de: : [https://www.conftool.org/ach2021/](https://www.conftool.org/ach2021/)
 
 El segundo congreso de la *Association for Computers and the Humanities* (ACH) se llevará a cabo de forma virtual del **22-23 de julio de 2021**. (Esperamos celebrar la ACH 2022 en Houston,Texas, en persona y con un componente virtual ).
 

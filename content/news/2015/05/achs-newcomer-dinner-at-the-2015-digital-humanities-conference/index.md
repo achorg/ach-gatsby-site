@@ -11,7 +11,7 @@ Dinners will happen the evening of Wednesday 1 July 2015 at 7.30pm, with parties
 
 **Registration is already open and places are limited! Sign up here:**
 
-**<http://bit.ly/ACHDinner15>**
+**[http://bit.ly/ACHDinner15](http://bit.ly/ACHDinner15)**
 
 For ease of conversation, groups will be limited to six people and we will want you to identify yourself with ‘n’ for newbie (in your first or second year attending DH) or ‘v’ for DH conference veteran (no more than 2 veterans per party, please!). We will also need one veteran leader for each group, to make a reservation and walk the group over to the restaurant; long-term ACH members and other DH conference veterans are heartily encouraged to volunteer!
 

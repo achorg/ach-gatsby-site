@@ -17,7 +17,7 @@ For more information on the responsibilities and obligations of ACH officers, se
 
 Current officers of the ACH are listed at
 
-<http://www.ach.org/about/officers>
+[http://www.ach.org/about/officers](http://www.ach.org/about/officers)
 
 Many thanks,
 

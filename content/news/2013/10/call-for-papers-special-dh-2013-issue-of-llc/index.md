@@ -11,9 +11,9 @@ Long articles of up to 6,000 words in length (notes &amp; bibliography excluded)
 
 Interested authors should:
 
-1\. Contact Bethany Nowviskie (<bethany@virginia.edu>) as soon as possible to inform the editors of an intention to submit.  
+1\. Contact Bethany Nowviskie ([bethany@virginia.edu](bethany@virginia.edu)) as soon as possible to inform the editors of an intention to submit.  
 2\. Prepare manuscripts using the LLC guidelines, available at: [http://www.oxfordjournals.org/our\_journals/litlin/for\_authors/ ](http://www.oxfordjournals.org/our_journals/litlin/for_authors/%20)  
-3\. Submit manuscripts directly to the LLC submission site at <http://mc.manuscriptcentral.com/llc> by November 15th. Please make clear in your submission that it is for the ‘DH2013 issue’. Instructions for online submission can be found here: [http://www.oxfordjournals.org/our\_journals/litlin/for\_authors/online\_submission.html](http://www.oxfordjournals.org/our_journals/litlin/for_authors/online_submission.html)
+3\. Submit manuscripts directly to the LLC submission site at [http://mc.manuscriptcentral.com/llc](http://mc.manuscriptcentral.com/llc) by November 15th. Please make clear in your submission that it is for the ‘DH2013 issue’. Instructions for online submission can be found here: [http://www.oxfordjournals.org/our\_journals/litlin/for\_authors/online\_submission.html](http://www.oxfordjournals.org/our_journals/litlin/for_authors/online_submission.html)
 
 We emphasize that it is the author’s responsibility to see that LLC’s formal guidelines are met. All content from this special issue will be released as open access by Oxford Journals for a period of three months after publication. Authors retain their copyright, may make pre-prints available without restriction, and may share post-prints after a 24-month embargo. Proceeds from LLC are the primary means of support for the ADHO organizations (EADH, ACH, CSDH-SCHN, aaDH, JDH, and centerNet) and their various open-access journals and publications.
 

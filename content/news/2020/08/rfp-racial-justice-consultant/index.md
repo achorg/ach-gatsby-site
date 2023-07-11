@@ -12,6 +12,6 @@ We now seek proposals from qualified consultants interested in undertaking this 
 - Your proposed structure and timeline for the consultation process. (Please note that our own timeline for this project is flexible, though we do hope to move forward with implementation of your recommendations by Spring 2021.)
 - Your budget for this engagement, including a brief narrative justification of that budget.
 
-Please submit proposals of no more than five pages to <secretary@ach.org> by **September 25, 2020**. The ACH officers and executive committee will review these proposals based on the compelling nature of the vision, the feasibility and thoroughness of the plan, the actionable nature of the outcomes proposed, and the cost expectations involved. We will respond to submissions by October 2, 2020. We hope to begin working with a consultant in earnest by October 15th, but can accommodate other timelines.
+Please submit proposals of no more than five pages to [secretary@ach.org](secretary@ach.org) by **September 25, 2020**. The ACH officers and executive committee will review these proposals based on the compelling nature of the vision, the feasibility and thoroughness of the plan, the actionable nature of the outcomes proposed, and the cost expectations involved. We will respond to submissions by October 2, 2020. We hope to begin working with a consultant in earnest by October 15th, but can accommodate other timelines.
 
 We very much look forward to working with you to build the future of our organization.

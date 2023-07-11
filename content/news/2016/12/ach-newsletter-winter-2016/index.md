@@ -3,9 +3,6 @@ title: 'ACH Newsletter, Winter 2016'
 date: '2016-12-23'
 author: 'Mia Ridge'
 ---
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>
-==================
-
 Dear ACH friends and colleagues,
 
 A year ago, I wrote to our members as part of my presidential platform that “there is a stark need for ACH to step forward to take a proactive role in advocating for a diverse future that is built around the values of our membership.” I itemized three areas that I hoped my two years as ACH president might address: 1) developing a set of guidelines for the evaluation of digital humanities scholarship; 2) conducting an open discussion about whether ACH should continue to be a global digital humanities organization or whether we should limit our engagement to a particular set of geographical boundaries? and 3) seeking a deeper understanding of how to diversify our conferences and larger organizational structures.
@@ -40,15 +37,7 @@ These are just a few of the ongoing activities we’re completing or are current
 Best wishes,  
 Jennifer
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>ACH Statement in the Aftermath of the 2016 Election
+ACH Statement in the Aftermath of the 2016 Election
 ===================================================
 
 The results of the recent presidential election in the United States have been accompanied by a troubling increase in cases of hateful speech, harassment, and acts of violence against members of historically vulnerable communities.
@@ -65,15 +54,7 @@ ACH hereby advocates for a peaceful, caring, and non-violent resistance to discr
 
 To accomplish this, we welcome ideas and points of action, especially as they may facilitate initiatives to protect our constituents against discrimination in all its forms, whether racism, homophobia, transphobia, xenophobia, misogyny, or ableism. To our members in a position to do so, we further ask you to join in this effort and to help us reach out and support ACH colleagues. Finally, we encourage ACH members to contact any member of the Executive Council to ask for assistance as we move forward.
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>Microgrants Awarded 2016
+Microgrants Awarded 2016
 ========================
 
 We’re pleased to report that the proposals were very strong and we are able to support three excellent projects with microgrants. The winners are:
@@ -84,15 +65,6 @@ We’re pleased to report that the proposals were very strong and we are able to
 
 - **Christina Boyles and Andrew Petersen of the University of Iowa for *Makers by Mail.*** The microgrant is funding supplies for Boyles and Petersen’s makerspace-by-mail kits.
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>New Conflict of Interest Policy
 -------------------------------
 
 At the annual ACH Executive Council meeting in Kraków during the Digital Humanities 2016 conference, the Council discussed a possible conflict of interest policy. The discussion was not motivated by any particular incident but instead by the desire to make explicit the expectations and behaviors that the Officers and members of the Council already believed in. The Council also desired to bring the ACH into line with similar scholarly organizations that had similar policies in place.
@@ -101,62 +73,26 @@ Following the meeting, members of the Council drafted a policy, based in part on
 
 You can read the full policy on [our announcements page](http://ach.org/news/2016/12/ach-adopts-conflict-of-interest-statement/).
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>ACH Member Benefits: Publisher Discounts
+ACH Member Benefits: Publisher Discounts
 ----------------------------------------
 
 In connection with the annual DH conference, we began approaching university presses to provide discounts for their catalogs. We are now working to partner with presses to offer discounts without expiration dates. To receive discounts, ACH members must order books through the individual Press websites.
 
 This is just one of the many benefits we offer to ACH members! Please encourage your colleagues to visit [our membership page](https://members.ach.org/)and join our organization.
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>**ACH Membership**
+**ACH Membership**
 ------------------
 
 Encourage colleagues to Join ACH! We’ve recently revamped our membership page to make it easier than ever to join ACH — just visit [our new membership page](https://members.ach.org/) and click on your preferred membership type. Student memberships are just US $26, and like other membership levels, help fund student bursaries, open-access journal publication, mentoring services, development micro-grants, and other important DH initiatives. Please encourage DH practitioners in your community to join!
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>**What’s new on Digital Humanities Questions &amp; Answers?**
+**What’s new on Digital Humanities Questions &amp; Answers?**
 -------------------------------------------------------------
 
 DH Q&amp;A is crowd-sourced digital humanities expertise! It’s a community-driven forum for questions pertaining to the digital humanities that may need a bit more than 140 character answers. If you have questions (or answers!) consider <u>[joining the conversation](http://digitalhumanities.org/answers/register.php)</u>!
 
 The ACH is also considering officially supporting the [Digital Humanities Slack channel](http://tinyurl.com/DHslack) created by members of our community. Please let us know what you think if you decide to join by writing to secretary@ach.org.
 
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td></td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td>**Keep in touch**
+**Keep in touch**
 -----------------
 
 Keep in touch with the ACH online: [Twitter](https://twitter.com/achdotorg), [Facebook](https://www.facebook.com/ACHorg/?fref=ts), or [ACH.org](http://www.ach.org). As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities. If you would like to send us a private message you can always write to [secretary@ach.org.](mailto:secretary@ach.org)
-
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>

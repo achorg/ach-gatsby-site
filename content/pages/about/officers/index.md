@@ -36,7 +36,7 @@ Co-Vice President/co-President-Elect
 ### Andrew Janco
 
 - University of Pennsylvania Libraries
-- <https://apjan.co>
+- [https://apjan.co](https://apjan.co)
 - Email: apjanco at upenn dot edu
 
 Secretary
@@ -152,7 +152,7 @@ Council Representatives 2019–2023
 
 - Lead Developer, Center for Digital Humanities at Princeton
 - Princeton University
-- URL: <https://rlskoeser.github.io/>
+- URL: [https://rlskoeser.github.io/](https://rlskoeser.github.io/)
 - Email: rkoeser at princeton dot edu
 
 Ex Officio representatives &amp; affiliates

@@ -13,7 +13,7 @@ To be confirmed to the Executive Council, candidates must be members of the ACH.
 
 Send nominations to [ach-nominations@digitalhumanities.org](mailto:ach-nominations@digitalhumanities.org) by **September 21st.** Please confirm with your nominee that he or she is willing to serve, and provide a brief note of interest and qualifications. A platform statement will also be needed for the ballot but need not be included with the nomination. You are warmly encouraged to nominate yourself, but note that per ACH bylaws each nominee requires two nominations to be considered for the ballot. This year, the committee charged with creating a balanced slate will put forward no more than 20 names The three top vote-getters will be elected to four-year terms. The candidate winning the 1-year slot will be eligible for re-election next year.
 
-For more information on the responsibilities and obligations of ACH council members, see <http://www.ach.org/about/constitution>
+For more information on the responsibilities and obligations of ACH council members, see [http://www.ach.org/about/constitution](http://www.ach.org/about/constitution)
 
 Current officers of the ACH are listed at [http://www.ach.org/about/officers](http://www.ach.org/about/officers)
 

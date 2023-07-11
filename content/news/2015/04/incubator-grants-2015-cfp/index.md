@@ -51,7 +51,7 @@ Should an early career scholar be barred, due to institutional policies, from ho
 
 No indirect costs may be deducted from the value of the grant, which must go entirely to support the project for which it is awarded.
 
-Please send proposals or queries to microgrants{AT}ach{DOT}org by 30 April 2015.
+Please send proposals or queries to microgrants@ach.org by 30 April 2015.
 
 Susan Brown, for the Incubator Grants Committee: Kathleen Fitzpatrick, Bethany Nowviskie, Roopika Risam, Lisa Spiro
 

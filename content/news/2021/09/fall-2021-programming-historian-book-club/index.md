@@ -7,10 +7,10 @@ The ACH mentoring group is sponsoring a yearlong, public book club based on the 
 
 - October 21st 3:30-5PM EST: [Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r)
   - Register here – [https://virginia.zoom.us/meeting/register/tJwpcequqjMqGNMrt4KH\_a3fPGjO–B700gW](https://virginia.zoom.us/meeting/register/tJwpcequqjMqGNMrt4KH_a3fPGjO--B700gW)
-  - R installation instructions – <https://www.r-project.org/>
+  - R installation instructions – [https://www.r-project.org/](https://www.r-project.org/)
 
 - November 18th 3:30-5PM EST: [Introduction to Python Sequence](https://programminghistorian.org/en/lessons/introduction-and-installation)
-  - Register here – <https://virginia.zoom.us/meeting/register/tJ0lcuqppzotGt1if4WWry7FdVq2GCjN9jyt>
-  - Python installation instructions – <https://programminghistorian.org/en/lessons/introduction-and-installation>
+  - Register here – [https://virginia.zoom.us/meeting/register/tJ0lcuqppzotGt1if4WWry7FdVq2GCjN9jyt](https://virginia.zoom.us/meeting/register/tJ0lcuqppzotGt1if4WWry7FdVq2GCjN9jyt)
+  - Python installation instructions – [https://programminghistorian.org/en/lessons/introduction-and-installation](https://programminghistorian.org/en/lessons/introduction-and-installation)
 
 Stay tuned for news about the spring!

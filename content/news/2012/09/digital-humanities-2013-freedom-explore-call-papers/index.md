@@ -7,7 +7,7 @@ author: 'Jeremy Boggs'
 Alliance of Digital Humanities Organizations  
 Hosted by the University of Nebraska  
 16-19 July 2013  
-<http://dh2013.unl.edu/>  
+[http://dh2013.unl.edu/](http://dh2013.unl.edu/)  
 *Paper/Poster/Panel deadline: **1 November 2012**  
 Workshop proposal deadline: **15 February 2013***
 
@@ -34,7 +34,7 @@ Presentations may include:
 - multiple paper sessions, including panels (regular abstracts + approximately 500-word overview);
 - and pre-conference workshops and tutorials (proposal max of 1500 words)
 
-The deadline for submitting poster, short paper, long paper, and sessions proposals to the international Program Committee is midnight GMT, 1 November 2012. Presenters will be notified of acceptance by 1 February 2013. Workshop and pre-conference tutorial proposals are due at midnight GMT on 15 February 2013, with notice of acceptance by 15 March 2013. An electronic submission form will be available on the conference site at the beginning of October 2012: <http://dh2013.unl.edu/> Previous DH conference participants and reviewers should use their existing accounts rather than setting up new ones. If you have forgotten your user name or password, please contact Program Committee chair Bethany Nowviskie at [bethany@virginia.edu](mailto:bethany@virginia.edu?subject=DH%202013%20conference).
+The deadline for submitting poster, short paper, long paper, and sessions proposals to the international Program Committee is midnight GMT, 1 November 2012. Presenters will be notified of acceptance by 1 February 2013. Workshop and pre-conference tutorial proposals are due at midnight GMT on 15 February 2013, with notice of acceptance by 15 March 2013. An electronic submission form will be available on the conference site at the beginning of October 2012: [http://dh2013.unl.edu/](http://dh2013.unl.edu/) Previous DH conference participants and reviewers should use their existing accounts rather than setting up new ones. If you have forgotten your user name or password, please contact Program Committee chair Bethany Nowviskie at [bethany@virginia.edu](mailto:bethany@virginia.edu?subject=DH%202013%20conference).
 
 **II. Types of Proposals**
 
@@ -77,7 +77,7 @@ And workshop proposals must include:
 
 **III. Information about the Conference Venue and Theme**
 
-DH 2013 ("Freedom to Explore") will take place in Lincoln, Nebraska, a capitol city of 258,000 people on the Great Plains of the United States. Lincoln is known for its artistic treasures, live music scene, fabulous trails, and friendly Midwestern attitude. It is also the home of the University of Nebraska-Lincoln, chartered in 1869 as both a land-grant and a research university. UNL's approximately 25,000 students come from about 120 different countries. Among its many degree offerings is an interdisciplinary graduate certificate in digital humanities. The Center for Digital Research in the Humanities is this year's local organizer: <http://cdrh.unl.edu>
+DH 2013 ("Freedom to Explore") will take place in Lincoln, Nebraska, a capitol city of 258,000 people on the Great Plains of the United States. Lincoln is known for its artistic treasures, live music scene, fabulous trails, and friendly Midwestern attitude. It is also the home of the University of Nebraska-Lincoln, chartered in 1869 as both a land-grant and a research university. UNL's approximately 25,000 students come from about 120 different countries. Among its many degree offerings is an interdisciplinary graduate certificate in digital humanities. The Center for Digital Research in the Humanities is this year's local organizer: [http://cdrh.unl.edu](http://cdrh.unl.edu)
 
 **IV. Bursaries for young scholars**
 

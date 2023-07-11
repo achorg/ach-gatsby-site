@@ -19,7 +19,7 @@ Examples of possible projects, meant to inspire rather than limit:
 - a means of annotating and sharing DH assignments or exercises
 - pedagogical podcasts (microgrants can be used to purchase commercial software for producing screencasts or videos)
 - pedagogical tools or apps
-- enhancements to DH Questions &amp; Answers &lt;<http://digitalhumanities.org/answers>&gt;
+- enhancements to DH Questions &amp; Answers &lt;[http://digitalhumanities.org/answers](http://digitalhumanities.org/answers)&gt;
 - activities that add pedagogical features to the online journal Digital Humanities Quarterly &lt;[digitalhumanities.org/dhq/](http://digitalhumanities.org/dhq/)&gt;
 
 Proposals may be for projects in a range of forms including, but not limited to, apps, plugins, and tools. All microgrant recipients will be required to write some kind of reflective output, typically a blog post, for the ACH website.
@@ -34,7 +34,7 @@ Applications will be evaluated according to the following criteria:
 
 For further technical information about the ACH/DHQ websites please see further details below.
 
-\*\* Applicants must be members of the ACH &lt;<http://ach.org/>&gt; at the time of application \*\*
+\*\* Applicants must be members of the ACH &lt;[http://ach.org/](http://ach.org/)&gt; at the time of application \*\*
 
 Grants will be up to $1000. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2014.
 
@@ -61,7 +61,7 @@ with the official grantholder mentioned parenthetically along with the insitutio
 
 No indirect costs may be deducted from the value of the grant, which must go entirely to support the project for which it is awarded.
 
-Please send proposals or queries to microgrants{AT}ach{DOT}org by 31 May 2014.
+Please send proposals or queries to microgrants@ach.org by 31 May 2014.
 
 Susan Brown, for the Microgrants group: Jarom McDonald, Lisa Spiro, and Vika Zafrin
 
@@ -73,6 +73,6 @@ For inquiries about the website please contact webmaster@ach.org, or for DHAnswe
 
 Previous microgrant project winners can be found here:
 
-- 2012: <http://ach.org/news/2012/04/ach-announces-microgrants-winners>;
+- 2012: [http://ach.org/news/2012/04/ach-announces-microgrants-winners](http://ach.org/news/2012/04/ach-announces-microgrants-winners);
 
-- 2013: <http://ach.org/news/2013/07/ach-microgrants-winners-2013/>
+- 2013: [http://ach.org/news/2013/07/ach-microgrants-winners-2013/](http://ach.org/news/2013/07/ach-microgrants-winners-2013/)

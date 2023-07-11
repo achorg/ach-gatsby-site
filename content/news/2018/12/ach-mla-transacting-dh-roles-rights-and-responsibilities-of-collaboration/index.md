@@ -19,7 +19,7 @@ Presenter Information:
 **Kathleen Fitzpatrick**  
 Twitter: @kfitzpatrick  
 Website: kfitz.info  
-Humanities Commons: <https://hcommons.org/members/kfitz/>
+Humanities Commons: [https://hcommons.org/members/kfitz/](https://hcommons.org/members/kfitz/)
 
 **Carrie Johnston**  
 Twitter: @CarrieEJohnston  
@@ -29,12 +29,12 @@ Humanities Commons: [https://hcommons.org/members/carrie\_johnston/](https://hco
 **Rikk Mulligan**  
 Twitter: @CritRikk   
 Website: rikkmulligan.com  
-Humanities Commons: <https://hcommons.org/members/rikkm/>
+Humanities Commons: [https://hcommons.org/members/rikkm/](https://hcommons.org/members/rikkm/)
 
 **Lisa Rhody**   
 Twitter: @lmrhody  
 Website: lisarhody.com  
-Humanities Commons: <https://hcommons.org/members/lmrhody/>
+Humanities Commons: [https://hcommons.org/members/lmrhody/](https://hcommons.org/members/lmrhody/)
 
 **Dhanashree Thorat**  
 Twitter: @shree\_thorat   

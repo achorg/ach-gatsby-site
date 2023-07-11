@@ -8,7 +8,7 @@ In most cases you must pay the convention-registration fee in order to attend an
 
 Although the 2002 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.ac.uk>.
+Corrections and additions are welcome; please send them to [John.Lavagnino@kcl.ac.uk](John.Lavagnino@kcl.ac.uk).
 
 - - - - - -
 
@@ -221,7 +221,7 @@ Program arranged by the Society for Critical Exchange. Presiding: Martha A. Wood
 - “The Intimate Sphere: Globalization and Postnational Citizenship,” Elena Pearl Glasberg, Duke University
 - “Networking against Spatial Conceptions: Thamil Eelam on the World Wide Web,” Jillana B. Enteen, Northwestern University
 
-Papers will be available by 1 December 2002 on the SCE Web site (<http://www.cwru.edu/affil/sce>).
+Papers will be available by 1 December 2002 on the SCE Web site ([http://www.cwru.edu/affil/sce](http://www.cwru.edu/affil/sce)).
 
 - - - - - -
 
@@ -374,7 +374,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 - “Technology of Our Own: Computer Literacy and the Small Press,” Jim O’Loughlin, University of Northern Iowa
 - “Old Dogs, New Tricks? New Technologies, the Canon, and the Structure of the Profession,” Deborah Lea Madsen, South Bank University
 
-See <http://www.ach.org/mla02> for further details.
+See [http://www.ach.org/mla02](http://www.ach.org/mla02) for further details.
 
 <a name="session285">285</a>: Standards in the Documentary Editing Community
 ----------------------------------------------------------------------------
@@ -565,7 +565,7 @@ A special session; session leader: Patricia Keefe Durso, Montclair State Univers
 
 Respondent: Alan Liu, University of California, Santa Barbara
 
-See <http://blake.montclair.edu/~dursop/mla647.htm> for further details.
+See [http://blake.montclair.edu/~dursop/mla647.htm](http://blake.montclair.edu/~dursop/mla647.htm) for further details.
 
 - - - - - -
 
@@ -668,7 +668,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 - “Managing the Walt Whitman Archive,” Alice Rutkowski, University of Virginia
 - “Managing and Editing the Dickinson Electronic Archives,” Lara E. Vetter, Dickinson Electronic Archives
 
-See <http://www.ach.org/mla02> for further details.
+See [http://www.ach.org/mla02](http://www.ach.org/mla02) for further details.
 
 - - - - - -
 

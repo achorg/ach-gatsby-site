@@ -19,7 +19,7 @@ ACH Newcomers Dinner
 
 Is this your first or second time at the Digital Humanities conference? Are you new to the DH community? Join a small group of newbies and ACH old-timers at a local restaurant, to make scholarly connections and new friendships.
 
-Dinners will happen the evening of Thursday, 10 July. For ease of conversation, groups are limited to six people. Long-term ACH members and other DH conference veterans are heartily encouraged to volunteer! **To sign up and for more details** please visit <http://bit.ly/ach-dinner-dh14>
+Dinners will happen the evening of Thursday, 10 July. For ease of conversation, groups are limited to six people. Long-term ACH members and other DH conference veterans are heartily encouraged to volunteer! **To sign up and for more details** please visit [http://bit.ly/ach-dinner-dh14](http://bit.ly/ach-dinner-dh14)
 
 Please Ask, Do Tell!
 --------------------

@@ -9,7 +9,7 @@ order to attend any of these talks. But two sessions are free and open to the pu
 
 Although the 1998 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.ac.uk>.
+Corrections and additions are welcome; please send them to [John.Lavagnino@kcl.ac.uk](John.Lavagnino@kcl.ac.uk).
 
 - - - - - -
 

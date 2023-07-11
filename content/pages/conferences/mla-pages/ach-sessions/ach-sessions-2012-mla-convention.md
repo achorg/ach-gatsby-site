@@ -46,7 +46,7 @@ Abstracts
 Digital South, Digital Futures
 -------------------------------
 
-### Documenting the American South **<http://docsouth.unc.edu/>** 
+### Documenting the American South **[http://docsouth.unc.edu/](http://docsouth.unc.edu/)** 
 
 Natasha Smith, Carolina Digital Library and Archives (Digital Publishing Group and *Documenting the American South*)
 

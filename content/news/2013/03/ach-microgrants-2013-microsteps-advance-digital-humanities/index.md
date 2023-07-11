@@ -53,7 +53,7 @@ The DHQ publication platform includes a RESTful API that exposes both the TEI/XM
 
 For inquiries about the website please contact webmaster@ach.org, or for DHAnswers, write to DHanswers\[AT\]digitalhumanities.org. For additional details on the DHQ platform, please email John Walsh (jawalsh\[AT\]indiana.edu) and Julia Flanders (julia\_flanders\[AT\]brown.edu).
 
-Last year’s microgrant projects can be found here: <http://ach.org/news/2012/04/ach-announces-microgrants-winners>. Quinn Dombrowski’s project is on hold pending changes DH Questions and Answers. Amanda Visconti’s visualizations of DHQ content can be found here: http://digitalliterature.net/viewDHQ/. The DH jobs list created by Matt Burton and Dave Lester is here: http://jobs.lofhm.org/about/.
+Last year’s microgrant projects can be found here: [http://ach.org/news/2012/04/ach-announces-microgrants-winners](http://ach.org/news/2012/04/ach-announces-microgrants-winners). Quinn Dombrowski’s project is on hold pending changes DH Questions and Answers. Amanda Visconti’s visualizations of DHQ content can be found here: http://digitalliterature.net/viewDHQ/. The DH jobs list created by Matt Burton and Dave Lester is here: http://jobs.lofhm.org/about/.
 
 Please send proposals or queries to microgrants\[AT\]ach.org by 15 April 2013.
 

@@ -11,4 +11,4 @@ ACH can't undertake every project you suggest, but we do promise to take our mem
 
 Both association [members](https://members.ach.org/) and non-members are welcome to contribute to this process, and we are only moderating new submissions to prevent unproductive overlap or to clarify language.
 
-Please take a moment to share your views: <http://www.allourideas.org/ach-agenda/>.
+Please take a moment to share your views: [http://www.allourideas.org/ach-agenda/](http://www.allourideas.org/ach-agenda/).

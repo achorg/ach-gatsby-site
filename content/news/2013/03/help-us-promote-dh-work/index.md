@@ -15,7 +15,7 @@ ADHO publications are primarily owned by its constituent organizations; these pu
 - *Digital Humanities Questions and Answers* (a community-based Q&amp;A board whose ownership resides with ACH and ProfHacker); and
 - *Topics in the Digital Humanities* (a monograph series);
 
-More information about ADHO publications may be found at <http://adho.org/publications>.
+More information about ADHO publications may be found at [http://adho.org/publications](http://adho.org/publications).
 
 The ADHO publications liaison would work with publishers and indexing services to ensure that ADHO publications are properly indexed, advise on metadata best practices, and recommend other discovery strategies.
 

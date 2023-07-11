@@ -8,7 +8,7 @@ In most cases you must pay the convention-registration fee in order to attend an
 
 Although the 2000 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.ac.uk>.
+Corrections and additions are welcome; please send them to [John.Lavagnino@kcl.ac.uk](John.Lavagnino@kcl.ac.uk).
 
 - - - - - -
 
@@ -548,7 +548,7 @@ Program arranged by the Society for Critical Exchange. Presiding: Martha A. Wood
 - “Private Circulation: Secrecy, Scarcity, and the Endurance of Victorian Homoerotica,” Elaine C. Freedgood, University of Pennsylvania
 - “New Economics and New Collaborations in the Digital Age: The Example of the Walt Whitman Archive,” Kenneth M. Price, University of Nebraska, Lincoln
 
-Paper summaries will be available before the meeting at <http://www.cwru.edu/affil/sce>.
+Paper summaries will be available before the meeting at [http://www.cwru.edu/affil/sce](http://www.cwru.edu/affil/sce).
 
 <a name="session496">496</a>: Visual Communication in Cyberspace
 ----------------------------------------------------------------
@@ -838,7 +838,7 @@ Program arranged by the Society for Critical Exchange. Presiding: Richard M. Ohm
 
 Respondent: James E. Porter, Case Western Reserve University
 
-Paper summaries will be available before the meeting at <http://www.cwru.edu/affil/sce>.
+Paper summaries will be available before the meeting at [http://www.cwru.edu/affil/sce](http://www.cwru.edu/affil/sce).
 
 <a name="session805">805</a>: MOOs: The Theory and Culture of Virtual Worlds II
 -------------------------------------------------------------------------------

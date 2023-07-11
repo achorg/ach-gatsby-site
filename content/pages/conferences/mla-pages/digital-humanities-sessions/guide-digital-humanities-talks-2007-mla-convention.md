@@ -269,7 +269,7 @@ Presiding: Jennifer Williams, Michigan State University
 - “Motherless Girls: Melancholy Cosmopolitanism in Andrea Lee’s *Sarah Phillips* and Jamaica Kincaid’s *Lucy*,” Jennifer Williams
 - “Reading and Writing the Lives of Black Women Tourists: Contemporary Voices from United States Afro-America and the Caribbean,” Ifeoma C. K. Nwankwo, Vanderbilt University
 
-For copies of abstracts, write to <will1881@msu.edu>.
+For copies of abstracts, write to [will1881@msu.edu](will1881@msu.edu).
 
  <a name="session120">120</a>: Teaching in Changing Technological Environments
 ------------------------------------------------------------------------------
@@ -501,7 +501,7 @@ Presiding: Jennifer Veltsos, Iowa State University
 - “Manifesting Corporate Culture Using Visual Rhetoric,” Jennifer Veltsos
 - “The Virtues of a Spoonful of Sugar: How Humor Helps Students Learn Ethical Business Writing,” Jackson Niday, United States Air Force Academy
 
-For copies of abstracts, write to <kwills@iupui.edu>.
+For copies of abstracts, write to [kwills@iupui.edu](kwills@iupui.edu).
 
 - - - - - -
 
@@ -592,7 +592,7 @@ A variety of new tools are being developed that are designed to let scholars lit
 
 This poster session provides the opportunity for attendees to engage firsthand with visualization tools, to meet with the scholars who develop and use them, and to engage with interactive computer presentations of these tools. Presenters will exhibit their work simultaneously, creating ample opportunity for discussion and demonstration.
 
-For demos and copies of abstracts, visit <http://textualvisualization.blogspot.com>.
+For demos and copies of abstracts, visit [http://textualvisualization.blogspot.com](http://textualvisualization.blogspot.com).
 
  <a name="session373">373</a>: Scholarship in New Media
 -------------------------------------------------------
@@ -608,7 +608,7 @@ Presiding: Markus Zisselsberger, Binghamton University, State University of New 
 - “On Pedagogy,” Todd Samuel Presner, University of California, Los Angeles [(abstract available in PDF)](http://www.mla.org/pdf/373presner.pdf)
 - “On Collaboration,” McKenzie Wark, New School
 
-For copies of papers, write to <weorchar@uchicago.edu> after 1 December.
+For copies of papers, write to [weorchar@uchicago.edu](weorchar@uchicago.edu) after 1 December.
 
  <a name="session376">376</a>: Performance and Technology: Writing and Speaking as Techne
 -----------------------------------------------------------------------------------------
@@ -682,7 +682,7 @@ Presiding: Marc Santos, Purdue University, West Lafayette
 - “Global Learning Experiences: Transforming the Classroom with Multilingual Open-Source Content-Management Systems,” Todd Kelsey, Illinois Institute of Technology
 - “Technically Wiki: Collaborative Environments in Technical Writing Using Wikis,” Shish Aikat, University of Southern California
 
-For copies of abstracts, write to <denise.tillery@unlv.edu>.
+For copies of abstracts, write to [denise.tillery@unlv.edu](denise.tillery@unlv.edu).
 
  <a name="session455">455</a>: Literary Geospaces
 -------------------------------------------------
@@ -713,7 +713,7 @@ Presiding: Megan Moore, Newberry Library
 - “Obsolescence,” Kathleen Fitzpatrick, Pomona University [(abstract available in PDF)](http://www.mla.org/pdf/472fitzpatrick.pdf)
 - “Race,” Lisa Nakamura, University of Illinois, Urbana [(abstract available in PDF)](http://www.mla.org/pdf/472nakamura.pdf)
 
-For copies of papers, write to <weorchar@uchicago.edu> after 1 December.
+For copies of papers, write to [weorchar@uchicago.edu](weorchar@uchicago.edu) after 1 December.
 
  <a name="session483">483</a>: Morris as Metatext: Manuscripts, Print Forms, and Illustrations
 ----------------------------------------------------------------------------------------------
@@ -728,7 +728,7 @@ Presiding: Kathleen O. Sims, Manchester, NH
 - “‘Love Clad as an Image-Maker’: The Morris Online Edition and NINES (Networked Infrastructure for Nineteenth-Century Electronic Scholarship),” Charles Sligh, Wake Forest University
 - “Morris’s *Jason* from Notebook to Kelmscott Edition,” Florence S. Boos, University of Iowa
 
-For copies of abstracts, write to <florence-boos@uiowa.edu>.
+For copies of abstracts, write to [florence-boos@uiowa.edu](florence-boos@uiowa.edu).
 
 - - - - - -
 
@@ -804,7 +804,7 @@ Presiding: Nora M. Alter, University of Florida; Anna Everett, University of Cal
 - “Rotoscopic Bodies,” Lutz Koepnick, Washington University
 - “Rethinking Film Theory in the Digital Age,” Vincent Piturro, University of Delaware, Newark
 
-For copies of abstracts, write to <everett@filmandmedia.ucsb.edu>.
+For copies of abstracts, write to [everett@filmandmedia.ucsb.edu](everett@filmandmedia.ucsb.edu).
 
  <a name="session561">561</a>: Performance and Technology: Performing Machines
 ------------------------------------------------------------------------------

@@ -10,7 +10,7 @@ Hear ye, hear ye! The joint ACH and CSDH 2015 conference will be held in Ottawa 
 
 The **deadline for proposals is December 1, 2014** ([see CFP](http://ach.org/news/2014/10/joint-ach-canadian-dh-conference-2015/)). Abstracts for paper proposals should be approximately 500 words long, and should clearly indicate the paper’s thesis, methodology and conclusions. We also welcome proposals for Digital Demonstrations of innovative projects or tools. Demonstrations will be given table space and a backdrop so they can set up a poster and a computer for a 2-hour session. Please note that all presenters must be members of ACH or CSDH/SCHN at the time of the conference. There is a limited amount of funding available to support graduate student travel, as well as two Lisa Lena Opas-Hänninen Young Scholar Prizes.
 
-To submit a proposal, visit <https://www.conftool.net/csdh-schn-ach-2015/>
+To submit a proposal, visit [https://www.conftool.net/csdh-schn-ach-2015/](https://www.conftool.net/csdh-schn-ach-2015/)
 
 Hope to see many of you in Ottawa this June!
 
@@ -22,4 +22,4 @@ We are collaborating with our OUP colleagues to set up the annual elections voti
 Graduate Student Funding for Keystone DH
 ----------------------------------------
 
-The ACH is covering registration support for ten graduate students to present at the Keystone DH conference! The deadline for proposals is January 2, 2015. Submit a proposal of 200-300 words, along with your name and email address, to keystonedh.conference@gmail.com. Community peer review of proposal will take place January 15-February 15. Proposers will be notified by March 1. Find out more about the conference at <http://sceti.library.upenn.edu/KeystoneDH/>
+The ACH is covering registration support for ten graduate students to present at the Keystone DH conference! The deadline for proposals is January 2, 2015. Submit a proposal of 200-300 words, along with your name and email address, to keystonedh.conference@gmail.com. Community peer review of proposal will take place January 15-February 15. Proposers will be notified by March 1. Find out more about the conference at [http://sceti.library.upenn.edu/KeystoneDH/](http://sceti.library.upenn.edu/KeystoneDH/)

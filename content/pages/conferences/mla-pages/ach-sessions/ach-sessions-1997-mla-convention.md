@@ -39,7 +39,7 @@ What are the implications of these geometrical models, for theory of text and fo
 
 We solicit papers for this session treating any aspect of textual space or textual geometry, including but not limited to: detailed descriptions of a particular model of text; proposals of new geometric models; comparisons of two or more models; discussions of geometric metaphors in the work of particular critics or theorists — or in particular software systems; surveys; concrete applications of geometric metaphors to particular works of literature.
 
-Organizer: C. M. Sperberg-McQueen, University of Illinois, Chicago; <cmsmcq@uic.edu>. (Postal address: 1155 S. Wisconsin Avenue, Oak Park, IL 60304-1838, USA.)
+Organizer: C. M. Sperberg-McQueen, University of Illinois, Chicago; [cmsmcq@uic.edu](cmsmcq@uic.edu). (Postal address: 1155 S. Wisconsin Avenue, Oak Park, IL 60304-1838, USA.)
 
 - “Texts as Animaps: Genre Transformation in the Early Nineteenth Century”, David C. Lipscomb, Columbia University
 - “Pushing the Landscape Metaphor: Textual Variation Keyed to Topographic Values”, James Connor, Saint Louis University

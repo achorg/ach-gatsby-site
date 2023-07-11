@@ -30,9 +30,9 @@ Nominations are due by 12/15/2020.
 
 The Nominations committee will follow up with nominees in January to request brief candidate materials – a short candidate bio and summary of your interest in serving ACH.
 
-Sample candidate statements from past elections are available at <http://ach.org/news/2019/02/ach-2019-elections-candidate-statements>, though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see <http://www.ach.org/about/constitution>.
+Sample candidate statements from past elections are available at [http://ach.org/news/2019/02/ach-2019-elections-candidate-statements](http://ach.org/news/2019/02/ach-2019-elections-candidate-statements), though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see [http://www.ach.org/about/constitution](http://ach.org/news/2019/02/ach-2019-elections-candidate-statements), though please note we’ve changed the questions and added a maximum word cap this year. For more information on the responsibilities and obligations of Executive Council members, please see [http://www.ach.org/about/constitution](http://www.ach.org/about/constitution).
 
-For questions about nominations please contact Nominations Chair, Thomas Padilla, <thomas.padilla@unlv.edu>.
+For questions about nominations please contact Nominations Chair, Thomas Padilla, [thomas.padilla@unlv.edu](thomas.padilla@unlv.edu).
 
 **About ACH**
 -------------

@@ -6,7 +6,7 @@ date: '2020-12-29'
 
 Deadline: **February 28, 2021**
 
-Submit a proposal: <https://www.conftool.org/ach2021/>
+Submit a proposal: [https://www.conftool.org/ach2021/](https://www.conftool.org/ach2021/)
 
 The second annual Association for Computers and the Humanities (ACH) conference will take place virtually on **July 22-23, 2021**. (ACH plans to host an in-person conference with a virtual component in 2022 in Houston, Texas.)
 

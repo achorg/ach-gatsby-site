@@ -295,7 +295,7 @@ Presiding: Amit Ray, Rochester Institute of Technology
 - “Wikipedia: The University and the Open Archive,” David Parry, University at Albany, State University of New York
 - “Rewriting Hejinian's <cite>My Life</cite>: Authorship, Gender, and Drag on a Collaborative Wiki,” Leisha J. Jones, Penn State University, University Park
 
-For copies of abstracts and working papers, visit <http://honors.rit.edu/~wiki>.
+For copies of abstracts and working papers, visit [http://honors.rit.edu/~wiki](http://honors.rit.edu/~wiki).
 
  <a name="session194">194</a>: Literary Studies in the Public Sphere
 --------------------------------------------------------------------
@@ -536,7 +536,7 @@ Presiding: Hilary P. Dannenberg, University of Bayreuth
 - “Moll Flanders on Screen: From Criminal Confession to Romance,” Jessika L. Thomas, West Virginia University, Morgantown
 - “The Filmic Paratext in the Digital Age: Bonus Material and Bogus Material,” Eckart Voigts-Virchow, University of Giessen
 
-For copies of abstracts, visit <http://hilarydannenberg.uni-bayreuth.de/>.
+For copies of abstracts, visit [http://hilarydannenberg.uni-bayreuth.de/](http://hilarydannenberg.uni-bayreuth.de/).
 
  <a name="session411">411</a>: Closing Borders, Bridging Gaps? German Pop at the Millennium
 -------------------------------------------------------------------------------------------
@@ -624,7 +624,7 @@ Presiding: Felicia Jean Steele, College of New Jersey
 
 Respondent: John M. Morse, Merriam-Webster, Inc.
 
-For copies of abstracts, visit <http://steele.intrasun.tcnj.edu/mla/abstracts>.
+For copies of abstracts, visit [http://steele.intrasun.tcnj.edu/mla/abstracts](http://steele.intrasun.tcnj.edu/mla/abstracts).
 
  <a name="session506">506</a>: Resisting Texts: Teaching the Virtual Renaissance Book
 -------------------------------------------------------------------------------------
@@ -760,7 +760,7 @@ Presiding: Scott Kaufman, University of California, Irvine
 
 Respondent: Scott McLemee, <cite>Inside Higher Ed</cite>.
 
-For copies of abstracts, visit <http://acephalous.typepad.com/abstract.html>.
+For copies of abstracts, visit [http://acephalous.typepad.com/abstract.html](http://acephalous.typepad.com/abstract.html).
 
  <a name="session653">653</a>: Experimental Poetry and the Visual Arts
 ----------------------------------------------------------------------

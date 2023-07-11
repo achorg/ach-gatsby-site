@@ -8,7 +8,7 @@ In most cases you must pay the convention-registration fee in order to attend an
 
 Although the 2003 convention is now in the past, this information will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](?q=node/25).
 
-Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.ac.uk>.
+Corrections and additions are welcome; please send them to [John.Lavagnino@kcl.ac.uk](John.Lavagnino@kcl.ac.uk).
 
 - - - - - -
 
@@ -126,7 +126,7 @@ Program arranged by the Association for Computers and the Humanities.
 
 *Respondent:* Thomas Swiss, University of Iowa
 
-See <http://www.ach.org/mla03> for further details.
+See [http://www.ach.org/mla03](http://www.ach.org/mla03) for further details.
 
 - - - - - -
 
@@ -456,7 +456,7 @@ Program arranged by the Association for Computers and the Humanities.
 - “Humanities Computing and Community of Minds: Situating the Individual in the Collective,” Mark V. Olsen, University of Chicago
 - “Cybernetic Constructivism,” Stephen J. Ramsay
 
-See <http://www.ach.org/mla03> for further details.
+See [http://www.ach.org/mla03](http://www.ach.org/mla03) for further details.
 
 - - - - - -
 

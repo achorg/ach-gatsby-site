@@ -9,10 +9,10 @@ To join this committee, candidates must be members in good standing of the ACH. 
 
 Nominees are expected to be active in the digital humanities community. We welcome participants not just from universities and colleges but also galleries, libraries, museums, community organizations, and other organizations engaged with digital humanities. We hope to assemble a diverse committee and encourage participation by ACH members from under-represented groups.
 
-Send nominations or self-nominations to <jenguiliano@gmail.com> by August 1, 2014. Please confirm with your nominee that he or she is willing to serve, and:
+Send nominations or self-nominations to [jenguiliano@gmail.com](jenguiliano@gmail.com) by August 1, 2014. Please confirm with your nominee that he or she is willing to serve, and:
 
 • Put the following in the subject line: ACH Affiliate Nomination  
 • Provide a brief statement of interest regarding your (or your nominee’s) vision of ACH’s engagement with potential affiliates.  
 • Provide contact information and a short, 1-paragraph professional biography.
 
-If you have any questions, please feel free to contact us at <jenguiliano@gmail.com> or via twitter [@jenguiliano](http://twitter.com/jenguiliano)
+If you have any questions, please feel free to contact us at [jenguiliano@gmail.com](jenguiliano@gmail.com) or via twitter [@jenguiliano](http://twitter.com/jenguiliano)

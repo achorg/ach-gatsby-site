@@ -24,7 +24,7 @@ We seek candidates eager to support and advance the field of digital humanities 
 1.  Email [nominations@ach.org](mailto:nominations@ach.org)\* with any names and email addresses of nominees (including self-nominations), *or*
 2.  Proceed directly to filling out the nomination form at [tinyurl.com/ACHnominations2019](http://tinyurl.com/ACHnominations2019) (if you are self-nominating) or direct your nominee to fill out that form (if you’ve spoken with your nominee already and they’ve agreed to run). As long as you’ve submitted your nominee name by 12/15, the bio and candidate statements requested on that form are not due until 12/31.
 
-Sample candidate statements from past elections are available at:<http://ach.org/news/2016/12/ach-elections-candidate-statements/>. For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](http://www.ach.org/about/constitution). Current officers of the ACH are listed at [http://ach.org/about/officers/](http://ach.org/about/officers/) .
+Sample candidate statements from past elections are available at:[http://ach.org/news/2016/12/ach-elections-candidate-statements/](http://ach.org/news/2016/12/ach-elections-candidate-statements/). For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](http://www.ach.org/about/constitution). Current officers of the ACH are listed at [http://ach.org/about/officers/](http://ach.org/about/officers/) .
 
 If you have any questions, please feel free to contact us at [nominations@ach.org\*](mailto:nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
 

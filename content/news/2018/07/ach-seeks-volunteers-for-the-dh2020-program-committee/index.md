@@ -15,4 +15,4 @@ Expectations:
 
 Please review these documents prior to committing to this service.
 
-Please [self-nominate](https://docs.google.com/forms/d/e/1FAIpQLSexMFM_72RP67L1zJzm5CTF4eDMz-ZMmkW3tqThk52Uh8VoKw/viewform) by **9am EST on Friday, July 6** if possible. Thank you and please email <membership@ach.org> with any questions you might have.
+Please [self-nominate](https://docs.google.com/forms/d/e/1FAIpQLSexMFM_72RP67L1zJzm5CTF4eDMz-ZMmkW3tqThk52Uh8VoKw/viewform) by **9am EST on Friday, July 6** if possible. Thank you and please email [membership@ach.org](membership@ach.org) with any questions you might have.

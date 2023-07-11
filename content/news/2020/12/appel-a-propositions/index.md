@@ -7,7 +7,7 @@ language: 'fr'
 
 Date limite : 28 février 2021
 
-Soumission de propositions : : <https://www.conftool.org/ach2021/>
+Soumission de propositions : : [https://www.conftool.org/ach2021/](https://www.conftool.org/ach2021/)
 
 Le deuxième colloque de l*’Association for Computers and Humanities* (ACH) aura lieu en ligne en raison de la crise sanitaire.
 

@@ -9,7 +9,7 @@ Humanities Computing Sessions – MLA 1996
 
 Although the 1996 convention is now in the past, this guide will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](digital-humanities-sessions).
 
-Corrections and additions are welcome; please send them to <John.Lavagnino@kcl.ac.uk>.
+Corrections and additions are welcome; please send them to [John.Lavagnino@kcl.ac.uk](John.Lavagnino@kcl.ac.uk).
 
 20: Comparative Technologies: The Telegraph and the Internet
 -------------------------------------------------------------

@@ -7,7 +7,7 @@ Is this your first or second time at the Digital Humanities conference? Are you 
 
 The dinners will happen the evening of **Wednesday, 13 July 2016**, with parties departing from the poster sessions. For ease of conversation, groups will be limited to six people.
 
-**Registration is already open and places are limited!** Sign up at <http://bit.ly/ACHdinner16>.
+**Registration is already open and places are limited!** Sign up at [http://bit.ly/ACHdinner16](http://bit.ly/ACHdinner16).
 
 On the sign-up form, we will want you to identify yourself with ‘n’ for newbie (in your first or second year attending DH) or ‘v’ for DH conference veteran (no more than 2 veterans per party, please!). We will also need one veteran leader for each group, to make a reservation and walk the group over to the restaurant; long-term ACH members and other DH conference veterans are heartily encouraged to volunteer!
 
