@@ -10,6 +10,9 @@ const NewsPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+  
+  const authorLine = (post.frontmatter.authors && post.frontmatter.authors.join(', '))
+    ?? post.frontmatter?.author;
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -22,7 +25,7 @@ const NewsPostTemplate = ({
         <header className="page-header">
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p className="post-metadata">
-            {post.frontmatter.author && <span>by {post.frontmatter.author}</span>}
+            {authorLine && <span>by {authorLine}</span>}
             <span>{post.frontmatter.date}</span>
           </p>
         </header>
@@ -93,6 +96,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         author
+        authors
         language
       }
     }
