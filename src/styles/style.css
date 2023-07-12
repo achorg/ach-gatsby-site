@@ -420,6 +420,53 @@ nav.primary-nav {
     }
 }
 
+.officer-container {
+    @apply grid;
+    @apply grid-cols-1 xs:grid-cols-2 md:grid-cols-3;
+    @apply gap-x-5 gap-y-8;
+    @apply pt-1 pb-2;
+}
+
+.officer-single {
+    .officer-name {
+        @apply font-medium;
+    }
+    
+    .officer-image {
+        @apply rounded-full;
+        @apply mb-4;
+        @apply shadow-md;
+    }
+    
+    .officer-content {
+        p {
+            @apply text-zinc-600 dark:text-zinc-400;
+        }
+        
+        .officer-subtitle {
+            @apply font-medium;
+            @apply text-xs;
+            @apply tracking-widest;
+            @apply uppercase;
+            @apply mt-1.5 mb-1;
+        }
+        
+        .officer-description {
+            @apply font-light;
+            @apply tracking-wider;
+        }
+    }
+    
+    .officer-socials {
+        @apply flex;
+        @apply gap-2;
+        
+        .icon {
+            @apply mt-3;
+        }
+    }
+}
+
 .error-page .error-container {
     @apply py-10;
     
