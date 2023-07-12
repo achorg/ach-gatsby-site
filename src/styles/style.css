@@ -19,14 +19,40 @@ a {
     @apply underline-offset-4;
 }
 
+.button-pill,
+.button-slim {
+    @apply opacity-90 hover:opacity-100;
+    @apply transition-opacity ease-in-out;
+    
+    .icon-animate {
+        @apply transition-all ease-in-out;
+    }
+    
+    &:hover .icon-animate {
+        @apply ml-0.5;
+    }
+}
+
 .button-pill {
     @apply inline-block;
     @apply px-7 py-2;
-    @apply bg-purple-500 text-purple-100;
-    @apply rounded-full;
+    @apply bg-primary-500 text-primary-100;
     @apply font-medium;
-    @apply opacity-90 hover:opacity-100;
-    @apply transition-opacity ease-in-out;
+    @apply rounded-full;
+    
+    &.button-accent {
+        @apply bg-accent-800 text-accent-100;
+    }
+}
+
+.button-slim {
+    @apply font-semibold;
+    @apply inline-flex items-center gap-1;
+    @apply text-primary-800 dark:text-primary-200;
+    
+    &.button-accent {
+        @apply text-accent-800 dark:text-accent-200;
+    }
 }
 
 header.page-header {
@@ -86,7 +112,7 @@ header.page-header {
     @apply max-w-none;
     @apply mx-auto;
     
-    @apply prose-a:text-purple-500 dark:prose-a:text-purple-200;
+    @apply prose-a:text-primary-500 dark:prose-a:text-primary-200;
     
     @apply prose-blockquote:prose-quoteless;
     @apply prose-blockquote:font-normal prose-blockquote:not-italic;
@@ -100,7 +126,7 @@ header.page-header {
 
 .global-header {
     &.header-with-hero {
-        @apply bg-purple-800 dark:bg-purple-900;
+        @apply bg-primary-800 dark:bg-primary-900;
         @apply text-white;
         
         h1 img {
@@ -108,11 +134,11 @@ header.page-header {
         }
         
         nav.primary-nav > ul {
-            @apply md:text-purple-100 md:text-opacity-80;
+            @apply md:text-primary-100 md:text-opacity-80;
         }
         
         & > .header-inner {
-            @apply border-b-2 border-purple-100/10;
+            @apply border-b-2 border-primary-100/10;
         }
     }
     
@@ -285,6 +311,11 @@ nav.primary-nav {
         
         p {
             @apply break-words;
+            @apply my-2;
+        }
+        
+        .button-slim {
+            @apply text-sm;
         }
     }
 }
@@ -300,7 +331,7 @@ nav.primary-nav {
     }
     
     li {
-        @apply bg-purple-900 text-purple-100 dark:text-purple-200;
+        @apply bg-primary-900 text-primary-100 dark:text-primary-200;
         @apply rounded-md;
         @apply opacity-90 hover:opacity-100;
         @apply transition-opacity ease-in-out;
@@ -349,9 +380,9 @@ nav.primary-nav {
 }
 
 .hero-section {
-    @apply bg-purple-800 dark:bg-purple-900;
+    @apply bg-primary-800 dark:bg-primary-900;
     @apply py-14;
-    @apply text-purple-100 text-opacity-75;
+    @apply text-primary-100 text-opacity-75;
     @apply relative overflow-hidden;
     
     .hero-body {
@@ -379,7 +410,7 @@ nav.primary-nav {
         @apply float-right;
         @apply right-[-6rem] md:right-0;
         @apply invisible xs:visible;
-        @apply text-purple-200;
+        @apply text-primary-200;
         @apply opacity-30;
     }
 }
@@ -460,6 +491,7 @@ nav.primary-nav {
     .officer-socials {
         @apply flex;
         @apply gap-2;
+        @apply text-primary-900 dark:text-primary-100;
         
         .icon {
             @apply mt-3;

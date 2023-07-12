@@ -20,7 +20,7 @@ module.exports = {
         black: '900'
       },
       colors: {
-        purple: {
+        primary: {
           100: '#dddbfb',
           200: '#a8aaff',
           400: '#5450bf',
@@ -28,10 +28,12 @@ module.exports = {
           800: '#232048',
           900: '#1c1832'
         },
-        cyan: '#4ba8b3',
-        teal: '#5ebfa4',
-        green: '#b0d973',
-        yellow: '#f2d888'
+        accent: {
+          100: '#DBF4F8',
+          200: '#C2E5F3',
+          800: '#3A4B5E',
+          900: '#1B283B'
+        }
       },
       screens: {
         xs: '480px'

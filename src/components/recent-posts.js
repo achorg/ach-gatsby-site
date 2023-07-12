@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
+import { FaArrowRight } from "react-icons/fa";
 
 const RecentPosts = ({ layoutStyle, maxPosts }) => {
   const query = useStaticQuery(
@@ -58,6 +59,10 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
                   }}
                   itemProp="description"
                 />
+                <Link to={`/news${post.fields.slug}`} itemProp="url" className="button-slim button-accent">
+                  Continue reading
+                  <FaArrowRight className="icon icon-animate" aria-hidden="true" />
+                </Link>
               </section>
             </article>
           </li>
