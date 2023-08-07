@@ -117,7 +117,7 @@ header.page-header {
     @apply prose-a:font-medium;
     
     @apply prose-blockquote:prose-quoteless;
-    @apply prose-blockquote:font-normal prose-blockquote:not-italic;
+    @apply prose-blockquote:font-regular prose-blockquote:not-italic;
 }
 
 .boxed-regular {
