@@ -39,6 +39,10 @@ module.exports = {
                         name: 'Officers and Council Members',
                         link: '/about/officers/',
                     },
+                    {
+                        name: 'Alumni',
+                        link: '/about/alumni/',
+                    },
                 ],
             },
             {
