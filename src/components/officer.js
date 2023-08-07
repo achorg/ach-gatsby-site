@@ -33,14 +33,16 @@ const Officer = ({ name, imageSrc, position, affiliation, website, email, twitte
                 <StaticImage
                     src="../images/no-avatar.jpg"
                     className="officer-image"
-                    width="100"
-                    height="100"
+                    width={100}
+                    height={100}
                     alt="Generic avatar"
                 />
             ) }
             <h3 className="officer-name">{name}</h3>
             <div className="officer-content">
-                {position && <p className="officer-subtitle">{position}</p>}
+                { position && (
+                    <p className="officer-subtitle">{position}</p>
+                ) }
                 { affiliation && (
                     <p className="officer-description">{affiliation}</p>
                 ) }

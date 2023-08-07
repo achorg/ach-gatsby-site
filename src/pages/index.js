@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo';
@@ -34,9 +34,9 @@ const Index = ({ data, location }) => {
                         />
                     }
                     link={
-                        <a href="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill button-accent">
+                        <Link to="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill button-accent">
                             Read More
-                        </a>
+                        </Link>
                     }
                 />
             </section>
