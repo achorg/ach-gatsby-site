@@ -8,14 +8,16 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Forma DJR Display'],
+                sans: ['forma-djr-display'],
             },
             fontWeight: {
-                extralight: '100',
-                light: '300',
-                regular: 'normal',
-                medium: '500',
-                bold: 'bold',
+                hairline: '100',
+                thin: '200',
+                extralight: '300',
+                light: '400',
+                regular: '500',
+                medium: '600',
+                bold: '700',
                 extrabold: '800',
                 black: '900',
             },

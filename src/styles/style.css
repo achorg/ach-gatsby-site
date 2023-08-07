@@ -8,6 +8,7 @@ html {
 }
 
 body {
+    @apply font-regular;
     @apply tracking-wide;
 }
 
@@ -67,7 +68,7 @@ header.page-header {
     
     p {
         @apply text-2xl;
-        @apply font-thin;
+        @apply font-extralight;
         @apply italic;
         @apply my-2;
     }
@@ -113,6 +114,7 @@ header.page-header {
     @apply mx-auto;
     
     @apply prose-a:text-primary-500 dark:prose-a:text-primary-200;
+    @apply prose-a:font-medium;
     
     @apply prose-blockquote:prose-quoteless;
     @apply prose-blockquote:font-normal prose-blockquote:not-italic;
