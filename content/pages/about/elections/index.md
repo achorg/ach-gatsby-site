@@ -13,5 +13,5 @@ ACH members are encouraged to contact the Nominations Committee if they would li
 
 More info:
 
-- [Current Officers and Executive Council](officers)
-- [ACH Constitution and Bylaws](constitution)
+- [Current Officers and Executive Council](/about/officers)
+- [ACH Constitution and Bylaws](/about/constitution)

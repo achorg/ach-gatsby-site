@@ -60,7 +60,7 @@ Even with these intentions, we expect missteps and ignorances will happen and on
 How to apply
 ------------
 
-To apply: email a one-page cover letter and a two-page resume to [halperta@gmail.com](halperta@gmail.com), subject: ACH Mentorship Working Group Application. Deadline: October 26, 2020.
+To apply: email a one-page cover letter and a two-page resume to [halperta@gmail.com](mailto:halperta@gmail.com), subject: ACH Mentorship Working Group Application. Deadline: October 26, 2020.
 
 Cover letters should be addressed to Hannah Alpert-Abrams and Caitlin Pollock.
 

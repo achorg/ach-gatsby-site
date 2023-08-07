@@ -7,7 +7,7 @@ ACH members are entitled to vote in this year’s ACH’s election, in which a P
 
 Per the recently [amended ACH Constitution](/about/constitution/), the Vice President serves a two-year term and then becomes the President for an additional two-year term. Since this process is just beginning, a President must be elected for a two-year term. Members of the Executive Council serve four-year terms.
 
-As an ACH member, you should have received an email from OUP with instructions on how to vote. If you still have any questions or run into any problems, please contact [elections@ach.org](elections@ach.org).
+As an ACH member, you should have received an email from OUP with instructions on how to vote. If you still have any questions or run into any problems, please contact [elections@ach.org](mailto:elections@ach.org).
 
 **Voting will close at midnight GMT on Thursday, December 10.**
 

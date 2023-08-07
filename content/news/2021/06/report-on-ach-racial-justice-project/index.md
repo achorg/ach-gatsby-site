@@ -7,4 +7,4 @@ As a key step toward meeting the goals described in our [Statement on Black LIve
 
 This report includes a wide range of possibilities for the officers and the council, as well as for the organization at large. It will be a major area of discussion at this summer’s Council meeting, as well as at the ACH General Meeting (AGM) to be held in conjunction with the ACH 2021 conference in July. Based on those conversations, we’ll then create a set of priorities and next steps, including a short-term timeline, which we’ll publish here for your feedback and further input by the end of September.
 
-In the meantime, if you have responses to this report you’d like to share with us before the AGM, please feel free to email us at [president@ach.org](president@ach.org). We very much look forward to hearing from you.
+In the meantime, if you have responses to this report you’d like to share with us before the AGM, please feel free to email us at [president@ach.org](mailto:president@ach.org). We very much look forward to hearing from you.

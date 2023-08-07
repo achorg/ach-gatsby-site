@@ -46,7 +46,7 @@ const Layout = ({ location, title, children, usingHero }) => {
                     <FaCreativeCommonsBy className="icon" />
                     <FaCreativeCommonsSa className="icon" />
                 </div>
-                <p>Content licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noreferrer">CC BY-SA 3.0</a>.</p>
+                <p>Content licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noreferrer">CC BY-SA 3.0</a>.</p>
             </footer>
         </div>
     );

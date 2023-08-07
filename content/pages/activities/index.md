@@ -7,7 +7,7 @@ ACH is a community-driven organization, supported by your membership fees. Our m
 Advocacy
 --------
 
-As a professional association for the digital humanities, ACH performs an important advocacy role. We develop and share position papers on issues of importance to our members, partner with other organizations to advocate for key positions, and support initiatives (such as 4Humanities) that help track and intervene in the central political debates that affect our work. [\[More information\]](/advocacy/)
+As a professional association for the digital humanities, ACH performs an important advocacy role. We develop and share position papers on issues of importance to our members, partner with other organizations to advocate for key positions, and support initiatives (such as 4Humanities) that help track and intervene in the central political debates that affect our work. [\[More information\]](/activities/advocacy/)
 
 Jobs and Mentoring
 ------------------
@@ -24,9 +24,9 @@ We offer the following services to job seekers:
 Grants and Awards
 -----------------
 
-The ACH supports young scholars by providing bursaries to defray costs of attending conferences and other DH events. ACH also participates in the ADHO achievement awards which recognize achievements in the field of Digital Humanities. [\[More information\]](grants-and-awards)
+The ACH supports young scholars by providing bursaries to defray costs of attending conferences and other DH events. ACH also participates in the ADHO achievement awards which recognize achievements in the field of Digital Humanities. [\[More information\]](/activities/grants-and-awards)
 
 Open Agenda-Setting
 -------------------
 
-Beginning in 2012, the Association for Computers and the Humanities moved toward more open and transparent agenda-setting. We look to you to help us better serve the international digital humanities community—by generating new ideas for our Executive Council to explore, and prioritizing items already on our agenda. [\[More information\]](open-agenda-setting-2012)
+Beginning in 2012, the Association for Computers and the Humanities moved toward more open and transparent agenda-setting. We look to you to help us better serve the international digital humanities community—by generating new ideas for our Executive Council to explore, and prioritizing items already on our agenda. [\[More information\]](/news/2012/04/open-agenda-setting-2012)

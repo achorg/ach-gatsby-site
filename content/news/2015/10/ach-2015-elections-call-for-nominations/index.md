@@ -27,7 +27,7 @@ We welcome participants not just from universities and colleges, but also galler
   - ACH Vice President nomination
 - Provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: [http://ach.org/news/2011/12/elections-candidates/](/news/2011/12/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 
-If you have any questions, please feel free to contact us at [nominations@ach.org](nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
+If you have any questions, please feel free to contact us at [nominations@ach.org](mailto:nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
 
 For more information on the responsibilities and obligations of ACH council members, see [http://www.ach.org/about/constitution](/about/constitution).
 

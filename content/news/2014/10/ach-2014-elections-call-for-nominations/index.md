@@ -18,7 +18,7 @@ Send nominations to[ nominations@ach.org](mailto:nominations@ach.org) by October
 - Provide a brief candidate statement and biography. Sample candidate statements from past elections are available on our [Candidates page](/news/2011/12/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 - Have the nomination seconded. Per ACH bylaws, all nominations require two nominators (including oneself, if self-nominating) before being included in the ballot, so please allow time for a second nominator to email us in support of your nomination.
 
-If you have any questions, please feel free to contact us at [nominations@ach.org](nominations@ach.org).
+If you have any questions, please feel free to contact us at [nominations@ach.org](mailto:nominations@ach.org).
 
 The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of the ACH Executive Council, read our [Bylaws](/about/constitution).
 

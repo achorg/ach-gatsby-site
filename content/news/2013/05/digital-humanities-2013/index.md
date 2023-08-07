@@ -8,9 +8,9 @@ The annual Digital Humanities conference is an opportunity for the ACH to pursue
 ACH Annual General Meeting, Jobs Slam, and Pedagogy Lightning Talks
 -------------------------------------------------------------------
 
-Sure, there may be some sub-committee reports and even an important vote or two, but you haven’t really experienced an annual general meeting until you’ve been to an ACH Jobs Slam! This is a lively event where prospective employees and employers have 30 seconds of floor-time to woo each other. If you’d like to participate, please **see our [ACH 2013 Jobs Slam page](/jobs-slam-2013) for more information.**
+Sure, there may be some sub-committee reports and even an important vote or two, but you haven’t really experienced an annual general meeting until you’ve been to an ACH Jobs Slam! This is a lively event where prospective employees and employers have 30 seconds of floor-time to woo each other. If you’d like to participate, please **see our [ACH 2013 Jobs Slam page](/news/2013/05/jobs-slam-2013) for more information.**
 
-Also planned for this year’s AGM is an open program of informal lightning talks on DH pedagogy. Do you have a quick story about a student project or training model to share? Want to tell us how you organized your syllabus or make a pitch for a new way of thinking about DH education? **[See here for details](/lightning-talks-dh2013) and to sign up!**
+Also planned for this year’s AGM is an open program of informal lightning talks on DH pedagogy. Do you have a quick story about a student project or training model to share? Want to tell us how you organized your syllabus or make a pitch for a new way of thinking about DH education? **[See here for details](/news/2013/05/lightning-talks-dh2013) and to sign up!**
 
 The ACH AGM will be held in the Nebraska Student Union from noon-1:30pm on Wednesday, July 17th. Join us for a free, healthy, vegetarian-friendly lunch!
 

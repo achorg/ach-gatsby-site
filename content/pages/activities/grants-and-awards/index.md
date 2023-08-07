@@ -12,11 +12,11 @@ Bursaries
 
 ADHO Bursaries (which your ACH membership fees support) are available to enable the attendance of students and younger scholars at the annual DH conference. Bursary applications are on the [ADHO website](http://adho.org/awards/conference-bursary-awards).
 
-See a list of past [ACH Bursary award recipients](bursary-recipients).
+See a list of past [ACH Bursary award recipients](/news/2011/06/bursary-recipients/).
 
 Grants
 ------
 
-ACH periodically offers small grants in support of DH meetings, small project development, and other DH-related activities. Occasional requests are evaluated [according to established guidelines](/occasional-funding-sponsorship). Standing programs, such as Incubator Grants are announced on Humanist and in the ACH newsletter (sent to all ACH members via email).
+ACH periodically offers small grants in support of DH meetings, small project development, and other DH-related activities. Occasional requests are evaluated [according to established guidelines](/activities/grants-and-awards/occasional-funding-sponsorship/). Standing programs, such as Incubator Grants are announced on Humanist and in the ACH newsletter (sent to all ACH members via email).
 
 For 2017-2018, occasional funding and grants are no longer being accepted. Resumption of occasional funding will be made via our twitter account.

@@ -7,7 +7,7 @@ Association for Computers and the Humanities (ACH) is a major professional socie
 
 ### New Tenure and Promotion Guidelines Discussion
 
-We need your input! Following the lead of scholarly societies in some of the disciplines most actively represented in digital humanities work, the Association for Computers and the Humanities is putting forth some draft guidelines for the evaluation of digital scholarship in tenure and promotion processes. We will be discussing the new guidelines at our AGM meeting. Before we do so, we would like to hear from you. We have prepared [a public copy of the draft on Google Docs](https://docs.google.com/document/d/1DkFXRxmeCdX7KFu7vPkCHwRnpZla8wc8zUHJyIK0sro/edit?usp=sharing) for you to comment on. Please leave your inline comments using the comment feature, or if you would prefer to send us general comments please write to us at [secretary@ach.org](secretary@ach.org).
+We need your input! Following the lead of scholarly societies in some of the disciplines most actively represented in digital humanities work, the Association for Computers and the Humanities is putting forth some draft guidelines for the evaluation of digital scholarship in tenure and promotion processes. We will be discussing the new guidelines at our AGM meeting. Before we do so, we would like to hear from you. We have prepared [a public copy of the draft on Google Docs](https://docs.google.com/document/d/1DkFXRxmeCdX7KFu7vPkCHwRnpZla8wc8zUHJyIK0sro/edit?usp=sharing) for you to comment on. Please leave your inline comments using the comment feature, or if you would prefer to send us general comments please write to us at [secretary@ach.org](mailto:secretary@ach.org).
 
 ### Jobs Slam
 

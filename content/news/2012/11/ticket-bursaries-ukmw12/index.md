@@ -5,7 +5,7 @@ author: 'Stéfan Sinclair'
 ---
 In support of museums’ ongoing engagement in the world of the digital and encouragement of young professionals’ exploration of the digital humanities, ACH is pleased to offer up to five (5) ticket bursaries for student/unwaged participants in [UKMW12](http://museumscomputergroup.org.uk/tag/ukmw12/), the UK conference for Museums on the Web.
 
-To apply, please send a short email to Eric Johnson at [ej9k@virginia.edu](ej9k@virginia.edu) by 5pm GMT on Thursday, November 22, 2012, indicating any previous attendance at UKMW and briefly describing what you hope to gain from UKMW12 and your interest or involvement in the broader fields of the digital humanities and museums/digital heritage. Preference is given to first-time conference attendees or those who are new (one to three years) in the field. (You can be reimbursed for your registration if you've already paid and your bursary request is granted.)
+To apply, please send a short email to Eric Johnson at [ej9k@virginia.edu](mailto:ej9k@virginia.edu) by 5pm GMT on Thursday, November 22, 2012, indicating any previous attendance at UKMW and briefly describing what you hope to gain from UKMW12 and your interest or involvement in the broader fields of the digital humanities and museums/digital heritage. Preference is given to first-time conference attendees or those who are new (one to three years) in the field. (You can be reimbursed for your registration if you've already paid and your bursary request is granted.)
 
 ### Museums Computer Group (MCG) Museums on the Web
 

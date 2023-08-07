@@ -10,4 +10,4 @@ A full history of the ACH would draw both on public records and on the human mem
 More…
 ------
 
-- [**Alumni**](alumni): Recognition of former ACH officers, committee members and volunteers.
+- [**Alumni**](/about/alumni): Recognition of former ACH officers, committee members and volunteers.
