@@ -62,16 +62,6 @@ module.exports = {
             {
                 name: 'Conferences',
                 link: '/conferences',
-                subMenu: [
-                    {
-                        name: 'Modern Language Association',
-                        link: '/conferences/mla-pages/',
-                    },
-                    {
-                        name: 'Past Conferences',
-                        link: '/conferences/past-conferences/',
-                    },
-                ],
             },
             {
                 name: 'News',

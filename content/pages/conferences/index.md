@@ -34,8 +34,7 @@ ACH is delighted to serve as a partner in the annual [international Digital Huma
 
 Contributions to the conference take a variety of forms and may be deliberately experimental: papers (long and short), posters and demos, panel discussions, and social media. Selected presentations are published as a special issue of LLC and may appear in other ADHO journals as well.
 
-- Archive of [past conferences](/conferences/past-conferences/)
-- [Student bursaries](http://adho.org/awards/Conference%20Bursary%20Awards) are available to help defray travel costs
+[Student bursaries](http://adho.org/awards/Conference%20Bursary%20Awards) are available to help defray travel costs.
 
 Additionally:
 -------------
@@ -43,7 +42,7 @@ Additionally:
 We encourage ACH members to consider participating in other conferences in digital humanities and associated humanities fields:
 
 - [CSDH/SCHN](http://csdh-schn.org/) Annual Conferences in Canada
-- [ACH sessions](/conferences/mla-pages/) at MLA, the annual convention of the [Modern Language Association](http://mla.org)
+- ACH sessions at MLA, the annual convention of the [Modern Language Association](http://mla.org)
 - [DHSI](http://dhsi.org): Digital Humanities Summer Institute at the University of Victoria
 - [THATCamp](http://thatcamp.org): regional DH unconferences taking place in different locations throughout the year
 - [Text Encoding Initiative Conference](http://www.tei-c.org/Membership/Meetings/)
