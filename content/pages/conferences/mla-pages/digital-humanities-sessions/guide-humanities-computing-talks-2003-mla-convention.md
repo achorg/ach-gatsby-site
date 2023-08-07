@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2003 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2003 [Modern Language Association](http://www.mla.org/) Convention (in San Diego, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2003 [Modern Language Association](http://www.mla.org/) Convention (in San Diego, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But one session is free and open to the public: [“Modes of Scholarly Communication”](#session345). MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 
@@ -126,7 +126,7 @@ Program arranged by the Association for Computers and the Humanities.
 
 *Respondent:* Thomas Swiss, University of Iowa
 
-See [http://www.ach.org/mla03](http://www.ach.org/mla03) for further details.
+See [http://www.ach.org/mla03](/mla03) for further details.
 
 - - - - - -
 
@@ -456,7 +456,7 @@ Program arranged by the Association for Computers and the Humanities.
 - “Humanities Computing and Community of Minds: Situating the Individual in the Collective,” Mark V. Olsen, University of Chicago
 - “Cybernetic Constructivism,” Stephen J. Ramsay
 
-See [http://www.ach.org/mla03](http://www.ach.org/mla03) for further details.
+See [http://www.ach.org/mla03](/mla03) for further details.
 
 - - - - - -
 

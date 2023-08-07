@@ -17,14 +17,14 @@ To be confirmed as an ACH officer or Executive Council member, candidates must b
   - Executive Council nomination
   - ACH President nomination
   - ACH Vice President nomination
-- Provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: [http://ach.org/news/2011/12/elections-candidates/](http://ach.org/news/2011/12/elections-candidates/). If your nominee cannot provide their bio and candidate statement at the time of nomination, they should email those to us before the close of nominations.
+- Provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: [http://ach.org/news/2011/12/elections-candidates/](/news/2011/12/elections-candidates/). If your nominee cannot provide their bio and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 - All nominations require two nominations (a self-nomination counts as one nomination) to be considered for the ballot (per ACH bylaws), so please allow time for a second nominee to email in support of your nomination.
 
 If you have any questions, please feel free to contact us at [nominations@ach.org](nominations@ach.org).
 
-The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](http://www.ach.org/about/constitution)
+The three top vote-getters in the Executive Council race will be elected to four-year terms. For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](/about/constitution)
 
-Current officers of the ACH are listed at[ http://www.ach.org/about/officers](http://www.ach.org/about/officers)
+Current officers of the ACH are listed at[ http://www.ach.org/about/officers](/about/officers)
 
 Many thanks,
 

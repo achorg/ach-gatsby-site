@@ -3,7 +3,7 @@ title: 'Call for Participation: The Porous Scholarly Edition'
 date: '2018-03-13'
 author: 'Lisa Marie Rhody'
 ---
-This is a joint session proposed by the [Association for Computers and the Humanities](http://ach.org/) and the [MLA Committee on Scholarly Editions](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Publications/Committee-on-Scholarly-Editions); official CFP here: [https://apps.mla.org/cfp\_detail\_11429](https://apps.mla.org/cfp_detail_11429)
+This is a joint session proposed by the [Association for Computers and the Humanities](/) and the [MLA Committee on Scholarly Editions](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Publications/Committee-on-Scholarly-Editions); official CFP here: [https://apps.mla.org/cfp\_detail\_11429](https://apps.mla.org/cfp_detail_11429)
 
 Has the scholarly edition become more porous as a result of the digital turn? This panel seeks reflections and provocations on the way that the boundaries of scholarly editions have changed or should change. We solicit presentations that will address such questions as:
 

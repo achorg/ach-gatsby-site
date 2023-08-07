@@ -28,6 +28,6 @@ Over the last year, and with ACH members’ participation, the Executive Council
 
 For each of the public documents, we will ask you to ENDORSE or NOT ENDORSE it. Endorsed documents will be made part of the ACH website and promoted via social media.
 
-Elections will begin at midday on December 5, 2016 and end at midnight GMT on January 19, 2017. Details of all the candidates, and drafts of the bylaws change and public documents, can be found on the [ACH website](http://ach.org) and at the links below. Queries should be addressed to the Chair of the Nominations Committee, Élika Ortega. Queries regarding the bylaws change or endorsement of documents should be addressed to the President of ACH, Jennifer Guiliano or the Vice-President of ACH, Matthew K. Gold.
+Elections will begin at midday on December 5, 2016 and end at midnight GMT on January 19, 2017. Details of all the candidates, and drafts of the bylaws change and public documents, can be found on the [ACH website](/) and at the links below. Queries should be addressed to the Chair of the Nominations Committee, Élika Ortega. Queries regarding the bylaws change or endorsement of documents should be addressed to the President of ACH, Jennifer Guiliano or the Vice-President of ACH, Matthew K. Gold.
 
 To place your vote online, you will need your Subscription Number and your unique Voting Token. The token ensures that each member may vote only once and that the results are submitted anonymously.

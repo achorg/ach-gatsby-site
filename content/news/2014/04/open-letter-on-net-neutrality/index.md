@@ -5,7 +5,7 @@ author: 'Bethany Nowviskie'
 ---
 > **Update, 30 September 2015:** The letter was delivered and was used as the basis for the MLA’s letter on the same subject. Earlier this year the [FCC ruled](https://en.wikipedia.org/wiki/Net_neutrality#United_States) that broadband is a telecommunications service and that the net should therefore be neutral. Clearly, the ACH didn’t do all the work, but we got what we campaigned for. Thank you all who helped out!
 > 
-> **Update, 30 April 2014:** Great interest is being shown in this letter by our various professional communities and colleagues in the digital humanities and aligned fields. Some have requested to sign on. The letter has already been sent to Chairman Wheeler, so we strongly encourage you to modify, adapt, quote, or endorse it in [a new message to the FCC](http://www.fcc.gov/page/fcc-establishes-new-inbox-open-internet-comments), in order to amplify the response. That said, we welcome statements of solidarity in the comments field below. But please do more than add your name: review our [suggested action items](http://ach.org/activities/advocacy/net-neutrality-info-and-action/) and readings, which will help you stay alert to other opportunities to work for net neutrality.
+> **Update, 30 April 2014:** Great interest is being shown in this letter by our various professional communities and colleagues in the digital humanities and aligned fields. Some have requested to sign on. The letter has already been sent to Chairman Wheeler, so we strongly encourage you to modify, adapt, quote, or endorse it in [a new message to the FCC](http://www.fcc.gov/page/fcc-establishes-new-inbox-open-internet-comments), in order to amplify the response. That said, we welcome statements of solidarity in the comments field below. But please do more than add your name: review our [suggested action items](/activities/advocacy/net-neutrality-info-and-action/) and readings, which will help you stay alert to other opportunities to work for net neutrality.
 
 **Dear FCC Chairman Wheeler;**
 
@@ -15,7 +15,7 @@ On behalf of the communities we serve, we urgently ask that you lead the FCC in 
 
 Joining in this appeal are the presidents, chairs, founders, and organizers of:
 
-- the [Association for Computers and the Humanities](http://ach.org/);
+- the [Association for Computers and the Humanities](/);
 - the [Electronic Literature Organization](http://eliterature.org/);
 - the [European Association for Digital Humanities](http://eadh.org/);
 - the [Canadian Society for Digital Humanities/Société canadienne des humanités numériques](http://csdh-schn.org/);

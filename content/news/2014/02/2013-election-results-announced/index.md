@@ -5,7 +5,7 @@ author: 'Vika Zafrin'
 ---
 We are pleased to announce the results of the 2013 ACH elections.
 
-The amendments recently made to our Constitution and Bylaws by the ACH Executive Council have been ratified by the membership. The amended version [is available on the ACH website](http://ach.org/about/constitution/ "Constitution & Bylaws of the Association for Computers and the Humanities").
+The amendments recently made to our Constitution and Bylaws by the ACH Executive Council have been ratified by the membership. The amended version [is available on the ACH website](/about/constitution/ "Constitution & Bylaws of the Association for Computers and the Humanities").
 
 Per the newly amended constitution, all new officer and Executive Council terms will begin at the close of the DH 2014 conference, to be held this July in Lausanne, Switzerland. Current officers and outgoing Exec members will serve until then.
 

@@ -13,7 +13,7 @@ Digital Humanities
 
 ACH advocates for and supports all of our members in their digital humanities work. Digital humanities is a broad term encompassing a wide range of subject domains, methods, and communities of practice, including (but not limited to) computer-assisted research, pedagogy, and software; resource creation, curation, and engagement; physical computing; the use of digital technologies to write, publish, and review scholarship; and humanistic research into and about digital objects and culture. ACH recognizes that this work is inherently and inextricably sociopolitical, and thus advocates for social change through the use of computers and related technologies in the study of humanistic subjects.
 
-ACH has created the [ACH Guidelines for Assessment of Digital Scholarship in Tenure and Promotion](http://ach.org/ach-guidelines-for-assessment-of-digital-scholarship-in-tenure-and-promotion/), which aim to help candidates and committees assess (and prepare to assess) digital scholarship.
+ACH has created the [ACH Guidelines for Assessment of Digital Scholarship in Tenure and Promotion](/ach-guidelines-for-assessment-of-digital-scholarship-in-tenure-and-promotion/), which aim to help candidates and committees assess (and prepare to assess) digital scholarship.
 
 Alliance of Digital Humanities Organizations
 --------------------------------------------

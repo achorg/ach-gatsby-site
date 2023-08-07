@@ -4,7 +4,7 @@ date: '2015-01-07'
 ---
 On **Friday, January 9 from 12:00 to 1:15 PM** in room 212 at the West Vancouver Convention Center (East VCC), ACH will be sponsoring a panel titled “[Digital Deformance and Scholarly Forms](http://www.mla.org/program_details?prog_id=292&year=2015 "Digital Deformance and Scholarly Form, Session 292")” (#s292) at the Modern Language Association’s Convention (#mla15).
 
-Building on the previous two years’ success at ACH panels at MLA, our [CFP](http://ach.org/news/2014/02/mla-cfp-2015/ "CFP for MLA2015") prompts participants to share the interpretive fruits of their work. De-emphasizing focus on methodology in deference to increased attention on the scholarly benefits of their digital process, participants will spend fifteen minutes each considering the ethical, procedural, and/or representational challenges of their approach, as well as offer fresh insights opportuned by the act of deformance.
+Building on the previous two years’ success at ACH panels at MLA, our [CFP](/news/2014/02/mla-cfp-2015/ "CFP for MLA2015") prompts participants to share the interpretive fruits of their work. De-emphasizing focus on methodology in deference to increased attention on the scholarly benefits of their digital process, participants will spend fifteen minutes each considering the ethical, procedural, and/or representational challenges of their approach, as well as offer fresh insights opportuned by the act of deformance.
 
 Abstracts and biographical statements for the following presenters can be found below:
 
@@ -12,7 +12,7 @@ Abstracts and biographical statements for the following presenters can be found 
 - [Christina L. Boyles](#christina "Christina Boyles") (Baylor University), “(Re)shaping Scholarship, (Re)claiming Folklore: Reassessing Hurston’s Oeuvre Using TEI”
 - [Christopher Gabbard](#chris "Chris Gabbard") (University of North Florida), “Have Qrafter Ready: What Literature Students Can Learn from Digital Deformation”
 
-Additionally, presenters were offered the opportunity to write brief blog posts regarding their methods, as well. [Brandon Walsh has taken up that invitation, and we have cross-posted it on the ACH site.](http://ach.org/ "The Devil in the Recording")
+Additionally, presenters were offered the opportunity to write brief blog posts regarding their methods, as well. [Brandon Walsh has taken up that invitation, and we have cross-posted it on the ACH site.](/ "The Devil in the Recording")
 
 There is one change from the MLA program. Unfortunately, Danielle Gustafson-Sundell (Minnesota State University) will be unable to attend the conference and has withdrawn her paper “songs that start with i.”
 

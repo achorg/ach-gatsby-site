@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2000 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2000 [Modern Language Association](http://www.mla.org/) Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2000 [Modern Language Association](http://www.mla.org/) Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But the following sessions are free and open to the public: [“From Gutenberg to Gates: Metamorphoses of Media”](#session122), [“The Impact of the Internet on East Asian Literatures and Cultures”](#session127), [“The Humanities at Work: PhDs and New Media”](#session174A), [“The Humanities at Work: University Innovators”](#session266), [“Still Reading in the New Millennium: A Conversation”](#session321), [“The Humanities at Work: Postacademic Culture Shock”](#session413), and [“Writing and Schooling at the Millennium”](#session484).
 

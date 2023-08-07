@@ -14,7 +14,7 @@ ACH Executive Council, to serve 2012-2015:
 – **Matthew K. Gold** (CUNY)  
 – **Glen Worthey** (Stanford University)
 
-See our full roster of officers and council members [here](http://ach.org/about/officers).
+See our full roster of officers and council members [here](/about/officers).
 
 Thanks very much to all the candidates and to these individuals for  
 being willing to serve – and thanks also to all who voted. Thanks are  

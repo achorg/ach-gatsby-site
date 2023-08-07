@@ -6,7 +6,7 @@ date: '2010-04-22'
 Digital Humanities Sessions – MLA 2008
 ---------------------------------------
 
-[Digital Humanities Sessions – MLA 2006The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with digital-humanities talks at the 2008 [Modern Language Association](http://www.mla.org/) Convention (in San Francisco from December 27 through 30). Some of these sessions contain only one or two relevant talks, but this list includes the entire program for each session.
+[Digital Humanities Sessions – MLA 2006The Association for Computers and the Humanities](/) has compiled this list of sessions with digital-humanities talks at the 2008 [Modern Language Association](http://www.mla.org/) Convention (in San Francisco from December 27 through 30). Some of these sessions contain only one or two relevant talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend these talks. But five sessions are free and open to the public: [“Scholarly Editing in the Twenty-First Century: Digital Media and Editing”](#session163), [“The Way We Teach Now”](#session202), [“Biocultures: Closing the Science-Humanities Gap”](#session320), [“Our Affection for Books”](#session549), and [“Editing Manuscripts in Digital and Print Forms”](#session617), MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 

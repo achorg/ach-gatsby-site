@@ -3,7 +3,7 @@ title: 'ACH Agenda-Setting: Next Steps'
 date: '2012-06-04'
 author: 'Bethany Nowviskie'
 ---
-Last month, the [Association for Computers and the Humanities](http://ach.org) (ACH) began [an experiment](http://ach.org/news/2012/04/open-agenda-setting-2012) in grassroots idea-generation and transparent agenda-setting.
+Last month, the [Association for Computers and the Humanities](/) (ACH) began [an experiment](/news/2012/04/open-agenda-setting-2012) in grassroots idea-generation and transparent agenda-setting.
 
 Using an open-source platform called "[All Our Ideas](http://www.allourideas.org/)," association members and interested digital humanists added 18 fresh concepts to a starter-set of 8, which had been drawn from earlier conversations among elected representatives and the ACH community. In May, participants on 6 continents cast more than 2700 votes, generating a ranked list of interests and priorities.
 
@@ -21,7 +21,7 @@ The full results of our polling experiment are [available online](http://www.all
 
 We announced this experiment with a promise: that, while ACH can't undertake every project suggested, we will take our community's views seriously and address as many resulting ideas as possible, in open and public dialogue.
 
-Some of your priorities match intiatives and conversations ACH has already begun. Others are new. Some will spark targeted and concrete projects; others will drive us toward further conversation with you and with our partners in the international ADHO community. Over the weeks and months to come, look for a series of [newsletter mailings](http://us2.campaign-archive2.com/home/?u=dedf14e24c9607061dd051606&id=fe44d130ac), blog posts on [ach.org](http://ach.org), and announcements on the [Humanist](http://digitalhumanities.org/humanist) list. These will describe new and ongoing partnerships and projects, report on progress and share challenges, and (above all) ask for your further input and guidance.
+Some of your priorities match intiatives and conversations ACH has already begun. Others are new. Some will spark targeted and concrete projects; others will drive us toward further conversation with you and with our partners in the international ADHO community. Over the weeks and months to come, look for a series of [newsletter mailings](http://us2.campaign-archive2.com/home/?u=dedf14e24c9607061dd051606&id=fe44d130ac), blog posts on [ach.org](/), and announcements on the [Humanist](http://digitalhumanities.org/humanist) list. These will describe new and ongoing partnerships and projects, report on progress and share challenges, and (above all) ask for your further input and guidance.
 
 We will also call for volunteers on committees and ad hoc working groups. As always, we welcome participation by members and non-members alike — but we encourage you to [support ACH](https://members.ach.org/) by joining the association!
 

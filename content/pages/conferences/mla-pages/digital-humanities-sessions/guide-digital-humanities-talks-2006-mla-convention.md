@@ -8,7 +8,7 @@ date: '2010-04-22'
 Digital Humanities Sessions – MLA 2006
 ---------------------------------------
 
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with digital-humanities talks at the 2006 [Modern Language Association](http://www.mla.org/) Convention (in Philadelphia from December 27 through 30). Some of these sessions contain only one or two relevant talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with digital-humanities talks at the 2006 [Modern Language Association](http://www.mla.org/) Convention (in Philadelphia from December 27 through 30). Some of these sessions contain only one or two relevant talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend these talks. But three sessions are free and open to the public: [“The Sound of Poetry, the Poetry of Sound”](#session133), [“Sounding the Visual”](#session244), and [“Postmodernity: Liabilities and Opportunities”](#session418). MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 
@@ -317,7 +317,7 @@ Presiding: Jeffrey J. Williams, Carnegie Mellon University
 
 Thursday, 28 December 2006, 1:45–3:00 p.m., Grand Ballroom Salon K, Philadelphia Marriott.
 
-Program arranged by the [Association for Computers and the Humanities](http://www.ach.org/)
+Program arranged by the [Association for Computers and the Humanities](/)
 
 Presiding: Dorothy Carr Porter, University of Kentucky
 
@@ -325,7 +325,7 @@ Presiding: Dorothy Carr Porter, University of Kentucky
 - “Saints, Technology, and the Art of Collaboration,” Amy Ogden, University of Virginia
 - “Reflections of a Digital Antiquary,” David Radcliffe, Virginia Polytechnic Institute and State University
 
-For copies of abstracts, visit [www.ach.org/mla/mla06/](http://www.ach.org/mla/mla06/) after 1 November.
+For copies of abstracts, visit [www.ach.org/mla/mla06/](/mla/mla06/) after 1 November.
 
  <a name="session233">233</a>: Researching Advanced Foreign Language Learning
 -----------------------------------------------------------------------------
@@ -812,7 +812,7 @@ Presiding: Dominic DelliCarpini, York College, PA
 
 Saturday, 30 December 2006, 12:00 noon–1:15 p.m., 308, Philadelphia Marriott.
 
-Program arranged by the [Association for Computers and the Humanities](http://www.ach.org/)
+Program arranged by the [Association for Computers and the Humanities](/)
 
 Presiding: Alan Galey, University of Alberta
 
@@ -820,7 +820,7 @@ Presiding: Alan Galey, University of Alberta
 - “How Does the Scholar Think? Modeling Editorial Work in the Electronic New Variorum Shakespeare,” Julia H. Flanders, Brown University
 - “Electronic Monuments: The Digital Variorum and Theories of the Archive,” Alan Galey
 
-For copies of abstracts, visit [www.ach.org/mla/mla06/](http://www.ach.org/mla/mla06/) after 1 November.
+For copies of abstracts, visit [www.ach.org/mla/mla06/](/mla/mla06/) after 1 November.
 
 - - - - - -
 

@@ -5,7 +5,7 @@ date: '2010-04-22'
 Humanities Computing Sessions – MLA 1996
 -----------------------------------------
 
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 1996 Modern Language Association Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 1996 Modern Language Association Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 Although the 1996 convention is now in the past, this guide will remain available, as a record of what went on. Similar information for many other years is available via [the main page on ACH MLA sessions](digital-humanities-sessions).
 
@@ -85,7 +85,7 @@ Respondent: Philip Cohen
 
 Saturday, 28 December, noon to 1:15 p.m., Wisconsin Room, Sheraton Washington Hotel
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: [John Lavagnino](http://www.stg.brown.edu/~lav), Brown University
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: [John Lavagnino](http://www.stg.brown.edu/~lav), Brown University
 
 - "Voicing Digital Poetics: Performative, Pathetic, and Radical Ephemerality," Jeffrey Powers-Beck, East Tennessee State University
 - "Joined at the Word: The Chadwyck-Healey English Poetry Full-Text Database," Mary Blockley, University of Texas, Austin
@@ -386,7 +386,7 @@ Program arranged by the Division on Methods of Literary Research. Presiding: Pet
 
 Monday, 30 December, noon to 1:15 p.m., Wisconsin Room, Sheraton Washington Hotel
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: Michael Neuman, Georgetown University
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: Michael Neuman, Georgetown University
 
 - "Jumping to Occlusions: the Poetics of Electronic Space," [Loss Pequeño Glazier](http://wings.buffalo.edu/epc/authors/glazier), State University of New York, Buffalo
 - "Elizabeth Bishop in Hypertext," Barbara Page, Vassar College

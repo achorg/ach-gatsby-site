@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2005 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2005 [Modern Language Association](http://www.mla.org/) Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2005 [Modern Language Association](http://www.mla.org/) Convention (in Washington, DC, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 You must pay the convention-registration fee in order to attend any of these talks; none of them are open to those who haven’t registered. MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 
@@ -493,7 +493,7 @@ For copies of abstracts, visit [www2.mcdaniel.edu/English/mlaproposal.htm](http:
 
 Thursday, 29 December 2005, 3:30–4:45 p.m., Eisenhower, Marriott.
 
-Program arranged by the [Association for Computers and the Humanities](http://www.ach.org/).
+Program arranged by the [Association for Computers and the Humanities](/).
 
 Presiding: Andrea Laue, University of Virginia.
 
@@ -502,7 +502,7 @@ Presiding: Andrea Laue, University of Virginia.
 - “A Faithful Narrative of the Surprising Work of Creating an Online Jonathan Edwards,” Caleb J. D. Maskell, Yale University
 - “Flexible Encoding for Search, Comparison, and Analysis,” Andrea Laue
 
-For copies of abstracts, visit [www.ach.org/mla/mla05/](http://www.ach.org/mla/mla05/).
+For copies of abstracts, visit [www.ach.org/mla/mla05/](/mla/mla05/).
 
 - - - - - -
 
@@ -599,7 +599,7 @@ For copies of abstracts, visit [www.businesscommunication.org](http://www.busine
 
 Friday, 30 December 2005, 12:00 noon–1:15 p.m., Park Tower Suite 8209, Marriott.
 
-Program arranged by the [Association for Computers and the Humanities](http://www.ach.org/).
+Program arranged by the [Association for Computers and the Humanities](/).
 
 Presiding: Paul Vetch, King’s College London.
 
@@ -607,7 +607,7 @@ Presiding: Paul Vetch, King’s College London.
 - “What eLearning Has Taught Us: Scoping the Use and Effectiveness of Learning Technologies in the Teaching of Literature,” Brett Lucas, Higher Education Academy
 - “The Changing (Inter)Face of Literary Research,” Paul Vetch
 
-For copies of abstracts, visit [www.ach.org/mla/mla05/](http://www.ach.org/mla/mla05/).
+For copies of abstracts, visit [www.ach.org/mla/mla05/](/mla/mla05/).
 
 - - - - - -
 

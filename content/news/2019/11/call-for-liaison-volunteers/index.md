@@ -8,8 +8,8 @@ The ACH Affiliation and Liaisons Committee is seeking liaison volunteers! As a l
 ### Role of a Liaison
 
 - Identify affiliating conferences, meetings or organizations to connect with and/or attend;
-- Communicate the [goals and values of ACH](http://ach.org/about/) to affiliating members and organizations;
-- Propose content for affiliating conferences or meetings that can advance digital humanities research and practice ([see recent panel presentation at 2019 Modern Language Association](http://ach.org/news/2018/12/ach-mla-transacting-dh-roles-rights-and-responsibilities-of-collaboration/));
+- Communicate the [goals and values of ACH](/about/) to affiliating members and organizations;
+- Propose content for affiliating conferences or meetings that can advance digital humanities research and practice ([see recent panel presentation at 2019 Modern Language Association](/news/2018/12/ach-mla-transacting-dh-roles-rights-and-responsibilities-of-collaboration/));
 - Document connections and partnerships with affiliated organizations (e.g. follow-up report about sponsored conference presentation)
 - Term length is one year, renewable
 

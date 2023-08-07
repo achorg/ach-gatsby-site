@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 1999 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 1999 [Modern Language Association](http://www.mla.org/) Convention (in Chicago, Illinois, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 1999 [Modern Language Association](http://www.mla.org/) Convention (in Chicago, Illinois, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But two sessions are free and open to the public: [“A Reading of Collaborative Texts from the World Wide Web”](#session349), and [“Chaucer Futures: Graduate Study in the Twenty-First Century”](#session626).
 
@@ -184,7 +184,7 @@ Program arranged by the [International James Joyce Foundation](http://english.oh
 
 Monday, 27 December 1999, 7:00 to 8:15 p.m., Haymarket Room, Hyatt Regency Chicago
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: Julia H. Flanders, Brown University
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: Julia H. Flanders, Brown University
 
 - “Digital Alchemy and the Three R’s of XML (Research, Writing, and Rendition): a report on a pilot application and implementation of Electronic Dissertations at the University of Iowa,” John Robert Gardner, University of Iowa
 - “School-to-Work,” Michelle Glaros, Dakota State University
@@ -307,7 +307,7 @@ Program arranged by the [Association of Teachers of Technical Writing](http://en
 
 Tuesday, 28 December 1999, 1:45 to 3:00 p.m., Field Room, Hyatt Regency Chicago
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: [Raymond G. Siemens](http://purl.oclc.org/NET/R_G_Siemens.htm), Malaspina University-College
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: [Raymond G. Siemens](http://purl.oclc.org/NET/R_G_Siemens.htm), Malaspina University-College
 
 - “Electric Theory (Truth, Use, and Method),” Tamise J. Van Pelt, Idaho State University
 - “French Neo-Structuralist Schools and Industrial Text Analysis,” William Glen Winder, University of British Columbia

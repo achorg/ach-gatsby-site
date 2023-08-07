@@ -2,7 +2,7 @@
 title: 'RFP, Racial Justice Consultant'
 date: '2020-08-25'
 ---
-The Association for Computers and the Humanities is an international scholarly society in operation since 1978 ([more info](https://ach.org/about/) and [history](https://ach.org/about/history/)). ACH recently issued a [statement](https://ach.org/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/) on Black Lives Matter, structural racism, and the measures the organization intends to take in order to further its anti-racist goals. Chief among those goals is engaging a paid external consultant to conduct a systematic review of ACH policies and procedures and to guide us toward a more just future for the ACH conference, publications, governance, and leadership.
+The Association for Computers and the Humanities is an international scholarly society in operation since 1978 ([more info](/about/) and [history](/about/history/)). ACH recently issued a [statement](/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/) on Black Lives Matter, structural racism, and the measures the organization intends to take in order to further its anti-racist goals. Chief among those goals is engaging a paid external consultant to conduct a systematic review of ACH policies and procedures and to guide us toward a more just future for the ACH conference, publications, governance, and leadership.
 
 We now seek proposals from qualified consultants interested in undertaking this project. In such proposals, we ask you to address:
 

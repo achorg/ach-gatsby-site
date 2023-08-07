@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2001 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2001 [Modern Language Association](http://www.mla.org/) Convention (in New Orleans, Louisiana, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2001 [Modern Language Association](http://www.mla.org/) Convention (in New Orleans, Louisiana, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But the following sessions are free and open to the public: [“Teaching Smarter”](#session586) and [“*American Sign Language Dictionary and Inflection Guide*: A Demonstration of the CD-ROM”](#session596). MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 
@@ -549,7 +549,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 - "Neobaroque Labyrinths and Computer Game Spaces," Angela Ndalianis, University of Melbourne
 - "Showcasing the Spectacular: Special Effects, Computer Games, and the Attractions Tradition of the Cinema," Saige N. Walton, University of Melbourne
 
-See [the associated web site](http://www.ach.org/mla01/) for further details.
+See [the associated web site](/mla01/) for further details.
 
 - - - - - -
 

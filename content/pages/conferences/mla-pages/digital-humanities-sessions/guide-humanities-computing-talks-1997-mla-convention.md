@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 1997 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 1997 [Modern Language Association](http://www.mla.org/) Convention (in Toronto, Ontario, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 1997 [Modern Language Association](http://www.mla.org/) Convention (in Toronto, Ontario, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But a few sessions are free and open to the public: [Revolution or Evolution? Electronic Resources in the Humanities](#session97); [Electronic Texts in the Humanities](#session308); [The Refereed Electronic Journal](#session343); and [Literary Theory and Children’s Literature: Reflections on the Past and Predictions for the Future](#session624).
 
@@ -134,7 +134,7 @@ Further information is available [on the World Wide Web](http://www.ccny.cuny.ed
 
 Sunday, 28 December 1997, 1:45 to 3:00 p.m., Toronto Room, Royal York Hotel
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: [John Lavagnino](http://www.stg.brown.edu/~lav/), Brown University
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: [John Lavagnino](http://www.stg.brown.edu/~lav/), Brown University
 
 - “Hypertext Theory Post-Poststructuralism,” [Matthew G. Kirschenbaum](http://www.iath.virginia.edu/~mgk3k/), University of Virginia
 - “Storytime: Temporal As Well As Spatial Metaphors for Hypertext,” Michael Groden, University of Western Ontario
@@ -390,7 +390,7 @@ A special session; session leader: Grover C. Furr, Montclair State University
 
 Tuesday, 30 December 1997, 10:15 to 11:30 a.m., Room 203B, Toronto Convention Centre
 
-Program arranged by the [Association for Computers and the Humanities](http://ach.org). Presiding: [C. M. Sperberg-McQueen](http://www.uic.edu/~cmsmcq/), University of Illinois at Chicago
+Program arranged by the [Association for Computers and the Humanities](/). Presiding: [C. M. Sperberg-McQueen](http://www.uic.edu/~cmsmcq/), University of Illinois at Chicago
 
 - “Texts as Animaps: Genre Transformation in the Early Nineteenth Century”, David C. Lipscomb, Columbia University
 - “Applied Virtual Reality: Mapping Texts in Three Dimensions with VRML”, [Matthew G. Kirschenbaum](http://www.iath.virginia.edu/~mgk3k/), University of Virginia

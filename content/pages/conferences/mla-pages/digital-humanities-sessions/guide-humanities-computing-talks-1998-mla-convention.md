@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 1998 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 1998 [Modern Language Association](http://www.mla.org/) Convention (in San Francisco, California, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 1998 [Modern Language Association](http://www.mla.org/) Convention (in San Francisco, California, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in  
 order to attend any of these talks. But two sessions are free and open to the public: [A Performance of Hypermedia Poetry and Fiction by Stephanie Strickland and M. D. Coverley](#session667), and [Cyber Ed: Academic Labor and Technology](#session581a).

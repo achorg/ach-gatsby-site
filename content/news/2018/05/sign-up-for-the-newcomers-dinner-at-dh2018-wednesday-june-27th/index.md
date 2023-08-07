@@ -3,7 +3,7 @@ title: 'Sign up for the Newcomer’s Dinner at DH2018 – Wednesday, June 27th'
 date: '2018-05-23'
 author: 'Lisa Marie Rhody'
 ---
-Are you new to the DH community or to digital humanities conferences? Join a small group of newbies and [ACH](http://ach.org)/DH old-timers at a local restaurant and make scholarly connections and new friendships.
+Are you new to the DH community or to digital humanities conferences? Join a small group of newbies and [ACH](/)/DH old-timers at a local restaurant and make scholarly connections and new friendships.
 
 **Dinners will happen the evening of Wednesday, 27 June**, with parties departing after the poster session. The poster session ends at 7pm. Group leaders should specify **at least a day in advance** from where the group will depart.
 

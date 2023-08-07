@@ -13,11 +13,11 @@ Nominations should be sent to [ach-nominations@digitalhumanities.org](mailto:ach
 
 For more information on the responsibilities and obligations of ACH officers, see
 
-[http://www.ach.org/about/constitution](http://www.ach.org/about/constitution)
+[http://www.ach.org/about/constitution](/about/constitution)
 
 Current officers of the ACH are listed at
 
-[http://www.ach.org/about/officers](http://www.ach.org/about/officers)
+[http://www.ach.org/about/officers](/about/officers)
 
 Many thanks,
 

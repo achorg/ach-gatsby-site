@@ -19,7 +19,7 @@ I want to assure you that the Executive Committee hears these concerns and recog
 
 A number of pivotal issues have confronted our organization in the last year or so in the form of discussions about our identity, our values, and our role as a professional organization. These conversations have only been heightened for us in these last few months following not only the US Presidential election but also episodes of hateful speech, harassment, and acts of violence against members of historically vulnerable communities. These attacks have occurred not just in physical environments on campuses and in Ferguson, Missouri and Cannon Ball, North Dakota, but also through social media and other digital platforms. As our organization is devoted to the exploration of intersectionality and critical exploration of technology and the humanities, it was important for ACH to address the membership at this fraught time in our collective history.
 
-I encourage you, if you have not already, to review the [Statement on the Aftermath of the 2016 Election](http://ach.org/news/2016/12/ach-statement-in-the-aftermath-of-the-2016-election/) published on the ACH website and included below. It provides a number of commitments from ACH to our membership. It signals our continuing history as an organization committed to critical thinking, professional development, and diverse, inclusive, and accessible communities. And, significantly, in the coming months you’ll receive information on specific initiatives and opportunities that will back up our words with directed action. We also welcome input from members to guide us as we move these initiatives forward.
+I encourage you, if you have not already, to review the [Statement on the Aftermath of the 2016 Election](/news/2016/12/ach-statement-in-the-aftermath-of-the-2016-election/) published on the ACH website and included below. It provides a number of commitments from ACH to our membership. It signals our continuing history as an organization committed to critical thinking, professional development, and diverse, inclusive, and accessible communities. And, significantly, in the coming months you’ll receive information on specific initiatives and opportunities that will back up our words with directed action. We also welcome input from members to guide us as we move these initiatives forward.
 
 We should also be proud of other accomplishments this year and soon to come that share these aims:
 
@@ -71,7 +71,7 @@ At the annual ACH Executive Council meeting in Kraków during the Digital Humani
 
 Following the meeting, members of the Council drafted a policy, based in part on a similar document shared by the Modern Language Association (MLA). The full ACH Executive Council adopted the policy on 25 September 2016. Each Officer and member of the Council has completed a Conflict of Interest Statement and will continue to do so on an annual basis.
 
-You can read the full policy on [our announcements page](http://ach.org/news/2016/12/ach-adopts-conflict-of-interest-statement/).
+You can read the full policy on [our announcements page](/news/2016/12/ach-adopts-conflict-of-interest-statement/).
 
 ACH Member Benefits: Publisher Discounts
 ----------------------------------------
@@ -95,4 +95,4 @@ The ACH is also considering officially supporting the [Digital Humanities Slack 
 **Keep in touch**
 -----------------
 
-Keep in touch with the ACH online: [Twitter](https://twitter.com/achdotorg), [Facebook](https://www.facebook.com/ACHorg/?fref=ts), or [ACH.org](http://www.ach.org). As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities. If you would like to send us a private message you can always write to [secretary@ach.org.](mailto:secretary@ach.org)
+Keep in touch with the ACH online: [Twitter](https://twitter.com/achdotorg), [Facebook](https://www.facebook.com/ACHorg/?fref=ts), or [ACH.org](/). As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities. If you would like to send us a private message you can always write to [secretary@ach.org.](mailto:secretary@ach.org)

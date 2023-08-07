@@ -43,7 +43,7 @@ Additionally:
 We encourage ACH members to consider participating in other conferences in digital humanities and associated humanities fields:
 
 - [CSDH/SCHN](http://csdh-schn.org/) Annual Conferences in Canada
-- [ACH sessions](http://www.ach.org/ach-sessions) at MLA, the annual convention of the [Modern Language Association](http://mla.org)
+- [ACH sessions](/ach-sessions) at MLA, the annual convention of the [Modern Language Association](http://mla.org)
 - [DHSI](http://dhsi.org): Digital Humanities Summer Institute at the University of Victoria
 - [THATCamp](http://thatcamp.org): regional DH unconferences taking place in different locations throughout the year
 - [Text Encoding Initiative Conference](http://www.tei-c.org/Membership/Meetings/)

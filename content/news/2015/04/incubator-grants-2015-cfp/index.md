@@ -32,7 +32,7 @@ Applications will be evaluated according to the following criteria:
 
 For further technical information about the ACH/*DHQ* websites please see further details below.
 
-**\*\* Applicants must be members of the ACH &lt;**[**http://ach.org/**](http://ach.org/)**&gt; at the time of application \*\***
+**\*\* Applicants must be members of the ACH &lt;**[**http://ach.org/**](/)**&gt; at the time of application \*\***
 
 Grants will be up to $US 1000. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. They are not intended to support corporate, long-term, or large-budget projects. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2015.
 
@@ -63,6 +63,6 @@ For inquiries about the website please contact webmaster@ach.org, or for DHAnswe
 
 Previous grant winners can be found here:
 
-- [2012](http://ach.org/ach-announces-microgrants-winners)
-- [2013](http://ach.org/news/2013/07/ach-microgrants-winners-2013/)
-- [2014](http://ach.org/news/2014/07/ach_microgrants_winners_2014/)
+- [2012](/ach-announces-microgrants-winners)
+- [2013](/news/2013/07/ach-microgrants-winners-2013/)
+- [2014](/news/2014/07/ach_microgrants_winners_2014/)

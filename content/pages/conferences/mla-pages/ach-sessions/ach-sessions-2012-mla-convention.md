@@ -3,11 +3,11 @@ title: ach-sessions-2012-mla-convention
 date: '2011-12-12'
 author: 'Susan Schreibman'
 ---
-[The Association for Computers and the Humanities](http://www.ach.org/) will be sponsoring two sessions at the 2012 convention of the [Modern Language Association](http://www.mla.org/), in Seattle from 5 through 8 January.
+[The Association for Computers and the Humanities](/) will be sponsoring two sessions at the 2012 convention of the [Modern Language Association](http://www.mla.org/), in Seattle from 5 through 8 January.
 
-We also offer a [guide to all digital humanities sessions at the convention](http://www.ach.org/guide-digital-humanities-talks-2012-mla-convention).
+We also offer a [guide to all digital humanities sessions at the convention](/guide-digital-humanities-talks-2012-mla-convention).
 
-Similar information for many other years is available via [the main page on ACH MLA sessions](http://ach.org/mla-pages).
+Similar information for many other years is available via [the main page on ACH MLA sessions](/mla-pages).
 
 215. Digital South, Digital Futures
 ------------------------------------

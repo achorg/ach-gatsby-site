@@ -2,7 +2,7 @@
 title: 'ACH Sessions at the 2008 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) will be sponsoring two sessions at the 2008 convention of the [Modern Language Association](http://www.mla.org/), in San Francisco from 27 through 30 December: see below for details.
+[The Association for Computers and the Humanities](/) will be sponsoring two sessions at the 2008 convention of the [Modern Language Association](http://www.mla.org/), in San Francisco from 27 through 30 December: see below for details.
 
 We also offer a [guide to all digital-humanities sessions at the convention](?q=node/65).
 

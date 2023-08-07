@@ -18,7 +18,7 @@ Throughout the year, and most especially at our annual DH conferences, the ACH p
 
 We offer the following services to job seekers:
 
-- An ongoing mentoring program of events throughout the year — see our [Mentoring page](https://ach.org/activities/mentoring/) for more info.
+- An ongoing mentoring program of events throughout the year — see our [Mentoring page](/activities/mentoring/) for more info.
 - The annual ACH Jobs Slam, held at the DH conference at the ACH Annual General Meeting. The jobs slam is an opportunity for job seekers and those hiring to announce themselves and make contact.
 
 Grants and Awards

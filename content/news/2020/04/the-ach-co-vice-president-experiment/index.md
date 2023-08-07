@@ -3,7 +3,7 @@ title: 'The ACH Co-Vice President Experiment'
 date: '2020-04-01'
 author: 'Vika Zafrin'
 ---
-Following the [announcement of the 2020 ACH elections results](http://ach.org/news/2020/04/ach-2020-elections-results/), we are publishing a post that explains how we arrived at the experiment in co-vice presidency on which ACH will embark this summer.
+Following the [announcement of the 2020 ACH elections results](/news/2020/04/ach-2020-elections-results/), we are publishing a post that explains how we arrived at the experiment in co-vice presidency on which ACH will embark this summer.
 
 When Quinn Dombrowski and Roopika Risam discovered they were running against each other for ACH Vice President/President Elect, it could have been awkward because they’re collaborators and friends. But they emailed each other, decided it wouldn’t be awkward, and Quinn proposed to make ACH election voting ads that they’d both retweet, based on their collaboration on *The Data-Sitters Club.* Throughout the election period, jokes about being co-VPs ensued, until one night, Quinn emailed Roopsi and wondered if Roopsi maybe wasn’t joking about the prospect of being co-VPs. Indeed, she was not – the two had similar goals for ACH, had successful experience working together, and have complementary skillsets.
 

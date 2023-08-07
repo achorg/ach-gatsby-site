@@ -25,7 +25,7 @@ Applications will be evaluated according to the following criteria:
 - contribution of the activity to development and promotion of the ACH mission;
 - deliverables can be accomplished within the proposed budget and time period.
 
-\*\* Applicants must be members of the ACH &lt;[http://ach.org/](http://ach.org/)&gt; at the time of application \*\*
+\*\* Applicants must be members of the ACH &lt;[http://ach.org/](/)&gt; at the time of application \*\*
 
 Grants will be up to $1000. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 1 July 2017.
 

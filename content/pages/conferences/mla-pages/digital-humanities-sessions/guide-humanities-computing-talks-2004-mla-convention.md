@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2004 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2004 [Modern Language Association](http://www.mla.org/) Convention (in Philadelphia, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2004 [Modern Language Association](http://www.mla.org/) Convention (in Philadelphia, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But two sessions are free and open to the public: [“Plagiarism and the Internet”](#session64) and [“Medieval Manuscripts in the Digital Age”](#session635). MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 

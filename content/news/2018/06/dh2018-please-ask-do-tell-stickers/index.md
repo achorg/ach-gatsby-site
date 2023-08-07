@@ -3,7 +3,7 @@ title: 'DH2018 Please Ask/Do Tell Stickers'
 date: '2018-06-24'
 author: 'Purdom Lindblad'
 ---
-Please Ask/Do Tell stickers are back for DH2018! [Much like at DH2016](http://ach.org/news/2016/07/please-ask-do-tell-at-dh2016/), the Please Ask/Do Tell stickers are designed to be invitations for conversation.
+Please Ask/Do Tell stickers are back for DH2018! [Much like at DH2016](/news/2016/07/please-ask-do-tell-at-dh2016/), the Please Ask/Do Tell stickers are designed to be invitations for conversation.
 
 If you have insight into the conference, a particular community of practice within Digital Humanities, a job opportunity to share, mentoring advice, or other information you are willing to share, attach a “Please Ask” sticker to your name badge.
 

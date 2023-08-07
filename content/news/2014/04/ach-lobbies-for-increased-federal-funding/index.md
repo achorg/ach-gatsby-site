@@ -9,4 +9,4 @@ The Association for Computers and the Humanities joins [over 100 institutions an
 
 Read ACH President Bethany Nowviskie’s [submitted testimony](http://www.appropriations.senate.gov/sites/default/files/hearings/Association%20for%20Computers%20and%20the%20Humanities%2C%20UVA%20-%20OWT.pdf) (PDF link), and seek ways to strengthen humanities voices in conversations about federal funding and policy through the [National Humanities Alliance](http://www.nhalliance.org/).
 
-Other examples of ACH’s advocacy work on behalf of digital humanities scholars and practitioners are [available here](http://ach.org/activities/advocacy/).
+Other examples of ACH’s advocacy work on behalf of digital humanities scholars and practitioners are [available here](/activities/advocacy/).

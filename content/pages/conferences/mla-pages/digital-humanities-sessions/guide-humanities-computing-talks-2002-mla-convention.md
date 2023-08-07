@@ -2,7 +2,7 @@
 title: 'Guide to Humanities-Computing Talks at the 2002 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) has compiled this list of sessions with computing-related talks at the 2002 [Modern Language Association](http://www.mla.org/) Convention (in New York City, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
+[The Association for Computers and the Humanities](/) has compiled this list of sessions with computing-related talks at the 2002 [Modern Language Association](http://www.mla.org/) Convention (in New York City, from December 27 through 30). Some of these sessions contain only one or two computing-related talks, but this list includes the entire program for each session.
 
 In most cases you must pay the convention-registration fee in order to attend any of these talks. But one session is free and open to the public: [“Copyright and Fair Use in the Electronic Environment”](#session204). MLA talks are published at the discretion of their authors; if you want to obtain the text of a talk you were unable to attend, the best method is to contact the author directly.
 
@@ -374,7 +374,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 - “Technology of Our Own: Computer Literacy and the Small Press,” Jim O’Loughlin, University of Northern Iowa
 - “Old Dogs, New Tricks? New Technologies, the Canon, and the Structure of the Profession,” Deborah Lea Madsen, South Bank University
 
-See [http://www.ach.org/mla02](http://www.ach.org/mla02) for further details.
+See [http://www.ach.org/mla02](/mla02) for further details.
 
 <a name="session285">285</a>: Standards in the Documentary Editing Community
 ----------------------------------------------------------------------------
@@ -668,7 +668,7 @@ Program arranged by the Association for Computers and the Humanities. Presiding:
 - “Managing the Walt Whitman Archive,” Alice Rutkowski, University of Virginia
 - “Managing and Editing the Dickinson Electronic Archives,” Lara E. Vetter, Dickinson Electronic Archives
 
-See [http://www.ach.org/mla02](http://www.ach.org/mla02) for further details.
+See [http://www.ach.org/mla02](/mla02) for further details.
 
 - - - - - -
 

@@ -9,7 +9,7 @@ The Association for Computers and the Humanities (ACH) invites nominations for t
 
 - Three Executive Council members for four­-year terms (2016-2020);
 - A new President for a two-year term (2016-2018);
-- And, per our [constitutional change](http://ach.org/news/2014/12/2014-election-results-announced/) last year, a Vice President/President-Elect, for two consecutive two-year terms (2016-2018 and 2018-2020).
+- And, per our [constitutional change](/news/2014/12/2014-election-results-announced/) last year, a Vice President/President-Elect, for two consecutive two-year terms (2016-2018 and 2018-2020).
 
 We seek candidates who want to support and advance the field of digital humanities (DH) by helping to lead the ACH.
 
@@ -25,13 +25,13 @@ We welcome participants not just from universities and colleges, but also galler
   - Executive Council nomination
   - ACH President nomination
   - ACH Vice President nomination
-- Provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: [http://ach.org/news/2011/12/elections-candidates/](http://ach.org/news/2011/12/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
+- Provide a brief candidate statement and biography. Sample candidate statements from past elections are available at: [http://ach.org/news/2011/12/elections-candidates/](/news/2011/12/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 
 If you have any questions, please feel free to contact us at [nominations@ach.org](nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
 
-For more information on the responsibilities and obligations of ACH council members, see [http://www.ach.org/about/constitution](http://www.ach.org/about/constitution).
+For more information on the responsibilities and obligations of ACH council members, see [http://www.ach.org/about/constitution](/about/constitution).
 
-Current officers of the ACH are listed at [http://ach.org/about/officers/](http://ach.org/about/officers/) .
+Current officers of the ACH are listed at [http://ach.org/about/officers/](/about/officers/) .
 
 Many thanks,
 

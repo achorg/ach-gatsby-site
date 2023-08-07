@@ -2,7 +2,7 @@
 title: 'ACH Sessions at the 1996 MLA Convention'
 date: '2010-04-22'
 ---
-[The Association for Computers and the Humanities](http://ach.org) will be offering two sessions on the subject of Poetry and Computers at the 1996 convention of the Modern Language Association, in Washington, DC from 27 through 30 December.
+[The Association for Computers and the Humanities](/) will be offering two sessions on the subject of Poetry and Computers at the 1996 convention of the Modern Language Association, in Washington, DC from 27 through 30 December.
 
 We also offer a [guide to all computer-related sessions at the convention](?q=node/53).
 
