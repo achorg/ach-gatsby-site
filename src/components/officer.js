@@ -1,9 +1,9 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import { StaticImage, GatsbyImage, getImage } from 'gatsby-plugin-image';
-import { FaEnvelope, FaGlobe } from 'react-icons/fa';
+import { FaEnvelope, FaGlobe, FaTwitter } from 'react-icons/fa';
 
-const Officer = ({ name, imageSrc, position, affiliation, website, email }) => {
+const Officer = ({ name, imageSrc, position, affiliation, website, email, twitter }) => {
     const query = useStaticQuery(graphql`
         query {
             allFile(filter: { relativePath: { glob: "officers/*" } }) {
@@ -54,6 +54,11 @@ const Officer = ({ name, imageSrc, position, affiliation, website, email }) => {
                 { email && (
                     <a href={`mailto:${email}`}>
                         <FaEnvelope className="icon" aria-hidden="true" />
+                    </a>
+                ) }
+                { twitter && (
+                    <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noreferrer">
+                        <FaTwitter className="icon" aria-hidden="true" />
                     </a>
                 ) }
             </div>
