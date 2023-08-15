@@ -83,6 +83,7 @@ module.exports = {
         siteUrl: `https://ach.org/`,
     },
     plugins: [
+        'gatsby-plugin-netlify-cms',
         `gatsby-plugin-image`,
         {
             resolve: 'gatsby-plugin-react-svg',

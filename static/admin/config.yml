@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: achorg/ach-gatsby-site
+  branch: cms
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: news
+    label: News
+    folder: content/news
+    create: true
+    fields:
+      - { name: author, label: Author }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: pages
+    label: Pages
+    folder: content/pages
+    create: true
+    fields:
+      - { name: author, label: Author }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
