@@ -17,6 +17,7 @@
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.14",
     "gatsby": "^5.11.0",
+    "gatsby-cli": "^5.11.0",
     "gatsby-plugin-feed": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
