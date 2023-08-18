@@ -21,7 +21,11 @@ const Index = ({ data, location }) => {
             </section>
             <section className="boxed-regular">
                 <h2 className="section-title">The latest from ACH</h2>
-                <RecentPosts layoutStyle="grid" maxPosts={6} />
+                <RecentPosts
+                    layoutStyle="grid"
+                    maxPosts={6}
+                    headingLevel="h3"
+                />
             </section>
             <section className="boxed-fullwidth">
                 <CallToAction

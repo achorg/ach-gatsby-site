@@ -19,16 +19,15 @@ const Layout = ({ location, title, children, usingHero }) => {
                 }
             >
                 <div className="header-inner boxed-regular">
-                    <h1 className="main-heading">
-                        <Link to="/">
-                            <StaticImage
-                                src="../images/logo.png"
-                                alt={title}
-                                loading="eager"
-                                imgClassName="!transition-none"
-                            />
-                        </Link>
-                    </h1>
+                    <Link to="/">
+                        <StaticImage
+                            src="../images/logo.png"
+                            alt={title}
+                            loading="eager"
+                            className="logo"
+                            imgClassName="!transition-none"
+                        />
+                    </Link>
                     <Navigation />
                 </div>
             </header>
