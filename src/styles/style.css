@@ -116,7 +116,6 @@ header.page-header {
     @apply prose-a:text-primary-500 dark:prose-a:text-primary-200;
     @apply prose-a:font-medium;
     
-    @apply prose-blockquote:prose-quoteless;
     @apply prose-blockquote:font-regular prose-blockquote:not-italic;
 }
 
