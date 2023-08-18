@@ -39,7 +39,7 @@ const Index = ({ data, location }) => {
                     }
                     link={
                         <Link to="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill button-accent">
-                            Read More
+                            Read more
                         </Link>
                     }
                 />

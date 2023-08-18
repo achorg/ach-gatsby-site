@@ -1,9 +1,12 @@
 import * as React from 'react';
 import { Link } from 'gatsby';
+import { SkipNavLink, SkipNavContent } from '@reach/skip-nav';
 import { StaticImage } from 'gatsby-plugin-image';
 import Navigation from './navigation';
 import Breadcrumbs from './breadcrumbs';
 import { FaCreativeCommons, FaCreativeCommonsBy, FaCreativeCommonsSa } from 'react-icons/fa';
+
+import "@reach/skip-nav/styles.css"
 
 const Layout = ({ location, title, children, usingHero }) => {
     const isNestedPage = location.pathname
@@ -11,6 +14,7 @@ const Layout = ({ location, title, children, usingHero }) => {
 
     return (
         <div className="global-wrapper">
+            <SkipNavLink />
             <header
                 className={
                     usingHero ?
@@ -31,6 +35,7 @@ const Layout = ({ location, title, children, usingHero }) => {
                     <Navigation />
                 </div>
             </header>
+            <SkipNavContent />
             <main>
                 { isNestedPage && (
                     <section className="boxed-regular">

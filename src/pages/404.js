@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo';
@@ -13,9 +13,9 @@ const NotFoundPage = ({ data, location }) => {
                 <div className="error-container">
                     <h1>404</h1>
                     <p>Sorry, we couldn't find that page.</p>
-                    <a href="/" className="button-pill">
+                    <Link to="/" className="button-pill">
                         Take me back home
-                    </a>
+                    </Link>
                 </div>
             </section>
         </Layout>

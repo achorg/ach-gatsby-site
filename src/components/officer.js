@@ -49,17 +49,30 @@ const Officer = ({ name, imageSrc, position, affiliation, website, email, twitte
             </div>
             <div className="officer-socials">
                 { website && (
-                    <a href={website} target="_blank" rel="noreferrer">
+                    <a
+                        href={website}
+                        target="_blank"
+                        rel="noreferrer"
+                        title="Website"
+                    >
                         <FaGlobe className="icon" aria-hidden="true" />
                     </a>
                 ) }
                 { email && (
-                    <a href={`mailto:${email}`}>
+                    <a
+                        href={`mailto:${email}`}
+                        title="Email"
+                    >
                         <FaEnvelope className="icon" aria-hidden="true" />
                     </a>
                 ) }
                 { twitter && (
-                    <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noreferrer">
+                    <a
+                        href={`https://twitter.com/${twitter}`}
+                        target="_blank"
+                        rel="noreferrer"
+                        title="Twitter"
+                    >
                         <FaTwitter className="icon" aria-hidden="true" />
                     </a>
                 ) }

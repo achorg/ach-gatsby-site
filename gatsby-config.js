@@ -126,6 +126,7 @@ module.exports = {
                             markdownCaptions: true,
                         },
                     },
+                    `gatsby-remark-external-links`,
                     {
                         resolve: `gatsby-remark-responsive-iframe`,
                         options: {
