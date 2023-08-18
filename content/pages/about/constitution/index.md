@@ -2,8 +2,8 @@
 title: 'Constitution & Bylaws of the Association for Computers and the Humanities'
 date: '2010-03-14'
 ---
-Constitution of the Association for Computers and the Humanities
-----------------------------------------------------------------
+
+## Constitution of the Association for Computers and the Humanities
 
 Approved December 1978; as amended November 1979, 1983, June 1987, December 1992, December 2002, December 2013, December 2014, March 2021.
 
@@ -24,39 +24,39 @@ Membership shall be open, through the processes established by the Association a
 #### A. The Officers of the Association shall be:
 
 1. The Immediate Past President(s), whose term of office shall normally be one year, coinciding with the first year of the President’s/Presidents’ term.
-2. The President(s), who shall be normally elected by the general membership originally into the position of Vice President(s) and whose term of office shall be two years, ending at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st of their final year in office. Following the expiration of their last term, they shall succeed to the position of Immediate Past President(s). The President(s), as the (co-)chief executive officer(s) of the Association, shall: 
-1. Preside at the General Business Meetings of the Association and of the Executive Council;
-2. Be a member(s) or ex-officio member(s) of all committees of the Association (or designate the Vice President(s) to fill that role).
-3. The Vice President(s)/President(s)-Elect, who shall be elected by the general membership, and whose term of office shall normally be two years, ending at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st of their final year in office. Following the expiration of their term, the Vice President(s) shall succeed to the position of President(s). The Vice President(s) shall perform those of the President’s/Presidents’ duties as shall, from time to time, be delegated to them by the President(s).
-4. The Executive Secretariat consisting of one or more Executive Secretaries, who shall be responsible for the day-to-day administration of the Association. They shall be appointed by and serve at the pleasure of the Executive Council. It shall be the responsibility of the Executive Secretariat to carry out policies established by the Executive Council and perform such duties as are assigned by it.
-5. The Treasury consisting of one or more Treasurers, who shall be appointed and serve at the pleasure of the Executive Council. They shall: 
-1. Maintain accurate and timely records of all income and expenditures of the Association;
-2. Be responsible for the safekeeping of all documents relating to the fiscal affairs of the Association;
-3. Safeguard all funds and income of the Association and keep them safely deposited in a chartered bank approved by the Executive Council;
-4. On authorization of the Executive Council, draw checks against deposited funds. For checks in excess of amounts to be determined by the Executive Council, the signature of a second officer designated by the Executive Council shall be required;
-5. Prepare, with the advice of the Executive Secretariat, the annual budget for the approval of the Executive Council;
-6. Report at the annual meeting of the Executive Council, or as it shall require, on the collection and disbursements of the Association.
-7. Deliver copies of their financial records of ACH transactions to the Executive Secretariat for archiving, at least once a year, usually at the annual general meeting.
+2. The President(s), who shall be normally elected by the general membership originally into the position of Vice President(s) and whose term of office shall be two years, ending at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st of their final year in office. Following the expiration of their last term, they shall succeed to the position of Immediate Past President(s). The President(s), as the (co-)chief executive officer(s) of the Association, shall:
+3. Preside at the General Business Meetings of the Association and of the Executive Council;
+4. Be a member(s) or ex-officio member(s) of all committees of the Association (or designate the Vice President(s) to fill that role).
+5. The Vice President(s)/President(s)-Elect, who shall be elected by the general membership, and whose term of office shall normally be two years, ending at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st of their final year in office. Following the expiration of their term, the Vice President(s) shall succeed to the position of President(s). The Vice President(s) shall perform those of the President’s/Presidents’ duties as shall, from time to time, be delegated to them by the President(s).
+6. The Executive Secretariat consisting of one or more Executive Secretaries, who shall be responsible for the day-to-day administration of the Association. They shall be appointed by and serve at the pleasure of the Executive Council. It shall be the responsibility of the Executive Secretariat to carry out policies established by the Executive Council and perform such duties as are assigned by it.
+7. The Treasury consisting of one or more Treasurers, who shall be appointed and serve at the pleasure of the Executive Council. They shall:
+8. Maintain accurate and timely records of all income and expenditures of the Association;
+9. Be responsible for the safekeeping of all documents relating to the fiscal affairs of the Association;
+10. Safeguard all funds and income of the Association and keep them safely deposited in a chartered bank approved by the Executive Council;
+11. On authorization of the Executive Council, draw checks against deposited funds. For checks in excess of amounts to be determined by the Executive Council, the signature of a second officer designated by the Executive Council shall be required;
+12. Prepare, with the advice of the Executive Secretariat, the annual budget for the approval of the Executive Council;
+13. Report at the annual meeting of the Executive Council, or as it shall require, on the collection and disbursements of the Association.
+14. Deliver copies of their financial records of ACH transactions to the Executive Secretariat for archiving, at least once a year, usually at the annual general meeting.
 
 #### B. The Executive Council
 
-1. The affairs and business of the Association shall be managed and controlled, subject to the provisions of the Bylaws, by an Executive Council consisting of: 
+1. The affairs and business of the Association shall be managed and controlled, subject to the provisions of the Bylaws, by an Executive Council consisting of:
 1. The Immediate Past President(s), the President(s), and the Vice President(s), ex officiis; these officers shall be with vote, one per office.
-2. The Executive Secretariat, the Communications Officer(s), and the Treasurer(s), ex officiis; these officers shall be with vote, one per office.
-3. Twelve Members at large shall serve terms of four years, with one quarter of their number retiring each year, at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st. Members at large shall be eligible for immediate re-election.
-4. One editor from each of any ACH-sponsored publications as ex officio member with vote.
-5. Invited liaison members from allied organizations, and others invited by the Executive Council, without vote.
-2. The Executive Council shall be the basic policy making organ of the Association. The function and duties of the Executive Council shall be: 
+1. The Executive Secretariat, the Communications Officer(s), and the Treasurer(s), ex officiis; these officers shall be with vote, one per office.
+1. Twelve Members at large shall serve terms of four years, with one quarter of their number retiring each year, at the close of the annual summer Executive Council meeting or (in the event no Executive Council meeting is held in the summer) on August 1st. Members at large shall be eligible for immediate re-election.
+1. One editor from each of any ACH-sponsored publications as ex officio member with vote.
+1. Invited liaison members from allied organizations, and others invited by the Executive Council, without vote.
+1. The Executive Council shall be the basic policy making organ of the Association. The function and duties of the Executive Council shall be:
 1. To appoint the Executive Secretariat, Treasury, and Communications Officer(s);
-2. To approve the budget submitted by the Treasury and to set the dues and other financial conditions of membership;
-3. To organize and conduct events sponsored by the Association;
-4. To establish and terminate Standing Committees and Special Interest Groups;
-5. To accept reports as required from such committees as it shall appoint;
-6. To maintain liaison with other professional associations in related fields;
-7. To elect representatives to appropriate federations and councils;
-8. To establish, subject to the approval of a majority of the membership, appropriate Bylaws;
-9. To ensure the preservation of documents related to the Association’s business in a reliable archive or repository;
-10. To transact all such other business which furthers the purpose of the Association and which is not subject to the approval of the General Business Meeting of the Association.
+1. To approve the budget submitted by the Treasury and to set the dues and other financial conditions of membership;
+1. To organize and conduct events sponsored by the Association;
+1. To establish and terminate Standing Committees and Special Interest Groups;
+1. To accept reports as required from such committees as it shall appoint;
+1. To maintain liaison with other professional associations in related fields;
+1. To elect representatives to appropriate federations and councils;
+1. To establish, subject to the approval of a majority of the membership, appropriate Bylaws;
+1. To ensure the preservation of documents related to the Association’s business in a reliable archive or repository;
+1. To transact all such other business which furthers the purpose of the Association and which is not subject to the approval of the General Business Meeting of the Association.
 
 ### V. Conferences
 
@@ -91,10 +91,7 @@ The Constitution or the Bylaws may be amended as follows:
 
 Upon dissolution of the Association, a matter which requires assent of three-quarters of the membership, the Executive Council shall, after paying or making provisions for payment of all the liabilities of the Association, dispose of all the assets of the Association exclusively for the purpose of the Association in such manner, or to such organization or organizations organized and operated exclusively for educational purposes or shall at the time qualify as an exempt organization or organizations under section 501 (c) (3) of the United States Internal Revenue Code of 1954 (or the corresponding provision of any future United States Internal Revenue law), as the Executive Council shall determine. Any such assets not so disposed of shall be disposed of by the Court of Common Pleas of the country in which the principal office of the Association is then located, exclusively for such purposes or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purposes.
 
-- - - - - -
-
-Bylaws of the Association for Computers and the Humanities
-----------------------------------------------------------
+## Bylaws of the Association for Computers and the Humanities
 
 Approved August 1979, Amended 1983, 1987, 1992, 2002, 2013, 2021
 

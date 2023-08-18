@@ -32,10 +32,6 @@ module.exports = {
                         link: '/about/history/',
                     },
                     {
-                        name: 'Standing Committees',
-                        link: '/about/standing-committees/',
-                    },
-                    {
                         name: 'Officers and Council Members',
                         link: '/about/officers/',
                     },
@@ -58,8 +54,12 @@ module.exports = {
                         link: '/activities/grants-and-awards/',
                     },
                     {
-                        name: 'Mentoring',
+                        name: 'Professional Development',
                         link: '/activities/mentoring/',
+                    },
+                    {
+                        name: 'Publications',
+                        link: '/publications/',
                     },
                 ],
             },
@@ -71,10 +71,7 @@ module.exports = {
                 name: 'News',
                 link: '/news/',
             },
-            {
-                name: 'Publications',
-                link: '/publications/',
-            },
+
             {
                 name: 'Join ACH',
                 link: 'https://members.ach.org/',
@@ -161,8 +158,12 @@ module.exports = {
                                 return Object.assign({}, node.frontmatter, {
                                     description: node.excerpt,
                                     date: node.frontmatter.date,
-                                    url: site.siteMetadata.siteUrl + node.fields.slug,
-                                    guid: site.siteMetadata.siteUrl + node.fields.slug,
+                                    url:
+                                        site.siteMetadata.siteUrl +
+                                        node.fields.slug,
+                                    guid:
+                                        site.siteMetadata.siteUrl +
+                                        node.fields.slug,
                                 });
                             });
                         },
@@ -201,10 +202,10 @@ module.exports = {
             resolve: `gatsby-plugin-web-font-loader`,
             options: {
                 typekit: {
-                    id: process.env.ADOBE_FONTS_PROJECT_ID
+                    id: process.env.ADOBE_FONTS_PROJECT_ID,
                 },
-                classes: false
-            }
+                classes: false,
+            },
         },
     ],
 };
