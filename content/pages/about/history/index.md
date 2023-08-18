@@ -7,7 +7,6 @@ Founded in 1978, the ACH dates back to a period when the landscape of computing,
 
 A full history of the ACH would draw both on public records and on the human memory of those who have been involved, many of whom are recognized in the lists below. We are in the process of compiling versions of that history, and we welcome contributions from anyone with recollections or relevant documents to offer.
 
-More…
-------
+More info:
 
-- [**Alumni**](/about/alumni): Recognition of former ACH officers, committee members and volunteers.
+- [Alumni](/about/alumni): Recognition of former ACH officers, committee members and volunteers.

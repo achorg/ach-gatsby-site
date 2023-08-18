@@ -3,8 +3,7 @@ title: 'CFP: ACH Mentorship Working Group'
 date: '2020-10-05'
 author: 'Quinn Dombrowski'
 ---
-Description
------------
+## Description
 
 The ACH invites applications to participate in a one-year mentorship program for graduate students interested in digital humanities work in and around the academy, including libraries, archives, museums, teaching, and research.
 
@@ -12,10 +11,9 @@ This program will bring together a cohort of 5-10 Masters and PhD students inter
 
 This program is only open to current students. Early career scholars who have earned their PhDs are encouraged to participate in other ACH mentorship initiatives, including the new mentorship channel on [the DH Slack](https://docs.google.com/forms/d/e/1FAIpQLSdixlWvNtl2zrrodX9YzP4OmQ0xk5AwPEGZ0qxvlg9nbRReMw/viewform).
 
-**To apply: email a one-page cover letter and a two-page resume to** [**halperta@gmail.com**](mailto:halperta@gmail.com)**, subject: ACH Mentorship Working Group Application. Deadline: October 26, 2020.** Details below.
+To apply: email a one-page cover letter and a two-page resume to [halperta@gmail.com](mailto:halperta@gmail.com), subject: ACH Mentorship Working Group Application. Deadline: October 26, 2020. Details below.
 
-Goals
------
+## Goals
 
 This working group will bring together a cohort of 5-10 graduate students interested in the digital humanities for a one-year mentorship program. The program has two goals.
 
@@ -27,8 +25,7 @@ First, working group participants will become part of a cohort of DH practitione
 
 Second, the group will work together to propose a comprehensive mentorship program for the Association for Computers in the Humanities. During a time of crisis, we are looking for students on the front lines of the profession to lead us in developing an approach to mentorship that is responsive to the inequities of our disciplines, the inadequacies of our training programs, and the crisis in our economy. Students will work closely with the ACH mentorship subcommittee to develop a plan that will help ACH support students in response to the changing educational and work environment.
 
-Outcomes
---------
+## Outcomes
 
 Participation in this program is unpaid. Outcomes of this program that we expect will directly benefit participants include:
 
@@ -37,8 +34,7 @@ Participation in this program is unpaid. Outcomes of this program that we expect
 3. the chance to participate in a special panel on mentorship at the ACH biannual conference
 4. CV credit for participating in a working group formally endorsed by the ACH.
 
-Commitment
-----------
+## Commitment
 
 Participants in the ACH mentorship working group will be expected to commit to the following:
 
@@ -48,8 +44,7 @@ Participants in the ACH mentorship working group will be expected to commit to t
 - Maintain communication through online conversation channels such as Slack.
 - Adhere to a collectively-developed code of conduct.
 
-Diversity, Equity, Inclusion, and Accessibility
------------------------------------------------
+## Diversity, Equity, Inclusion, and Accessibility
 
 Mentorship programs, even with the best intentions, often uphold whiteness and fail to provide lasting pathways to careers for BIPOC, LGBTQ, women, and people with disabilities. One of the goals of the ACH mentorship program is to create an anti-racist agenda that takes into consideration how race is formed and constructed, and the ways that professionalization engages in [racecraft](https://www.penguinrandomhouse.com/books/233136/racecraft-by-karen-e-fields-and-barbara-j-fields/) and expects white middle-class conformity.
 
@@ -57,8 +52,7 @@ With a focus on marginalized and minoritized identities in the cohort of mentees
 
 Even with these intentions, we expect missteps and ignorances will happen and one of the first steps of the cohort will be to develop a code of conduct, safe and anonymous methods of reporting, and a workflow for mediation when appropriate.
 
-How to apply
-------------
+## How to apply
 
 To apply: email a one-page cover letter and a two-page resume to [halperta@gmail.com](mailto:halperta@gmail.com), subject: ACH Mentorship Working Group Application. Deadline: October 26, 2020.
 

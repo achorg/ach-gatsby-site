@@ -25,7 +25,7 @@ Applications will be evaluated according to the following criteria:
 - contribution of the activity to development and promotion of the ACH mission;
 - deliverables can be accomplished within the proposed budget and time period.
 
-\*\* Applicants must be members of the ACH &lt;[http://ach.org/](/)&gt; at the time of application \*\*
+Applicants must be members of the ACH at the time of application.
 
 Grants will be up to $1000. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 1 July 2017.
 
@@ -44,6 +44,6 @@ Should an early career scholar be barred, due to institutional policies, from ho
 
 No indirect costs may be deducted from the value of the grant, which must go entirely to support the project for which it is awarded.
 
-Please send proposals or queries to microgrants@ach.org by 15 November 2016. The Awards Committee will notify applicants of the status of their proposals by 1 December 2016.
+Please send proposals or queries to [microgrants@ach.org](mailto:microgrants@ach.org) by 15 November 2016. The Awards Committee will notify applicants of the status of their proposals by 1 December 2016.
 
 Roopika Risam, for the Awards Committee: Brian Croxall, Élika Ortega, Micki Kaufman

@@ -1,15 +1,13 @@
 ---
 title: 'Portraits in DH: Marisa Parham and AADHum'
 date: '2021-02-16'
-author: 'Jewon Woo'
+authors: [ 'Caitlin Pollock', 'Jewon Woo' ]
 ---
-Interviewed by Caitlin Pollock and Jewon Woo
-
 This past summer, in the wake of nationwide protests against police brutality and the murder of George Floyd, the ACH Executive Council published a statement expressing our solidarity with the #BlackLivesMatter movement. We are committed to strengthening our anti-racist practices in Association governance, in the activities that we sponsor—such as the ACH Conference—and through the ways in which we engage with ACH membership, such as this newsletter. Thus, with this February 2021 issue, we continue the “Portraits in DH” to feature emerging and established figures in digital humanities who are POC, or involved in DH efforts that focus on areas such as ethnic studies and postcolonial studies.
 
 For this issue, we interviewed the Director Marisa Parham and her team of [African American History, Culture and Digital Humanities (AADHum)](https://linktr.ee/aadhum) at the University of Maryland. Read about Parham and AADHum here.
 
-**African American History, Culture and Digital Humanities (AADHum)**:
+## Interview questions for African American History, Culture and Digital Humanities (AADHum)
 
 - Andrew W. Smith – Research Fellow, AADHum, &amp; graduate student in Human-Computer Interaction (HCI)
 - Christin Washington – Graduate Assistant, AADHum, &amp; graduate student in American Studies
@@ -21,11 +19,11 @@ For this issue, we interviewed the Director Marisa Parham and her team of [Afric
 - Purdom Lindblad, Assistant Director of Innovation and Learning, MITH
 - Grace Babukiika, Business Manager
 
-**1. How was African American History, Culture and Digital Humanities (AADHum) initiated?**
+### 1. How was African American History, Culture and Digital Humanities (AADHum) initiated?
 
 **Marisa**: AADHum originated as a Mellon grant housed in the College of Arts and Humanities (ARHU) at the University of Maryland. Work that centers the study of Black life is embedded across the university, with people working from so many different disciplinary perspectives, from art and literary and cultural study through data science and public health. So from its inception AADHum has been uniquely positioned to thematize and amplify the study of Black life by being a center for experimental and intentionally digital research that can help scholars and artists connect their work about Black people to larger Black intellectual traditions.
 
-**2. How does AADHum work with other Black DH programs and projects, while differentiating it from them?**
+### 2. How does AADHum work with other Black DH programs and projects, while differentiating it from them?
 
 **Marisa:** At AADHum we focus both on critical digital humanities– producing scholarship that evaluates and extends the histories and impacts of digital technologies on Black lifeworlds– and also on the ideation and production of projects that highlight how Black life bears on the production and implementation of digital technologies.
 
@@ -41,7 +39,7 @@ For this issue, we interviewed the Director Marisa Parham and her team of [Afric
 
 **Aleia**: You can really see all of this in our collaborations too. Just this past semester Marisa worked with AADHum and irLhumanities to offer a two part interactive writing workshop with Electric Marronage, and that same team worked with me when I offered a digital ideation and collage workshop, and also a conversation about Black fugitivity in library and curational spaces. I also lead the [University of Maryland Restorative Justice Project](https://www.law.umaryland.edu/Programs-and-Impact/Dispute-Resolution/CDRUM/Restorative-Practices/), which is a project that uses a variety of digital technologies to develop speculative monuments based in Black campus experiences, with a focus on histories and futures of resistance.
 
-**3. How has the year of 2020, in particular the Black Lives Matter movements, shaped and/or reinforced the direction and purpose of AADHum?**
+### 3. How has the year of 2020, in particular the Black Lives Matter movements, shaped and/or reinforced the direction and purpose of AADHum?
 
 **Francena**: The digital sped up our global and transnational conversations and collaborations. From my perspective as a CLIR fellow, it’s important that AADHum has ways to think about how Black people document contemporary acts of digital resistance and joy, as well as uncovering and finding innovative ways to share historical acts of resistance and joy.
 
@@ -49,7 +47,7 @@ For this issue, we interviewed the Director Marisa Parham and her team of [Afric
 
 **Purdom**: I think, too, the care practices, which have always been at the center of AADHum, were called into deeper practice with the Movement for Black Lives and the pandemic. Making space for the joy, visioning, grief, anger, frustration, inspiration… I love AADHum’s emphasis and intentional work of remixing what has been done with new scholarship as a way to balance nurturing our intellectual energies while marking (and protecting) spaces of rest.
 
-**4. What groups of audience and communities does AADHum target?**
+### 4. What groups of audience and communities does AADHum target?
 
 **Andrew**: One of AADHum’s strengths is its intentionality in engaging a broad set of African diasporic communities. The ways in which Black people are shaping and being shaped by digital technologies is influenced by the geographies in which our communities are built. Black cultures are bringing so much to the table as new digital forms emerge and AADHum is actively working to ensure there’s a seat for everyone. This means thinking beyond the United States, beyond the academy, and building relationships with intellectual and archival traditions which challenge and expand our approach to knowledge production and present exciting opportunities for understanding digital technologies.
 
@@ -65,30 +63,30 @@ For this issue, we interviewed the Director Marisa Parham and her team of [Afric
 
 **Trevor**: In general,we know that working with communities in a deeply-partnered way transforms what we think we know. Our work with Lakelanders and with Dr. Mary Sies of UMD’s Department of American Studies challenges us to bring all of our creativity and knowledge to re-imagining what a digital community archive is and what kind of research it enables.We’re excited to continue this type of work with Black communities in the DMV.
 
-**Interview questions for Marisa Parham**
+## Interview questions for Marisa Parham
 
-**1. How and when did you join AADHum?**
+### 1. How and when did you join AADHum?
 
 I joined as director of AADHum in fall 2020! Prior to that I was a Professor of English at Amherst College (2001-2020), and also the former director of Five College Digital Humanities. AADHum had been on my radar for a while, and I was just so overwhelmingly impressed with what its former director, my now-colleague Dr. Catherine Knight Steele and her team had built. So this seemed like a great opportunity to continue with that work, while also trying out some new things.
 
-**2. What change of AADHum do you plan to make under your leadership?**
+### 2. What change of AADHum do you plan to make under your leadership?
 
 I have been fortunate over the years to have been able to center Black DH across projects and across institutions. I think there are a fair number of people who have also been doing this work for a while, prior to this current moment. So I’m really interested in taking this as an opportunity to work through AADHum to explore the boundaries of digital humanities and digital studies. Because we have such strong roots in Black and feminist digital studies, digital and experimental publishing, and also work alongside MITH, AADHum is especially well-situated to broaden the Black digital humanities landscape in new and unexpected ways.
 
-**3. What challenges and promises do you think that Black DH has at this moment?**
+### 3. What challenges and promises do you think that Black DH has at this moment?
 
 The distribution of Black Studies scholarship across disciplines constantly produces so many different kinds of intellectual opportunities, as has always been the case. It is also a real challenge, because thinking about Black DH from a big tent perspective means honoring the inherent interdisciplinarity at the core of Black Studies. As I’ve noted in other conversations, there are far more people engaging in varieties of digital humanities than there are people who refer to themselves as digital humanists. Who are they, and what are they working on? I’m thinking of the visual and sound artists, the game developers, material culture scholars, authors working in electronic literature… How do we more intentionally connect digital inquiry to these various threads, both from a genealogical perspective and in ways that offer accessible pathways, so that more people can center this work in their own careers? So supporting the work of critics, historians, and other humanists, but also actively empowering people to choose to work in other less-traditional modalities. Finding ways to move, mix, and remix ideas across genre and medium is central to the Black intellectual tradition in the Americas. At AADHum we are looking to honor and to amplify that legacy, while holding our feminist and decolonial lessons close. The ability to oscillate between making and thinking– critical making as a praxis, hand, heart, and mind– is a synergy at the center of both Black digital humanities and at the center of Black intellectual traditions more generally.
 
-**4. It has been four years since [Dr. Kim Gallon’s essay, “Making a Case for the Black Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb) and Black DH, as a field, has grown exponentially since then. What impact on Black Studies has AADHum made so far? What do you see is next for Black DH?**
+### 4. It has been four years since [Dr. Kim Gallon’s essay, “Making a Case for the Black Digital Humanities”](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb) and Black DH, as a field, has grown exponentially since then. What impact on Black Studies has AADHum made so far? What do you see is next for Black DH?
 
 In terms of what is next, I think it’s important to articulate how and why Black DH helps thinkers move intentionally across modalities. Creative coding, scholarly publishing, investigating connections between digital experience and histories of Black material culture–these are examples of how Black DH might move between scholarship and creative practice. And this is a dimensionally-complex space that absolutely belongs to Black DH, because it is the space in which Black Studies flourished long before it was ever institutionally acceptable to do so. The work of Black digital humanities is to continue the methodologically diverse pursuits that already characterize Black Studies, while also offering new pathways and opportunities for assuring that we can continue with the hybrid work of insight, hindsight, and foresight that has always characterized Black intellectual thought.
 
 I’m also thinking of what Aleia is saying when she talks about the capaciousness of Blackness. At AADHum, for example, we’ve been thinking a lot about the critical and technical connections between Black diasporic lifeworlds and digital production tools, for instance virtual, augmented, and mixed realities. This kind of work has moved our scholarship from DuBois, to game studies, to landing on a new set of tools and pathways for both making and theorization. Taken together, Black digital studies and Black critical making offer us new ways to learn from, capture, and amplify the living legacies of Black experience.
 
-**5. I consider you to be one of the foundational scholars of Black DH. Who are some of the early-career researchers who you think should have more recognition and make you excited for what is to come in the field?**
+### 5. I consider you to be one of the foundational scholars of Black DH. Who are some of the early-career researchers who you think should have more recognition and make you excited for what is to come in the field?
 
 First, thank you! At risk of repeating myself, I’m particularly invested in makers who work outside of very specific library or history-based paradigms for what DH looks like. Such work is critically important, but we must also be careful that our focus on institutional configurations of scholarship don’t hamper us in our ability to fold in people and projects working in other ways. So with that in mind, right now I’m really excited by scholars who for some reason fall outside the bounds of whatever we decide to call “DH.” This upcoming year we’ll be featuring work in computational poetry from Lillian-Yvonne Bertram and we’re greatly inspired by Fox Harrell’s ICE lab, as well as the work Tahir Hemphill does with the Rap Research Lab. I’m also thinking about the arts and installation work, and how so much of the digital resonated with those traditions, for instance artists like Mendi + Keith Obadike and DJ Spooky as Black DH forbearers, as well as more recent work by scholars like Mimi Onuoha and Nontsikelelo Mutiti. On the Black digital studies side, I’m super interested in scholars working at the intersections of academic scholarship and popular media, for instance King Avril, and also people working to deepen the reach of digital scholarship across the diaspora, for instance Schuyler Esprit’s work with Create Caribbean. On the DH project side, we’ve been following Christy Hyman’s work on the Great Dismal Swamp and, yes, we could do this all day long!
 
-**6. In addition to directing AADHum, what other DH project(s) do you currently work on?**
+### 6. In addition to directing AADHum, what other DH project(s) do you currently work on?
 
 Right now I’m building a hybrid physical computing and augmented reality project that helps us think about moving between physical objects and the obdurately ephemeral feeling of digital experience. On the critical side I’m trying my hand at more baseline work around field contours and definition, because I am genuinely interested in finding better ways to articulate Black Studies genealogies in relation to digital humanities and technology studies. So right now I’m contracted for a few pieces that situate Black digital humanities concerns in larger DH or American literary and cultural contexts. I’ve also just completed a section intro on digital humanities for a forthcoming volume from the African American Intellectual History Society. Even though they’re quite different from the kind of work I usually do now, I like each of these because they’re pushing me to think about DH in relation to other scholarly traditions. I’m also, finally, working toward releasing a book-length interactive project that focuses on memory, haunting, digitality, and Black environmental experience, *[Black Haunts in the Anthropocene](https://blackhaunts.mp285.com/)*.

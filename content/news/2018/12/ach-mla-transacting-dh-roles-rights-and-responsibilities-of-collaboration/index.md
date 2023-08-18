@@ -13,38 +13,35 @@ In 2011, Tanya Clement and Dave Lester convened an NEH-supported conversation ti
 
 This session will consider what the rights, roles and responsibilities associated with forms of DH research and pedagogical transaction. What models are there? What are the pitfalls? What honest conversation can we have about them? We would like to hear models from those working in a variety of situations: faculty, altac, library, student, advisory board, volunteer, or administrator. The session will begin with short reflections by panelists with plans to open up conversation
 
-Presenter Information: 
------------------------
+## Presenter Information
 
 **Kathleen Fitzpatrick**  
-Twitter: @kfitzpatrick  
-Website: kfitz.info  
-Humanities Commons: [https://hcommons.org/members/kfitz/](https://hcommons.org/members/kfitz/)
+- [Twitter](http://twitter.com/kfitzpatrick)
+- [Website](http://kfitz.info)
+- [Humanities Commons](https://hcommons.org/members/kfitz/)
 
 **Carrie Johnston**  
-Twitter: @CarrieEJohnston  
-Website: drcarriejohnston.com  
-Humanities Commons: [https://hcommons.org/members/carrie\_johnston/](https://hcommons.org/members/carrie_johnston/)
+- [Twitter](http://twitter.com/CarrieEJohnston)
+- [Website](http://drcarriejohnston.com)
+- [Humanities Commons](https://hcommons.org/members/carrie_johnston/)
 
 **Rikk Mulligan**  
-Twitter: @CritRikk   
-Website: rikkmulligan.com  
-Humanities Commons: [https://hcommons.org/members/rikkm/](https://hcommons.org/members/rikkm/)
+- [Twitter](http://twitter.com/CritRikk)
+- [Website](http://rikkmulligan.com)
+- [Humanities Commons](https://hcommons.org/members/rikkm/)
 
 **Lisa Rhody**   
-Twitter: @lmrhody  
-Website: lisarhody.com  
-Humanities Commons: [https://hcommons.org/members/lmrhody/](https://hcommons.org/members/lmrhody/)
+- [Twitter](http://twitter.com/lmrhody)
+- [Website](http://lisarhody.com)
+- [Humanities Commons](https://hcommons.org/members/lmrhody/)
 
 **Dhanashree Thorat**  
-Twitter: @shree\_thorat   
-Website: dhanashreethorat.com  
-Humanities Commons:
+- [Twitter](http://twitter.com/shree_thorat)
+- [Website](http://dhanashreethorat.com)
 
-Abstracts
----------
+## Abstracts
 
-### “Generosity, Solidarity, and Sustainability” 
+### Generosity, Solidarity, and Sustainability
 
 **Kathleen Fitzpatrick**
 
@@ -54,7 +51,7 @@ Such a reorientation has to take place not just at the individual level, however
 
 There is, in other words, an aspect of sustainability for major digital projects that I would argue precedes the financial, or the technical: the social. This social aspect points not just to the determination of a group of people to support a particular project, but to the determination of those people to support their groupness; not just to their commitment to the thing they’re doing together, but to their commitment to the concept of “together” in the first place. Sustainability in collaborative development has solidarity as a prerequisite, in other words, a recognition that the interests of the group require commitment from its members to that group, at times over and above their own individual interests. This presentation will open the question of how we foster that commitment: how, in fact, we understand that commitment itself as a crucial aspect of sustainability.
 
-### “Language and Labor in the Digital Humanities” 
+### Language and Labor in the Digital Humanities
 
 **Carrie Johnston**
 
@@ -80,7 +77,7 @@ Collaborations on scholarly, digital projects are shaped by the contexts in whic
 
 This presentation considers the particular case of the Graduate Center’s Digital Fellows, specifically in relationship to the recently-funded GC Digital Humanities Research Institute, tracing the development of a collaboratively authored curriculum. Moving beyond codes of conduct, bills of rights, and project charters, this presentation considers the limits of collaboration when aspirational statements are challenged by the realities of project goals.
 
-### “Post/Colonial Transactions in the Global Digital Humanities”
+### Post/Colonial Transactions in the Global Digital Humanities
 
 **Dr. Dhanashree Thorat**
 
@@ -88,9 +85,7 @@ In the last several years, digital humanities has expanded its global imaginary 
 
 This talk takes up the pitfalls and ethics of Global North-South collaborations given the existing asymmetries in power and knowledge production globally. Grounding myself in the specific context of Indian Digital Humanities, and my work as Executive Council member with the Center for Digital Humanities, Pune, I outline practices for North-South digital collaborations that we delineated during our engagements with scholars and institutions located in the U.S. These practices foreground local needs and local scholars, and are premised upon a critical awareness of colonial histories. This talk specifically focuses on our conversations about three critical areas: working with Indian cultural heritage material, defining the roles of Indian collaborators, and the platforms and forms through which knowledge created by the collaborative project would be disseminated locally.
 
-- - - - - -
-
-### **Presenter Bios**
+## Presenter Bios
 
 **Kathleen Fitzpatrick** is Director of Digital Humanities and Professor of English at Michigan State University. Prior to assuming this role in 2017, she served as Associate Executive Director and Director of Scholarly Communication of the Modern Language Association, where she was Managing Editor of *PMLA* and other MLA publications, as well as overseeing the development of the MLA Handbook. During that time, she also held an appointment as Visiting Research Professor of English at NYU and Visiting Professor of Media Studies at Coventry University. Before joining the MLA staff in 2011, she was Professor of Media Studies at Pomona College, where she had been a member of the faculty since 1998.
 

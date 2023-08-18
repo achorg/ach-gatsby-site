@@ -1,10 +1,8 @@
 ---
 title: 'Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities”'
 date: '2015-05-06'
-author: 'Susan Brown'
+authors: [ 'Celeste Sharpe', 'Jeri Wieringa' ]
 ---
-Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa
-
 This fall we had the opportunity to launch [DH Bridge](http://dhbridge.org), an open curriculum and workshop framework for teaching computational thinking in the context of the humanities, funded by an ACH microgrant. Borrowing liberally from [Rails Bridge](http://www.railsbridge.org) and [Rails Girls](http://railsgirls.com), we set out to adapt the model of a distributed pedagogy to the needs of humanities scholars who, while not looking to become programmers per se, want to develop the skills and patterns of thinking necessary to apply computational methods to their scholarship.
 
 Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts ([Jeannette Wing, 2006](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf), doi: [10.1145/1118178.1118215](http://dx.doi.org/10.1145/1118178.1118215)). It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process.
@@ -13,7 +11,7 @@ For the DH Bridge curriculum, we wanted to provide concrete exposure to the ways
 
 In what follows, we will discuss the pedagogical choices we made, our development process for the curriculum, and lessons learned from the workshop held on November 1, 2014.
 
-**Pedagogical Choices:**
+## Pedagogical Choices
 
 Working from our observations and participant feedback from Rails Girls DH, we wanted to make a few deliberate pedagogical changes for the new curriculum:
 
@@ -25,15 +23,15 @@ In working purposefully from a concrete problem and data to more abstract concep
 
 In terms of the curriculum, there are two main components: a detailed tutorial made up of 14 modules and a coaches’ guide. Each addresses different aspects of the learning goals, although they were conceived to work together and be implemented together by potential future workshop organizers. For people with some programming experience, the tutorial could serve as a standalone reference and step-by-step guide. In putting the tutorial together, it became clear that some of the important context and explanations didn’t fit well within the narrative flow of the modules. We decided that this material would be best served through discussion among the participants and the coaches, and so wrote the coaches’ guide with learning checks, discussion questions, and the key concepts for each module. We wanted to emphasize this social aspect of learning, and we found that could only be achieved through conversations in the room during the workshop itself.
 
-**Iterative Process:**
+## Iterative Process
 
 While developing the curriculum, we asked for and received substantive feedback from a number of our peers and professors. Knowing that participants would likely be a mix of Mac and Windows users, we wrote instructions for each and repeatedly tested the tutorial on both operating systems. Two weeks prior to the workshop, we got together with a number of the coaches for a dress rehearsal of the curriculum. We gathered valuable feedback and made final tweaks, clarified directions in the tutorial, fleshed out concepts, and added parts to the coaches guide to reinforce our model of computational thinking and keep everything aligned with the learning goals.
 
-**Lessons Learned:**
+## Lessons Learned
 
 For this kind of workshop, we found that a participant to coach ratio of 2-3 to 1 seemed to work much better than our Rails Girls DH ratio of 5 to 1. For DH Bridge, there were plenty of coaches around to answer questions and troubleshoot, so participants were generally not stuck for long. One thing that we noticed was how the ratio affected collaborative group activities. Participants on the whole progressed at their own pace, which was great, but this made it difficult to stop for the learning checks and discussions we’d built into the modules. Also, the number of coaches at hand made participants more likely to ask them immediately for help rather than hash problems out with their group members. Balancing the asynchronous and synchronous aspects will be an ongoing consideration as we refine our workshop model. We gathered feedback informally after the event and through an optional survey. Several DH Bridge participants shared with us that they believed in their ability to translate the skills and concepts gained throughout the day to their current work, but we have yet to develop an effective way of assessing long-term learning. Maintaining a sense of community and following-up with participants is also a tricky proposition for us since participants came from a range of institutions across the DC metro area and from as far as Davidson College in North Carolina.
 
-**Next Steps:**
+## Next Steps
 
 In the near future we will work to fix the small errors that were encountered as part of the event. We also plan to review feedback from the participants and coaches to assess what other adjustments are needed going forward. Longer term goals include writing a version of the tutorials for Python3, as well as soliciting ideas for additional modules that would be useful for humanities scholars. In addition, we would like to think through how to continue efforts to effectively partner with underrepresented populations to help more interested people take part in DH Bridge.
 

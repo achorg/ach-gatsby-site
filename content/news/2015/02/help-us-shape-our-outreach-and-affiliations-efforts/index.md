@@ -9,4 +9,4 @@ The survey asks you to tell us which professional organizations you might curren
 
 Please note that we are not surveying organizations we have a prior affiliation with (e.g. Modern Language Association, American Historical Association, Medieval Academy of America).
 
-Questions regarding this survey can be directed to Jennifer Guiliano (jenguiliano@gmail.com) with Survey in the subject line. To complete the survey, please visit our [online form.](https://docs.google.com/forms/d/1rmmCyzqsvcIM2nJdJ-FlLDANNQRhCm5IZWGmOPmXKV0/viewform)
+Questions regarding this survey can be directed to Jennifer Guiliano ([jenguiliano@gmail.com](mailto:jenguiliano@gmail.com)) with Survey in the subject line. To complete the survey, please visit our [online form](https://docs.google.com/forms/d/1rmmCyzqsvcIM2nJdJ-FlLDANNQRhCm5IZWGmOPmXKV0/viewform).

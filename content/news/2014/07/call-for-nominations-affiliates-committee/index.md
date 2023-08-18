@@ -11,8 +11,8 @@ Nominees are expected to be active in the digital humanities community. We welco
 
 Send nominations or self-nominations to [jenguiliano@gmail.com](mailto:jenguiliano@gmail.com) by August 1, 2014. Please confirm with your nominee that he or she is willing to serve, and:
 
-• Put the following in the subject line: ACH Affiliate Nomination  
-• Provide a brief statement of interest regarding your (or your nominee’s) vision of ACH’s engagement with potential affiliates.  
-• Provide contact information and a short, 1-paragraph professional biography.
+- Put the following in the subject line: ACH Affiliate Nomination  
+- Provide a brief statement of interest regarding your (or your nominee’s) vision of ACH’s engagement with potential affiliates.  
+- Provide contact information and a short, 1-paragraph professional biography.
 
 If you have any questions, please feel free to contact us at [jenguiliano@gmail.com](mailto:jenguiliano@gmail.com) or via twitter [@jenguiliano](http://twitter.com/jenguiliano)

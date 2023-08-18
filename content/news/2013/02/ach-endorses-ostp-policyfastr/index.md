@@ -3,7 +3,7 @@ title: 'ACH endorses OSTP policy/FASTR'
 date: '2013-02-22'
 author: 'Lisa Spiro'
 ---
-Last year, the [Association for Computers and the Humanities](/) strongly advocated for “open access to federally-funded research and research publications, and the inclusion of humanities voices in… crucial conversations” about public access to public goods, in [an open letter](/news/2012/01/ach-response-white-house-rfis-open-access-research) to the US White House Office of Science and Technology Policy. Today, the ACH Executive Council celebrates a groundbreaking [OSTP policy memorandum](http://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research).  
+Last year, the Association for Computers and the Humanities strongly advocated for “open access to federally-funded research and research publications, and the inclusion of humanities voices in… crucial conversations” about public access to public goods, in [an open letter](/news/2012/01/ach-response-white-house-rfis-open-access-research) to the US White House Office of Science and Technology Policy. Today, the ACH Executive Council celebrates a groundbreaking [OSTP policy memorandum](http://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research).  
 
 This policy institutes guidelines for open access closely aligned to the recently-introduced Fair Access to Science and Technology Research Act ([FASTR](http://cyber.law.harvard.edu/hoap/Notes_on_the_Fair_Access_to_Science_and_Technology_Research_Act)). We urge our US-based members to advocate for legislation like FASTR, and to share their support for the new OSTP policy with federal funders of digital humanities research.
 

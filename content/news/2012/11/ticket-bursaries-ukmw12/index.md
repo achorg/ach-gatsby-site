@@ -7,7 +7,7 @@ In support of museums’ ongoing engagement in the world of the digital and enco
 
 To apply, please send a short email to Eric Johnson at [ej9k@virginia.edu](mailto:ej9k@virginia.edu) by 5pm GMT on Thursday, November 22, 2012, indicating any previous attendance at UKMW and briefly describing what you hope to gain from UKMW12 and your interest or involvement in the broader fields of the digital humanities and museums/digital heritage. Preference is given to first-time conference attendees or those who are new (one to three years) in the field. (You can be reimbursed for your registration if you've already paid and your bursary request is granted.)
 
-### Museums Computer Group (MCG) Museums on the Web
+## Museums Computer Group (MCG) Museums on the Web
 
 The Museums Computer Group (MCG) is a professional society for museum, gallery, archive and higher education professionals who work with museum technologies and digital heritage. The MCG organises the annual UK Museums On The Web (UKMW) conference for people who make museum websites great. [UKMW12](http://museumscomputergroup.org.uk/tag/ukmw12/) will be held in London on 30 November 2012.
 

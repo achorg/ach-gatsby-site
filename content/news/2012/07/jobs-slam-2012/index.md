@@ -7,13 +7,13 @@ The ACH will again be organizing a Jobs Slam during its annual general meeting a
 
 If you have a current DH-related job posting or anticipate one in the next few months, please send a message to [stefan.sinclair@mcgill.ca](mailto:stefan.sinclair@mcgill.ca) with the following information:
 
-- your name, affiliation and basic contact information
-- basic information about the job (title, affiliation, duration, etc.)
-- a link to other information, if available
+- Your name, affiliation and basic contact information
+- Basic information about the job (title, affiliation, duration, etc.)
+- A link to other information, if available
 
 If you are on the job market or anticipate being so in the next few months, please send me a message with the following:
 
-- your name, affiliation and basic contact information
-- basic information about your qualifications &amp; area of expertise
+- Your name, affiliation and basic contact information
+- Basic information about your qualifications &amp; area of expertise
 
 Purveyors and seekers of jobs will each have up to 30 seconds to present. Please come join us for this exciting match-making event!

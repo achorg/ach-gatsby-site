@@ -3,7 +3,7 @@ title: '“All Models are Wrong”: Lessons from DHSI'
 date: '2014-06-26'
 author: 'Jeri Wieringa'
 ---
-**\[Editor’s Note: the ACH awarded Jeri Wieringa a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.\]**
+*Editor’s note: The ACH awarded Jeri Wieringa a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
 
 “Essentially, all models are wrong but some are useful.” This phrase, attributed to George Box, was the mantra for the Data Mining for Digital Humanists course at the Digital Humanities Summer Institute. Throughout the course, we worked to understand the mathematical concepts behind some of the most common algorithms used to solve classification and clustering problems. In data mining, the goal is to create a heuristic that allows one to predict with a high degree of accuracy how to classify new data based on the data one has seen in the past. From Amazon and Netflix recommendations to Pandora and even self-driving cars, the results of data mining work are present all across our digital lives.
 

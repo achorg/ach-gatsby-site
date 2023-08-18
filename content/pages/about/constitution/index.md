@@ -1,9 +1,8 @@
 ---
-title: 'Constitution & Bylaws of the Association for Computers and the Humanities'
+title: 'Constitution & Bylaws'
 date: '2010-03-14'
 ---
-Constitution of the Association for Computers and the Humanities
-----------------------------------------------------------------
+## Constitution of the Association for Computers and the Humanities
 
 Approved December 1978; as amended November 1979, 1983, June 1987, December 1992, December 2002, December 2013, December 2014, March 2021.
 
@@ -91,10 +90,9 @@ The Constitution or the Bylaws may be amended as follows:
 
 Upon dissolution of the Association, a matter which requires assent of three-quarters of the membership, the Executive Council shall, after paying or making provisions for payment of all the liabilities of the Association, dispose of all the assets of the Association exclusively for the purpose of the Association in such manner, or to such organization or organizations organized and operated exclusively for educational purposes or shall at the time qualify as an exempt organization or organizations under section 501 (c) (3) of the United States Internal Revenue Code of 1954 (or the corresponding provision of any future United States Internal Revenue law), as the Executive Council shall determine. Any such assets not so disposed of shall be disposed of by the Court of Common Pleas of the country in which the principal office of the Association is then located, exclusively for such purposes or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purposes.
 
-- - - - - -
+---
 
-Bylaws of the Association for Computers and the Humanities
-----------------------------------------------------------
+## Bylaws of the Association for Computers and the Humanities
 
 Approved August 1979, Amended 1983, 1987, 1992, 2002, 2013, 2021
 

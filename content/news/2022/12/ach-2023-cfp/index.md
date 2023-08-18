@@ -25,9 +25,9 @@ Areas of digital humanities scholarship that are relevant to the conference incl
 
 Submission types include: papers (12-15 minutes), lightning talks (5 minutes), posters, panels (1 hour and 15 minutes), roundtables (1 hour and 15 minutes), installations and performances, and alternate formats (variable length).
 
-Proposals are due **February 15, 2023**. The full CFP is available in English, Spanish, and French at: [https://ach2023.ach.org](https://ach2023.ach.org). Submit at [https://www.conftool.pro/ach2023/](https://www.conftool.pro/ach2023/). Questions can be directed to the conference committee at [conference@ach.org](mailto:conference@ach.org).
+Proposals are due **February 15, 2023**. The full CFP is available in English, Spanish, and French on the [conference website](https://ach2023.ach.org). Submit [via Conftool](https://www.conftool.pro/ach2023/). Questions can be directed to the conference committee at [conference@ach.org](mailto:conference@ach.org).
 
-Program Committee
+## Program Committee
 
 - Conference Chair: Pamella Lach (she/her/hers), San Diego State University
 - Program Committee Lead: Liz Grumbach (she/her/hers), Arizona State University

@@ -3,9 +3,9 @@ title: 'Advocacy Work at ACH'
 date: '2012-03-14'
 author: 'Bethany Nowviskie'
 ---
-Last year, the ACH Executive Council expanded the mandate of our committee on Outreach to include **advocacy work** on issues that matter to our members.
+Last year, the ACH Executive Council expanded the mandate of our committee on Outreach to include advocacy work on issues that matter to our members.
 
-[![Fortune: Your career is moving more and more towards service to others.](http://farm8.staticflickr.com/7064/6987087473_bddfd7bd0a_m.jpg "Fortune: Your career is moving more and more towards service to others.")](http://www.flickr.com/photos/nowviskie/6987087473/)First, we were pleased to contribute funding to the [4Humanities initiative](http://humanistica.ualberta.ca/), which aims leverage the energy and expertise of the global DH community in demonstrating the value of humanities and cultural heritage work in the digital age.
+First, we were pleased to contribute funding to the [4Humanities initiative](http://humanistica.ualberta.ca/), which aims leverage the energy and expertise of the global DH community in demonstrating the value of humanities and cultural heritage work in the digital age.
 
 Next, an open call through [DH Answers](http://digitalhumanities.org/answers/), Twitter, and the [Humanist list](http://www.digitalhumanities.org/humanist/) yielded a great deal of community input on two subjects: the value of open access content and open source software — particularly in the case of projects funded by public agencies — and the importance of careful planning for sustainability of digital work.
 

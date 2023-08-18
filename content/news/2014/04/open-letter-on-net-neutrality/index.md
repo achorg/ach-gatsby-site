@@ -3,11 +3,17 @@ title: 'Open Letter on Net Neutrality'
 date: '2014-04-29'
 author: 'Bethany Nowviskie'
 ---
-> **Update, 30 September 2015:** The letter was delivered and was used as the basis for the MLA’s letter on the same subject. Earlier this year the [FCC ruled](https://en.wikipedia.org/wiki/Net_neutrality#United_States) that broadband is a telecommunications service and that the net should therefore be neutral. Clearly, the ACH didn’t do all the work, but we got what we campaigned for. Thank you all who helped out!
-> 
-> **Update, 30 April 2014:** Great interest is being shown in this letter by our various professional communities and colleagues in the digital humanities and aligned fields. Some have requested to sign on. The letter has already been sent to Chairman Wheeler, so we strongly encourage you to modify, adapt, quote, or endorse it in [a new message to the FCC](http://www.fcc.gov/page/fcc-establishes-new-inbox-open-internet-comments), in order to amplify the response. That said, we welcome statements of solidarity in the comments field below. But please do more than add your name: review our [suggested action items](/news/2014/04/net-neutrality/) and readings, which will help you stay alert to other opportunities to work for net neutrality.
+## Update: 30 September 2015
 
-**Dear FCC Chairman Wheeler;**
+The letter was delivered and was used as the basis for the MLA’s letter on the same subject. Earlier this year the [FCC ruled](https://en.wikipedia.org/wiki/Net_neutrality#United_States) that broadband is a telecommunications service and that the net should therefore be neutral. Clearly, the ACH didn’t do all the work, but we got what we campaigned for. Thank you all who helped out!
+
+## Update: 30 April 2014
+
+Great interest is being shown in this letter by our various professional communities and colleagues in the digital humanities and aligned fields. Some have requested to sign on. The letter has already been sent to Chairman Wheeler, so we strongly encourage you to modify, adapt, quote, or endorse it in [a new message to the FCC](http://www.fcc.gov/page/fcc-establishes-new-inbox-open-internet-comments), in order to amplify the response. That said, we welcome statements of solidarity in the comments field below. But please do more than add your name: review our [suggested action items](/news/2014/04/net-neutrality/) and readings, which will help you stay alert to other opportunities to work for net neutrality.
+
+## Open Letter
+
+Dear FCC Chairman Wheeler;
 
 We write as leaders of 27 major professional societies, boards, committees, and publications, representing a broad and international community of scholars and students, information professionals, artists, and technologists working in the digital humanities, digital media, and aligned fields.
 
@@ -41,7 +47,7 @@ and the editors and founders of the following pioneering journals and digital pu
 - [Journal of Digital Humanities](http://journalofdigitalhumanities.org/);
 - [Open Context](http://opencontext.org/);
 - [Romanticism and Victorianism on the Net](http://ravonjournal.org/);
-- [Digital Studies/Le champ numérique](http://www.digitalstudies.org);
+- [Digital Studies/<span lang="fr">Le champ numérique</span>](http://www.digitalstudies.org);
 - [MediaCommons](http://mediacommons.futureofthebook.org/): a digital scholarly network;
 - [Humanist](http://dhhumanist.org);
 - and [LLC: the Journal of Digital Scholarship in the Humanities](http://llc.oxfordjournals.org/).
@@ -161,7 +167,7 @@ President, EADH: the European Association for Digital Humanities
 **Daniel Paul O’Donnell**  
 Professor of English, University of Lethbridge  
 Founding Chair, Global Outlook::Digital Humanities  
-Editor-in-Chief, Digital Studies/Le champ numérique
+Editor-in-Chief, Digital Studies/<span lang="fr">Le champ numérique</span>
 
 **Dot Porter**  
 Curator, Digital Research Services  

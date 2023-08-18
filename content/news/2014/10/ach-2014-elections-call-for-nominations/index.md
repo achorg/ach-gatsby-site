@@ -11,9 +11,9 @@ ACH officers and Executive Council members develop and uphold ACH policies, dete
 
 To stand for election as an Executive Council member, candidates must be [members](https://members.ach.org/) in good standing of the ACH. Council members commit to being present (whether in person or virtually) at annual meetings usually held at the Digital Humanities Conference, and to participating in discussions during the rest of the year by email and audio/video conference. Council members are expected to be active in the digital humanities community.
 
-We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with digital humanities, from anywhere in the world. We also welcome nominations of people from all constituencies and humanities disciplines, and especially encourage the nomination of women, people of color, <abbr title="Lesbian, Gay, Bisexual, Transgender, Queer">LGBTQ</abbr>, or other under-represented groups. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliation, academic status, or job title.
+We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with digital humanities, from anywhere in the world. We also welcome nominations of people from all constituencies and humanities disciplines, and especially encourage the nomination of women, people of color, LGBTQ, or other under-represented groups. Demonstrated commitment to the organization and to the field counts for more with our membership than professional affiliation, academic status, or job title.
 
-Send nominations to[ nominations@ach.org](mailto:nominations@ach.org) by October 31st, 2014. Please confirm with your nominee that he or she is willing to serve if elected; the only other requirements are to:
+Send nominations to [nominations@ach.org](mailto:nominations@ach.org) by October 31st, 2014. Please confirm with your nominee that he or she is willing to serve if elected; the only other requirements are to:
 
 - Provide a brief candidate statement and biography. Sample candidate statements from past elections are available on our [Candidates page](/news/2011/12/elections-candidates/). If your nominee cannot provide a biography and candidate statement at the time of nomination, they should email those to us before the close of nominations.
 - Have the nomination seconded. Per ACH bylaws, all nominations require two nominators (including oneself, if self-nominating) before being included in the ballot, so please allow time for a second nominator to email us in support of your nomination.
@@ -27,9 +27,8 @@ Visit our [Officers page](/about/officers) for a current list of officers.
 Thanks for helping shape the future of the ACH!
 
 **The 2014/2015 ACH Nominations Committee**
-
-- Brian Croxall, Emory University
-- Mia Ridge, Open University
-- Roopika Risam, Salem State University
-- Glen Worthey, Stanford University (Chair)
-- Dot Porter, University of Pennsylvania (ex officio, ACH Vice President)
+Brian Croxall, Emory University
+Mia Ridge, Open University
+Roopika Risam, Salem State University
+Glen Worthey, Stanford University (Chair)
+Dot Porter, University of Pennsylvania (ex officio, ACH Vice President)

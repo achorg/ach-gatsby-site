@@ -28,7 +28,7 @@ The ACH Executive Officers and Executive Council will begin work now on the foll
 - Reporting regularly on the current and past demographics of ACH leadership to increase transparency and ensure that the organization makes progress on creating a diverse organizational leadership team;
 - Publishing at least one special issue in *Digital Humanities Quarterly* every two years on a topic explicitly related to race and its relationship to additional axes of oppression, including gender, sexuality, disability, nationality, and language;
 - Writing a values statement and a DEI/anti-racism statement for ACH that formalizes the values to which ACH commits itself;
-- Developing [a guide to help DH centers, labs, developers, and other technologists be mindful of racially-charged technical terminology ](/news/2020/09/toward-anti-racist-technical-terminology/)(slave/master, whitelist/blacklist, etc.) with practical steps for moving away from these terms; and
+- Developing [a guide to help DH centers, labs, developers, and other technologists be mindful of racially-charged technical terminology](/news/2020/09/toward-anti-racist-technical-terminology/) (slave/master, whitelist/blacklist, etc.) with practical steps for moving away from these terms; and
 - Reporting back to the ACH community at its annual general meeting on our progress on all of the above.
 
 Black Lives Matter is a call to organizations not just to improve the world, but to improve themselves. We commit ourselves to that work and hope that we will earn your trust and your participation in building a more just organizational culture.

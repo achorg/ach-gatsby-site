@@ -19,4 +19,4 @@ ACH recognizes that intellectual, cultural, institutional, and other forms of di
 
 ACH enriches the digital humanities as it contributes to an array of conferences via its members’ submissions; via participation in program, local host, and conference coordinating committees; and via its co-sponsorship of sessions at DH and other disciplinary conferences and events. We believe that these activities both enable our members to expand their scholarly networks and provide opportunities for personal, intellectual, and institutional development.
 
-Please contact us at help@ach.org if you are considering hosting an ACH-sponsored event or considering a proposal for the ADHO Digital Humanities 2020 conference, as ACH may be able to provide assistance in developing your proposal in ways that take account of the issues outlined above.
+Please contact us at [help@ach.org](mailto:help@ach.org) if you are considering hosting an ACH-sponsored event or considering a proposal for the ADHO Digital Humanities 2020 conference, as ACH may be able to provide assistance in developing your proposal in ways that take account of the issues outlined above.

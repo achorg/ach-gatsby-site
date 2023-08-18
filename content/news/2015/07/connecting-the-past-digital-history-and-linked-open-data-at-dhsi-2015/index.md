@@ -3,7 +3,7 @@ title: 'Connecting the Past: Digital History and Linked Open Data at DHSI 2015'
 date: '2015-07-21'
 author: 'Steven Anderson'
 ---
-**\[Editor’s Note: the ACH awarded [Steve Anderson](http://steveanderson.digital) a student travel bursary to attend this summer’s Digital Humanities Summer Institute, DHSI 2015. The award came with an invitation to reflect on the experience in our blog.\]**
+*Editor’s note: The ACH awarded [Steve Anderson](http://steveanderson.digital) a student travel bursary to attend this summer’s Digital Humanities Summer Institute, DHSI 2015. The award came with an invitation to reflect on the experience in our blog.*
 
 This summer I spent three weeks at [DHSI (Digital Humanities Summer Institute)](http://dhsi.org) completing the new [Graduate Certificate in Digital Humanities](http://web.uvic.ca/calendar2014-09/GRAD/GPROGS/Engl/PrRe.html#GCinDH). Last year I attended DHSI 2014 and [HILT 2014](http://dhtraining.org), and I was able to transfer-in these classes for credit toward the DH certificate which requires five weeks of study. All three weeks at DHSI 2015 were incredibly busy and also very rewarding — I met old friends and made new ones, all the while surrounded by innovative DH projects and new forms of digital curation and production. For my digital project in the DH certificate program I created a blog, [*The Life DHSI with Steve Anderson*](http://thelifedhsi.org), where I included my essays, journals, and thoughts on DHSI and the digital humanities in general. The three classes I took this year were Digitization Fundamentals, RDF and Linked Open Data, and also Professionalizing the Early Career Digital Humanist. At a glance it might not seem like these three classes would build on each other. Yet, as the weeks progressed I found one of my ideas about teaching with historical primary sources beginning to take the shape of a grant proposal.
 
@@ -15,7 +15,7 @@ The [.html documents I’ve created of primary source excerpts](http://sgahm.org
 
 The third class, on professionalization, was where the idea for writing the grant came together. In this class we worked on personal and professional identities online, and how to present ourselves in the best possible light for hiring and job search committees. In addition, we looked at grant funding agencies and how social and professional pathways must be navigated in order to produce a successful grant proposal. Building on the new forms of aural and visual media discussed in Week 1, and drawing on the concept of Linked Open Data in Week 2, I began to see how a project focusing on historical primary sources could take shape.
 
-For a wonderful project using historical primary sources and Linked Open Data, see <cite>Linked Jazz</cite>: [linkedjazz.org](https://linkedjazz.org)
+For a wonderful project using historical primary sources and Linked Open Data, see [Linked Jazz](https://linkedjazz.org).
 
 By working with the #lodlam community, I could create a plan for locating digitized or born digital primary sources. These materials, whether traditional text or new media could be linked to archival information, and also linked to each other. Showing how certain historical documents are related to each other would help students see the many connections between seemingly disparate texts or materials. Also, linking these primary source excerpts back to pertinent artifacts in libraries, archives, and museums would help students understand how history is written, how documents are preserved, and how the public can interact with the past in meaningful ways.
 

@@ -5,18 +5,18 @@ author: 'Tanya Clement'
 ---
 This document was prepared by the Executive Board of the ACH during the Fall and Spring of 2015-16. Feedback from the community was solicited in the summer of 2016, and incorporated over the following months.
 
-### Introduction
+## Introduction
 
 Following the lead of scholarly societies in some of the disciplines most actively represented in digital humanities work, the Association for Computers and the Humanities is putting forth some draft guidelines for the evaluation of digital scholarship in tenure and promotion processes. We are grateful to the Modern Language Association, the American Historical Association, Emory University, University of Southern California, Texas A&amp;M, University of Nebraska-Lincoln, the NINES Institute on Evaluating Digital Scholarship, and our many colleagues for doing the work on which we base our guidelines.
 
-### General
+## General
 
 - Expectations about any individual scholar’s tenure and promotion criteria should, as much as possible, be made clear at the time of hiring, reviewed at intermediate stages, and reflect a sincere commitment on the part of both the scholar and the institution to assess the scholarly contribution fairly.
 - Scholarship should be considered for its contribution to the scholar’s discipline, and, where relevant, additional fields including the field of digital humanities.
 - In addition to traditional scholarly work, digital platforms, tools, and other resources may be considered scholarly products with potential to contribute to the field of inquiry. They should be reviewed on the basis of their originality, use value, sustainability, and other contextual aspects of quality outlined below.
 - Digital contributions might constitute all or part of a project (e.g. metadata might make a scholarly contribution) if it adds to knowledge in the discipline.
 
-### Assessment process
+## Assessment process
 
 - Materials must be reviewed in their native format and medium so that the contribution is assessed for its merits as a digital project. Explanations of the technical or design features can accompany the project to assist reviewers unfamiliar with digital work, but these should not substitute for the project in its native format.
 - The following aspects of digital scholarly products should be reviewed independently of each other by knowledgeable parties:
@@ -27,24 +27,24 @@ Following the lead of scholarly societies in some of the disciplines most active
   - sustainability/projected lifespan
   - intellectual argument and impact to the home discipline or the field of digital humanities
 
-### Some metrics for assessing tools, projects, and platforms
+## Some metrics for assessing tools, projects, and platforms
 
 Digital projects take a variety of forms. These include the production and/or publication of data sets, results of analysis, inquiry into existing corpora through digital means, archives, metadata, as well as the creation of tools and platforms.
 
-*Overall Evaluation*
+### Overall evaluation
 
 - Intellectual contribution and substantive research contribution in the humanities
 - User experience as purposeful in ways that add value to the profession
 - Evidence of platform/tool use by communities of practice
 
-*Impact and dissemination*
+### Impact and dissemination
 
 - Peer-Review of the project including internal or external funding, pre-publication review, and post-publication review
 - Links to the project from other projects
 - Citation in other projects, blogs, tweets, social media, reports, media coverage
 - Presentation and/or discussion in conference presentations, published articles, and other vehicles of scholarly communication
 
-### Candidate responsibilities
+## Candidate responsibilities
 
 - Ask for clarification of assessment criteria at the time of hiring
 - Negotiate roles/responsibilities to distinguish research from service
@@ -74,7 +74,7 @@ Digital projects take a variety of forms. These include the production and/or pu
   - Make target audience clear and demonstrate connections
   - Demonstrate long-term sustainability
 
-### Departmental responsibilities
+## Departmental responsibilities
 
 - The expectation that digital tools, platforms, and other projects of sufficient depth are considered scholarship should be built into the hiring process as appropriate, but also, the recognition that digital projects can be constituted as data, metadata, archives, repositories, and scholarly materials in digital format;
 - The relationship of design, content, and medium should be documented 
@@ -89,7 +89,7 @@ Digital projects take a variety of forms. These include the production and/or pu
 
 As in all tenure and promotion reviews, candidates’ work should be assessed by scholars in relevant fields of study, not only in digital humanities.
 
-### Professional association responsibilities
+## Professional association responsibilities
 
 - Create working groups for digital scholarship to keep current trends in tenure and promotion, peer review, and assessment up to date
 - Foster conversations about digital scholarship

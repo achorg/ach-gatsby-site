@@ -16,4 +16,4 @@ Desired skills and qualifications include:
 - ability to work with minimal supervision
 - attention to detail
 
-To apply, submit a CV or résumé that includes links to your social media or public projects, and at least one current academic reference to Alex Gil, current ACH communications officer at colibri.alex@gmail.com with ACH Communications Internship in the subject line. The application deadline is May 15, 2018 with the position beginning June 1, 2018 and ending June 1, 2019. This position may be renewed.
+To apply, submit a CV or résumé that includes links to your social media or public projects, and at least one current academic reference to Alex Gil, current ACH communications officer at [colibri.alex@gmail.com](mailto:colibri.alex@gmail.com) with ACH Communications Internship in the subject line. The application deadline is May 15, 2018 with the position beginning June 1, 2018 and ending June 1, 2019. This position may be renewed.

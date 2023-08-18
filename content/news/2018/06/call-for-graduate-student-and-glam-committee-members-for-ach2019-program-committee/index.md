@@ -7,6 +7,6 @@ Recognizing how the digital humanities bridge conventional academic distinctions
 
 This is an excellent opportunity for cultural heritage professionals and graduate students to gain experience in conference organizing. Participation in this planning committee offers a unique CV line and potential mentorship opportunities in the field.
 
-Expressions of interest should be sent via this [form](https://docs.google.com/forms/d/1ozMlHSg9CH7kqjtOSV5Xy1J5nrmRWVHuMzk1DRIpSyE).
+Expressions of interest should be sent via [this form](https://docs.google.com/forms/d/1ozMlHSg9CH7kqjtOSV5Xy1J5nrmRWVHuMzk1DRIpSyE).
 
 Feel free to contact [Heather Froehlich](mailto:hgf5@psu.edu) and [Nabil Kashyap](mailto:nkashya1@swarthmore.edu) with any questions.

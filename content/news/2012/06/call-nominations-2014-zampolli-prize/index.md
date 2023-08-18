@@ -15,7 +15,7 @@ The nomination should consist of the following information: a description of the
 
 The recipient of the award will receive 1000 GBP and is expected to give a keynote or plenary lecture (on a topic of their choice) at the 2014 annual Digital Humanities conference. ADHO will host the recipient as a guest of honor for the conference at which the Prize is awarded and the lecture is given – this means that all travel, accommodation and subsistence costs of the Prize recipient will be paid by the Alliance.
 
-Nominations should be emailed to Karina van Dalen-Oskam (karina.van.dalen (at) Huygens.knaw.nl) no later than October 1st, 2012. The winner of the Award will be announced at the 2013 meeting and awarded at the 2014 meeting.
+Nominations should be emailed to Karina van Dalen-Oskam [karina.van.dalen@huygens.knaw.nl](mailto:karina.van.dalen@huygens.knaw.nl) no later than October 1st, 2012. The winner of the Award will be announced at the 2013 meeting and awarded at the 2014 meeting.
 
 More information about the award can be found on the [ADHO web site](http://www.digitalhumanities.org/awards/ZampolliPrize).
 

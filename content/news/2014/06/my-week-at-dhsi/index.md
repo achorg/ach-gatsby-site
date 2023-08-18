@@ -3,7 +3,7 @@ title: 'My week at DHSI'
 date: '2014-06-25'
 author: 'Cammeron Girvin'
 ---
-**\[Editor’s Note: the ACH awarded Cammeron Girvin a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.\]**
+*Editor’s note: The ACH awarded Cammeron Girvin a student travel bursary to attend this summer’s Digital Humanities Summer Institute. The award came with an invitation to reflect on the experience in our blog.*
 
 What a great time I had this week! With its sunny but pleasantly mild climate, Victoria was the perfect place to spend a week in the summer. And, of course, the constant learning experiences and my many enthusiastic co-participants really made the trip to DHSI worthwhile.
 

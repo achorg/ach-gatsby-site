@@ -3,7 +3,7 @@ title: 'Methods and More for “Beyond the Digital” at MLA 2014'
 date: '2013-12-30'
 author: 'Brian Croxall'
 ---
-On **Friday, January 10 from 5:15-6:30pm** in Sheraton I at the [Sheraton Chicago](https://maps.google.com/maps?q=Sheraton+Chicago+Hotel+and+Towers&ll=41.894738,-87.629442&spn=0.043829,0.090895&t=m&hq=Sheraton+Chicago+Hotel+and+Towers&z=14&iwloc=A), the ACH will sponsor a session ([\#402](http://www.mla.org/program_details?prog_id=402&year=2014)) at the Modern Language Association’s Convention.
+On Friday, January 10 from 5:15-6:30pm in Sheraton I at the [Sheraton Chicago](https://maps.google.com/maps?q=Sheraton+Chicago+Hotel+and+Towers&ll=41.894738,-87.629442&spn=0.043829,0.090895&t=m&hq=Sheraton+Chicago+Hotel+and+Towers&z=14&iwloc=A), the ACH will sponsor a session ([\#402](http://www.mla.org/program_details?prog_id=402&year=2014)) at the Modern Language Association’s Convention.
 
 Earlier this year, the ACH put out a [call for papers](/news/2013/03/beyond-the-digital-cfp-for-mla-2014/) on the subject “Beyond the Digital.” In recent years, an increasing number of sessions at the MLA have been devoted to the digital humanities. As we wrote in the CFP, however, what is sometimes forgotten is that the output of digital analysis is not itself the goal; rather, such analysis is a means to an end, and that end is the interpretation of a text or corpus (understood widely). The goal of the ACH’s session, then, is to re-establish this understanding and conversation, defamiliarizing the conversation about the digital and making it re-familiar to the larger body of MLA participants.
 
@@ -22,4 +22,4 @@ We are pleased to present posts from all seven of our panelists today:
 
 Given the two different purposes of the posts and the presentations at the MLA—method and interpretation, respectively—the former will likely contain very different content from what you hear in Chicago. We realize that scholarly work is always a conflation of method and interpretation, but since the goal of the panel is to underscore how digital work is qualitatively compatible with “regular” interpretive literary studies it seems worth the imposition of the false binary. In the end, the post and panel presentation taken together are what should be might consider the complete version of the scholarship.
 
-We hope that you will [join us at the MLA](http://www.mla.org/program_details?prog_id=402&year=2014) (**Friday, January 10 from 5:15-6:30pm** **in Sheraton I**) or follow along via Twitter at the hashtags #mla14 and #s402.
+We hope that you will [join us at the MLA](http://www.mla.org/program_details?prog_id=402&year=2014) (Friday, January 10 from 5:15-6:30pm in Sheraton I) or follow along via Twitter at the hashtags #mla14 and #s402.
