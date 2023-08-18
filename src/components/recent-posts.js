@@ -22,9 +22,10 @@ const RecentPosts = ({
                             slug
                         }
                         frontmatter {
-                            date(formatString: "MMMM DD, YYYY")
                             title
                             description
+                            dateFormatted: date(formatString: "MMMM D, YYYY")
+                            date(formatString: "YYYY-MM-DD")
                         }
                     }
                 }
@@ -61,7 +62,11 @@ const RecentPosts = ({
                                         <span itemProp="headline">{title}</span>
                                     </Link>
                                 </Heading>
-                                <small>{post.frontmatter.date}</small>
+                                <small>
+                                    <time dateTime={post.frontmatter.date}>
+                                        {post.frontmatter.dateFormatted}
+                                    </time>
+                                </small>
                             </header>
                             <section>
                                 <p
