@@ -5,12 +5,12 @@ author: 'Vika Zafrin'
 ---
 We are pleased to post notes from the 2014 AGM, which took place at the [Digital Humanities conference in Lausanne, Switzerland](http://dh2014.org/) on July 9, 2014. Please let us know if you have corrections or additions!
 
-**WELCOME**
+## Welcome
 
 - Hello to Bethany over our webcasting connection!
 - Introductions of the officers and Executive Council
 
-**UPDATES**
+## Updates
 
 - Over the past year we continued to provide support for DH endeavors 
   - DHSI student bursaries (leveraged to find additional funding!)
@@ -23,22 +23,22 @@ We are pleased to post notes from the 2014 AGM, which took place at the [Digital
   - On an informal note, if you’re free Thursday evening of the conference, we’re again running a newcomers’ dinner. Small groups go out to dinner, consisting of a mix of DH conference veterans with people who are at their first or second conference. This is a way to meet people, start networking. There’s an open Google Doc for signups.
 - Microgrants (Susan Brown updates): 
   - This is the third year we’ve run the program, rewarding young scholars and students for their contributions.
-  - This year, four projects were awarded microgrants (http://ach.org/news/2014/07/ach\_microgrants\_winners\_2014/)
+  - This year, [four projects were awarded microgrants](/news/2014/07/ach_microgrants_winners_2014/)
 - Affiliations (Jen Guiliano updates) 
   - For the first time, ACH is announcing an affiliations committee whose aim is to broaden our relationships with other professional societies, organizations, and initiatives.
   - MLA is a long-standing partner at whose conference we offer sessions and other events
   - A new partner is the American History Association, at whose January conference we’ll be sponsoring four panels
-  - We’re interested in doing more, and are calling for nominations. Please help us identify potential organizations for us to affiliate with, generating more cross-polination in fields related to DH. We are looking for ACH members in good standing to be on the committee for two-year terms — email tweet Jen at the contact information [here](/about/officers/ "Officers and Council Members"). Official nominations process is also posted [on the ACH website](/news/2014/07/call-for-nominations-affiliates-committee/ "Call for Nominations: Affiliates Committee").
+  - We’re interested in doing more, and are calling for nominations. Please help us identify potential organizations for us to affiliate with, generating more cross-polination in fields related to DH. We are looking for ACH members in good standing to be on the committee for two-year terms — [email tweet Jen](/about/officers/). Official nominations process is also posted [on the ACH website](/news/2014/07/call-for-nominations-affiliates-committee/).
 
-**JOBS SLAM**
+## Jobs Slam
 
 Tanya Clement ran the annual jobs slam, which has become a tradition. Job seekers and job purveyors each had 30 seconds to present themselves and available jobs, respectively.
 
-**THANK YOU TO BETHANY NOWVISKIE**
+## Thank you to Bethany Nowviskie
 
 Stéfan led the Executive Council and the rest of ACH in expressing our huge thanks to Bethany Nowviskie as outgoing president. Bethany will be sticking around as immediate past president, and continues to be as involved as ever in the work. Thank you so much, Bethany!
 
-**REGIONAL ECOLOGIES**
+## Regional Ecologies
 
 The bulk of the meeting was spent in discussion of ACH’s regional status (or not) in the context of ADHO, the possibility of regional SIGs, and the possibility of regional conferences. The following is a summary of the discussion, anonymized for the sake of participants’ comfort.
 
@@ -55,6 +55,6 @@ The bulk of the meeting was spent in discussion of ACH’s regional status (or n
 - We should support unconferences. They’re easier to organize.
 - In my area, we’ve had several unconferences. Maybe next year instead of an unconference we should have a conference? Unconferences are valuable, but in our experience you get many people who are interested and want to know more, and it’s nice to come here and hear experts talk. Both should be supported.
 
-**CLOSING**
+## Closing
 
-Stéfan closes the meeting. Anyone wishing to be more involved with ACH? Please [talk to us](/about/officers/ "Officers and Council Members")!
+Stéfan closes the meeting. Anyone wishing to be more involved with ACH? Please [talk to us](/about/officers/)!

@@ -7,34 +7,34 @@ Thanks to all of the contributors to our Pedagogy Lightning Talks at the ACH AGM
 
 In the meantime, though, here is the wonderfully witty poem that provided a wonderful capstone to the lightning presentations.
 
-**Some people believe in the “new new new thing”**  
-**That we know as DH — but I’d like to bring**
-
-**Something older and wiser to the next generation:**  
-**DH history, tradition, respect, veneration.**
-
-**Willa Cather, whose homeland is hosting, my dears,**  
-**Has inspired my title: O DH Pioneers!**
-
-**I tell DH students of Busa and Bush**  
-**(that’s Roberto and Vannevar — not George Dubya, whoosh!)**
-
-**I like them to know Michael Sperberg-McQueen,**  
-**And then claim XML as his DH machine.**
-
-**I also proclaim, from my own institution,**  
-**A somewhat less famous DH contribution:**
-
-**My very own colleague, Elijah R. Meeks,**  
-**Who gave Wikipedia its first DH tweaks.**
-
-**But something is missing: No need to be prudish:**  
-**These DH pioneers are all whitish, and dudish!**
-
-**DH women and people of color — we’ve got ’em!**  
-**I’d like to suggest that it’s time that we taught ’em.**
-
-**To enhance our rich history with something less cursory:**  
-**Not only more History, but also more Herstory.**
-
-Glen Worthey, 2013
+> <p>Some people believe in the “new new new thing”<br />
+> That we know as DH — but I’d like to bring</p>
+>
+> <p>Something older and wiser to the next generation:<br />
+> DH history, tradition, respect, veneration.</p>
+>
+> <p>Willa Cather, whose homeland is hosting, my dears,<br />
+> Has inspired my title: O DH Pioneers!</p>
+>
+> <p>I tell DH students of Busa and Bush<br />
+> (that’s Roberto and Vannevar — not George Dubya, whoosh!)</p>
+>
+> <p>I like them to know Michael Sperberg-McQueen,<br />
+> And then claim XML as his DH machine.</p>
+>
+> <p>I also proclaim, from my own institution,<br />
+> A somewhat less famous DH contribution:</p>
+>
+> <p>My very own colleague, Elijah R. Meeks,<br />
+> Who gave Wikipedia its first DH tweaks.</p>
+>
+> <p>But something is missing: No need to be prudish:<br />
+> These DH pioneers are all whitish, and dudish!</p>
+>
+> <p>DH women and people of color — we’ve got ’em!<br />
+> I’d like to suggest that it’s time that we taught ’em.</p>
+>
+> <p>To enhance our rich history with something less cursory:<br />
+> Not only more History, but also more Herstory.</p>
+>
+> — Glen Worthey, 2013

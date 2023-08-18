@@ -3,11 +3,9 @@ title: 'ACH 2019 Elections: Call for Nominations'
 date: '2018-09-17'
 author: 'Amanda Visconti'
 ---
-***Please note the deadlines have been extended!***
+**Due date for nominations: December 15th, 2018**
 
-**Due date for nominations:** December 15th, 2018
-
-**Due date for materials (bio and candidate statements):** December 31, 2018
+**Due date for materials (bio and candidate statements): December 31, 2018**
 
 The Association for Computers and the Humanities (ACH) invites nominations for the 2019 elections, in which our members will elect **three Executive Council members for four­-year terms (2019-2023)**.
 
@@ -19,16 +17,16 @@ We seek candidates eager to support and advance the field of digital humanities 
 
 **Seeking a diverse slate of nominees:** We welcome participants not just from universities and colleges, but also galleries, libraries, museums, community groups, and other organizations engaged with digital humanities. We also welcome nominations of people from all constituencies and humanities disciplines, and especially encourage the nomination of women, people of color, LGBTQ, or other under­represented groups. Demonstrated commitment to the organization and/or to the field counts for more with our membership than professional affiliation, academic status, or job title.
 
-**By December 15th, 2018**, please either 
+By December 15th, 2018, please either 
 
-1.  Email [nominations@ach.org](mailto:nominations@ach.org)\* with any names and email addresses of nominees (including self-nominations), *or*
-2.  Proceed directly to filling out the nomination form at [tinyurl.com/ACHnominations2019](http://tinyurl.com/ACHnominations2019) (if you are self-nominating) or direct your nominee to fill out that form (if you’ve spoken with your nominee already and they’ve agreed to run). As long as you’ve submitted your nominee name by 12/15, the bio and candidate statements requested on that form are not due until 12/31.
+1. Email [nominations@ach.org](mailto:nominations@ach.org) with any names and email addresses of nominees (including self-nominations), or
+2. Proceed directly to filling out the nomination form at [tinyurl.com/ACHnominations2019](http://tinyurl.com/ACHnominations2019) (if you are self-nominating) or direct your nominee to fill out that form (if you’ve spoken with your nominee already and they’ve agreed to run). As long as you’ve submitted your nominee name by 12/15, the bio and candidate statements requested on that form are not due until 12/31.
 
-Sample candidate statements from past elections are available at:[http://ach.org/news/2016/12/ach-elections-candidate-statements/](/news/2016/12/ach-elections-2016-candidate-statements/). For more information on the responsibilities and obligations of ACH council members, see[ http://www.ach.org/about/constitution](/about/constitution). Current officers of the ACH are listed at [http://ach.org/about/officers/](/about/officers/) .
+Sample candidate statements from [past elections](/news/2016/12/ach-elections-2016-candidate-statements/) are available. For more information on the responsibilities and obligations of ACH council members, see [the Bylaws](/about/constitution). Current officers of the ACH are listed on [our officers page](/about/officers/) .
 
-If you have any questions, please feel free to contact us at [nominations@ach.org\*](mailto:nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
+If you have any questions, please feel free to contact us at [nominations@ach.org](mailto:nominations@ach.org). The three top vote­-getters in the Executive Council race will be elected to four-­year terms.
 
-*Many thanks,*
+Many thanks,
 
 **ACH Nominations Committee**
 
@@ -42,4 +40,4 @@ Erin N. Bush, George Mason University
 
 Eileen Clancy, City University of New York
 
-\* *A previous error causing messages to bounce has been fixed, but you may email abv6x@virginia.edu instead of nominations@ach.org, if you still run into any issues.*
+*A previous error causing messages to bounce has been fixed, but you may email [abv6x@virginia.edu](mailto:abv6x@virginia.edu) instead of [nominations@ach.org](mailto:nominations@ach.org), if you still run into any issues.*

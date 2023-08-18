@@ -1,10 +1,8 @@
 ---
 title: 'Greetings from the New Presidents'
 date: '2022-07-29'
-author: 'Quinn Dombrowski'
+authors: [ 'Quinn Dombrowski', 'Roopika Risam' ]
 ---
-by Quinn Dombrowski &amp; Roopika Risam
-
 The 2022 summer ACH Executive Council meeting is always a time of transition, but the current of change was more visible this year than usual, with multiple members of the Exec changing jobs and institutional roles, and the shift from a single president to two.
 
 A year ago, ACH members agreed to a change in bylaws that would allow us (Quinn and Roopsi) to take on the position of ACH president, together. In addition to being the first co-presidents, this is the first time ACH has been led by someone who isn’t white (Roopsi) and someone who is non-binary (Quinn). After a long-run of presidents who were faculty, we now have a staff/faculty duo. In many ways, our leadership is a reflection of the diverse constituency of ACH. We promised to write up our experience as co-VPs when we were elected, and now seems like the moment to reflect on our last two years.

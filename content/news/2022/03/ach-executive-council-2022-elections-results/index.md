@@ -11,4 +11,4 @@ The terms of our newly elected Executive Council members will start at the close
 
 In the coming days, we’ll be publishing a reflection on this year’s elections and framing choices for future elections.
 
-We are excited about the incoming class of Executive Council members and the ideas and experiences they will bring to ACH! As before, we will seek out opportunities for involvement by our members beyond serving on the Executive Council, and offer them up to those interested. Be sure to follow ACH on Twitter (@achdotorg), or email us at officers \[at\] ach \[dot\] org.
+We are excited about the incoming class of Executive Council members and the ideas and experiences they will bring to ACH! As before, we will seek out opportunities for involvement by our members beyond serving on the Executive Council, and offer them up to those interested. Be sure to follow ACH on Twitter (@achdotorg), or email us at [officers@ach.org](mailto:officers@ach.org).

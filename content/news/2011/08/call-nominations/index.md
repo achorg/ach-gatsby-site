@@ -11,13 +11,7 @@ Candidates must be (or be willing to become) members of the ACH and must commit 
 
 Nominations should be sent to [ach-nominations@digitalhumanities.org](mailto:ach-nominations@digitalhumanities.org) by September 15. They should include an email address for the nominee. A brief biographical statement will also be needed for the ballot but need not be included with the nomination. You are warmly encouraged to nominate yourself if you are interested. Please note that per the bylaws each nominee needs two nominations to be considered for inclusion on the ballot. The nominations committee shall determine the final slate of candidates to stand for election for the available positions.
 
-For more information on the responsibilities and obligations of ACH officers, see
-
-[http://www.ach.org/about/constitution](/about/constitution)
-
-Current officers of the ACH are listed at
-
-[http://www.ach.org/about/officers](/about/officers)
+For more information on the responsibilities and obligations of ACH officers, see [our constitution and bylaws](/about/constitution). Current officers of the ACH are listed on [our officers page](/about/officers).
 
 Many thanks,
 

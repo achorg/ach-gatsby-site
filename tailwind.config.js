@@ -41,8 +41,10 @@ module.exports = {
                 xs: '480px',
             },
             typography: {
-                quoteless: {
+                DEFAULT: {
                     css: {
+                        'code::before': false,
+                        'code::after': false,
                         'blockquote p:first-of-type::before': {
                             content: 'none',
                         },

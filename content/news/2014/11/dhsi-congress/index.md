@@ -9,12 +9,11 @@ The DHSI@Congress workshops, which run on Saturday May 30th and Sunday May 31st 
 
 The sessions will conclude with a plenary address by [Brian Greenspan](http://www.carleton.ca/english/people/greenspan-brian/), founding director of Carleton University’s [Hyperlab](http://www3.carleton.ca/hyperlab/). The plenary, on May 31st at 4:30, is free and open to the public.
 
-Thanks to the generosity of our sponsors and hosts, all spots in the workshops are made available via a tuition scholarship, requiring only the payment of a $25 administrative fee for each session. DHSI@Congress has been developed by the DHSI in partnership with the Society for Digital Humanities/ Société canadienne des humanités numériques (CSDH/SCHN) and the Federation for the Humanities and Social Sciences (CFHSS). The 2015 workshops will be delivered in English, with plans for French-language sessions in coming years.
+Thanks to the generosity of our sponsors and hosts, all spots in the workshops are made available via a tuition scholarship, requiring only the payment of a $25 administrative fee for each session. DHSI@Congress has been developed by the DHSI in partnership with the Society for Digital Humanities/<span lang="fr">Société canadienne des humanités numériques</span> (CSDH/SCHN) and the Federation for the Humanities and Social Sciences (CFHSS). The 2015 workshops will be delivered in English, with plans for French-language sessions in coming years.
 
-DHSI@Congress Schedule
-----------------------
+##  DHSI@Congress Schedule
 
-Full descriptions at http://dhsi.org/events.php
+Full descriptions on the [DHSI website](http://dhsi.org/events.php)
 
 ### Saturday May 30th
 

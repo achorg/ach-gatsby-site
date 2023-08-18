@@ -9,4 +9,4 @@ The Implementation Committee suggested a [draft roadmap](http://change.adho.org/
 
 The first recommendations of the Implementation Committee, concerning the [Proposed Financial Scenarios](http://change.adho.org/proposed-financial-scenarios/) are now published for public comment.
 
-Please take a moment to review and offer comment on the roadmap and/or the Financial Scenarios via the [change.adho.org](http://change.adho.org/) website. Comments can also be sent to any member of the ACH Executive Committee to be shared with ADHO.
+Please take a moment to review and offer comment on the roadmap and/or the Financial Scenarios via the [Change ADHO website](http://change.adho.org/). Comments can also be sent to any member of the ACH Executive Committee to be shared with ADHO.

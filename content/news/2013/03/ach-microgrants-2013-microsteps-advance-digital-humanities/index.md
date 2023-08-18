@@ -3,7 +3,7 @@ title: 'ACH Microgrants 2013: Microsteps to Advance the Digital Humanities'
 date: '2013-03-15'
 author: 'Jeremy Boggs'
 ---
-**Proposals Due 15 April 2013**
+**Proposals due 15 April 2013.**
 
 Awards: ~$200-500; $2000 total grant call
 
@@ -32,7 +32,7 @@ Applications will be evaluated according to the following criteria:
 
 For further technical information about the ACH/DHQ websites please see further details below.
 
-**Applicants must be members of the ACH at the time of application**
+Applicants must be members of the ACH at the time of application.
 
 It is expected that grants will be in the range of $US 200-500. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don’t have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2013.
 
@@ -51,10 +51,10 @@ Further technical details:
 
 The DHQ publication platform includes a RESTful API that exposes both the TEI/XML source and the generated HTML data, as well as several generated indexes (e.g. to authors and article titles; others are also feasible); the data exposed through the API is TEI/XML and includes structured text, an abstract, a teaser, publication metadata, and a bibliography. The ACH website is Drupal-based. DH Answers runs a modified version of bbPress.
 
-For inquiries about the website please contact webmaster@ach.org, or for DHAnswers, write to DHanswers\[AT\]digitalhumanities.org. For additional details on the DHQ platform, please email John Walsh (jawalsh\[AT\]indiana.edu) and Julia Flanders (julia\_flanders\[AT\]brown.edu).
+For inquiries about the website please contact [webmaster@ach.org](mailto:webmaster@ach.org), or for DHAnswers, write to [dhanswers@digitalhumanities.org](mailto:dhanswers@digitalhumanities.org). For additional details on the DHQ platform, please email John Walsh [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu) and Julia Flanders [julia\_flanders@brown.edu](mailto:julia_flanders@brown.edu).
 
 Last year’s microgrant projects can be found here: [http://ach.org/news/2012/04/ach-announces-microgrants-winners](/news/2012/04/ach-announces-microgrants-winners). Quinn Dombrowski’s project is on hold pending changes DH Questions and Answers. Amanda Visconti’s visualizations of DHQ content can be found here: http://digitalliterature.net/viewDHQ/. The DH jobs list created by Matt Burton and Dave Lester is here: http://jobs.lofhm.org/about/.
 
-Please send proposals or queries to microgrants\[AT\]ach.org by 15 April 2013.
+Please send proposals or queries to [microgrants@ach.org](mailto:microgrants@ach.org) by 15 April 2013.
 
 Susan Brown, for the Microgrants group: Jarom McDonald, Lisa Spiro, and Vika Zafrin

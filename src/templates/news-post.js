@@ -27,7 +27,11 @@ const NewsPostTemplate = ({
                     <h1 itemProp="headline">{post.frontmatter.title}</h1>
                     <p className="post-metadata">
                         {authorLine && <span>by {authorLine}</span>}
-                        <span>{post.frontmatter.date}</span>
+                        <span>
+                            <time dateTime={post.frontmatter.date}>
+                                {post.frontmatter.dateFormatted}
+                            </time>
+                        </span>
                     </p>
                 </header>
                 <section itemProp="articleBody" className="prose">
@@ -39,7 +43,11 @@ const NewsPostTemplate = ({
                     { previous && (
                         <li className="previous-post">
                             <Link to={`/news${previous.fields.slug}`} rel="prev">
-                                <small className="post-date">{previous.frontmatter.date}</small>
+                                <small className="post-date">
+                                    <time dateTime={previous.frontmatter.date}>
+                                        {previous.frontmatter.dateFormatted}
+                                    </time>
+                                </small>
                                 <span className="post-title">
                                     <FaArrowLeft className="icon" aria-hidden="true" />
                                     {previous.frontmatter.title}
@@ -50,7 +58,11 @@ const NewsPostTemplate = ({
                     { next && (
                         <li className="next-post">
                             <Link to={`/news${next.fields.slug}`} rel="next">
-                                <small className="post-date">{next.frontmatter.date}</small>
+                                <small className="post-date">
+                                    <time dateTime={next.frontmatter.date}>
+                                        {next.frontmatter.dateFormatted}
+                                    </time>
+                                </small>
                                 <span className="post-title">
                                     <FaArrowRight className="icon" aria-hidden="true" />
                                     {next.frontmatter.title}
@@ -91,7 +103,8 @@ export const pageQuery = graphql`
             excerpt(pruneLength: 160)
             frontmatter {
                 title
-                date(formatString: "MMMM DD, YYYY")
+                dateFormatted: date(formatString: "MMMM D, YYYY")
+                date(formatString: "YYYY-MM-DD")
                 description
                 author
                 authors
@@ -104,7 +117,8 @@ export const pageQuery = graphql`
             }
             frontmatter {
                 title
-                date(formatString: "MMMM DD, YYYY")
+                dateFormatted: date(formatString: "MMMM D, YYYY")
+                date(formatString: "YYYY-MM-DD")
             }
         }
         next: mdx(id: { eq: $nextPostId }) {
@@ -113,7 +127,8 @@ export const pageQuery = graphql`
             }
             frontmatter {
                 title
-                date(formatString: "MMMM DD, YYYY")
+                dateFormatted: date(formatString: "MMMM D, YYYY")
+                date(formatString: "YYYY-MM-DD")
             }
         }
     }

@@ -5,7 +5,7 @@ author: 'Vika Zafrin'
 ---
 We are pleased to announce the results of the 2014 ACH elections.
 
-The amendments recently made to our Constitution and Bylaws by the ACH Executive Council have been ratified by the membership. The amended version [is available on the ACH website](/about/constitution/ "Constitution & Bylaws of the Association for Computers and the Humanities").
+The amendments recently made to our Constitution and Bylaws by the ACH Executive Council have been ratified by the membership. The amended version [is available on the ACH website](/about/constitution/).
 
 Per the newly amended constitution, all new officer and Executive Council terms will begin at the close of the annual summer Executive Council meeting. This year the meeting will be held at [the joint CSDH/SCHN and ACH conference in Ottawa, Canada](/news/2014/10/joint-ach-canadian-dh-conference-2015/) in June 2015. Current officers and outgoing Exec members will serve until then.
 

@@ -11,10 +11,10 @@ The Executive of the Association for Computers and the Humanities is delighted t
 
 Proposals will be accepted in two categories:
 
-1. initiatives that enhance the redesigned ACH Website &lt;[ach.org/](/)&gt;, or
-2. activities that add functionality/features to the online journal Digital Humanities Quarterly &lt;[digitalhumanities.org/dhq/](http://digitalhumanities.org/dhq/)&gt;.
+1. initiatives that enhance the redesigned [ACH Website](/), or
+2. activities that add functionality/features to the online journal [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/).
 
-Proposals might include developing new content such as podcasts or making existing content more user friendly, more visible, or amenable to analytics. Proposals may take the form of apps, plugins, or tools. For DHQ, of particular interest are proposals focusing on integration of DHQ content with digital humanities tools, visualization of DHQ data, or enrichment of DHQ data. ACH is particularly interested in proposals that focus on enhanced communications with ACH members, our mentoring and advocacy initiatives, Digital Humanities Questions and Answers &lt;[http://digitalhumanities.org/answers](http://digitalhumanities.org/answers)&gt;, or on the history of the association. Proposals should seek to draw in the community, expand the existing community, or link to other initiatives. Graduate students and early stage researchers are encouraged to apply.
+Proposals might include developing new content such as podcasts or making existing content more user friendly, more visible, or amenable to analytics. Proposals may take the form of apps, plugins, or tools. For DHQ, of particular interest are proposals focusing on integration of DHQ content with digital humanities tools, visualization of DHQ data, or enrichment of DHQ data. ACH is particularly interested in proposals that focus on enhanced communications with ACH members, our mentoring and advocacy initiatives, [Digital Humanities Questions and Answers](http://digitalhumanities.org/answers), or on the history of the association. Proposals should seek to draw in the community, expand the existing community, or link to other initiatives. Graduate students and early stage researchers are encouraged to apply.
 
 Applications will be evaluated according to the following criteria:
 
@@ -22,9 +22,9 @@ Applications will be evaluated according to the following criteria:
 - contribution of the activity to development and promotion of the ACH or DHQ missions;
 - deliverables can be accomplished within the proposed budget and time period.
 
-For further technical information about the ACH/DHQ websites please see further details below
+For further technical information about the ACH/DHQ websites please see further details below.
 
-**\*\* Applicants must be members of the ACH &lt;[http://ach.org/](/)&gt; at the time of application \*\***
+Applicants must be members of the ACH at the time of application.
 
 It is expected that grants will be in the range of $US 200-500. These are intended to be small grants that enable innovative activities by community members, such as graduate students, alt-ac faculty and staff, and junior faculty, who don't have access to the resources of senior researchers. Projects should begin no later than three months after receipt of notification of acceptance and should conclude by 31 December 2012.
 
@@ -48,6 +48,6 @@ The DHQ publication platform includes the following features:
 
 The ACH website is Drupal-based. DH Answers runs a modified version of bbPress.
 
-For additional details on the DHQ platform please email John Walsh &lt;jawalsh\[AT\]indiana.edu&gt; and Julia Flanders &lt;julia\_flanders\[AT\]brown.edu&gt;; for ACH please email &lt;DHanswers\[AT\]digitalhumanities.org&gt;.
+For additional details on the DHQ platform please email John Walsh [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu) and Julia Flanders [julia\_flanders@brown.edu](mailto:julia_flanders@brown.edu). For ACH, please email [dhanswers@digitalhumanities.org](mailto:dhanswers@digitalhumanities.org).
 
-Please send submissions for grants to achgrant\[AT\]googlegroups.com by 25 February 2012
+Please send submissions for grants to [achgrant@googlegroups.com](mailto:achgrant@googlegroups.com) by 25 February 2012

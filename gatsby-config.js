@@ -81,13 +81,13 @@ module.exports = {
     },
     plugins: [
         `gatsby-plugin-image`,
+        `gatsby-plugin-postcss`,
         {
             resolve: 'gatsby-plugin-react-svg',
             options: {
                 include: `${__dirname}/src/images`,
             },
         },
-        `gatsby-plugin-postcss`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -118,8 +118,12 @@ module.exports = {
                         resolve: `gatsby-remark-images`,
                         options: {
                             maxWidth: 630,
+                            linkImagesToOriginal: false,
+                            showCaptions: ['title'],
+                            markdownCaptions: true,
                         },
                     },
+                    `gatsby-remark-external-links`,
                     {
                         resolve: `gatsby-remark-responsive-iframe`,
                         options: {

@@ -2,7 +2,11 @@ import React from 'react';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 import { FaArrowRight } from 'react-icons/fa';
 
-const RecentPosts = ({ layoutStyle, maxPosts }) => {
+const RecentPosts = ({
+    layoutStyle,
+    maxPosts,
+    headingLevel = 'h2'
+}) => {
     const query = useStaticQuery(
         graphql`
             {
@@ -18,9 +22,10 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
                             slug
                         }
                         frontmatter {
-                            date(formatString: "MMMM DD, YYYY")
                             title
                             description
+                            dateFormatted: date(formatString: "MMMM D, YYYY")
+                            date(formatString: "YYYY-MM-DD")
                         }
                     }
                 }
@@ -33,6 +38,8 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
     if (maxPosts) {
         posts = posts.slice(0, maxPosts);
     }
+    
+    const Heading = headingLevel;
 
     return (
         <ol className={`recent-posts recent-posts-${layoutStyle ?? 'grid'}`}>
@@ -47,15 +54,19 @@ const RecentPosts = ({ layoutStyle, maxPosts }) => {
                             itemType="http://schema.org/Article"
                         >
                             <header>
-                                <h2>
+                                <Heading>
                                     <Link
                                         to={`/news${post.fields.slug}`}
                                         itemProp="url"
                                     >
                                         <span itemProp="headline">{title}</span>
                                     </Link>
-                                </h2>
-                                <small>{post.frontmatter.date}</small>
+                                </Heading>
+                                <small>
+                                    <time dateTime={post.frontmatter.date}>
+                                        {post.frontmatter.dateFormatted}
+                                    </time>
+                                </small>
                             </header>
                             <section>
                                 <p

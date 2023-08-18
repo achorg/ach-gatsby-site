@@ -8,4 +8,4 @@ Computational research techniques such as text and data mining (TDM) hold tremen
 
 This webinar is meant to help researchers understand how existing law can help them move forward on text and data mining projects using modern, copyrighted materials. In particular we will focus on fair use and TDM-specific exemptions that allow researchers to break digital locks such as DRM. The workshop is offered with Authors Alliance, a nonprofit that exists to support authors who research and write for the public benefit, and will be led by Dave Hansen, Executive Director, and Rachel Brooke, Senior Staff Attorney, both of Authors Alliance, Both are copyright experts who have worked extensively on legal barriers to research, and both are PIs for the Authors Alliance *Text and Data Mining: Demonstrating Fair Use Project*, which is generously supported by the Mellon Foundation. 
 
-You can register [here](https://members.ach.org/civicrm/event/info/?reset=1&id=21).
+You can register via the  [ACH members portal](https://members.ach.org/civicrm/event/info/?reset=1&id=21).

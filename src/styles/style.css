@@ -116,7 +116,6 @@ header.page-header {
     @apply prose-a:text-primary-500 dark:prose-a:text-primary-200;
     @apply prose-a:font-medium;
     
-    @apply prose-blockquote:prose-quoteless;
     @apply prose-blockquote:font-regular prose-blockquote:not-italic;
 }
 
@@ -131,7 +130,7 @@ header.page-header {
         @apply bg-primary-800 dark:bg-primary-900;
         @apply text-white;
         
-        h1 img {
+        .logo {
             @apply invert;
         }
         
@@ -151,7 +150,7 @@ header.page-header {
         @apply gap-4;
         @apply py-6;
         
-        h1 img {
+        .logo {
             @apply w-[165px];
             @apply dark:invert;
         }
@@ -303,7 +302,7 @@ nav.primary-nav {
     }
     
     .recent-posts-item {
-        h2 {
+        h2, h3, h4, h5, h6 {
             @apply font-medium;
         }
         

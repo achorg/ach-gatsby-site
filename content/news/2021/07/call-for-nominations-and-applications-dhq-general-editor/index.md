@@ -1,11 +1,9 @@
 ---
 title: 'Call for Nominations and Applications: DHQ General Editor'
-date: '2021-07-28'
+date: '2021-07-24'
 author: 'Paige Morgan'
 ---
-Originally posted at [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/announcements/index.html) ([http://www.digitalhumanities.org/dhq/announcements/index.html](http://www.digitalhumanities.org/dhq/announcements/index.html))
-
-July 24, 2021
+*Originally posted at [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/announcements/index.html).*
 
 Digital Humanities Quarterly invites nominations and applications for a new General Editor to join the journal’s senior editorial team. This call is the first step in a longer process of updating DHQ’s editorial structure and practices, and the incoming editor will play a key role in helping us to reshape the journal’s larger editorial team, review and update editorial workflows, and put the journal on a secure footing for its next 15 years of operation. In particular we are seeking to diversify the journal’s staffing and bring in new voices. Scholars of color, underrepresented minorities, and people from the global South are strongly encouraged to apply. The new editor would join the team in early 2022 for a five-year term (renewable). The deadline for nominations is September 1, 2021, and the deadline for applications is October 1, 2021.
 
@@ -30,4 +28,4 @@ To apply, complete [the application form](https://docs.google.com/forms/d/e/1FAI
 
 The deadline for applications is October 1.
 
-For questions and information, contact Julia Flanders at j.flanders@northeastern.edu.
+For questions and information, contact Julia Flanders at [j.flanders@northeastern.edu](mailto:j.flanders@northeastern.edu).

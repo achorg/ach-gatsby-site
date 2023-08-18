@@ -11,6 +11,6 @@ Papers should consider the ethical, procedural, and/or representational challeng
 
 Speakers will also be invited to write brief blog posts to be shared on their own websites as well as that of the ACH about their methods and approaches. These posts will be shared at the session but will not become the focus of the conversation.
 
-Send 250-word abstracts and a 1 paragraph bio to lmrhody \[at\] gmail \[dot\] com by 15 March 2014 at 12pm EST. N.B. All panelists will need to be MLA members (or have their membership waived) by April 7th.
+Send 250-word abstracts and a 1 paragraph bio to [lmrhody@gmail.com](mailto:lmrhody@gmail.com) by 15 March 2014 at 12pm EST. N.B. All panelists will need to be MLA members (or have their membership waived) by April 7th.
 
 ACH is an allied organization of the MLA, this session is guaranteed for the 2014 MLA.

@@ -3,8 +3,7 @@ title: 'Newsletter, December 2015'
 date: '2015-12-04'
 author: 'Stéfan Sinclair'
 ---
-**Preamble**
-------------
+## Preamble
 
 Dear friends and colleagues,
 
@@ -22,18 +21,15 @@ With my very best wishes as your humble ACH President,
 
 Stéfan Sinclair
 
-**ACH Elections – Vote by December 10**
----------------------------------------
+## ACH Elections – Vote by December 10
 
 ACH members are entitled to vote in this year’s ACH’s election, in which a President, a Vice-President/President-elect, and three Executive Council members will be elected. The terms for all of these positions will begin at the close of the 2016 annual summer Executive Council meeting.
 
 Per the recently amended [ACH Constitution](/about/constitution/), the Vice President serves a two-year term and then becomes the President for an additional two-year term. Since this process is just beginning, a President must be elected for a two-year term. Members of the Executive Council serve four-year terms.
 
-TWO candidates have been nominated to fill the position of PRESIDENT.
-
-TWO candidates have been nominated to fill the position of VICE-PRESIDENT/PRESIDENT-ELECT.
-
-TEN candidates have been nominated to fill three positions of EXECUTIVE COUNCIL MEMBER.
+- Two candidates have been nominated to fill the position of President.
+- Two candidates have been nominated to fill the position of Vice-President/President-Elect.
+- Ten candidates have been nominated to fill three positions of Executive Council Member.
 
 You will be entitled to vote for only ONE candidate for the positions of PRESIDENT and VICE-PRESIDENT, and for up to THREE candidates for the position of EXECUTIVE COUNCIL OFFICER.
 
@@ -41,27 +37,24 @@ Elections began at midday on November 20, 2015 and end at midnight GMT on Decemb
 
 To place your vote online, you will need your Subscription Number and your unique Voting Token sent to you by email. The token ensures that each member may vote only once and that the results are submitted anonymously. All queries and questions about the elections should be addressed to the Chair of the Nominations Committee, Élika Ortega ([elections@ach.org](mailto:elections@ach.org)). Please contact Élika if you don’t seem to have received a voting token and you’re sure you’re a current member.
 
-**Events**
-----------
+## Events
 
-### **DH2016**
+### DH2016
 
 Digital Humanities 2016 will take place from July 12-16, 2016 in Kraków, Poland. The Call for Papers is now closed and proposal reviews are due this coming December 13th (if you’ve been assigned reviews). There’s still time to submit a [Workshop Proposal](http://dh2016.adho.org/cfp/) by February 14th, if you’re interested. *Bursaries for Early-Career and Emerging Scholars* will be available, guidelines will be posted soon at the [ADHO website](http://adho.org).
 
-### **CSDH/SCHN 2016**
+### CSDH/SCHN 2016
 
-The [Canadian Society for Digital Humanities](http://csdh-schn.org/) invites scholars, practitioners, and graduate students to submit proposals for papers and digital demonstrations for its annual meeting, which will be held at the [2016 Congress of the Social Sciences and Humanities](http://congress2016.ca/), University of Calgary, from May 30th to June 1. We encourage submissions on all topics relating to both theory and practice in the evolving field of the digital humanities. Scholars in the digital humanities are engaged in diverse digital and computer-assisted research, teaching, and creation. CSDH/SCHN welcomes proposals in French or English from all constituencies and disciplines, and encourages applications from women, Aboriginal and Métis people, people of color, LGBTQ, or other underrepresented groups. Proposals for papers (20 min.), digital demonstrations,, and panels (2-6 speakers for a 90-minute session) will be accepted until **10 December 2015** and must be submitted to [https://www.conftool.net/csdh-schn-2016/](https://www.conftool.net/csdh-schn-2016/). [Full CFP](http://csdh-schn.org/2015/11/10/cfp-csdhschn-2016/).
+The [Canadian Society for Digital Humanities](http://csdh-schn.org/) invites scholars, practitioners, and graduate students to submit proposals for papers and digital demonstrations for its annual meeting, which will be held at the [2016 Congress of the Social Sciences and Humanities](http://congress2016.ca/), University of Calgary, from May 30th to June 1. We encourage submissions on all topics relating to both theory and practice in the evolving field of the digital humanities. Scholars in the digital humanities are engaged in diverse digital and computer-assisted research, teaching, and creation. CSDH/SCHN welcomes proposals in French or English from all constituencies and disciplines, and encourages applications from women, Aboriginal and Métis people, people of color, LGBTQ, or other underrepresented groups. Proposals for papers (20 min.), digital demonstrations,, and panels (2-6 speakers for a 90-minute session) will be accepted until **10 December 2015** and must be submitted to [Conftool](https://www.conftool.net/csdh-schn-2016/). [Full CFP](http://csdh-schn.org/2015/11/10/cfp-csdhschn-2016/).
 
-**What’s new on Digital Humanities Questions &amp; Answers?**
--------------------------------------------------------------
+## What’s new on Digital Humanities Questions &amp; Answers?
 
 DH Q&amp;A is crowd-sourced digital humanities expertise! It’s a community-driven forum for questions pertaining to the digital humanities that may need a bit more than 140 character answers. If you have questions (or answers!) consider [joining the conversation](http://digitalhumanities.org/answers/register.php)!
 
 Recent discussions include [Named Entity Recognition Tools for finding dates and ‘traces of time’ in French and English](http://digitalhumanities.org/answers/topic/which-named-entity-recognition-tool), [finding funding agencies that can support DH projects in India](http://digitalhumanities.org/answers/topic/what-funding-agencies-support-a-dh-project-in-india), [displaying Latin and English translations](http://digitalhumanities.org/answers/topic/advice-on-tools-for-side-by-side-pages-of-latin-and-english-translations), and [getting started with Gephi](http://digitalhumanities.org/answers/topic/text-network-analysis-using-gephi).
 
-**Keep in touch**
------------------
+## Keep in touch
 
-Keep in touch with the ACH online at @[achdotorg](http://twitter.com/achdotorg), [http://www.facebook.com/ACHorg](http://www.facebook.com/ACHorg) or [http://ach.org/news/](/news/).
+Keep in touch with the ACH online at [Twitter @achdotorg](http://twitter.com/achdotorg), [Facebook](http://www.facebook.com/ACHorg) or [our website](/news/).
 
 As always, the [Humanist mailing list](http://dhhumanist.org/) features job posts, calls for papers and discussion of a range of issues in the digital humanities. 

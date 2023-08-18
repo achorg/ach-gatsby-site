@@ -5,8 +5,7 @@ author: 'Bethany Nowviskie'
 ---
 In order to create a more diverse, cohesive, and vibrant community for digital humanists and to help advance digital humanities research and practice, ACH provides financial, publicity and intellectual support to conferences and other events.
 
-Types of Support
-----------------
+## Types of Support
 
 In general, ACH offers three kinds of support for conferences and other events:
 
@@ -22,13 +21,11 @@ By endorsing an event, ACH allows its logo to be used on event materials and ass
 
 As a co-sponsor, ACH not only contributes modest funding to an event (if requested), but also helps to shape the program. At least one member of the ACH Executive Council should serve on the organizing committee. To be eligible for co-sponsorship, a conference must offer a registration discount to ACH members and advertise the conference as being co-sponsored by ACH.
 
-Evaluation Principles
----------------------
+## Evaluation Principles
 
 The ACH Executive Council will evaluate requests for occasional funding or sponsorship of events and programs based on the following principles:
 
-Relevance and Impact
---------------------
+### Relevance and Impact
 
 To qualify for ACH funding, supported events should:
 
@@ -38,8 +35,7 @@ To qualify for ACH funding, supported events should:
 
 At its discretion, the EC may elect to support social or other events that do not meet all of the above criteria, but are to be held as part of a larger, qualifying program.
 
-Visibility and Results
-----------------------
+### Visibility and Results
 
 Requests for funding must include:
 
@@ -54,8 +50,7 @@ Any event or program funded by ACH must provide:
 - a written report describing the event or program, suitable for  
 posting online.
 
-Flexibility and Fairness
-------------------------
+### Flexibility and Fairness
 
 A limited amount of funding will be established to support events that do not originate with ACH. The allocation for requests of this type will be determined or reconfirmed annually at the summer meeting of the EC.
 

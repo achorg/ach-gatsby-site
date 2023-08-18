@@ -13,6 +13,8 @@ Reviewing the methods of bibliography that were being hashed out in the 1950s wi
 
 In light of the interdisciplinarity that Digital Humanists promote, it is crucial to continue studying the development of the paper book, along with the words they contain, to, if anything, further understand the way humans take in and transform epistemological paradigms.
 
-Works Cited
+---
+
+## Works Cited
 
 van der Weel, Adriaan. “The Order of the Book.” Changing Our Textual Minds: Towards a Digital Order of Knowledge. Manchester; New York: Manchester UP, 2011. 67-103. Print.

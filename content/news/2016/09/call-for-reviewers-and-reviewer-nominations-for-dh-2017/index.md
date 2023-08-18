@@ -24,7 +24,7 @@ Please submit your self-nomination and/or nominations of others via email to Pro
 - Nominee’s professional affiliation and job title
 - Active email for nominee
 - Brief identification of candidate’s meeting criteria (no more than 50 words)
-- Confirmation that candidate has expressed interest in serving as a reviewer and their willingness to review \*at least\* seven proposals for DH 2017 conference.
+- Confirmation that candidate has expressed interest in serving as a reviewer and their willingness to review at least seven proposals for DH 2017 conference.
 
 Diane will compile the full list of nominees and submit it to the ADHO Conference Coordinating Committee by 10 October. Approved reviewers will be contacted via ConfTool to confirm their willingness to participate and ask them to create or update their ConfTool user profile to include the language(s) in which they are proficient for evaluating professional work and their areas of expertise.
 

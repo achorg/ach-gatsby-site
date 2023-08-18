@@ -3,7 +3,7 @@ title: 'Everything I Know About Breaking Silos I Learned From You, It’s True: 
 date: '2015-08-24'
 author: 'Caitlin Christian-Lamb'
 ---
-**\[Editor’s Note: the ACH awarded [Caitlin Christian-Lamb](http://caitlinchristianlamb.com/) a bursary to attend HASTAC 2015. The award came with an invitation to reflect on the experience in our blog.\]**
+*Editor’s note: The ACH awarded [Caitlin Christian-Lamb](http://caitlinchristianlamb.com/) a bursary to attend HASTAC 2015. The award came with an invitation to reflect on the experience in our blog.*
 
 As a conference, [HASTAC 2015](http://www.hastac2015.org/) seemed remarkably focused on interdisciplinarity and experimentation—in projects, in pedagogy, and in forming collaborations. My experience with HASTAC-connectivity began prior to my arrival in Michigan—a few weeks beforehand, [Thomas Padilla](http://www.thomaspadilla.org/) and I began planning a [dh+lib/DHIG meetup](http://acrl.ala.org/dh/2015/05/23/dhlib-dhig-meetup-at-hastac-2015/). As part of our preparation, I compiled [a list of sessions that mentioned libraries, archives, or museums in their descriptions](https://docs.google.com/document/d/1UyD-gRvDUWumXKra4xPMrV3Lp5Kh4KjjxH5S1NFG29A/edit?usp=sharing). It turns out that there were a lot, which is a testament to the interdisciplinarity and the inclusion of LAMs topics with the HASTAC community. As an archivist who works in an academic library, I’m always on the lookout for other LAM folks at digital humanities conferences, and want to see how others with similar roles are engaging with and participating in digital scholarship. The meetup was intended to provide that opportunity, but HASTAC’s interesting keynotes and sessions were also rife with chances to connect with people working in and with libraries—as well as learn from colleagues working in different fields.
 
@@ -25,4 +25,4 @@ The final activity of my HASTAC 2015 experience was the post-conference “Works
 
 Participating in HASTAC 2015 reminded me of the value of attending interdisciplinary conferences, as opposed to annual organization meetings—while those too are valuable, connecting across our professional silos allows for new ideas and solutions, as well as providing an opportunity of explaining challenges that may be unique to specific roles. I left Michigan with a sense of renewed purpose, full of new ideas to experiment with, and new potential collaborations to build. Viva the Humanities, Arts, Science, and Technology Alliance and Collaboratory!
 
-*\* The title of this post refers to the lyrics of the [Taking Back Sunday song, “There’s No ‘I’ in Team.”](http://www.azlyrics.com/lyrics/takingbacksunday/theresnoiinteam.html)*
+*The title of this post refers to the lyrics of the [Taking Back Sunday song, “There’s No ‘I’ in Team.”](http://www.azlyrics.com/lyrics/takingbacksunday/theresnoiinteam.html)*

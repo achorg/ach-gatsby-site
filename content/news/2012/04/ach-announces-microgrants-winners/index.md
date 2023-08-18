@@ -5,7 +5,7 @@ author: 'Bethany Nowviskie'
 ---
 The Association for Computers and the Humanities is very pleased to announce the winners of our 2012 Microgrants competition!
 
-[ACH Microgrants](/news/2012/01/ach-microgrants) were established to reward enterprising ideas that serve the digital humanities community by building on existing ACH initiatives like [ach.org](/), [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/), and [DH Answers](http://digitalhumanities.org/answers). We especially value proposals from emerging scholars and DH practitioners that promise to expand the community, create new content or analyses of existing content, or build links with other DH initatives.
+[ACH Microgrants](/news/2012/01/ach-microgrants) were established to reward enterprising ideas that serve the digital humanities community by building on existing ACH initiatives like *[Digital Humanities Quarterly](http://digitalhumanities.org/dhq/)* and [DH Answers](http://digitalhumanities.org/answers). We especially value proposals from emerging scholars and DH practitioners that promise to expand the community, create new content or analyses of existing content, or build links with other DH initiatives.
 
 The 2012 ACH Microgrants winners are:
 
