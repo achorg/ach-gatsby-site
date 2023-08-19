@@ -20,6 +20,21 @@ a {
     @apply underline-offset-4;
 }
 
+.skip-link {
+    @apply absolute;
+    @apply top-[-100vh] left-[-100vw];
+    @apply p-4;
+    @apply bg-zinc-50 text-black;
+    @apply rounded;
+    @apply shadow;
+    @apply font-medium;
+    @apply z-10;
+    
+    &:focus {
+        @apply top-3 left-3;
+    }
+}
+
 .button-pill,
 .button-slim {
     @apply opacity-90 hover:opacity-100;
