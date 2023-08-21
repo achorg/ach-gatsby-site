@@ -15,7 +15,7 @@ const Index = ({ data, location }) => {
         <Layout location={location} title={siteTitle} usingHero>
             <section className="boxed-fullwidth">
                 <Hero
-                    title="Uplifting digital humanities."
+                    title="Amplifying digital humanities."
                     subtitle="Our most important activities center on cultivating and strengthening the field of digital humanities, and providing guidance and support to those entering the field."
                 />
             </section>
@@ -38,7 +38,10 @@ const Index = ({ data, location }) => {
                         />
                     }
                     link={
-                        <Link to="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/" className="button-pill button-accent">
+                        <Link
+                            to="/news/2020/06/ach-statement-on-black-lives-matter-structural-racism-and-our-organization/"
+                            className="button-pill button-accent"
+                        >
                             Read more
                         </Link>
                     }
