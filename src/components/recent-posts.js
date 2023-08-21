@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useRef, useEffect } from 'react';
 import { Link, useStaticQuery, graphql } from 'gatsby';
 import { FaArrowRight } from 'react-icons/fa';
 
 const RecentPosts = ({
     layoutStyle,
     maxPosts,
+    focusedPostIndex = -1,
     headingLevel = 'h2'
 }) => {
     const query = useStaticQuery(
@@ -34,6 +35,12 @@ const RecentPosts = ({
     );
 
     let posts = query.allMdx.nodes;
+    
+    const focusedPostRef = useRef();
+    
+    useEffect(() => {
+        focusedPostRef.current?.focus();
+    }, [ focusedPostIndex ]);
 
     if (maxPosts) {
         posts = posts.slice(0, maxPosts);
@@ -43,7 +50,7 @@ const RecentPosts = ({
 
     return (
         <ol className={`recent-posts recent-posts-${layoutStyle ?? 'grid'}`}>
-            { posts.map(post => {
+            { posts.map((post, index) => {
                 const title = post.frontmatter.title || post.fields.slug;
 
                 return (
@@ -58,6 +65,7 @@ const RecentPosts = ({
                                     <Link
                                         to={`/news${post.fields.slug}`}
                                         itemProp="url"
+                                        ref={ index === focusedPostIndex ? focusedPostRef : undefined }
                                     >
                                         <span itemProp="headline">{title}</span>
                                     </Link>
